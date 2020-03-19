@@ -1,4 +1,4 @@
-# COVID-19 Dataset Latinoamérica Unida - Contagiados
+# Contagiados COVID-19 Dataset Latinoamérica Unida
 
 ## Reportes diarios modelo csse_covid_19_daily_reports
 
