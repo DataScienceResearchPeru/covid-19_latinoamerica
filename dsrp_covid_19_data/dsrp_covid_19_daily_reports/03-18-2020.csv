@@ -1,6 +1,5 @@
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
 ,Brazil,2020-03-18T19:14:29,372,3,2,-14.235,-51.9253
-,Chile,2020-03-18T13:33:12,238,0,0,-35.6751,-71.543
 ,Ecuador,2020-03-18T03:13:19,111,2,0,-1.8312,-78.1834
 ,Colombia,2020-03-18T14:53:05,93,0,1,4.5709,-74.2973
 ,Mexico,2020-03-18T10:53:02,93,0,4,23.6345,-102.5528
@@ -20,7 +19,7 @@ Lambayeque,Peru,2020-03-18T16:59:34,6,0,0,,
 La Libertad,Peru,2020-03-18T16:59:34,2,0,0,,
 Cajamarca,Peru,2020-03-18T16:59:34,0,0,0,,
 Amazonas,Peru,2020-03-18T16:59:34,0,0,0,,
-Ancash ,Peru,2020-03-18T16:59:34,2,0,0,,
+"Ancash ",Peru,2020-03-18T16:59:34,2,0,0,,
 San Martin,Peru,2020-03-18T16:59:34,0,0,0,,
 Huanuco,Peru,2020-03-18T16:59:34,2,0,0,,
 Loreto,Peru,2020-03-18T16:59:34,10,0,0,,
