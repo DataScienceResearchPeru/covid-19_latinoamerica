@@ -10,26 +10,28 @@ Hora de actualización diaria: 15:00 GTM+0
 
 Tabla 1. Fuentes por país
 
-País | Encargado | Última modificación | Fuente
---- | --- | --- | --- 
-PRELIMINAR | @zurmad | 19/03/2020 | https://bit.ly/3dhKwSV
-PERU | @zurmad | 19/03/2020 | https://bit.ly/2J5Wnpj
-CHILE | PENDIENTE | 14/03/2020 | https://bit.ly/2xWXhlH https://bit.ly/2Jg6JDf
-BRAZIL | - | | https://bit.ly/2WuChNd
-ECUADOR | @zurmad | | https://bit.ly/2J3ompB
-COLOMBIA | | |
-MEXICO | | |
-PANAMA | | |
-ARGENTINA | PENDIENTE | - | https://bit.ly/3aabv0y https://bit.ly/394NsPy
-COSTA RICA | | |
-URUGUAY | | |
-VENEZUELA | | |
-DOMINICAN REPUBLIC |  | |
-BOLIVIA | | |
-PARAGUAY | | |
-HONDURAS | | |
-EL SALVADOR | | |
-NICARAGUA | | |
+# | País | Encargado | Última modificación | Fuente
+--- | --- | --- | --- | --- 
+0 | PRELIMINAR | @zurmad | 19/03/2020 | https://bit.ly/3dhKwSV
+--- | --- | --- | --- | --- 
+1 | ARGENTINA | PENDIENTE | - | https://bit.ly/3aabv0y https://bit.ly/394NsPy
+2 | BOLIVIA | PENDIENTE | |
+3 | BRAZIL | PENDIENTE | | https://bit.ly/2WuChNd
+4 | CHILE | APROBADO | 14/03/2020 | https://bit.ly/2xWXhlH https://bit.ly/0 | 2Jg6JDf
+5 | COLOMBIA | PENDIENTE | |
+6 | COST RICA | PENDIENTE | |
+7 | DOMINICAN REPUBLIC | PENDIENTE | |
+8 | ECUADOR | PENDIENTE | | https://bit.ly/2J3ompB
+9 | EL SALVADOR | SIN ENCARGADO | |
+10 | HONDURAS | PENDIENTE | |
+11 | MEXICO | PENDIENTE | |
+12 | NICARAGUA | SIN ENCARGADO | |
+13 | PANAMA | PENDIENTE | |
+14 | PARAGUAY | PENDIENTE | |
+15 | PERU | @zurmad | 19/03/2020 | https://bit.ly/2J5Wnpj
+16 | URUGUAY | SIN ENCARGADO | |
+17 | VENEZUELA | SIN ENCARGADO | |
+
 
 
 El dataset contiene las siguientes columnas:
