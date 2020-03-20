@@ -6,7 +6,7 @@ Contacto Whatsapp (+51938438089)
 
 Este reporte contiene todos los casos diarios. Todas las fechas en UTC (GTM+0)
 
-
+Hora de actualización diaria: 15:00 GTM+0
 
 Tabla 1. Fuentes por país
 
