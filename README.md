@@ -30,3 +30,15 @@ PARAGUAY | | |
 HONDURAS | | |
 EL SALVADOR | | |
 NICARAGUA | | |
+
+
+El dataset contiene las siguientes columnas:
+* `City`: Ubicación demográfica nivel 3
+* `Province/State`: Ubicación demográfica nivel 2
+* `Country/Region`: Ubicación demográfica nivel 1
+* `Last Update`: Fecha de anuncio
+* `Confirmed`: Número de pacientes contagiados
+* `Deaths`: Número de muertes
+* `Recovered`: Número de pacientes recuperados
+* `Latitude`: Úbicación UTM
+* `Longitude`: Úbicación UTM
