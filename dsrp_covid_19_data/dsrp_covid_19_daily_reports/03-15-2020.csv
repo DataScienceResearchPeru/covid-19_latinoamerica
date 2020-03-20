@@ -47,22 +47,27 @@ Santa Catarina,Brazil,,,,,,
 Sao Paulo,Brazil,,,,,,
 Sergipe,Brazil,,,,,,
 Tocantins,Brazil,,,,,,
-Arica y Parinacota,Chile,,,,,,
-Tarapaca,Chile,,,,,,
-Antofagasta,Chile,,,,,,
-Atacama,Chile,,,,,,
-Coquimbo,Chile,,,,,,
-Valparaiso,Chile,,,,,,
-Santiago,Chile,,,,,,
-O'Higgins,Chile,,,,,,
-Maule,Chile,,,,,,
-Nuble,Chile,,,,,,
-Biobio,Chile,,,,,,
-Araucania,Chile,,,,,,
-Los Rios,Chile,,,,,,
-Los Lagos,Chile,,,,,,
-Aysen,Chile,,,,,,
-Magallanes,Chile,,,,,,
+Arica y Parinacota,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Tarapaca,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Antofagasta,Chile,2020-03-15T15:00:00,2,0,0,"",""
+Atacama,Chile,2020-03-15T15:00:00,1,0,0,"",""
+Coquimbo,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Valparaiso,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Santiago,Chile,2020-03-15T15:00:00,52,0,0,"",""
+O'Higgins,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Maule,Chile,2020-03-15T15:00:00,9,0,0,"",""
+Nuble,Chile,2020-03-15T15:00:00,4,0,0,"",""
+Biobio,Chile,2020-03-15T15:00:00,3,0,0,"",""
+Araucania,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Los Rios,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Los Lagos,Chile,2020-03-15T15:00:00,1,0,0,"",""
+Aysen,Chile,2020-03-15T15:00:00,1,0,0,"",""
+Magallanes,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Araucania,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Los Rios,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Los Lagos,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Aysen,Chile,2020-03-15T15:00:00,0,0,0,"",""
+Magallanes,Chile,2020-03-15T15:00:00,0,0,0,"",""
 Antioquia,Colombia,,,,,,
 Bolivar,Colombia,,,,,,
 Cundinamarca,Colombia,,,,,,
@@ -315,3 +320,5 @@ Tachira,Venezuela,,,,,,
 Trujillo,Venezuela,,,,,,
 Yaracuy,Venezuela,,,,,,
 Zulia,Venezuela,,,,,,
+"","","","","","","",""
+"","","","","","","",""
