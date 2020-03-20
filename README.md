@@ -13,7 +13,6 @@ Tabla 1. Fuentes por país
 # | País | Encargado | Última modificación | Fuente
 --- | --- | --- | --- | --- 
 0 | PRELIMINAR | @zurmad | 19/03/2020 | https://bit.ly/3dhKwSV
---- | --- | --- | --- | --- 
 1 | ARGENTINA | PENDIENTE | - | https://bit.ly/3aabv0y https://bit.ly/394NsPy
 2 | BOLIVIA | PENDIENTE | |
 3 | BRAZIL | PENDIENTE | | https://bit.ly/2WuChNd
