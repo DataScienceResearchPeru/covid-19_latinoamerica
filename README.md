@@ -12,8 +12,8 @@ Tabla 1. Fuentes por país
 
 | # | País | Encargado | Última modificación | Fuente
 | --- | --- | --- | --- | ---
-| 0 | PRELIMINAR | @zurmad | 19/03/2020 | https://bit.ly/3dhKwSV
-| 1 | ARGENTINA | PENDIENTE | - | https://bit.ly/3aabv0y https://bit.ly/394NsPy
+| 0 | PRELIMINAR | DSRP | 19/03/2020 | https://bit.ly/3dhKwSV
+| 1 | ARGENTINA | APROBADO | - | https://bit.ly/3aabv0y https://bit.ly/394NsPy
 | 2 | BOLIVIA | PENDIENTE | |
 | 3 | BRAZIL | PENDIENTE | | https://bit.ly/2WuChNd
 | 4 | CHILE | APROBADO | 14/03/2020 | https://bit.ly/2xWXhlH https://bit.ly/0 | 2Jg6JDf
@@ -27,9 +27,9 @@ Tabla 1. Fuentes por país
 | 12 | NICARAGUA | SIN ENCARGADO | |
 | 13 | PANAMA | PENDIENTE | |
 | 14 | PARAGUAY | PENDIENTE | |
-| 15 | PERU | @zurmad | 19/03/2020 | https://bit.ly/2J5Wnpj
+| 15 | PERU | DSRP | 19/03/2020 | https://bit.ly/2J5Wnpj
 | 16 | URUGUAY | SIN ENCARGADO | |
-| 17 | VENEZUELA | SIN ENCARGADO | |
+| 17 | VENEZUELA | APROBADO | |
 
 
 
