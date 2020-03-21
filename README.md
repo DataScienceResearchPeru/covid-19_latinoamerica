@@ -12,7 +12,7 @@ Tabla 1. Data resources for each country
 | --- | --- | --- | --- | ---
 | 0 | PRELIMINAR | DSRP | 19/03/2020 | https://bit.ly/3dhKwSV
 | 1 | ARGENTINA | APROBADO | 03/03/2020 | https://bit.ly/3aabv0y https://bit.ly/394NsPy
-| 2 | BOLIVIA | PENDIENTE | 20/03/2020 |
+| 2 | BOLIVIA | PENDIENTE | 20/03/2020 | https://bit.ly/3bh1qz6
 | 3 | BRAZIL | PENDIENTE | 03/03/2020 | https://bit.ly/2WuChNd
 | 4 | CHILE | ivanMSC | 14/03/2020 | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf
 | 5 | COLOMBIA | PENDIENTE | 03/03/2020 |
