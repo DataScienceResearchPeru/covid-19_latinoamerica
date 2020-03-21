@@ -2,7 +2,6 @@
 
 ## Reportes diarios modelo csse_covid_19_daily_reports
 
-
 ### Este reporte contiene todos los casos diarios. Todas las fechas en UTC (GTM+0)
 
 ### Hour daily update up to 15:00 GTM+0
@@ -49,3 +48,7 @@ El dataset contiene las siguientes columnas:
 <br><br>
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
+
+
+Otros proyectos:
+https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261
