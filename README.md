@@ -12,8 +12,8 @@ Tabla 1. Data resources for each country
 | --- | --- | --- | --- | ---
 | 0 | PRELIMINAR | DSRP | 19/03/2020 | https://bit.ly/3dhKwSV
 | 1 | ARGENTINA | APROBADO | 03/03/2020 | https://bit.ly/3aabv0y https://bit.ly/394NsPy
-| 2 | BOLIVIA | PENDIENTE | 20/03/2020 | https://bit.ly/3bh1qz6
-| 3 | BRAZIL | PENDIENTE | 03/03/2020 | https://bit.ly/2WuChNd
+| 2 | BOLIVIA | ACTUALIZADO | 20/03/2020 | https://bit.ly/3bh1qz6
+| 3 | BRAZIL | ACTUALIZADO | 20/03/2020 | https://bit.ly/2WuChNd
 | 4 | CHILE | ivanMSC | 14/03/2020 | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf
 | 5 | COLOMBIA | ACTUALIZADO | 20/03/2020 |
 | 6 | COSTA RICA | ACTUALIZADO | 20/03/2020 |
@@ -22,7 +22,7 @@ Tabla 1. Data resources for each country
 | 9 | EL SALVADOR | SIN ENCARGADO | SIN ENCARGADO |
 | 10 | HONDURAS | PENDIENTE | 03/03/2020 |
 | 11 | MEXICO | PENDIENTE | 03/03/2020 |
-| 12 | NICARAGUA | SIN ENCARGADO | SIN ENCARGADO | 
+| 12 | NICARAGUA | SIN ENCARGADO | 20/03/2020 | 
 | 13 | PANAMA | PENDIENTE | 03/03/2020 |
 | 14 | PARAGUAY | PENDIENTE | 03/03/2020 | 
 | 15 | PERU | DSRP | 19/03/2020 | https://bit.ly/2J5Wnpj
