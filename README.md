@@ -1,16 +1,15 @@
-# Casos COVID-19 Dataset Latinoamérica 
+# LATAM COVID-19 Data Repository by DSRP
 
 ## Reportes diarios modelo csse_covid_19_daily_reports
 
-Contacto Whatsapp Pablo Díaz +51938438089
 
-Este reporte contiene todos los casos diarios. Todas las fechas en UTC (GTM+0)
+### Este reporte contiene todos los casos diarios. Todas las fechas en UTC (GTM+0)
 
-Hora de actualización diaria: 15:00 GTM+0
+### Hour daily update up to 15:00 GTM+0
 
 Tabla 1. Fuentes por país
 
-| # | País | Encargado | Última modificación | Fuente
+| # | Country | User | Last Update | Data Sources
 | --- | --- | --- | --- | ---
 | 0 | PRELIMINAR | DSRP | 19/03/2020 | https://bit.ly/3dhKwSV
 | 1 | ARGENTINA | APROBADO | 03/03/2020 | https://bit.ly/3aabv0y https://bit.ly/394NsPy
@@ -32,7 +31,6 @@ Tabla 1. Fuentes por país
 | 17 | VENEZUELA | APROBADO | 03/03/2020 | 
 
 
-
 El dataset contiene las siguientes columnas:
 * `City`: Ubicación demográfica nivel 3
 * `Province/State`: Ubicación demográfica nivel 2
@@ -41,5 +39,13 @@ El dataset contiene las siguientes columnas:
 * `Confirmed`: Número de pacientes contagiados
 * `Deaths`: Número de muertes
 * `Recovered`: Número de pacientes recuperados
-* `Latitude`: Úbicación UTM
-* `Longitude`: Úbicación UTM
+* `Latitude`: UTM
+* `Longitude`: UTM
+
+
+<b>Contact Us: </b><br>
+* Email: pablo.diazv@pucp.edu.pe
+* Cellphone: +51938438089 (Just Whatsapp msg)
+<br><br>
+
+This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
