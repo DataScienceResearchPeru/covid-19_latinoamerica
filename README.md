@@ -4,9 +4,9 @@
 
 ### Este reporte contiene todos los casos diarios. Todas las fechas en UTC (GTM+0)
 
-### Hour daily update up to 15:00 GTM+0
+### Daily update up to 15:00 GTM+0
 
-Tabla 1. Fuentes por país
+Tabla 1. Data resources for each country
 
 | # | Country | User | Last Update | Data Sources
 | --- | --- | --- | --- | ---
@@ -31,15 +31,17 @@ Tabla 1. Fuentes por país
 
 
 El dataset contiene las siguientes columnas:
-* `City`: Ubicación demográfica nivel 3
-* `Province/State`: Ubicación demográfica nivel 2
-* `Country/Region`: Ubicación demográfica nivel 1
+* `City`: Ubicación geográfica nivel 3
+* `Province/State`: Ubicación geográfica nivel 2
+* `Country/Region`: Ubicación geográfica nivel 1
 * `Last Update`: Fecha de anuncio
 * `Confirmed`: Número de pacientes contagiados
 * `Deaths`: Número de muertes
 * `Recovered`: Número de pacientes recuperados
 * `Latitude`: UTM
 * `Longitude`: UTM
+
+Estamos evaluando incluir también fecha de inicio de síntomas de cada paciente.
 
 
 <b>Contact Us: </b><br>
