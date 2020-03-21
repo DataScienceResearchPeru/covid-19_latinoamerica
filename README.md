@@ -15,10 +15,10 @@ Tabla 1. Data resources for each country
 | 2 | BOLIVIA | PENDIENTE | 20/03/2020 | https://bit.ly/3bh1qz6
 | 3 | BRAZIL | PENDIENTE | 03/03/2020 | https://bit.ly/2WuChNd
 | 4 | CHILE | ivanMSC | 14/03/2020 | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf
-| 5 | COLOMBIA | PENDIENTE | 03/03/2020 |
-| 6 | COST RICA | PENDIENTE | 03/03/2020 |
+| 5 | COLOMBIA | ACTUALIZADO | 20/03/2020 |
+| 6 | COSTA RICA | ACTUALIZADO | 20/03/2020 |
 | 7 | DOMINICAN REPUBLIC | PENDIENTE | 03/03/2020 |
-| 8 | ECUADOR | PENDIENTE | 03/03/2020 | https://bit.ly/2J3ompB
+| 8 | ECUADOR | ACTUALIZADO | 20/03/2020 | https://bit.ly/2J3ompB
 | 9 | EL SALVADOR | SIN ENCARGADO | SIN ENCARGADO |
 | 10 | HONDURAS | PENDIENTE | 03/03/2020 |
 | 11 | MEXICO | PENDIENTE | 03/03/2020 |
