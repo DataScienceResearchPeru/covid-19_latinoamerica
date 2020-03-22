@@ -38,10 +38,10 @@ Tabla 2. First date confirmed cases per country
 | 5   | COLOMBIA           | 2020-03-06    |
 | 6   | COSTA RICA         | 2020-03-06    |
 | 7   | DOMINICAN REPUBLIC | 2020-03-01    |
-| 8   | ECUADOR            | 2020-03-29    |
+| 8   | ECUADOR            | 2020-02-29    |
 | 9   | EL SALVADOR        | 2020-03-18    |
 | 10  | HONDURAS           | 2020-03-10    |
-| 11  | MEXICO             | 2020-03-28    |
+| 11  | MEXICO             | 2020-02-28    |
 | 12  | NICARAGUA          | 2020-03-16    |
 | 13  | PANAMA             | 2020-03-10    |
 | 14  | PARAGUAY           | 2020-03-07    |
@@ -66,7 +66,7 @@ Estamos evaluando incluir también fecha de inicio de síntomas de cada paciente
 
 <b>Contact Us: </b><br>
 
--   Email: pablo.diazv@pucp.edu.pe
+-   Email: [Send a e-mail](pablo.diazv@pucp.edu.pe)
 -   Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
     <br><br>
 
