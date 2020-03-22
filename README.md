@@ -10,7 +10,6 @@ Tabla 1. Data resources for each country
 
 | #   | Country            | User          | Last Update   | Data Sources                                   |
 | --- | ------------------ | ------------- | ------------- | ---------------------------------------------- |
-| 0   | PRELIMINAR         | DSRP          | 19/03/2020    | https://bit.ly/3dhKwSV                         |
 | 1   | ARGENTINA          | APROBADO      | 03/03/2020    | https://bit.ly/3aabv0y https://bit.ly/394NsPy  |
 | 2   | BOLIVIA            | ACTUALIZADO   | 20/03/2020    | https://bit.ly/3bh1qz6                         |
 | 3   | BRAZIL             | ACTUALIZADO   | 20/03/2020    | https://bit.ly/2WuChNd                         |
@@ -28,6 +27,28 @@ Tabla 1. Data resources for each country
 | 15  | PERU               | DSRP          | 19/03/2020    | https://bit.ly/2J5Wnpj                         |
 | 16  | URUGUAY            | SIN ENCARGADO | SIN ENCARGADO |
 | 17  | VENEZUELA          | APROBADO      | 03/03/2020    | https://bit.ly/2J3E0Br https://bit.ly/3acdykY  |
+
+
+Tabla 2. First date confirmed cases per country
+| #   | Country            | First Date    |
+| --- | ------------------ | ------------- |
+| 1   | ARGENTINA          | 2020-03-03    |
+| 2   | BOLIVIA            | 2020-03-10    |
+| 4   | CHILE              | 2020-03-03    |
+| 5   | COLOMBIA           | 2020-03-06    |
+| 6   | COSTA RICA         | 2020-03-06    |
+| 7   | DOMINICAN REPUBLIC | 2020-03-01    |
+| 8   | ECUADOR            | 2020-03-29    |
+| 9   | EL SALVADOR        | 2020-03-18    |
+| 10  | HONDURAS           | 2020-03-10    |
+| 11  | MEXICO             | 2020-03-28    |
+| 12  | NICARAGUA          | 2020-03-16    |
+| 13  | PANAMA             | 2020-03-10    |
+| 14  | PARAGUAY           | 2020-03-07    |
+| 15  | PERU               | 2020-03-06    |
+| 16  | URUGUAY            | 2020-03-13    |
+| 17  | VENEZUELA          | 2020-03-13    |
+
 
 El dataset contiene las siguientes columnas:
 
