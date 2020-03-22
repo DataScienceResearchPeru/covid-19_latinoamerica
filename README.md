@@ -1,10 +1,8 @@
 # LATAM COVID-19 Data Repository by DSRP
 
-## Reportes diarios modelo csse_covid_19_daily_reports
+### Daily update up to 20:00 GTM+0
 
-### Este reporte contiene todos los casos diarios. Todas las fechas en UTC (GTM+0)
-
-### Daily update up to 15:00 GTM+0
+This repository is a part of a [project]([pablo.diazv@pucp.edu.pe](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261))
 
 #### Tabla 1. Data resources for each country
 
@@ -67,11 +65,10 @@ Estamos evaluando incluir también fecha de inicio de síntomas de cada paciente
 
 <b>Contact Us: </b><br>
 
--   Email: [Send a e-mail](pablo.diazv@pucp.edu.pe)
+-   Email: [Send an e-mail](pablo.diazv@pucp.edu.pe)
 -   Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
     <br><br>
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
 
-Otros proyectos:
-https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261
+
