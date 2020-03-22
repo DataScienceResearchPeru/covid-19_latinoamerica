@@ -49,6 +49,7 @@ Tabla 2. First date confirmed cases per country
 | 16  | URUGUAY            | 2020-03-13    |
 | 17  | VENEZUELA          | 2020-03-13    |
 
+![Primer caso anunciado por país](https://imgur.com/uurPLNl.jpg)
 
 El dataset contiene las siguientes columnas:
 
