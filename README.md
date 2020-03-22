@@ -10,23 +10,23 @@ Tabla 1. Data resources for each country
 
 | #   | Country            | User          | Last Update   | Data Sources                                   |
 | --- | ------------------ | ------------- | ------------- | ---------------------------------------------- |
-| 1   | ARGENTINA          | APROBADO      | 03/03/2020    | https://bit.ly/3aabv0y https://bit.ly/394NsPy  |
-| 2   | BOLIVIA            | ACTUALIZADO   | 20/03/2020    | https://bit.ly/3bh1qz6                         |
-| 3   | BRAZIL             | ACTUALIZADO   | 20/03/2020    | https://bit.ly/2WuChNd                         |
-| 4   | CHILE              | ivanMSC       | 14/03/2020    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf |
-| 5   | COLOMBIA           | ACTUALIZADO   | 21/03/2020    | -                                              |
-| 6   | COSTA RICA         | ACTUALIZADO   | 20/03/2020    |
-| 7   | DOMINICAN REPUBLIC | ACTUALIZADO   | 05/03/2020    | https://bit.ly/2J2aBHM                         |
-| 8   | ECUADOR            | ACTUALIZADO   | 21/03/2020    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7  |
-| 9   | EL SALVADOR        | SIN ENCARGADO | 20/03/2020    | https://bit.ly/2U7N7Hm                         |
-| 10  | HONDURAS           | PENDIENTE     | 03/03/2020    |
-| 11  | MEXICO             | PENDIENTE     | 03/03/2020    |
-| 12  | NICARAGUA          | SIN ENCARGADO | 20/03/2020    | https://bit.ly/2QQNfJB                         |
-| 13  | PANAMA             | ACTUALIZADO   | 20/03/2020    |
-| 14  | PARAGUAY           | PENDIENTE     | 03/03/2020    |
-| 15  | PERU               | DSRP          | 19/03/2020    | https://bit.ly/2J5Wnpj                         |
+| 1   | ARGENTINA          | APROBADO      | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy  |
+| 2   | BOLIVIA            | ACTUALIZADO   | 2020-03-20    | https://bit.ly/3bh1qz6                         |
+| 3   | BRAZIL             | ACTUALIZADO   | 2020-03-20    | https://bit.ly/2WuChNd                         |
+| 4   | CHILE              | ivanMSC       | 2020-03-14    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf |
+| 5   | COLOMBIA           | ACTUALIZADO   | 2020-03-21    | -                                              |
+| 6   | COSTA RICA         | ACTUALIZADO   | 2020-03-20    |
+| 7   | DOMINICAN REPUBLIC | ACTUALIZADO   | 2020-03-05    | https://bit.ly/2J2aBHM                         |
+| 8   | ECUADOR            | ACTUALIZADO   | 2020-03-21    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7  |
+| 9   | EL SALVADOR        | SIN ENCARGADO | 2020-03-20    | https://bit.ly/2U7N7Hm                         |
+| 10  | HONDURAS           | PENDIENTE     | 2020-03-03    |
+| 11  | MEXICO             | PENDIENTE     | 2020-03-03    |
+| 12  | NICARAGUA          | SIN ENCARGADO | 2020-03-20    | https://bit.ly/2QQNfJB                         |
+| 13  | PANAMA             | ACTUALIZADO   | 2020-03-20    |
+| 14  | PARAGUAY           | PENDIENTE     | 2020-03-03    |
+| 15  | PERU               | DSRP          | 2020-03-19    | https://bit.ly/2J5Wnpj                         |
 | 16  | URUGUAY            | SIN ENCARGADO | SIN ENCARGADO |
-| 17  | VENEZUELA          | APROBADO      | 03/03/2020    | https://bit.ly/2J3E0Br https://bit.ly/3acdykY  |
+| 17  | VENEZUELA          | APROBADO      | 2020-03-03    | https://bit.ly/2J3E0Br https://bit.ly/3acdykY  |
 
 
 Tabla 2. First date confirmed cases per country
