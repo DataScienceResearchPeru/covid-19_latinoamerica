@@ -63,39 +63,39 @@ Los Rios,Chile,2020-03-10T15:00:00,0,0,0,,
 Los Lagos,Chile,2020-03-10T15:00:00,1,0,0,,
 Aysen,Chile,2020-03-10T15:00:00,0,0,0,,
 Magallanes,Chile,2020-03-10T15:00:00,0,0,0,,
-Amazonas,Colombia,,,,,,
-Antioquia,Colombia,,,,,,
-Arauca,Colombia,,,,,,
-Atlantico,Colombia,,,,,,
-Bogota,Colombia,,,,,,
-Bolivar,Colombia,,,,,,
-Boyaca,Colombia,,,,,,
-Caldas,Colombia,,,,,,
-Caqueta,Colombia,,,,,,
-Casanare,Colombia,,,,,,
-Cauca,Colombia,,,,,,
-"Cesar ",Colombia,,,,,,
-Choco,Colombia,,,,,,
-Cordoba,Colombia,"","","","","",""
-Cundinamarca,Colombia,"","","","","",""
-Guainia,Colombia,"","","","","",""
-Guaviare,Colombia,"","","","","",""
-Huila,Colombia,"","","","","",""
-La Guajira,Colombia,"","","","","",""
-Magdalena,Colombia,"","","","","",""
-Meta,Colombia,"","","","","",""
-Narino,Colombia,"","","","","",""
-Norte de Santander,Colombia,"","","","","",""
-Putumayo,Colombia,"","","","","",""
-Quindio,Colombia,"","","","","",""
-Risaralda,Colombia,"","","","","",""
-San Andres y Providencia,Colombia,"","","","","",""
-Santander,Colombia,"","","","","",""
-Sucre,Colombia,"","","","","",""
-Tolima,Colombia,"","","","","",""
-Valle del Cauca,Colombia,"","","","","",""
-Vaupes,Colombia,"","","","","",""
-Vichada,Colombia,"","","","","",""
+Amazonas,Colombia,2020-03-10T17:00:00,0,0,0,,
+Antioquia,Colombia,2020-03-10T17:00:00,1,0,0,,
+Arauca,Colombia,2020-03-10T17:00:00,0,0,0,,
+Atlantico,Colombia,2020-03-10T17:00:00,0,0,0,,
+Bogota,Colombia,2020-03-10T17:00:00,0,0,0,,
+Bolivar,Colombia,2020-03-10T17:00:00,0,0,0,,
+Boyaca,Colombia,2020-03-10T17:00:00,0,0,0,,
+Caldas,Colombia,2020-03-10T17:00:00,0,0,0,,
+Caqueta,Colombia,2020-03-10T17:00:00,0,0,0,,
+Casanare,Colombia,2020-03-10T17:00:00,0,0,0,,
+Cauca,Colombia,2020-03-10T17:00:00,0,0,0,,
+"Cesar ",Colombia,2020-03-10T17:00:00,0,0,0,,
+Choco,Colombia,2020-03-10T17:00:00,0,0,0,,
+Cordoba,Colombia,2020-03-10T17:00:00,0,0,0,,
+Cundinamarca,Colombia,2020-03-10T17:00:00,1,0,0,,
+Guainia,Colombia,2020-03-10T17:00:00,0,0,0,,
+Guaviare,Colombia,2020-03-10T17:00:00,0,0,0,,
+Huila,Colombia,2020-03-10T17:00:00,0,0,0,,
+La Guajira,Colombia,2020-03-10T17:00:00,0,0,0,,
+Magdalena,Colombia,2020-03-10T17:00:00,0,0,0,,
+Meta,Colombia,2020-03-10T17:00:00,0,0,0,,
+Narino,Colombia,2020-03-10T17:00:00,0,0,0,,
+Norte de Santander,Colombia,2020-03-10T17:00:00,0,0,0,,
+Putumayo,Colombia,2020-03-10T17:00:00,0,0,0,,
+Quindio,Colombia,2020-03-10T17:00:00,0,0,0,,
+Risaralda,Colombia,2020-03-10T17:00:00,0,0,0,,
+San Andres y Providencia,Colombia,2020-03-10T17:00:00,0,0,0,,
+Santander,Colombia,2020-03-10T17:00:00,0,0,0,,
+Sucre,Colombia,2020-03-10T17:00:00,0,0,0,,
+Tolima,Colombia,2020-03-10T17:00:00,0,0,0,,
+Valle del Cauca,Colombia,2020-03-10T17:00:00,1,0,0,,
+Vaupes,Colombia,2020-03-10T17:00:00,0,0,0,,
+Vichada,Colombia,2020-03-10T17:00:00,0,0,0,,
 Alajuela,Costa Rica,,,,,,
 Cartago,Costa Rica,,,,,,
 Guanacaste,Costa Rica,,,,,,
@@ -250,9 +250,9 @@ Los Santos,Panama,,,,,,
 Panama,Panama,,,,,,
 Panama Oeste,Panama,,,,,,
 Veraguas,Panama,,,,,,
-Embera,Panama,"","","","","",""
-Guna Yala,Panama,"","","","","",""
-Ngabe-Bugle,Panama,"","","","","",""
+Embera,Panama,,,,,,
+Guna Yala,Panama,,,,,,
+Ngabe-Bugle,Panama,,,,,,
 Distrito Capital,Paraguay,,,,,,
 Concepcion,Paraguay,,,,,,
 San Pedro,Paraguay,,,,,,
