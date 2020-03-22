@@ -76,26 +76,26 @@ Casanare,Colombia,,,,,,
 Cauca,Colombia,,,,,,
 "Cesar ",Colombia,,,,,,
 Choco,Colombia,,,,,,
-Cordoba,Colombia,"","","","","",""
-Cundinamarca,Colombia,"","","","","",""
-Guainia,Colombia,"","","","","",""
-Guaviare,Colombia,"","","","","",""
-Huila,Colombia,"","","","","",""
-La Guajira,Colombia,"","","","","",""
-Magdalena,Colombia,"","","","","",""
-Meta,Colombia,"","","","","",""
-Narino,Colombia,"","","","","",""
-Norte de Santander,Colombia,"","","","","",""
-Putumayo,Colombia,"","","","","",""
-Quindio,Colombia,"","","","","",""
-Risaralda,Colombia,"","","","","",""
-San Andres y Providencia,Colombia,"","","","","",""
-Santander,Colombia,"","","","","",""
-Sucre,Colombia,"","","","","",""
-Tolima,Colombia,"","","","","",""
-Valle del Cauca,Colombia,"","","","","",""
-Vaupes,Colombia,"","","","","",""
-Vichada,Colombia,"","","","","",""
+Cordoba,Colombia,,,,,,
+Cundinamarca,Colombia,,,,,,
+Guainia,Colombia,,,,,,
+Guaviare,Colombia,,,,,,
+Huila,Colombia,,,,,,
+La Guajira,Colombia,,,,,,
+Magdalena,Colombia,,,,,,
+Meta,Colombia,,,,,,
+Narino,Colombia,,,,,,
+Norte de Santander,Colombia,,,,,,
+Putumayo,Colombia,,,,,,
+Quindio,Colombia,,,,,,
+Risaralda,Colombia,,,,,,
+San Andres y Providencia,Colombia,,,,,,
+Santander,Colombia,,,,,,
+Sucre,Colombia,,,,,,
+Tolima,Colombia,,,,,,
+Valle del Cauca,Colombia,,,,,,
+Vaupes,Colombia,,,,,,
+Vichada,Colombia,,,,,,
 Alajuela,Costa Rica,,,,,,
 Cartago,Costa Rica,,,,,,
 Guanacaste,Costa Rica,,,,,,
@@ -135,30 +135,30 @@ Santiago,Dominican Republic,2020-03-03T16:00:00,0,0,0,,
 Santiago Rodriguez,Dominican Republic,2020-03-03T16:00:00,0,0,0,,
 Santo Domingo,Dominican Republic,2020-03-03T16:00:00,1,0,0,,
 Valverde,Dominican Republic,2020-03-03T16:00:00,0,0,0,,
-Azuay,Ecuador,,,,,,
-Bolivar,Ecuador,,,,,,
-Canar,Ecuador,,,,,,
-Carchi,Ecuador,,,,,,
-Chimborazo,Ecuador,,,,,,
-Cotopaxi,Ecuador,,,,,,
-El Oro,Ecuador,,,,,,
-Esmeraldas,Ecuador,,,,,,
-Galapagos,Ecuador,,,,,,
-Guayas,Ecuador,,,,,,
-Imbabura,Ecuador,,,,,,
-Loja,Ecuador,,,,,,
-Los Rios,Ecuador,,,,,,
-Manabi,Ecuador,,,,,,
-Morona Santiago,Ecuador,,,,,,
-Napo,Ecuador,,,,,,
-Orellana,Ecuador,,,,,,
-Pastaza,Ecuador,,,,,,
-Pichincha,Ecuador,,,,,,
-Santa Elena,Ecuador,,,,,,
-Santo Domingo de los Tsachilas,Ecuador,,,,,,
-Sucumbios,Ecuador,,,,,,
-Tungurahua,Ecuador,,,,,,
-Zamora-Chinchipe,Ecuador,,,,,,
+Azuay,Ecuador,2020-03-03T16:00:00,,,,,
+Bolivar,Ecuador,2020-03-03T16:00:00,,,,,
+Canar,Ecuador,2020-03-03T16:00:00,,,,,
+Carchi,Ecuador,2020-03-03T16:00:00,,,,,
+Chimborazo,Ecuador,2020-03-03T16:00:00,,,,,
+Cotopaxi,Ecuador,2020-03-03T16:00:00,,,,,
+El Oro,Ecuador,2020-03-03T16:00:00,,,,,
+Esmeraldas,Ecuador,2020-03-03T16:00:00,,,,,
+Galapagos,Ecuador,2020-03-03T16:00:00,,,,,
+Guayas,Ecuador,2020-03-03T16:00:00,,,,,
+Imbabura,Ecuador,2020-03-03T16:00:00,,,,,
+Loja,Ecuador,2020-03-03T16:00:00,,,,,
+Los Rios,Ecuador,2020-03-03T16:00:00,,,,,
+Manabi,Ecuador,2020-03-03T16:00:00,,,,,
+Morona Santiago,Ecuador,2020-03-03T16:00:00,,,,,
+Napo,Ecuador,2020-03-03T16:00:00,,,,,
+Orellana,Ecuador,2020-03-03T16:00:00,,,,,
+Pastaza,Ecuador,2020-03-03T16:00:00,,,,,
+Pichincha,Ecuador,2020-03-03T16:00:00,,,,,
+Santa Elena,Ecuador,2020-03-03T16:00:00,,,,,
+Santo Domingo de los Tsachilas,Ecuador,2020-03-03T16:00:00,,,,,
+Sucumbios,Ecuador,2020-03-03T16:00:00,,,,,
+Tungurahua,Ecuador,2020-03-03T16:00:00,,,,,
+Zamora-Chinchipe,Ecuador,2020-03-03T16:00:00,,,,,
 Ahuachapan,El Salvador,,0,0,0,,
 Cabanas,El Salvador,,0,0,0,,
 Chalatenango,El Salvador,,0,0,0,,
@@ -250,9 +250,9 @@ Los Santos,Panama,,,,,,
 Panama,Panama,,,,,,
 Panama Oeste,Panama,,,,,,
 Veraguas,Panama,,,,,,
-Embera,Panama,"","","","","",""
-Guna Yala,Panama,"","","","","",""
-Ngabe-Bugle,Panama,"","","","","",""
+Embera,Panama,,,,,,
+Guna Yala,Panama,,,,,,
+Ngabe-Bugle,Panama,,,,,,
 Distrito Capital,Paraguay,,,,,,
 Concepcion,Paraguay,,,,,,
 San Pedro,Paraguay,,,,,,
