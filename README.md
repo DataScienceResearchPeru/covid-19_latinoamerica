@@ -18,7 +18,7 @@ Tabla 1. Data resources for each country
 | 5 | COLOMBIA | ACTUALIZADO | 21/03/2020 | -
 | 6 | COSTA RICA | ACTUALIZADO | 20/03/2020 |
 | 7 | DOMINICAN REPUBLIC | ACTUALIZADO | 05/03/2020 | https://bit.ly/2J2aBHM
-| 8 | ECUADOR | ACTUALIZADO | 20/03/2020 | https://bit.ly/2J3ompB
+| 8 | ECUADOR | ACTUALIZADO | 20/03/2020 | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7
 | 9 | EL SALVADOR | SIN ENCARGADO | 20/03/2020 | https://bit.ly/2U7N7Hm
 | 10 | HONDURAS | PENDIENTE | 03/03/2020 |
 | 11 | MEXICO | PENDIENTE | 03/03/2020 |
