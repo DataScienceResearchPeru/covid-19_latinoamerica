@@ -15,7 +15,7 @@ Tabla 1. Data resources for each country
 | 2 | BOLIVIA | ACTUALIZADO | 20/03/2020 | https://bit.ly/3bh1qz6
 | 3 | BRAZIL | ACTUALIZADO | 20/03/2020 | https://bit.ly/2WuChNd
 | 4 | CHILE | ivanMSC | 14/03/2020 | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf
-| 5 | COLOMBIA | ACTUALIZADO | 20/03/2020 |
+| 5 | COLOMBIA | ACTUALIZADO | 21/03/2020 | -
 | 6 | COSTA RICA | ACTUALIZADO | 20/03/2020 |
 | 7 | DOMINICAN REPUBLIC | ACTUALIZADO | 05/03/2020 | https://bit.ly/2J2aBHM
 | 8 | ECUADOR | ACTUALIZADO | 20/03/2020 | https://bit.ly/2J3ompB
