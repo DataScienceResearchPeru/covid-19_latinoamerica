@@ -74,7 +74,7 @@ Caldas,Colombia,2020-03-21T17:00:00,3,0,0,,
 Caqueta,Colombia,2020-03-21T17:00:00,0,0,0,,
 Casanare,Colombia,2020-03-21T17:00:00,0,0,0,,
 Cauca,Colombia,2020-03-21T17:00:00,2,0,0,,
-"Cesar ",Colombia,2020-03-21T17:00:00,0,0,0,,
+Cesar ,Colombia,2020-03-21T17:00:00,0,0,0,,
 Choco,Colombia,2020-03-21T17:00:00,0,0,0,,
 Cordoba,Colombia,2020-03-21T17:00:00,0,0,0,,
 Cundinamarca,Colombia,2020-03-21T17:00:00,89,0,0,,
@@ -188,7 +188,7 @@ Lempira,Honduras,,,,,,
 Ocotepeque,Honduras,,,,,,
 Olancho,Honduras,,,,,,
 Santa Barbara,Honduras,,,,,,
-"Valle ",Honduras,,,,,,
+Valle ,Honduras,,,,,,
 Yoro,Honduras,,,,,,
 Aguascalientes,Mexico,,,,,,
 Baja California,Mexico,,,,,,
@@ -216,7 +216,7 @@ Quintana Roo,Mexico,,,,,,
 San Luis Potosi,Mexico,,,,,,
 Sinaloa,Mexico,,,,,,
 Sinaloa,Mexico,,,,,,
-"Sonora ",Mexico,,,,,,
+Sonora ,Mexico,,,,,,
 Tabasco,Mexico,,,,,,
 Tamaulipas,Mexico,,,,,,
 Tlaxcala,Mexico,,,,,,
@@ -315,26 +315,27 @@ San Jose,Uruguay,,,,,,
 Soriano,Uruguay,,,,,,
 Tacuarembo,Uruguay,,,,,,
 Treinta y Tres,Uruguay,,,,,,
-Amazonas,Venezuela,,,,,,
-Anzoategui,Venezuela,,,,,,
-Apure,Venezuela,,,,,,
-Aragua,Venezuela,,,,,,
-Barinas,Venezuela,,,,,,
-Bolivar,Venezuela,,,,,,
-Carabobo,Venezuela,,,,,,
-Cojedes,Venezuela,,,,,,
-Delta Amacuro,Venezuela,,,,,,
-Falcon,Venezuela,,,,,,
-Guarico,Venezuela,,,,,,
-Vargas,Venezuela,,,,,,
-Lara,Venezuela,,,,,,
-Merida,Venezuela,,,,,,
-Miranda,Venezuela,,,,,,
-Monagas,Venezuela,,,,,,
-Nueva Esparta,Venezuela,,,,,,
-Portuguesa,Venezuela,,,,,,
-Sucre,Venezuela,,,,,,
-Tachira,Venezuela,,,,,,
-Trujillo,Venezuela,,,,,,
-Yaracuy,Venezuela,,,,,,
-Zulia,Venezuela,,,,,,
+Amazonas,Venezuela,2020-03-22T13:04:21,0,0,0,5.66049,-67.5834274
+Anzoategui,Venezuela,2020-03-22T13:04:22,2,0,0,10.21667,-64.6166687
+Apure,Venezuela,2020-03-22T13:04:23,2,0,0,7.8878198,-67.4723587
+Aragua,Venezuela,2020-03-22T13:04:24,6,0,0,10.2353497,-67.5911331
+Barinas,Venezuela,2020-03-22T13:04:25,0,0,0,8.6226101,-70.207489
+Bolivar,Venezuela,2020-03-22T13:04:26,0,0,0,8.1292295,-63.5408592
+Caracas,Venezuela,2020-03-22T13:04:27,16,0,0,10.4880104,-66.8791885
+Carabobo,Venezuela,2020-03-22T13:04:28,0,0,0,10.1620197,-68.0076523
+Cojedes,Venezuela,2020-03-22T13:04:29,1,0,0,9.6612396,-68.5826797
+Delta Amacuro,Venezuela,2020-03-22T13:04:30,0,0,0,9.0580597,-62.0499992
+Falcon,Venezuela,2020-03-22T13:04:31,2,0,0,11.6955996,-70.1995697
+Guarico,Venezuela,2020-03-22T13:04:32,0,0,0,9.91152,-67.3538132
+Vargas,Venezuela,2020-03-22T13:04:33,8,0,0,10.5962095,-66.9548492
+Lara,Venezuela,2020-03-22T13:04:34,1,0,0,10.0647001,-69.3570328
+Merida,Venezuela,2020-03-22T13:04:35,1,0,0,8.5897198,-71.1561127
+Miranda,Venezuela,2020-03-22T13:04:36,26,0,15,10.4722605,-66.8015518
+Monagas,Venezuela,2020-03-22T13:04:37,1,0,0,9.7456903,-63.1832314
+Nueva Esparta,Venezuela,2020-03-22T13:04:38,1,0,0,10.9577103,-63.869709
+Portuguesa,Venezuela,2020-03-22T13:04:39,1,0,0,9.0418301,-69.7420578
+Sucre,Venezuela,2020-03-22T13:04:40,0,0,0,10.45397,-64.1825638
+Tachira,Venezuela,2020-03-22T13:04:41,1,0,0,7.7669401,-72.2249985
+Trujillo,Venezuela,2020-03-22T13:04:42,0,0,0,9.3658304,-70.4369431
+Yaracuy,Venezuela,2020-03-22T13:04:43,0,0,0,10.3399096,-68.7424698
+Zulia,Venezuela,2020-03-22T13:04:44,1,0,0,10.6666298,-71.6124496
