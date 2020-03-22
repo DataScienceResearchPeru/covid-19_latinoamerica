@@ -2,17 +2,7 @@
 
 #### This repository is a part of an effort to make a public repository [Clic here]([pablo.diazv@pucp.edu.pe](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261))
 
-
--   `City`: Ubicación geográfica nivel 3
--   `Province/State`: Ubicación geográfica nivel 2
--   `Country/Region`: Ubicación geográfica nivel 1
--   `Last Update`: Fecha de anuncio
--   `Confirmed`: Número de pacientes contagiados
--   `Deaths`: Número de muertes
--   `Recovered`: Número de pacientes recuperados
--   `Latitude`: UTM
--   `Longitude`: UTM
-
+## MAX 10000 PATIENT PER CSV
 
 <b>Contact Us: </b><br>
 
