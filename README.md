@@ -12,7 +12,7 @@
 | 2   | BOLIVIA            | ACTUALIZADO   | 2020-03-20    | https://bit.ly/3bh1qz6                         |
 | 3   | BRAZIL             | ACTUALIZADO   | 2020-03-20    | https://bit.ly/2WuChNd                         |
 | 4   | CHILE              | ivanMSC       | 2020-03-23    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf |
-| 5   | COLOMBIA           | ACTUALIZADO   | 2020-03-21    | -                                              |
+| 5   | COLOMBIA           | ACTUALIZADO   | 2020-03-21    | https://bit.ly/2xkYD9k https://bit.ly/2UsSu2U                                              |
 | 6   | COSTA RICA         | ACTUALIZADO   | 2020-03-20    |
 | 7   | DOMINICAN REPUBLIC | ACTUALIZADO   | 2020-03-05    | https://bit.ly/2J2aBHM                         |
 | 8   | ECUADOR            | ACTUALIZADO   | 2020-03-21    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7  |
