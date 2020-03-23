@@ -8,19 +8,19 @@
 
 | #   | Country            | User          | Last Update   | Data Sources                                   |
 | --- | ------------------ | ------------- | ------------- | ---------------------------------------------- |
-| 1   | ARGENTINA          | APROBADO      | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy  |
-| 2   | BOLIVIA            | ACTUALIZADO   | 2020-03-20    | https://bit.ly/3bh1qz6                         |
+| 1   | ARGENTINA          | SIN ENCARGADO      | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy  |
+| 2   | BOLIVIA            | SIN ENCARGADO   | 2020-03-20    | https://bit.ly/3bh1qz6                         |
 | 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)   | 2020-03-20    | https://bit.ly/2WuChNd                         |
 | 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)       | 2020-03-23    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf |
 | 5   | COLOMBIA           | ACTUALIZADO   | 2020-03-21    | https://bit.ly/2xkYD9k https://bit.ly/2UsSu2U                                              |
-| 6   | COSTA RICA         | ACTUALIZADO   | 2020-03-20    |
-| 7   | DOMINICAN REPUBLIC | ACTUALIZADO   | 2020-03-05    | https://bit.ly/2J2aBHM                         |
+| 6   | COSTA RICA         | EN ESPERA   | 2020-03-20    |
+| 7   | DOMINICAN REPUBLIC | SIN ENCARGADO   | 2020-03-05    | https://bit.ly/2J2aBHM                         |
 | 8   | ECUADOR            | ACTUALIZADO   | 2020-03-21    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7  |
 | 9   | EL SALVADOR        | SIN ENCARGADO | 2020-03-20    | https://bit.ly/2U7N7Hm                         |
 | 10  | HONDURAS           | PENDIENTE     | 2020-03-03    |
 | 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19)     | 2020-03-22    | [Fuente](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov) |
 | 12  | NICARAGUA          | SIN ENCARGADO | 2020-03-20    | https://bit.ly/2QQNfJB                         |
-| 13  | PANAMA             | ACTUALIZADO   | 2020-03-20    |
+| 13  | PANAMA             | SIN ENCARGADO   | 2020-03-20    |
 | 14  | PARAGUAY           | PENDIENTE     | 2020-03-03    |
 | 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)          | 2020-03-19    | https://bit.ly/2J5Wnpj                         |
 | 16  | URUGUAY            | SIN ENCARGADO | SIN ENCARGADO |
