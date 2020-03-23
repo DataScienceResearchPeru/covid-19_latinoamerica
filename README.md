@@ -63,6 +63,10 @@ El dataset contiene las siguientes columnas:
 
 Estamos evaluando incluir también fecha de inicio de síntomas de cada paciente.
 
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](.github/CONTRIBUTING.md)]
+
 <b>Contact Us: </b><br>
 
 -   Email: [Send an e-mail](pablo.diazv@pucp.edu.pe)
