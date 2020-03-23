@@ -1,0 +1,23 @@
+.coverage
+.noseids
+*.so
+*.pyd
+*.pyc
+*.pyo
+*.py#
+*~
+*.swp
+*.DS_Store
+*.kpf
+
+build/*
+
+MANIFEST
+
+# PyDev
+.project
+.pydevproject
+.settings/
+
+# Virtualenv
+venv
