@@ -11,7 +11,7 @@
 | 1   | ARGENTINA          | APROBADO      | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy  |
 | 2   | BOLIVIA            | ACTUALIZADO   | 2020-03-20    | https://bit.ly/3bh1qz6                         |
 | 3   | BRAZIL             | ACTUALIZADO   | 2020-03-20    | https://bit.ly/2WuChNd                         |
-| 4   | CHILE              | ivanMSC       | 2020-03-23    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf |
+| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)       | 2020-03-23    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf |
 | 5   | COLOMBIA           | ACTUALIZADO   | 2020-03-21    | https://bit.ly/2xkYD9k https://bit.ly/2UsSu2U                                              |
 | 6   | COSTA RICA         | ACTUALIZADO   | 2020-03-20    |
 | 7   | DOMINICAN REPUBLIC | ACTUALIZADO   | 2020-03-05    | https://bit.ly/2J2aBHM                         |
@@ -22,7 +22,7 @@
 | 12  | NICARAGUA          | SIN ENCARGADO | 2020-03-20    | https://bit.ly/2QQNfJB                         |
 | 13  | PANAMA             | ACTUALIZADO   | 2020-03-20    |
 | 14  | PARAGUAY           | PENDIENTE     | 2020-03-03    |
-| 15  | PERU               | DSRP          | 2020-03-19    | https://bit.ly/2J5Wnpj                         |
+| 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)          | 2020-03-19    | https://bit.ly/2J5Wnpj                         |
 | 16  | URUGUAY            | SIN ENCARGADO | SIN ENCARGADO |
 | 17  | VENEZUELA          | APROBADO      | 2020-03-03    | https://bit.ly/2J3E0Br https://bit.ly/3acdykY  |
 
@@ -32,6 +32,7 @@
 | --- | ------------------ | ---------- |
 | 1   | ARGENTINA          | 2020-03-03 |
 | 2   | BOLIVIA            | 2020-03-10 |
+| 3   | BRAZIL             | 2020-02-26 |
 | 4   | CHILE              | 2020-03-03 |
 | 5   | COLOMBIA           | 2020-03-06 |
 | 6   | COSTA RICA         | 2020-03-06 |
