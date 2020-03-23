@@ -18,7 +18,7 @@
 | 8   | ECUADOR            | ACTUALIZADO   | 2020-03-21    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7  |
 | 9   | EL SALVADOR        | SIN ENCARGADO | 2020-03-20    | https://bit.ly/2U7N7Hm                         |
 | 10  | HONDURAS           | PENDIENTE     | 2020-03-03    |
-| 11  | MEXICO             | PENDIENTE     | 2020-03-03    |
+| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19)     | 2020-03-23    | [Fuente](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov) |
 | 12  | NICARAGUA          | SIN ENCARGADO | 2020-03-20    | https://bit.ly/2QQNfJB                         |
 | 13  | PANAMA             | ACTUALIZADO   | 2020-03-20    |
 | 14  | PARAGUAY           | PENDIENTE     | 2020-03-03    |
