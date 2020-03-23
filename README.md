@@ -11,7 +11,7 @@
 | 1   | ARGENTINA          | APROBADO      | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy  |
 | 2   | BOLIVIA            | ACTUALIZADO   | 2020-03-20    | https://bit.ly/3bh1qz6                         |
 | 3   | BRAZIL             | ACTUALIZADO   | 2020-03-20    | https://bit.ly/2WuChNd                         |
-| 4   | CHILE              | ivanMSC       | 2020-03-14    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf |
+| 4   | CHILE              | ivanMSC       | 2020-03-23    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf |
 | 5   | COLOMBIA           | ACTUALIZADO   | 2020-03-21    | -                                              |
 | 6   | COSTA RICA         | ACTUALIZADO   | 2020-03-20    |
 | 7   | DOMINICAN REPUBLIC | ACTUALIZADO   | 2020-03-05    | https://bit.ly/2J2aBHM                         |
