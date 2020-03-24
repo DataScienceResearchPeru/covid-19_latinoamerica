@@ -1,0 +1,32 @@
+Code,"Subdivision
+  Name (es)",District,"Code Weather
+  Station",Weather Station,"Type Weather
+  Station",Latitude,Longitude,Altitud (msnm)
+PE-LMA,"Municipalidad
+  Metropolitana de Lima", ," ", ," ", , , 
+PE-AMA,"Amazonas", ," ", ," ", , , 
+PE-ANC,"Ancash",PARIACOTO,"109040",PARIACOTO,"Convencional - Meteorológica","9°33'8,61''","77°53'15,41''",1312
+PE-APU,"Apurímac", ," ", ," ", , , 
+PE-ARE,"Arequipa", ," ", ," ", , , 
+PE-AYA,"Ayacucho", ," ", ," ", , , 
+PE-CAJ,"Cajamarca", ," ", ," ", , , 
+PE-CUS,"Cusco ", ," ", ," ", , , 
+PE-CAL,"El Callao", ," ", ," ", , , 
+PE-HUV,"Huancavelica", ," ", ," ", , , 
+PE-HUC,"Huánuco", ," ", ," ", , , 
+PE-ICA,"Ica",SAN JOSE DE LOS MOLINOS,"113010",HUAMANI,"CO - Meteorológica","13°50'34,8''","75°36'25,33''",790
+PE-JUN,"Junín", ," ", ," ", , , 
+PE-LAL,"La Libertad",LAREDO,"108068",TRUJILLO,"CO -  Meteorológica","8°6'43,29''","78°59'6,36''",44
+PE-LAM,"Lambayeque",LAMBAYEQUE,"106108",LAMBAYEQUE,"CP - Meteorológica","6°43'53,5''","79°54'35,41''",18
+PE-LIM,"Lima",SAN MARTIN DE PORRES,"112265",CALLAO / SAN MARTIN DE PORRES,"EAA - Meteorológica",12°0'32'',"77°5'4,1''",56
+PE-LIM,"Lima",SAN BORJA,"112193",SAN BORJA,"EAA - Meteorológica","12°6'31,06''","77°0'27,96''",136
+PE-LOR,"Loreto", ," ", ," ", , , 
+PE-MDD,"Madre de Dios", ," ", ," ", , , 
+PE-MOQ,"Moquegua", ," ", ," ", , , 
+PE-PAS,"Pasco", ," ", ," ", , , 
+PE-PIU,"Piura",CASTILLA,"105100",MIRAFLORES,"MAP - Meteorológica",5°10'31'',"80°36'59,55''",34
+PE-PUN,"Puno", ," ", ," ", , , 
+PE-SAM,"San Martín", ," ", ," ", , , 
+PE-TAC,"Tacna", ," ", ," ", , , 
+PE-TUM,"Tumbes",SAN JACINTO,"103036",RICA PLAYA,"CO - Meteorológica","3°48'42,84''","80°30'19,65''",68
+PE-UCA,"Ucayali", ," ", ," ", , , 
