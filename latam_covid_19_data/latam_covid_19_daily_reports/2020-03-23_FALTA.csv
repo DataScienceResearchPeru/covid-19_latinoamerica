@@ -74,7 +74,7 @@ Caldas,Colombia,,,,,,
 Caqueta,Colombia,,,,,,
 Casanare,Colombia,,,,,,
 Cauca,Colombia,,,,,,
-"Cesar ",Colombia,,,,,,
+Cesar ,Colombia,,,,,,
 Choco,Colombia,,,,,,
 Cordoba,Colombia,,,,,,
 Cundinamarca,Colombia,,,,,,
@@ -135,30 +135,30 @@ Santiago,Dominican Republic,,,,,,
 Santiago Rodriguez,Dominican Republic,,,,,,
 Santo Domingo,Dominican Republic,,,,,,
 Valverde,Dominican Republic,,,,,,
-Azuay,Ecuador,,,,,,
-Bolivar,Ecuador,,,,,,
-Canar,Ecuador,,,,,,
-Carchi,Ecuador,,,,,,
-Chimborazo,Ecuador,,,,,,
-Cotopaxi,Ecuador,,,,,,
-El Oro,Ecuador,,,,,,
-Esmeraldas,Ecuador,,,,,,
-Galapagos,Ecuador,,,,,,
-Guayas,Ecuador,,,,,,
-Imbabura,Ecuador,,,,,,
-Loja,Ecuador,,,,,,
-Los Rios,Ecuador,,,,,,
-Manabi,Ecuador,,,,,,
-Morona Santiago,Ecuador,,,,,,
-Napo,Ecuador,,,,,,
-Orellana,Ecuador,,,,,,
-Pastaza,Ecuador,,,,,,
-Pichincha,Ecuador,,,,,,
-Santa Elena,Ecuador,,,,,,
-Santo Domingo de los Tsachilas,Ecuador,,,,,,
-Sucumbios,Ecuador,,,,,,
-Tungurahua,Ecuador,,,,,,
-Zamora-Chinchipe,Ecuador,,,,,,
+Azuay,Ecuador,,,,,-2.9005499,-79.0045319
+Bolivar,Ecuador,,,,,-1.59263,-79.0009766
+Canar,Ecuador,,,,,-2.5606201,-78.9393997
+Carchi,Ecuador,,,,,0.81187,-77.7172699
+Chimborazo,Ecuador,,,,,-1.67098,-78.63333
+Cotopaxi,Ecuador,,,,,-0.93521,-78.6155396
+El Oro,Ecuador,,,,,-3.25861,-79.9605331
+Esmeraldas,Ecuador,,,,,0.9592,-79.6539688
+Galapagos,Ecuador,,,,,40.7,-3.3333
+Guayas,Ecuador,,,,,-2.16667,-79.9
+Imbabura,Ecuador,,,,,0.35171,-78.1223297
+Loja,Ecuador,,,,,-3.99313,-79.20422
+Los Rios,Ecuador,,,,,-1.55,-79.73333
+Manabi,Ecuador,,,,,-0.96212,-80.7127075
+Morona Santiago,Ecuador,,,,,-2.3086801,-78.111351
+Napo,Ecuador,,,,,-0.9938,-77.8128586
+Orellana,Ecuador,,,,,-0.46645,-76.9871902
+Pastaza,Ecuador,,,,,-1.48369,-78.0025711
+Pichincha,Ecuador,,,,,-0.22985,78.5249481
+Santa Elena,Ecuador,,,,,-2.2262199,-80.8587265
+Santo Domingo de los Tsachilas,Ecuador,,,,,-0.25305,-79.1753616
+Sucumbios,Ecuador,,,,,0.086,-76.8952789
+Tungurahua,Ecuador,,,,,-1.24908,-78.61675
+Zamora-Chinchipe,Ecuador,,,,,-4.0668502,-78.9548798
 Ahuachapan,El Salvador,,,,,,
 Cabanas,El Salvador,,,,,,
 Chalatenango,El Salvador,,,,,,
@@ -188,7 +188,7 @@ Lempira,Honduras,,,,,,
 Ocotepeque,Honduras,,,,,,
 Olancho,Honduras,,,,,,
 Santa Barbara,Honduras,,,,,,
-"Valle ",Honduras,,,,,,
+Valle ,Honduras,,,,,,
 Yoro,Honduras,,,,,,
 Aguascalientes,Mexico,2020-03-22T23:30:00-06:00,6,0,0,21.879823,-102.296047
 Baja California,Mexico,2020-03-22T23:30:00-06:00,13,0,0,32.641176,-115.475579
@@ -270,31 +270,31 @@ Canindeyu,Paraguay,,,,,,
 Presidente Hayes,Paraguay,,,,,,
 Alto Paraguay,Paraguay,,,,,,
 Boqueron,Paraguay,,,,,,
-Lima,Peru,,,,,,
-Loreto,Peru,,,,,,
-Lambayeque,Peru,,,,,,
-Callao,Peru,,,,,,
-Cusco,Peru,,,,,,
-Piura,Peru,,,,,,
-La Libertad,Peru,,,,,,
-Ancash,Peru,,,,,,
-Huanuco,Peru,,,,,,
-Arequipa,Peru,,,,,,
-Ica,Peru,,,,,,
-Madre de dios,Peru,,,,,,
-Tumbes,Peru,,,,,,
-Cajamarca,Peru,,,,,,
-Amazonas,Peru,,,,,,
-San Martin,Peru,,,,,,
-Ucayali,Peru,,,,,,
-Pasco,Peru,,,,,,
-Junin,Peru,,,,,,
-Huancavelica,Peru,,,,,,
-Ayacucho,Peru,,,,,,
-Apurimac,Peru,,,,,,
-Puno,Peru,,,,,,
-Moquegua,Peru,,,,,,
-Tacna,Peru,,,,,,
+Lima,Peru,,,,,-12.0431805,-77.0282364
+Loreto,Peru,,,,,-3.74912,-73.25383
+Lambayeque,Peru,,,,,-79.93284,-6.67387
+Callao,Peru,,,,,-12.0542,-77.1289
+Cusco,Peru,,,,,-13.5226402,-71.9673386
+Piura,Peru,,,,,-5.19722,-80.6267
+La Libertad,Peru,,,,,-8.1159897,-79.0299835
+Ancash,Peru,,,,,-9.5275,-77.5333
+Huanuco,Peru,,,,,-9.9306202,-76.2422333
+Arequipa,Peru,,,,,-16.3988895,-71.5350037
+Ica,Peru,,,,,-14.06777,-75.7286072
+Madre de dios,Peru,,,,,-12.5933104,-69.1891327
+Tumbes,Peru,,,,,-3.5669401,-80.4515305
+Cajamarca,Peru,,,,,-7.15639,-78.5156
+Amazonas,Peru,,,,,-77.10755,-11.82297
+San Martin,Peru,,,,,-12.0303,-77.0572
+Ucayali,Peru,,,,,-8.3791504,-74.5538712
+Pasco,Peru,,,,,-10.6674805,-76.2566833
+Junin,Peru,,,,,-76.01192,-11.18881
+Huancavelica,Peru,,,,,-12.7869,-74.9731
+Ayacucho,Peru,,,,,-13.1587801,-74.2232132
+Apurimac,Peru,,,,,-73,-14
+Puno,Peru,,,,,-70.0199,-15.8422
+Moquegua,Peru,,,,,-70.93567,-17.19832
+Tacna,Peru,,,,,-70.25362,-18.01465
 Artigas,Uruguay,,,,,,
 Canelones,Uruguay,,,,,,
 Cerro Largo,Uruguay,,,,,,
