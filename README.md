@@ -22,7 +22,7 @@
 | 12  | NICARAGUA          | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/2QQNfJB                                                                                               |
 | 13  | PANAMA             | SIN ENCARGADO                                                   | 2020-03-20    |
 | 14  | PARAGUAY           | PENDIENTE                                                       | 2020-03-03    |
-| 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-19    | https://bit.ly/2J5Wnpj                                                                                               |
+| 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-23    | https://bit.ly/2J5Wnpj                                                                                               |
 | 16  | URUGUAY            | SIN ENCARGADO                                                   | SIN ENCARGADO |
 | 17  | VENEZUELA          | [rendergraf](https://github.com/rendergraf)                     | 2020-03-03    | https://bit.ly/2J3E0Br https://bit.ly/3acdykY                                                                        |
 
