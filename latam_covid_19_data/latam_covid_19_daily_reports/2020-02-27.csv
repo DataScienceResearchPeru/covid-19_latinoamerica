@@ -115,63 +115,63 @@ CR-H,Heredia,Costa Rica,,0,0,0
 CR-L,Limon,Costa Rica,,0,0,0
 CR-P,Puntarenas,Costa Rica,,0,0,0
 CR-SJ,San Jose,Costa Rica,,0,0,0
-DO-02,Azua,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-03,Baoruco,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-04,Barahona,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-05,Dajabon,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-06,Distrito Nacional,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-08,Duarte,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-09,El Seibo,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-30,Elias Pina,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-10,Espaillat,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-11,Hato Mayor,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-07,Hermanas Mirabal,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-12,Independencia,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-13,La Altagracia,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-14,La Romana,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-28,La Vega,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-15,Maria Trinidad Sanchez,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-29,Monsenor Nouel,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-16,Monte Cristi,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-17,Monte Plata,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-18,Pedernales,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-19,Peravia,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-20,Puerto Plata,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-21,Samana,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-31,San Cristobal,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-22,San Jose de Ocoa,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-23,San Juan,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-24,San Pedro de Macoris,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-25,Sanchez Ramirez,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-26,Santiago,Dominican Republic,2020-03-01T16:00:00,0,0,0
-DO-32,Santiago Rodriguez,Dominican Republic,2020-03-01T16:00:00,0,0,0
+DO-02,Azua,Dominican Republic,,0,0,0
+DO-03,Baoruco,Dominican Republic,,0,0,0
+DO-04,Barahona,Dominican Republic,,0,0,0
+DO-05,Dajabon,Dominican Republic,,0,0,0
+DO-06,Distrito Nacional,Dominican Republic,,0,0,0
+DO-08,Duarte,Dominican Republic,,0,0,0
+DO-09,El Seibo,Dominican Republic,,0,0,0
+DO-30,Elias Pina,Dominican Republic,,0,0,0
+DO-10,Espaillat,Dominican Republic,,0,0,0
+DO-11,Hato Mayor,Dominican Republic,,0,0,0
+DO-07,Hermanas Mirabal,Dominican Republic,,0,0,0
+DO-12,Independencia,Dominican Republic,,0,0,0
+DO-13,La Altagracia,Dominican Republic,,0,0,0
+DO-14,La Romana,Dominican Republic,,0,0,0
+DO-28,La Vega,Dominican Republic,,0,0,0
+DO-15,Maria Trinidad Sanchez,Dominican Republic,,0,0,0
+DO-29,Monsenor Nouel,Dominican Republic,,0,0,0
+DO-16,Monte Cristi,Dominican Republic,,0,0,0
+DO-17,Monte Plata,Dominican Republic,,0,0,0
+DO-18,Pedernales,Dominican Republic,,0,0,0
+DO-19,Peravia,Dominican Republic,,0,0,0
+DO-20,Puerto Plata,Dominican Republic,,0,0,0
+DO-21,Samana,Dominican Republic,,0,0,0
+DO-31,San Cristobal,Dominican Republic,,0,0,0
+DO-22,San Jose de Ocoa,Dominican Republic,,0,0,0
+DO-23,San Juan,Dominican Republic,,0,0,0
+DO-24,San Pedro de Macoris,Dominican Republic,,0,0,0
+DO-25,Sanchez Ramirez,Dominican Republic,,0,0,0
+DO-26,Santiago,Dominican Republic,,0,0,0
+DO-32,Santiago Rodriguez,Dominican Republic,,0,0,0
 "DO-01
-",Santo Domingo,Dominican Republic,2020-03-01T16:00:00,1,0,0
-DO-27,Valverde,Dominican Republic,2020-03-01T16:00:00,0,0,0
-EC-A,Azuay,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-B,Bolivar,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-F,Canar,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-C,Carchi,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-H,Chimborazo,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-X,Cotopaxi,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-O,El Oro,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-E,Esmeraldas,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-W,Galapagos,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-G,Guayas,Ecuador,2020-03-01T16:00:00,1,0,0
-EC-I,Imbabura,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-L,Loja,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-R,Los Rios,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-M,Manabi,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-S,Morona Santiago,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-N,Napo,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-D,Orellana,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-Y,Pastaza,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-P,Pichincha,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-SE,Santa Elena,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-SD,Santo Domingo de los Tsachilas,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-U,Sucumbios,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-T,Tungurahua,Ecuador,2020-03-01T16:00:00,0,0,0
-EC-Z,Zamora-Chinchipe,Ecuador,2020-03-01T16:00:00,0,0,0
+",Santo Domingo,Dominican Republic,,0,0,0
+DO-27,Valverde,Dominican Republic,,0,0,0
+EC-A,Azuay,Ecuador,,0,0,0
+EC-B,Bolivar,Ecuador,,0,0,0
+EC-F,Canar,Ecuador,,0,0,0
+EC-C,Carchi,Ecuador,,0,0,0
+EC-H,Chimborazo,Ecuador,,0,0,0
+EC-X,Cotopaxi,Ecuador,,0,0,0
+EC-O,El Oro,Ecuador,,0,0,0
+EC-E,Esmeraldas,Ecuador,,0,0,0
+EC-W,Galapagos,Ecuador,,0,0,0
+EC-G,Guayas,Ecuador,,0,0,0
+EC-I,Imbabura,Ecuador,,0,0,0
+EC-L,Loja,Ecuador,,0,0,0
+EC-R,Los Rios,Ecuador,,0,0,0
+EC-M,Manabi,Ecuador,,0,0,0
+EC-S,Morona Santiago,Ecuador,,0,0,0
+EC-N,Napo,Ecuador,,0,0,0
+EC-D,Orellana,Ecuador,,0,0,0
+EC-Y,Pastaza,Ecuador,,0,0,0
+EC-P,Pichincha,Ecuador,,0,0,0
+EC-SE,Santa Elena,Ecuador,,0,0,0
+EC-SD,Santo Domingo de los Tsachilas,Ecuador,,0,0,0
+EC-U,Sucumbios,Ecuador,,0,0,0
+EC-T,Tungurahua,Ecuador,,0,0,0
+EC-Z,Zamora-Chinchipe,Ecuador,,0,0,0
 SV-AH,Ahuachapan,El Salvador,,0,0,0
 SV-CA,Cabanas,El Salvador,,0,0,0
 SV-CH,Chalatenango,El Salvador,,0,0,0
@@ -181,8 +181,8 @@ SV-PA,La Paz,El Salvador,,0,0,0
 SV-UN,La Unión,El Salvador,,0,0,0
 SV-MO,Morazan,El Salvador,,0,0,0
 SV-SM,San Miguel,El Salvador,,0,0,0
-SV-SS,San Salvador,El Salvador,"",0,0,0
-SV-SV,San Vicente,El Salvador,,0,0,0
+SV-SS,San Salvador,El Salvador,,0,0,0
+SV-SV,San Vicente,El Salvador,"",0,0,0
 SV-SA,Santa Ana,El Salvador,,0,0,0
 SV-SO,Sonsonate,El Salvador,,0,0,0
 SV-US,Usulutan,El Salvador,,0,0,0
@@ -204,38 +204,38 @@ HN-OL,Olancho,Honduras,,0,0,0
 HN-SB,Santa Barbara,Honduras,,0,0,0
 HN-VA,Valle,Honduras,,0,0,0
 HN-YO,Yoro,Honduras,,0,0,0
-MX-AGU,Aguascalientes,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-BCN,Baja California,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-BCS,Baja California Sur,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-CAM,Campeche,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-COA,Chiapas,Mexico,2020-03-22T23:30:00-06:00,1,0,0
-MX-COL,Chihuahua,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-CMX,Ciudad de Mexico,Mexico,2020-03-22T23:30:00-06:00,2,0,0
-MX-CHP,Coahuila,Mexico,2020-03-22T23:30:00-06:00,1,0,0
-MX-CHH,Colima,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-DUR,Durango,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-GUA,Guanajuato,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-GRO,Guerrero,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-HID,Hidalgo,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-JAL,Jalisco,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-MEX,Michoacan,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-MIC,Morelos,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-MOR,Mexico,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-NAY,Nayarit,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-NLE,Nuevo Leon,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-OAX,Oaxaca,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-PUE,Puebla,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-QUE,Queretaro,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-ROO,Quintana Roo,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-SLP,San Luis Potosi,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-SIN,Sinaloa,Mexico,2020-03-22T23:30:00-06:00,1,0,0
-MX-SON,Sonora,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-TAB,Tabasco,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-TAM,Tamaulipas,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-TLA,Tlaxcala,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-VER,Veracruz,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-YUC,Yucatan,Mexico,2020-03-22T23:30:00-06:00,0,0,0
-MX-ZAC,Zacatecas,Mexico,2020-03-22T23:30:00-06:00,0,0,0
+MX-AGU,Aguascalientes,Mexico,,0,0,0
+MX-BCN,Baja California,Mexico,,0,0,0
+MX-BCS,Baja California Sur,Mexico,,0,0,0
+MX-CAM,Campeche,Mexico,,0,0,0
+MX-COA,Chiapas,Mexico,,0,0,0
+MX-COL,Chihuahua,Mexico,,0,0,0
+MX-CMX,Ciudad de Mexico,Mexico,,0,0,0
+MX-CHP,Coahuila,Mexico,,0,0,0
+MX-CHH,Colima,Mexico,,0,0,0
+MX-DUR,Durango,Mexico,,0,0,0
+MX-GUA,Guanajuato,Mexico,,0,0,0
+MX-GRO,Guerrero,Mexico,,0,0,0
+MX-HID,Hidalgo,Mexico,,0,0,0
+MX-JAL,Jalisco,Mexico,,0,0,0
+MX-MEX,Michoacan,Mexico,,0,0,0
+MX-MIC,Morelos,Mexico,,0,0,0
+MX-MOR,Mexico,Mexico,,0,0,0
+MX-NAY,Nayarit,Mexico,,0,0,0
+MX-NLE,Nuevo Leon,Mexico,,0,0,0
+MX-OAX,Oaxaca,Mexico,,0,0,0
+MX-PUE,Puebla,Mexico,,0,0,0
+MX-QUE,Queretaro,Mexico,,0,0,0
+MX-ROO,Quintana Roo,Mexico,,0,0,0
+MX-SLP,San Luis Potosi,Mexico,,0,0,0
+MX-SIN,Sinaloa,Mexico,,0,0,0
+MX-SON,Sonora,Mexico,,0,0,0
+MX-TAB,Tabasco,Mexico,,0,0,0
+MX-TAM,Tamaulipas,Mexico,,0,0,0
+MX-TLA,Tlaxcala,Mexico,,0,0,0
+MX-VER,Veracruz,Mexico,,0,0,0
+MX-YUC,Yucatan,Mexico,,0,0,0
+MX-ZAC,Zacatecas,Mexico,,0,0,0
 NI-BO,Boaco,Nicaragua,,0,0,0
 NI-CA,Carazo,Nicaragua,,0,0,0
 NI-CI,Chinandega,Nicaragua,,0,0,0

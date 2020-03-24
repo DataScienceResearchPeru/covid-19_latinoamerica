@@ -1,16 +1,28 @@
-Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
-CABA,Argentina,,,,,,
-Buenos Aires,Argentina,,,,,,
-Chaco,Argentina,,,,,,
-Cordoba,Argentina,,,,,,
-Entre Rios,Argentina,,,,,,
-Rio Negro,Argentina,,,,,,
-Tiera del Fuego,Argentina,,,,,,
-Jujuy,Argentina,,,,,,
-Salta,Argentina,,,,,,
-San Luis,Argentina,,,,,,
-Santa Cruz,Argentina,,,,,,
-Santa Fe,Argentina,,,,,,
+ISO 3166-2 Code,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+AR-C,Ciudad Autonoma de Buenos Aires,Argentina,"",,,
+AR-B,Buenos Aires,Argentina,"",,,
+AR-K,Catamarca,Argentina,"",,,
+AR-H,Chaco,Argentina,"",,,
+AR-U,Chubut,Argentina,"",,,
+AR-X,Cordoba,Argentina,"",,,
+AR-W,Corrientes,Argentina,"",,,
+AR-E,Entre Rios,Argentina,"",,,
+AR-P,Formosa,Argentina,"",,,
+AR-Y,Jujuy,Argentina,"",,,
+AR-L,La Pampa,Argentina,"",,,
+AR-F,La Rioja,Argentina,"",,,
+AR-M,Mendoza,Argentina,"","","",""
+AR-N,Misiones,Argentina,"","","",""
+AR-Q,Neuquen,Argentina,"","","",""
+AR-R,Rio Negro,Argentina,"","","",""
+AR-A,Salta,Argentina,"","","",""
+AR-J,San Juan,Argentina,"","","",""
+AR-D,San Luis,Argentina,"","","",""
+AR-Z,Santa Cruz,Argentina,"","","",""
+AR-S,Santa Fe,Argentina,"","","",""
+AR-G,Santiago del Estero,Argentina,"","","",""
+AR-V,Tierra del Fuego,Argentina,"","","",""
+AR-T,Tucuman,Argentina,"","","",""
 Beni,Bolivia,2020-03-14T16:00:00,0,0,0,,
 Chuquisaca,Bolivia,2020-03-14T16:00:00,0,0,0,,
 Cochabamba,Bolivia,2020-03-14T16:00:00,1,0,0,,
