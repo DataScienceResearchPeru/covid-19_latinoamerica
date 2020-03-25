@@ -8,7 +8,7 @@
 
 | #   | Country            | User                                                            | Last Update   | Data Sources                                                                                                         |
 | --- | ------------------ | --------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1   | ARGENTINA          | SIN ENCARGADO                                                   | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy                                                                        |
+| 1   | ARGENTINA          | [martingra](https://github.com/martingra)                       | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy                                                                        |
 | 2   | BOLIVIA            | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/3bh1qz6                                                                                               |
 | 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-20    | https://bit.ly/2WuChNd                                                                                               |
 | 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-24    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf                                                                       |
