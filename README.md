@@ -10,7 +10,7 @@
 | --- | ------------------ | --------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1   | ARGENTINA          | [martingra](https://github.com/martingra)                       | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy                                                                        |
 | 2   | BOLIVIA            | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/3bh1qz6                                                                                               |
-| 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-20    | https://bit.ly/2WuChNd                                                                                               |
+| 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-25    | https://bit.ly/2WuChNd                                                                                               |
 | 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-25    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf                                                                       |
 | 5   | COLOMBIA           | ACTUALIZADO                                                     | 2020-03-21    | https://bit.ly/2xkYD9k https://bit.ly/2UsSu2U                                                                        |
 | 6   | COSTA RICA         | EN ESPERA                                                       | 2020-03-20    |
@@ -20,7 +20,7 @@
 | 10  | HONDURAS           | PENDIENTE                                                       | 2020-03-03    |
 | 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19) | 2020-03-24    | [Fuente](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov) |
 | 12  | NICARAGUA          | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/2QQNfJB                                                                                               |
-| 13  | PANAMA             | SIN ENCARGADO                                                   | 2020-03-20    |
+| 13  | PANAMA             | SIN ENCARGADO                                                   | 2020-03-20    | [Mapa Arcgis](https://geosocial.maps.arcgis.com/apps/opsdashboard/index.html#/2c6e932c690d467b85375af52b614472)      |
 | 14  | PARAGUAY           | PENDIENTE                                                       | 2020-03-03    |
 | 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-23    | https://bit.ly/2J5Wnpj                                                                                               |
 | 16  | URUGUAY            | SIN ENCARGADO                                                   | SIN ENCARGADO |
