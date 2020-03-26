@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
-AR-C,Ciudad Autonoma de Buenos Aires,Argentina,2020-03-25T02:05:00,146,2,43
-AR-B,Buenos Aires,Argentina,2020-03-25T02:05:01,101,2,1
+AR-C,Ciudad Autonoma de Buenos Aires,Argentina,2020-03-25T02:05:00,167,3,53
+AR-B,Buenos Aires,Argentina,2020-03-25T02:05:01,131,2,1
 AR-K,Catamarca,Argentina,2020-03-25T02:05:02,0,0,0
-AR-H,Chaco,Argentina,2020-03-25T02:05:03,41,2,0
+AR-H,Chaco,Argentina,2020-03-25T02:05:03,53,3,0
 AR-U,Chubut,Argentina,2020-03-25T02:05:04,0,0,0
-AR-X,Cordoba,Argentina,2020-03-25T02:05:05,34,0,0
+AR-X,Cordoba,Argentina,2020-03-25T02:05:05,49,0,0
 AR-W,Corrientes,Argentina,2020-03-25T02:05:06,3,0,0
-AR-E,Entre Rios,Argentina,2020-03-25T02:05:07,3,0,0
+AR-E,Entre Rios,Argentina,2020-03-25T02:05:07,6,0,0
 AR-P,Formosa,Argentina,2020-03-25T02:05:08,0,0,0
 AR-Y,Jujuy,Argentina,2020-03-25T02:05:09,1,0,0
 AR-L,La Pampa,Argentina,2020-03-25T02:05:10,1,0,0
 AR-F,La Rioja,Argentina,2020-03-25T02:05:11,0,0,0
-AR-M,Mendoza,Argentina,2020-03-25T02:05:12,5,0,0
+AR-M,Mendoza,Argentina,2020-03-25T02:05:12,6,0,0
 AR-N,Misiones,Argentina,2020-03-25T02:05:13,1,0,0
-AR-Q,Neuquen,Argentina,2020-03-25T02:05:14,3,0,0
+AR-Q,Neuquen,Argentina,2020-03-25T02:05:14,4,0,0
 AR-R,Rio Negro,Argentina,2020-03-25T02:05:15,4,0,0
 AR-A,Salta,Argentina,2020-03-25T02:05:16,1,0,0
 AR-J,San Juan,Argentina,2020-03-25T02:05:17,0,0,0
-AR-D,San Luis,Argentina,2020-03-25T02:05:18,1,0,0
-AR-Z,Santa Cruz,Argentina,2020-03-25T02:05:19,2,0,0
-AR-S,Santa Fe,Argentina,2020-03-25T02:05:20,20,0,0
+AR-D,San Luis,Argentina,2020-03-25T02:05:18,5,0,0
+AR-Z,Santa Cruz,Argentina,2020-03-25T02:05:19,7,0,0
+AR-S,Santa Fe,Argentina,2020-03-25T02:05:20,42,0,0
 AR-G,Santiago del Estero,Argentina,2020-03-25T02:05:21,1,0,0
-AR-V,Tierra del Fuego,Argentina,2020-03-25T02:05:21,10,0,0
-AR-T,Tucuman,Argentina,2020-03-25T02:05:22,7,0,0
+AR-V,Tierra del Fuego,Argentina,2020-03-25T02:05:21,11,0,0
+AR-T,Tucuman,Argentina,2020-03-25T02:05:22,9,0,0
 BO-B,Beni,Bolivia,,,,
 BO-H,Chuquisaca,Bolivia,,,,
 BO-C,Cochabamba,Bolivia,,,,
@@ -32,49 +32,49 @@ BO-N,Pando,Bolivia,,,,
 BO-P,Potosi,Bolivia,,,,
 BO-S,Santa Cruz,Bolivia,,,,
 BO-T,Tarija,Bolivia,,,,
-BR-AC,Acre,Brazil,2020-03-26T04:38:00,21,0,0
-BR-AL,Alagoas,Brazil,2020-03-26T04:38:00,10,0,0
-BR-AP,Amapa,Brazil,2020-03-26T04:38:00,1,0,0
-BR-AM,Amazonas,Brazil,2020-03-26T04:38:00,47,0,0
-BR-BA,Bahia,Brazil,2020-03-26T04:38:00,79,0,0
-BR-CE,Ceara,Brazil,2020-03-26T04:38:00,185,0,0
-BR-DF,Distrito Federal,Brazil,2020-03-26T04:38:00,177,0,0
+BR-AC,Acre,Brazil,2020-03-26T04:38:00,23,0,0
+BR-AL,Alagoas,Brazil,2020-03-26T04:38:00,11,0,0
+BR-AP,Amapa,Brazil,2020-03-26T04:38:00,2,0,0
+BR-AM,Amazonas,Brazil,2020-03-26T04:38:00,54,0,0
+BR-BA,Bahia,Brazil,2020-03-26T04:38:00,91,0,0
+BR-CE,Ceara,Brazil,2020-03-26T04:38:00,211,0,0
+BR-DF,Distrito Federal,Brazil,2020-03-26T04:38:00,191,0,0
 BR-ES,Espiritu Santo,Brazil,2020-03-26T04:38:00,40,0,0
 BR-GO,Goias,Brazil,2020-03-26T04:38:00,29,0,0
-BR-MA,Maranhao,Brazil,2020-03-26T04:38:00,5,0,0
-BR-MT,Mato Grosso,Brazil,2020-03-26T04:38:00,9,0,0
+BR-MA,Maranhao,Brazil,2020-03-26T04:38:00,8,0,0
+BR-MT,Mato Grosso,Brazil,2020-03-26T04:38:00,11,0,0
 BR-MS,Mato Grosso do Sul,Brazil,2020-03-26T04:38:00,24,0,0
-BR-MG,Minas Gerais,Brazil,2020-03-26T04:38:00,130,0,0
-BR-PA,Para,Brazil,2020-03-26T04:38:00,5,0,0
-BR-PB,Paraiba,Brazil,2020-03-26T04:38:00,3,0,0
-BR-PR,Parana,Brazil,2020-03-26T04:38:00,69,0,0
-BR-PE,Pernambuco,Brazil,2020-03-26T04:38:00,42,0,0
+BR-MG,Minas Gerais,Brazil,2020-03-26T04:38:00,133,0,0
+BR-PA,Para,Brazil,2020-03-26T04:38:00,7,0,0
+BR-PB,Paraiba,Brazil,2020-03-26T04:38:00,5,0,0
+BR-PR,Parana,Brazil,2020-03-26T04:38:00,97,0,0
+BR-PE,Pernambuco,Brazil,2020-03-26T04:38:00,46,0,0
 BR-PI,Piaui,Brazil,2020-03-26T04:38:00,8,0,0
-BR-RJ,Rio de Janeiro,Brazil,2020-03-26T04:38:00,303,0,0
+BR-RJ,Rio de Janeiro,Brazil,2020-03-26T04:38:00,370,0,0
 BR-RN,Rio Grande do Norte,Brazil,2020-03-26T04:38:00,14,0,0
-BR-RS,Rio Grande do Sul,Brazil,2020-03-26T04:38:00,113,0,0
+BR-RS,Rio Grande do Sul,Brazil,2020-03-26T04:38:00,162,0,0
 BR-RO,Rondonia,Brazil,2020-03-26T04:38:00,5,0,0
 BR-RR,Roraima,Brazil,2020-03-26T04:38:00,8,0,0
-BR-SC,Santa Catarina,Brazil,2020-03-26T04:38:00,110,0,0
-BR-SP,Sao Paulo,Brazil,2020-03-26T04:38:00,810,0,0
-BR-SE,Sergipe,Brazil,2020-03-26T04:38:00,15,0,0
+BR-SC,Santa Catarina,Brazil,2020-03-26T04:38:00,122,0,0
+BR-SP,Sao Paulo,Brazil,2020-03-26T04:38:00,862,0,0
+BR-SE,Sergipe,Brazil,2020-03-26T04:38:00,16,0,0
 BR-TO,Tocantins,Brazil,2020-03-26T04:38:00,7,0,0
-CL-AP,Arica y Parinacota,Chile,2020-03-24T23:51:54,2,0,0
-CL-TA,Tarapaca,Chile,2020-03-24T23:51:54,4,0,0
-CL-AN,Antofagasta,Chile,2020-03-24T23:51:54,13,0,0
-CL-AT,Atacama,Chile,2020-03-24T23:51:54,1,0,0
-CL-CO,Coquimbo,Chile,2020-03-24T23:51:54,11,0,0
-CL-VS,Valparaiso,Chile,2020-03-24T23:51:54,25,0,0
-CL-RM,Santiago,Chile,2020-03-24T23:51:54,540,2,0
-CL-LI,O'Higgins,Chile,2020-03-24T23:51:54,9,0,0
-CL-ML,Maule,Chile,2020-03-24T23:51:54,29,0,0
-CL-NB,Nuble,Chile,2020-03-24T23:51:54,105,0,0
-CL-BI,Biobio,Chile,2020-03-24T23:51:54,73,0,0
-CL-AR,Araucania,Chile,2020-03-24T23:51:54,59,0,0
-CL-LR,Los Rios,Chile,2020-03-24T23:51:54,6,0,0
-CL-LL,Los Lagos,Chile,2020-03-24T23:51:54,36,0,0
-CL-AI,Aysen,Chile,2020-03-24T23:51:54,1,0,0
-CL-MA,Magallanes,Chile,2020-03-24T23:51:54,8,0,0
+CL-AP,Arica y Parinacota,Chile,2020-03-26T01:43:11,2,0,0
+CL-TA,Tarapaca,Chile,2020-03-26T01:43:11,4,0,0
+CL-AN,Antofagasta,Chile,2020-03-26T01:43:11,19,0,0
+CL-AT,Atacama,Chile,2020-03-26T01:43:11,1,0,0
+CL-CO,Coquimbo,Chile,2020-03-26T01:43:11,12,0,0
+CL-VS,Valparaiso,Chile,2020-03-26T01:43:11,32,0,0
+CL-RM,Santiago,Chile,2020-03-26T01:43:11,682,2,0
+CL-LI,O'Higgins,Chile,2020-03-26T01:43:11,11,0,0
+CL-ML,Maule,Chile,2020-03-26T01:43:11,30,0,0
+CL-NB,Nuble,Chile,2020-03-26T01:43:11,111,0,0
+CL-BI,Biobio,Chile,2020-03-26T01:43:11,95,1,0
+CL-AR,Araucania,Chile,2020-03-26T01:43:11,74,0,0
+CL-LR,Los Rios,Chile,2020-03-26T01:43:11,11,0,0
+CL-LL,Los Lagos,Chile,2020-03-26T01:43:11,44,0,0
+CL-AI,Aysen,Chile,2020-03-26T01:43:11,1,0,0
+CL-MA,Magallanes,Chile,2020-03-26T01:43:11,13,0,0
 CO-AMA,Amazonas,Colombia,,,,
 CO-ANT,Antioquia,Colombia,,,,
 CO-ARA,Arauca,Colombia,,,,
@@ -327,27 +327,28 @@ UY-SJ,San Jose,Uruguay,,,,
 UY-SO,Soriano,Uruguay,,,,
 UY-TA,Tacuarembo,Uruguay,,,,
 UY-TT,Treinta y Tres,Uruguay,,,,
-VE-A,Caracas D.C.,Venezuela,2020-03-24T21:35:48,22,,
-VE-Z,Amazonas,Venezuela,2020-03-24T21:35:48,0,,
-VE-B,Anzoátegui,Venezuela,2020-03-24T21:35:48,2,,
-VE-C,Apure,Venezuela,2020-03-24T21:35:48,2,,
-VE-D,Aragua,Venezuela,2020-03-24T21:35:48,8,,
-VE-E,Barinas,Venezuela,2020-03-24T21:35:48,3,,
-VE-F,Bolívar,Venezuela,2020-03-24T21:35:48,0,,
-VE-G,Carabobo,Venezuela,2020-03-24T21:35:48,0,,
-VE-H,Cojedes,Venezuela,2020-03-24T21:35:48,1,,
-VE-Y,Delta Amacuro,Venezuela,2020-03-24T21:35:48,0,,
-VE-I,Falcón,Venezuela,2020-03-24T21:35:48,2,,
-VE-J,Guárico,Venezuela,2020-03-24T21:35:48,1,,
-VE-X,Vargas,Venezuela,2020-03-24T21:35:48,8,,
-VE-K,Lara,Venezuela,2020-03-24T21:35:48,4,,
-VE-L,Mérida,Venezuela,2020-03-24T21:35:48,1,,
-VE-M,Miranda,Venezuela,2020-03-24T21:35:48,32,,15
-VE-N,Monagas,Venezuela,2020-03-24T21:35:48,1,,
-VE-O,Nueva Esparta,Venezuela,2020-03-24T21:35:48,1,,
-VE-P,Portuguesa,Venezuela,2020-03-24T21:35:48,1,,
-VE-R,Sucre,Venezuela,2020-03-24T21:35:48,0,,
-VE-S,Táchira,Venezuela,2020-03-24T21:35:48,1,,
-VE-T,Trujillo,Venezuela,2020-03-24T21:35:48,0,,
-VE-U,Yaracuy,Venezuela,2020-03-24T21:35:48,0,,
-VE-V,Zulia,Venezuela,2020-03-24T21:35:48,1,,
+VE-A,Caracas D.C.,Venezuela,2020-03-25T20:13:44,23,,
+VE-Z,Amazonas,Venezuela,2020-03-25T20:13:44,0,,
+VE-B,Anzoátegui,Venezuela,2020-03-25T20:13:44,2,,
+VE-C,Apure,Venezuela,2020-03-25T20:13:44,2,,
+VE-D,Aragua,Venezuela,2020-03-25T20:13:44,12,,
+VE-E,Barinas,Venezuela,2020-03-25T20:13:44,3,,
+VE-F,Bolívar,Venezuela,2020-03-25T20:13:44,1,,
+VE-G,Carabobo,Venezuela,2020-03-25T20:13:44,0,,
+VE-H,Cojedes,Venezuela,2020-03-25T20:13:44,1,,
+VE-Y,Delta Amacuro,Venezuela,2020-03-25T20:13:44,0,,
+VE-I,Falcón,Venezuela,2020-03-25T20:13:44,2,,
+VE-J,Guárico,Venezuela,2020-03-25T20:13:44,1,,
+VE-X,Vargas,Venezuela,2020-03-25T20:13:44,8,,
+VE-K,Lara,Venezuela,2020-03-25T20:13:44,4,,
+VE-L,Mérida,Venezuela,2020-03-25T20:13:44,1,,
+VE-M,Miranda,Venezuela,2020-03-25T20:13:44,37,,15
+VE-N,Monagas,Venezuela,2020-03-25T20:13:44,1,,
+VE-O,Nueva Esparta,Venezuela,2020-03-25T20:13:44,1,,
+VE-P,Portuguesa,Venezuela,2020-03-25T20:13:44,1,,
+VE-R,Sucre,Venezuela,2020-03-25T20:13:44,0,,
+VE-S,Táchira,Venezuela,2020-03-25T20:13:44,1,,
+VE-T,Trujillo,Venezuela,2020-03-25T20:13:44,0,,
+VE-U,Yaracuy,Venezuela,2020-03-25T20:13:44,0,,
+VE-V,Zulia,Venezuela,2020-03-25T20:13:44,3,,
+VE-W,Los Roques,Venezuela,2020-03-25T20:13:44,2,,
