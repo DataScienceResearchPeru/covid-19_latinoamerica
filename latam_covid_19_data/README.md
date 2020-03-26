@@ -1,6 +1,4 @@
-# LATAM COVID-19 Data Repository by DSRP
-
-#### This repository is a part of an effort to make a [public repository ](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
+# LATAM Weather Data Repository per day
 
 <b>Contact Us: </b><br>
 
