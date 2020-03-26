@@ -1,23 +1,31 @@
 # LATAM COVID-19 Data Repository by DSRP
 
-#### This repository is a part of an effort to make a public repository [Clic here]([pablo.diazv@pucp.edu.pe](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261))
-
-
--   `City`: Ubicación geográfica nivel 3
--   `Province/State`: Ubicación geográfica nivel 2
--   `Country/Region`: Ubicación geográfica nivel 1
--   `Last Update`: Fecha de anuncio
--   `Confirmed`: Número de pacientes contagiados
--   `Deaths`: Número de muertes
--   `Recovered`: Número de pacientes recuperados
--   `Latitude`: UTM
--   `Longitude`: UTM
-
+#### This repository is a part of an effort to make a [public repository ](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
 
 <b>Contact Us: </b><br>
 
--   Email: [Send an e-mail](pablo.diazv@pucp.edu.pe)
--   Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
-<br><br>
+- Email: [Send an e-mail](pablo.diazv@pucp.edu.pe)
+- Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
+  <br><br>
+
+| #   | Country            | Type                                | Data                                                                                                                                                                                                                                                                                                                                                                  |
+| --- | ------------------ | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | ARGENTINA          | Open data                           | [SMN](https://www.smn.gob.ar/)                                                                                                                                                                                                                                                                                                                                        |
+| 2   | BOLIVIA            | Open data                           | [SENAMHI](http://senamhi.gob.bo/boletines)                                                                                                                                                                                                                                                                                                                            |
+| 3   | BRAZIL             | Request required                    | [INMET](http://www.inmet.gov.br/portal/index.php?r=bdmep/bdmep)                                                                                                                                                                                                                                                                                                       |
+| 4   | CHILE              | Open data                           | [METEOCHILE](https://climatologia.meteochile.gob.cl/application/informacion/buscadorDeEstaciones/)                                                                                                                                                                                                                                                                    |
+| 5   | COLOMBIA           | Open data                           | [IDEAM](http://dhime.ideam.gov.co/atencionciudadano/)                                                                                                                                                                                                                                                                                                                 |
+| 6   | COSTA RICA         | Payment required                    | [IMN](https://www.imn.ac.cr/web/imn/solicitud-de-servicios?p_auth=svB5D9uS&p_p_id=PortalIMNFormularioServicios_WAR_PortalIMNFormularioServiciosportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&_PortalIMNFormularioServicios_WAR_PortalIMNFormularioServiciosportlet__facesViewIdRender=%2Fviews%2FpagEnvioServicio.xhtml) |
+| 7   | DOMINICAN REPUBLIC | Payment required                    | [ONAMET](http://onamet.gob.do/index.php/servicios-m/item/262-datos-climatologicos)                                                                                                                                                                                                                                                                                    |
+| 8   | ECUADOR            | Open data - insufficient resolution | [INAMHI](http://186.42.174.236/InamhiEmas/#)                                                                                                                                                                                                                                                                                                                          |
+| 9   | EL SALVADOR        | No details                          | [SNET](http://www.snet.gob.sv/)                                                                                                                                                                                                                                                                                                                                       |
+| 10  | HONDURAS           | Website down                        | [SMN](http://www.smn.gob.hn/web)                                                                                                                                                                                                                                                                                                                                      |
+| 11  | MEXICO             | Open data                           | [CONAGUA](https://datos.gob.mx/busca/organization/conagua)                                                                                                                                                                                                                                                                                                            |
+| 12  | NICARAGUA          | Payment required                    | [INETER](https://servmet.ineter.gob.ni//Meteorologia/CatalogosyProductos.php)                                                                                                                                                                                                                                                                                         |
+| 13  | PANAMA             | Open data e-mail required           | [HIDROMET](http://www.hidromet.com.pa/open_data.php)                                                                                                                                                                                                                                                                                                                  |
+| 14  | PARAGUAY           | Payment required                    | [DMH](https://www.meteorologia.gov.py/servicio-publico/)                                                                                                                                                                                                                                                                                                              |
+| 15  | PERU               | Open data                           | [SENAMHI](https://senamhi.gob.pe/?&p=descarga-datos-hidrometeorologicos)                                                                                                                                                                                                                                                                                              |
+| 16  | URUGUAY            | Information request                 | [INUMET](https://www.inumet.gub.uy/institucional/transparencia/solicitud-informacion-meteorologica)                                                                                                                                                                                                                                                                   |
+| 17  | VENEZUELA          | No historical data                  | [INAMEH](http://www.inameh.gob.ve/web/)                                                                                                                                                                                                                                                                                                                               |
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
