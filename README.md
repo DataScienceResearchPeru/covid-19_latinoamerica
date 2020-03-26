@@ -2,7 +2,7 @@
 
 ### Daily update up to 20:00 GTM+0
 
-#### This repository is a part of an effort to make a public repository [Clic here](<[pablo.diazv@pucp.edu.pe](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)>)
+#### This repository is a part of an effort to make a public repository [Clic here](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
 
 <b>Contact Us: </b><br>
 
@@ -73,7 +73,5 @@ Estamos evaluando incluir también fecha de inicio de síntomas de cada paciente
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](.github/CONTRIBUTING.md)]
-
-
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
