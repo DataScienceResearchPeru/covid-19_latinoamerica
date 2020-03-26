@@ -1,2 +1,471 @@
-City,Province/State,Country/Region,Patient number,Age,Gender,First Symptoms,Date Confirmed,State,Latitude,Longitude,Hospital code
-,,,,,,,,,,,""
+ISO 3166-2 Code Country Confirmed,City,Province/State,Country/Region,Patient Code,Age,Gender,First Symptoms,Date Confirmed,State,Hospital code,ISO 3166-2 Code Country Origin,Country Origin,Type Contagion
+,Bogotá,Bogotá,Colombia,1,10 a 19,Femenino,,6/03/2020,Recovered,,"",Italia,Germane
+,Buga,Valle,Colombia,2,30 a 39,Masculino,,9/03/2020,Recovered,,"",España,Germane
+,Medellín,Antioquia,Colombia,3,50 a 59,Femenino,,9/03/2020,Recovered,,"",España,Germane
+,Medellín,Antioquia,Colombia,4,50 a 59,Masculino,,11/03/2020,In house,,"",Colombia,Germane
+,Medellín,Antioquia,Colombia,5,20 a 29,Masculino,,11/03/2020,Recovered,,"",Colombia,Germane
+,Itagüí,Antioquia,Colombia,6,20 a 29,Femenino,,11/03/2020,In house,,"",Colombia,Germane
+,Cartagena,Cartagena,Colombia,7,80 a 89,Femenino,,11/03/2020,Recovered,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,8,20 a 29,Femenino,,11/03/2020,Recovered,,"",España,Germane
+,Bogotá,Bogotá,Colombia,9,20 a 29,Femenino,,11/03/2020,Recovered,,"",España-Italia,Germane
+,Bogotá,Bogotá,Colombia,10,30 a 39,Femenino,,12/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,11,40 a 49,Femenino,,12/03/2020,In house,,"",España,Germane
+,Neiva,Huila,Colombia,12,70 a 79,Femenino,,12/03/2020,In house,,"",Italia,Germane
+,Neiva,Huila,Colombia,13,60 a 69,Femenino,,12/03/2020,In house,,"",Colombia,Germane
+,Palmira,Valle,Colombia,14,40 a 49,Masculino,,13/03/2020,In house,,"",España,Germane
+,Villavicencio,Meta,Colombia,15,30 a 39,Femenino,,13/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,16,60 a 69,Femenino,,13/03/2020,In hospital,,"",Italia-Ucrania-España,Germane
+,Bogotá,Bogotá,Colombia,17,70 a 79,Femenino,,14/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,18,50 a 59,Masculino,,14/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,19,50 a 59,Femenino,,14/03/2020,In house,,"",Colombia,Germane
+,Medellín,Antioquia,Colombia,20,20 a 29,Femenino,,14/03/2020,In house,,"",Colombia,Germane
+,Medellín,Antioquia,Colombia,21,20 a 29,Masculino,,14/03/2020,In house,,"",Colombia,Germane
+,Rionegro,Antioquia,Colombia,22,30 a 39,Masculino,,14/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,23,20 a 29,Masculino,,14/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,24,10 a 19,Femenino,,14/03/2020,In house,,"",España,Germane
+,Cali,Valle,Colombia,25,40 a 49,Masculino,,15/03/2020,In house,,"",España,Germane
+,Cartagena,Cartagena,Colombia,26,30 a 39,Femenino,,15/03/2020,In house,,"",Colombia,Germane
+,Cartagena,Cartagena,Colombia,27,30 a 39,Femenino,,15/03/2020,In house,,"",Colombia,Germane
+,Dosquebradas,Risaralda,Colombia,28,20 a 29,Masculino,,15/03/2020,In house,,"",Estados Unidos,Germane
+,Neiva,Huila,Colombia,29,50 a 59,Femenino,,15/03/2020,In house,,"",Colombia,Germane
+,Cúcuta,Norte de Santander,Colombia,30,40 a 49,Femenino,,15/03/2020,In house,,"",España,Germane
+,Manizales,Caldas,Colombia,31,60 a 69,Masculino,,15/03/2020,Recovered,,"",Estados Unidos,Germane
+,Medellín,Antioquia,Colombia,32,50 a 59,Masculino,,15/03/2020,In house,,"",España-Croacia-Bosnia,Germane
+,Bogotá,Bogotá,Colombia,33,50 a 59,Masculino,,15/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,34,20 a 29,Femenino,,15/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,35,50 a 59,Masculino,,15/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,36,70 a 79,Masculino,,15/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,37,40 a 49,Femenino,,15/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,38,20 a 29,Masculino,,15/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,39,50 a 59,Masculino,,15/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,40,20 a 29,Femenino,,15/03/2020,In house,,"",España,Germane
+,Neiva,Huila,Colombia,41,70 a 79,Masculino,,15/03/2020,In house,,"",Colombia,Germane
+,Neiva,Huila,Colombia,42,50 a 59,Femenino,,15/03/2020,In house,,"",Colombia,Germane
+,Neiva,Huila,Colombia,43,70 a 79,Masculino,,15/03/2020,In house,,"",Colombia,Germane
+,Neiva,Huila,Colombia,44,20 a 29,Femenino,,15/03/2020,In house,,"",Colombia,Germane
+,Subachoque,Cundinamarca,Colombia,45,20 a 29,Masculino,,15/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,46,40 a 49,Femenino,,16/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,47,30 a 39,Masculino,,16/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,48,30 a 39,Masculino,,16/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,49,40 a 49,Femenino,,16/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,50,60 a 69,Femenino,,16/03/2020,In house,,"",España,Germane
+,Soacha,Cundinamarca,Colombia,51,20 a 29,Masculino,,16/03/2020,In house,,"",Ecuador,Germane
+,Bogotá,Bogotá,Colombia,52,20 a 29,Masculino,,16/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,53,60 a 69,Masculino,,16/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,54,40 a 49,Femenino,,16/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,55,50 a 59,Femenino,,16/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,56,30 a 39,Masculino,,16/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,57,30 a 39,Masculino,,16/03/2020,In hospital,,"",Colombia,Germane
+,Cartagena,Cartagena,Colombia,58,20 a 29,Masculino,,17/03/2020,In house,,"",Colombia,Germane
+,Barranquilla,Barranquilla,Colombia,59,20 a 29,Masculino,,17/03/2020,In house,,"",España,Germane
+,Bucaramanga,Santander,Colombia,60,20 a 29,Masculino,,17/03/2020,In house,,"",España,Germane
+,Barranquilla,Barranquilla,Colombia,61,20 a 29,Masculino,,17/03/2020,In house,,"",España,Germane
+,Cali,Valle,Colombia,62,30 a 39,Masculino,,17/03/2020,In house,,"",Italia,Germane
+,Cali,Valle,Colombia,63,20 a 29,Femenino,,17/03/2020,In house,,"",Francia,Germane
+,Bogotá,Bogotá,Colombia,64,30 a 39,Masculino,,17/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,65,60 a 69,Masculino,,17/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,66,40 a 49,Femenino,,17/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,67,20 a 29,Masculino,,17/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,68,70 a 79,Masculino,,17/03/2020,In hospital,,"",España,Germane
+,Bogotá,Bogotá,Colombia,69,20 a 29,Femenino,,17/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,70,30 a 39,Femenino,,17/03/2020,In house,,"",Turquía-Grecia,Germane
+,Cúcuta,Norte de Santander,Colombia,71,50 a 59,Masculino,,17/03/2020,In house,,"",Colombia,Germane
+,Cúcuta,Norte de Santander,Colombia,72,20 a 29,Femenino,,17/03/2020,In house,,"",Colombia,Germane
+,Cartagena,Cartagena,Colombia,73,50 a 59,Femenino,,17/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,74,10 a 19,Masculino,,17/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,75,40 a 49,Femenino,,17/03/2020,In house,,"",Colombia,Germane
+,Armenia,Quindío,Colombia,76,40 a 49,Femenino,,18/03/2020,In house,,"",Italia,Germane
+,Armenia,Quindío,Colombia,77,10 a 19,Masculino,,18/03/2020,In house,,"",España,Germane
+,Palmira,Valle,Colombia,78,30 a 39,Femenino,,18/03/2020,In house,,"",Colombia,Germane
+,Palmira,Valle,Colombia,79,0 a 9,Masculino,,18/03/2020,In house,,"",Colombia,Germane
+,Palmira,Valle,Colombia,80,50 a 59,Femenino,,18/03/2020,In house,,"",Colombia,Germane
+,Cali,Valle,Colombia,81,40 a 49,Femenino,,18/03/2020,In house,,"",Estados Unidos,Germane
+,Cali,Valle,Colombia,82,50 a 59,Masculino,,18/03/2020,In house,,"",España,Germane
+,Cali,Valle,Colombia,83,50 a 59,Masculino,,18/03/2020,In house,,"",Estados Unidos,Germane
+,Cali,Valle,Colombia,84,50 a 59,Masculino,,18/03/2020,In house,,"",Ecuador,Germane
+,Cali,Valle,Colombia,85,40 a 49,Femenino,,18/03/2020,In house,,"",Colombia,Germane
+,Pereira,Risaralda,Colombia,86,20 a 29,Masculino,,18/03/2020,In house,,"",Francia,Germane
+,Cajicá,Cundinamarca,Colombia,87,40 a 49,Masculino,,18/03/2020,In house,,"",España,Germane
+,Tolima,Tolima,Colombia,88,30 a 39,Masculino,,18/03/2020,In house,,"",Colombia,Germane
+,Bucaramanga,Santander,Colombia,89,30 a 39,Femenino,,18/03/2020,In house,,"",España,Germane
+,Neiva,Huila,Colombia,90,50 a 59,Femenino,,18/03/2020,In house,,"",Colombia,Germane
+,Cajicá,Cundinamarca,Colombia,91,30 a 39,Masculino,,18/03/2020,In house,,"",España - Italia,Germane
+,Bogotá,Bogotá,Colombia,92,50 a 59,Masculino,,18/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,93,20 a 29,Femenino,,18/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,94,50 a 59,Masculino,,18/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,95,60 a 69,Masculino,,18/03/2020,In house,,"",Turquía,Germane
+,Bogotá,Bogotá,Colombia,96,30 a 39,Femenino,,18/03/2020,In house,,"",Estados Unidos,Germane
+,Cartagena,Cartagena,Colombia,97,20 a 29,Masculino,,18/03/2020,In house,,"",Estados Unidos,Germane
+,Cartagena,Cartagena,Colombia,98,20 a 29,Masculino,,18/03/2020,In house,,"",España,Germane
+,Ibagué,Tolima,Colombia,99,10 a 19,Masculino,,18/03/2020,In house,,"",Colombia,Germane
+,Pereira,Risaralda,Colombia,100,20 a 29,Masculino,,18/03/2020,In house,,"",España,Germane
+,Dosquebradas,Risaralda,Colombia,101,10 a 19,Masculino,,18/03/2020,In house,,"",España,Germane
+,Pereira,Risaralda,Colombia,102,70 a 79,Masculino,,18/03/2020,In house,,"",España,Germane
+,Cartagena,Cartagena,Colombia,103,20 a 29,Femenino,,19/03/2020,In house,,"",España,Germane
+,Barranquilla,Barranquilla,Colombia,104,40 a 49,Femenino,,19/03/2020,In house,,"",España,Germane
+,Palmira,Valle,Colombia,105,20 a 29,Femenino,,19/03/2020,In house,,"",España,Germane
+,Medellín,Antioquia,Colombia,106,40 a 49,Masculino,,19/03/2020,In house,,"",España,Germane
+,Medellín,Antioquia,Colombia,107,50 a 59,Masculino,,19/03/2020,In house,,"",España,Germane
+,Medellín,Antioquia,Colombia,108,50 a 59,Femenino,,19/03/2020,In hospital,,"",España,Germane
+,Bogotá,Bogotá,Colombia,109,50 a 59,Masculino,,19/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,110,60 a 69,Femenino,,19/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,111,60 a 69,Masculino,,19/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,112,30 a 39,Masculino,,19/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,113,30 a 39,Masculino,,19/03/2020,In house,,"",Italia-España-Turquía,Germane
+,Bogotá,Bogotá,Colombia,114,40 a 49,Masculino,,19/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,115,20 a 29,Masculino,,19/03/2020,In house,,"",Ecuador,Germane
+,Bogotá,Bogotá,Colombia,116,40 a 49,Femenino,,19/03/2020,In house,,"",Colombia,Germane
+,Cúcuta,Norte de Santander,Colombia,117,20 a 29,Masculino,,19/03/2020,In house,,"",España,Germane
+,Cúcuta,Norte de Santander,Colombia,118,50 a 59,Masculino,,19/03/2020,In house,,"",Colombia,Germane
+,Cúcuta,Norte de Santander,Colombia,119,20 a 29,Masculino,,19/03/2020,In house,,"",Colombia,Germane
+,Armenia,Quindío,Colombia,120,20 a 29,Femenino,,19/03/2020,In house,,"",Colombia,Germane
+,Popayán,Cauca,Colombia,121,60 a 69,Masculino,,19/03/2020,In house,,"",España,Germane
+,Popayán,Cauca,Colombia,122,30 a 39,Femenino,,19/03/2020,In house,,"",España,Germane
+,Viterbo,Caldas,Colombia,123,30 a 39,Femenino,,19/03/2020,In house,,"",España,Germane
+,Neiva,Huila,Colombia,124,70 a 79,Femenino,,19/03/2020,In house,,"",Colombia,Germane
+,Cartagena,Cartagena,Colombia,125,40 a 49,Masculino,,19/03/2020,In house,,"",España,Germane
+,Barranquilla,Barranquilla,Colombia,126,50 a 59,Femenino,,19/03/2020,In house,,"",Estados Unidos,Germane
+,Barranquilla,Barranquilla,Colombia,127,30 a 39,Femenino,,19/03/2020,In house,,"",Colombia,Germane
+,Soacha,Cundinamarca,Colombia,128,50 a 59,Masculino,,19/03/2020,In house,,"",Colombia,Germane
+,Pereira,Risaralda,Colombia,129,20 a 29,Femenino,,20/03/2020,In house,,"",España,Germane
+,Anapoima,Cundinamarca,Colombia,130,50 a 59,Masculino,,20/03/2020,In house,,"",Estados Unidos,Germane
+,Medellín,Antioquia,Colombia,131,20 a 29,Femenino,,20/03/2020,In house,,"",España - Italia,Germane
+,Cali,Valle,Colombia,132,30 a 39,Masculino,,20/03/2020,In house,,"",Colombia,Germane
+,Rionegro,Antioquia,Colombia,133,50 a 59,Masculino,,20/03/2020,In hospital,,"",Colombia,Germane
+,Medellín,Antioquia,Colombia,134,20 a 29,Masculino,,20/03/2020,In house,,"",Colombia,Germane
+,Medellín,Antioquia,Colombia,135,40 a 49,Femenino,,20/03/2020,In house,,"",Alemania,Germane
+,Medellín,Antioquia,Colombia,136,30 a 39,Masculino,,20/03/2020,In house,,"",Colombia,Germane
+,Medellín,Antioquia,Colombia,137,50 a 59,Masculino,,20/03/2020,In house,,"",España-Croacia,Germane
+,Bogotá,Bogotá,Colombia,138,50 a 59,Masculino,,20/03/2020,In house,,"",Ecuador,Germane
+,Bogotá,Bogotá,Colombia,139,30 a 39,Masculino,,20/03/2020,In house,,"",España-India,Germane
+,Bogotá,Bogotá,Colombia,140,30 a 39,Masculino,,20/03/2020,In house,,"",Brasil,Germane
+,Medellín,Antioquia,Colombia,141,60 a 69,Femenino,,20/03/2020,In house,,"",Croacia,Germane
+,Medellín,Antioquia,Colombia,142,30 a 39,Femenino,,20/03/2020,In house,,"",Italia- Jamaica- Panamá,Germane
+,Envigado,Antioquia,Colombia,143,40 a 49,Masculino,,20/03/2020,In house,,"",España-Italia,Germane
+,Medellín,Antioquia,Colombia,144,40 a 49,Masculino,,20/03/2020,In house,,"",Panamá,Germane
+,Medellín,Antioquia,Colombia,145,10 a 19,Femenino,,20/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,146,30 a 39,Femenino,,20/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,147,20 a 29,Femenino,,20/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,148,30 a 39,Masculino,,20/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,149,30 a 39,Masculino,,20/03/2020,In house,,"",Alemania-Estambul,Germane
+,Bogotá,Bogotá,Colombia,150,20 a 29,Femenino,,20/03/2020,In house,,"",Italia-España-Turquía,Germane
+,Bogotá,Bogotá,Colombia,151,40 a 49,Masculino,,20/03/2020,In house,,"",Ecuador,Germane
+,Bogotá,Bogotá,Colombia,152,60 a 69,Masculino,,20/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,153,50 a 59,Femenino,,20/03/2020,In hospital,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,154,40 a 49,Masculino,,20/03/2020,In house,,"",Jamaica-Panamá-Islas Caimán,Germane
+,Santa Marta,Santa Marta,Colombia,155,20 a 29,Masculino,,20/03/2020,In house,,"",España,Germane
+,Chía,Cundinamarca,Colombia,156,20 a 29,Femenino,,20/03/2020,In house,,"",España,Germane
+,Santa Marta,Santa Marta,Colombia,157,80 a 89,Masculino,,20/03/2020,Dead,,"",Colombia,Germane
+,Madrid,Cundinamarca,Colombia,158,30 a 39,Masculino,,20/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,159,30 a 39,Masculino,,20/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,160,40 a 49,Femenino,,20/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,161,20 a 29,Femenino,,20/03/2020,In house,,"",Estados Unidos,Germane
+,Bogotá,Bogotá,Colombia,162,20 a 29,Masculino,,20/03/2020,In house,,"",Estados Unidos-México,Germane
+,Bogotá,Bogotá,Colombia,163,20 a 29,Masculino,,20/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,164,60 a 69,Femenino,,20/03/2020,In house,,"",España,Germane
+,Bogotá,Bogotá,Colombia,165,30 a 39,Femenino,,20/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,166,40 a 49,Femenino,,20/03/2020,In house,,"",Colombia,Germane
+,Bogotá,Bogotá,Colombia,167,40 a 49,Femenino,,20/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,168,20 a 29,Femenino,,20/03/2020,In hospital,,"",España,""
+,Bogotá,Bogotá,Colombia,169,40 a 49,Femenino,,20/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,170,40 a 49,Femenino,,20/03/2020,In house,,"",Grecia,""
+,Bogotá,Bogotá,Colombia,171,20 a 29,Femenino,,20/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,172,20 a 29,Masculino,,20/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,173,60 a 69,Femenino,,20/03/2020,In house,,"",México,""
+,Bogotá,Bogotá,Colombia,174,70 a 79,Masculino,,20/03/2020,In house,,"",México,""
+,Bogotá,Bogotá,Colombia,175,20 a 29,Femenino,,20/03/2020,In house,,"",España,""
+,Ibagué,Tolima,Colombia,176,20 a 29,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
+,Cartagena,Cartagena,Colombia,177,20 a 29,Masculino,,21/03/2020,In house,,"",Colombia,""
+,Cartagena,Cartagena,Colombia,178,20 a 29,Masculino,,21/03/2020,In house,,"",Estados Unidos,""
+,Cartagena,Cartagena,Colombia,179,40 a 49,Femenino,,21/03/2020,In house,,"",Colombia,""
+,Villa del Rosario,Norte de Santander,Colombia,180,20 a 29,Masculino,,21/03/2020,In house,,"",España,""
+,Manizales,Caldas,Colombia,181,20 a 29,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
+,Cúcuta,Norte de Santander,Colombia,182,40 a 49,Femenino,,21/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,183,40 a 49,Femenino,,21/03/2020,In house,,"",Ecuador,""
+,Pereira,Risaralda,Colombia,184,40 a 49,Femenino,,21/03/2020,In hospital,,"",Estados Unidos,""
+,Palmira,Valle,Colombia,185,50 a 59,Femenino,,21/03/2020,In house,,"",Colombia,""
+,Palmira,Valle,Colombia,186,50 a 59,Femenino,,21/03/2020,In house,,"",España,""
+,Cali,Valle,Colombia,187,70 a 79,Masculino,,21/03/2020,In hospital,,"",Colombia,""
+,Cali,Valle,Colombia,188,70 a 79,Femenino,,21/03/2020,Dead,,"",Colombia,""
+,Cali,Valle,Colombia,189,80 a 89,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
+,Cali,Valle,Colombia,190,20 a 29,Masculino,,21/03/2020,In house,,"",España,""
+,Palmira,Valle,Colombia,191,10 a 19,Masculino,,21/03/2020,In house,,"",Estados Unidos,""
+,Cali,Valle,Colombia,192,30 a 39,Femenino,,21/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,193,50 a 59,Femenino,,21/03/2020,In house,,"",Italia,""
+,Palmira,Valle,Colombia,194,60 a 69,Femenino,,21/03/2020,In house,,"",España,""
+,Pereira,Risaralda,Colombia,195,60 a 69,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
+,Neiva,Huila,Colombia,196,50 a 59,Femenino,,21/03/2020,In house,,"",España,""
+,Cartagena,Cartagena,Colombia,197,50 a 59,Masculino,,21/03/2020,Dead,,"",Colombia,""
+,Medellín,Antioquia,Colombia,198,30 a 39,Masculino,,21/03/2020,In house,,"",España,""
+,Guarne,Antioquia,Colombia,199,20 a 29,Masculino,,21/03/2020,In house,,"",Estados Unidos,""
+,Cartagena,Cartagena,Colombia,200,50 a 59,Femenino,,21/03/2020,In hospital,,"",Colombia,""
+,Chía,Cundinamarca,Colombia,201,50 a 59,Femenino,,21/03/2020,In house,,"",España,""
+,Itaguí,Antioquia,Colombia,202,50 a 59,Masculino,,21/03/2020,In hospital,,"",Colombia,""
+,Barranquilla,Barranquilla,Colombia,203,20 a 29,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
+,Barranquilla,Barranquilla,Colombia,204,30 a 39,Masculino,,21/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,205,20 a 29,Masculino,,21/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,206,60 a 69,Femenino,,21/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,207,40 a 49,Masculino,,21/03/2020,In hospital,,"",Guatemala,""
+,Bogotá,Bogotá,Colombia,208,60 a 69,Masculino,,21/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,209,60 a 69,Femenino,,21/03/2020,In house,,"",Reino Unido,""
+,Bogotá,Bogotá,Colombia,210,50 a 59,Masculino,,21/03/2020,In house,,"",Turquía,""
+,Calarcá,Quindío,Colombia,211,20 a 29,Masculino,,22/03/2020,In house,,"",España,""
+,Armenia,Quindío,Colombia,212,50 a 59,Femenino,,22/03/2020,In house,,"",Colombia,""
+,Valledupar,Cesar,Colombia,213,30 a 39,Masculino,,22/03/2020,In house,,"",España,""
+,Pereira,Risaralda,Colombia,214,50 a 59,Femenino,,22/03/2020,In house,,"",Colombia,""
+,Pereira,Risaralda,Colombia,215,50 a 59,Femenino,,22/03/2020,In house,,"",Grecia,""
+,Dosquebradas,Risaralda,Colombia,216,40 a 49,Masculino,,22/03/2020,In house,,"",España,""
+,Pereira,Risaralda,Colombia,217,30 a 39,Masculino,,22/03/2020,In house,,"",España,""
+,La Dorada,Caldas,Colombia,218,20 a 29,Femenino,,22/03/2020,In house,,"",Colombia,""
+,Chinchiná,Caldas,Colombia,219,50 a 59,Masculino,,22/03/2020,In house,,"",España,""
+,Chinchiná,Caldas,Colombia,220,40 a 49,Femenino,,22/03/2020,In house,,"",Colombia,""
+,Bucaramanga,Santander,Colombia,221,50 a 59,Femenino,,22/03/2020,In house,,"",República Dominicana,""
+,San Andrés Islas,San Andrés Islas,Colombia,222,30 a 39,Masculino,,22/03/2020,In house,,"",Colombia,""
+,Pereira,Risaralda,Colombia,223,70 a 79,Femenino,,22/03/2020,In house,,"",Estados Unidos,""
+,Ibagué,Tolima,Colombia,224,10 a 19,Masculino,,22/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,225,20 a 29,Masculino,,22/03/2020,In house,,"",Colombia,""
+,Yumbo,Valle,Colombia,226,40 a 49,Femenino,,22/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,227,20 a 29,Masculino,,22/03/2020,In house,,"",Estados Unidos,""
+,Cali,Valle,Colombia,228,20 a 29,Masculino,,22/03/2020,In house,,"",España,""
+,Yopal,Casanare,Colombia,229,30 a 39,Femenino,,22/03/2020,In house,,"",Colombia,""
+,Armenia,Quindío,Colombia,230,30 a 39,Femenino,,22/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,231,40 a 49,Femenino,,22/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,232,50 a 59,Femenino,,22/03/2020,In hospital,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,233,60 a 69,Masculino,,22/03/2020,In hospital,,"",Colombia,""
+,Bogota,Bogotá,Colombia,234,40 a 49,Masculino,,22/03/2020,In hospital,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,235,40 a 49,Masculino,,22/03/2020,In house,,"",España,""
+,Guatapé,Antioquia,Colombia,236,50 a 59,Masculino,,22/03/2020,In hospital,,"",Colombia,""
+,Medellín,Antioquia,Colombia,237,30 a 39,Masculino,,22/03/2020,In house,,"",España,""
+,Medellín,Antioquia,Colombia,238,60 a 69,Femenino,,22/03/2020,In house,,"",España,""
+,Bello,Antioquia,Colombia,239,40 a 49,Masculino,,22/03/2020,In house,,"",España,""
+,Medellín,Antioquia,Colombia,240,30 a 39,Masculino,,22/03/2020,In hospital,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,241,50 a 59,Femenino,,23/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,242,40 a 49,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,243,40 a 49,Masculino,,23/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,244,50 a 59,Masculino,,23/03/2020,In house,,"",Panamá,""
+,Bogotá,Bogotá,Colombia,245,70 a 79,Femenino,,23/03/2020,In house,,"",Turquía - Grecia,""
+,Bogotá,Bogotá,Colombia,246,20 a 29,Masculino,,23/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,247,20 a 29,Masculino,,23/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,248,30 a 39,Femenino,,23/03/2020,In house,,"",República Dominicana,""
+,Bogotá,Bogotá,Colombia,249,30 a 39,Femenino,,23/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,250,70 a 79,Masculino,,23/03/2020,Dead,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,251,50 a 59,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,252,30 a 39,Femenino,,23/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,253,30 a 39,Femenino,,23/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,254,40 a 49,Femenino,,23/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,255,10 a 19,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,256,50 a 59,Femenino,,23/03/2020,In house,,"",Turquía,""
+,Bogotá,Bogotá,Colombia,257,80 a 89,Femenino,,23/03/2020,In hospital,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,258,20 a 29,Masculino,,23/03/2020,In house,,"",Turquía,""
+,Bogotá,Bogotá,Colombia,259,30 a 39,Masculino,,23/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,260,40 a 49,Femenino,,23/03/2020,In hospital,,"",Reino Unido,""
+,Bogotá,Bogotá,Colombia,261,60 a 69,Masculino,,23/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,262,30 a 39,Masculino,,23/03/2020,In house,,"",Isla Martín - Caribe,""
+,Medellín,Antioquia,Colombia,263,50 a 59,Masculino,,23/03/2020,In house,,"",España,""
+,Envigado,Antioquia,Colombia,264,30 a 39,Femenino,,23/03/2020,In house,,"",España,""
+,Cajicá,Cundinamarca,Colombia,265,50 a 59,Masculino,,23/03/2020,In house,,"",Ecuador,""
+,Cartagena,Cartagena,Colombia,266,80 a 89,Femenino,,23/03/2020,In hospital,,"",Colombia,""
+,Medellín,Antioquia,Colombia,267,20 a 29,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
+,Medellín,Antioquia,Colombia,268,30 a 39,Femenino,,23/03/2020,In house,,"",España,""
+,Chía,Cundinamarca,Colombia,269,50 a 59,Masculino,,23/03/2020,In house,,"",Colombia,""
+,Cartagena,Cartagena,Colombia,270,50 a 59,Femenino,,23/03/2020,In house,,"",Colombia,""
+,Medellín,Antioquia,Colombia,271,20 a 29,Femenino,,23/03/2020,In house,,"",España,""
+,Medellín,Antioquia,Colombia,272,40 a 49,Femenino,,23/03/2020,In house,,"",España,""
+,Medellín,Antioquia,Colombia,273,80 a 89,Masculino,,23/03/2020,In hospital,,"",Panama,""
+,Medellín,Antioquia,Colombia,274,30 a 39,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
+,Barbosa,Antioquia,Colombia,275,20 a 29,Femenino,,23/03/2020,In house,,"",España,""
+,Cota,Cundinamarca,Colombia,276,50 a 59,Masculino,,23/03/2020,In house,,"",Puerto Rico,""
+,Sabaneta,Antioquia,Colombia,277,30 a 39,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
+,Armenia,Quindío,Colombia,278,60 a 69,Masculino,,23/03/2020,In house,,"",España,""
+,Villamaría,Caldas,Colombia,279,20 a 29,Masculino,,23/03/2020,In house,,"",Ecuador,""
+,Palmira,Valle,Colombia,280,60 a 69,Femenino,,23/03/2020,In house,,"",España,""
+,Trujillo,Valle,Colombia,281,50 a 59,Masculino,,23/03/2020,In house,,"",España,""
+,Cali,Valle,Colombia,282,40 a 49,Masculino,,23/03/2020,In hospital,,"",Estados Unidos,""
+,Cali,Valle,Colombia,283,50 a 59,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
+,Cali,Valle,Colombia,284,60 a 69,Femenino,,23/03/2020,In house,,"",España,""
+,Palmira,Valle,Colombia,285,40 a 49,Femenino,,23/03/2020,In house,,"",Colombia,""
+,Neiva,Huila,Colombia,286,80 a 89,Femenino,,23/03/2020,In hospital,,"",Colombia,""
+,Soacha,Cundinamarca,Colombia,287,20 a 29,Masculino,,23/03/2020,In house,,"",Colombia,""
+,Pacho,Cundinamarca,Colombia,288,20 a 29,Masculino,,23/03/2020,In house,,"",España,""
+,Dosquebradas,Risaralda,Colombia,289,40 a 49,Femenino,,23/03/2020,In house,,"",Colombia,""
+,Santa Marta,Santa Marta,Colombia,290,60 a 69,Femenino,,23/03/2020,In hospital,,"",Colombia,""
+,El Retiro,Antioquia,Colombia,291,20 a 29,Femenino,,23/03/2020,In house,,"",España,""
+,Medellín,Antioquia,Colombia,292,40 a 49,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
+,Medellín,Antioquia,Colombia,293,30 a 39,Femenino,,23/03/2020,In house,,"",Ecuador,""
+,Medellín,Antioquia,Colombia,294,30 a 39,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
+,Medellín,Antioquia,Colombia,295,40 a 49,Masculino,,23/03/2020,In house,,"",Colombia,""
+,Medellín,Antioquia,Colombia,296,20 a 29,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
+,Envigado,Antioquia,Colombia,297,20 a 29,Masculino,,23/03/2020,In house,,"",Reino Unido,""
+,Villavicencio,Meta,Colombia,298,50 a 59,Masculino,,23/03/2020,In house,,"",Ecuador,""
+,Villavicencio,Meta,Colombia,299,60 a 69,Femenino,,23/03/2020,In house,,"",Ecuador,""
+,Medellín,Antioquia,Colombia,300,20 a 29,Femenino,,23/03/2020,In house,,"",Turquía,""
+,Apartado,Antioquia,Colombia,301,20 a 29,Femenino,,23/03/2020,In house,,"",Turquía,""
+,Villavicencio,Meta,Colombia,302,30 a 39,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
+,Itagüí,Antioquia,Colombia,303,70 a 79,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
+,Bello,Antioquia,Colombia,304,30 a 39,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
+,Villavicencio,Meta,Colombia,305,20 a 29,Masculino,,23/03/2020,In house,,"",Ecuador,""
+,Rionegro,Antioquia,Colombia,306,20 a 29,Masculino,,23/03/2020,In house,,"",Brasil,""
+,Bogotá,Bogotá,Colombia,307,30 a 39,Masculino,,24/03/2020,In house,,"",Chile,""
+,Bogotá,Bogotá,Colombia,308,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,309,50 a 59,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,310,20 a 29,Femenino,,24/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,311,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,312,10 a 19,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,313,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Ipiales,Nariño,Colombia,314,60 a 69,Masculino,,24/03/2020,In house,,"",Ecuador,""
+,Cúcuta,Norte de Santander,Colombia,315,40 a 49,Masculino,,24/03/2020,In house,,"",Canadá,""
+,Cúcuta,Norte de Santander,Colombia,316,10 a 19,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
+,Mosquera,Cundinamarca,Colombia,317,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cucuta,Norte de Santander,Colombia,318,70 a 79,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Ibagué,Tolima,Colombia,319,60 a 69,Femenino,,24/03/2020,In house,,"",España,""
+,Ibagué,Tolima,Colombia,320,50 a 59,Masculino,,24/03/2020,In house,,"",España,""
+,Ibagué,Tolima,Colombia,321,20 a 29,Femenino,,24/03/2020,In house,,"",Estados Unidos,""
+,Ibagué,Tolima,Colombia,322,50 a 59,Femenino,,24/03/2020,In house,,"",España,""
+,Viterbo,Caldas,Colombia,323,10 a 19,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Barranquilla,Barranquilla,Colombia,324,50 a 59,Masculino,,24/03/2020,In house,,"",Panama,""
+,Barranquilla,Barranquilla,Colombia,325,10 a 19,Femenino,,24/03/2020,In house,,"",España,""
+,Pereira,Risaralda,Colombia,326,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Pereira,Risaralda,Colombia,327,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Valledupar,Cesar,Colombia,328,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cartagena,Cartagena,Colombia,329,50 a 59,Femenino,,24/03/2020,In house,,"",España,""
+,Cartagena,Cartagena,Colombia,330,40 a 49,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,331,30 a 39,Masculino,,24/03/2020,In house,,"",Costa Rica,""
+,Cali,Valle,Colombia,332,30 a 39,Femenino,,24/03/2020,In house,,"",España,""
+,Pereira,Risaralda,Colombia,333,70 a 79,Masculino,,24/03/2020,In house,,"",España,""
+,Cali,Valle,Colombia,334,20 a 29,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,335,50 a 59,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cartagena,Cartagena,Colombia,336,20 a 29,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,337,20 a 29,Masculino,,24/03/2020,In house,,"",Colombia,""
+,La Unión,Valle,Colombia,338,50 a 59,Femenino,,24/03/2020,In house,,"",Reino Unido,""
+,Cartago,Valle,Colombia,339,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
+,Cartagena,Cartagena,Colombia,340,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Neiva,Huila,Colombia,341,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,342,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,343,20 a 29,Femenino,,24/03/2020,In house,,"",Estados Unidos,""
+,Cali,Valle,Colombia,344,50 a 59,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,345,50 a 59,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,346,80 a 89,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Villavicencio,Meta,Colombia,347,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
+,Cali,Valle,Colombia,348,30 a 39,Femenino,,24/03/2020,In house,,"",Estados Unidos,""
+,Cali,Valle,Colombia,349,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Fusagasugá,Cundinamarca,Colombia,350,50 a 59,Masculino,,24/03/2020,In house,,"",Turquía,""
+,Sopó,Cundinamarca,Colombia,351,50 a 59,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Villeta,Cundinamarca,Colombia,352,30 a 39,Masculino,,24/03/2020,In house,,"",España,""
+,Palermo,Huila,Colombia,353,40 a 49,Masculino,,24/03/2020,In house,,"",Ecuador,""
+,San Pedro,Valle,Colombia,354,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Villeta,Cundinamarca,Colombia,355,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
+,Anapoima,Cundinamarca,Colombia,356,30 a 39,Masculino,,24/03/2020,In house,,"",España,""
+,Cali,Valle,Colombia,357,40 a 49,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,358,50 a 59,Femenino,,24/03/2020,In house,,"",España,""
+,Neiva,Huila,Colombia,359,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,360,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Villavicencio,Meta,Colombia,361,60 a 69,Femenino,,24/03/2020,In hospital,,"",España,""
+,Cali,Valle,Colombia,362,40 a 49,Masculino,,24/03/2020,In house,,"",Ecuador,""
+,Cali,Valle,Colombia,363,20 a 29,Masculino,,24/03/2020,In house,,"",España,""
+,Cali,Valle,Colombia,364,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,365,60 a 69,Masculino,,24/03/2020,In house,,"",España,""
+,Cali,Valle,Colombia,366,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Cali,Valle,Colombia,367,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Armenia,Quindío,Colombia,368,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Darién,Valle,Colombia,369,40 a 49,Masculino,,24/03/2020,In house,,"",España,""
+,Funza,Cundinamarca,Colombia,370,60 a 69,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Santa Marta,Santa Marta,Colombia,371,80 a 89,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Manizales,Caldas,Colombia,372,70 a 79,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
+,Cartagena,Cartagena,Colombia,373,30 a 39,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
+,Cali,Valle,Colombia,374,20 a 29,Masculino,,24/03/2020,In hospital,,"",Colombia,""
+,Cali,Valle,Colombia,375,20 a 29,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Popayán,Cauca,Colombia,376,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Tuluá,Valle,Colombia,377,50 a 59,Masculino,,24/03/2020,In house,,"",Ecuador,""
+,Tuluá,Valle,Colombia,378,40 a 49,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,379,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,380,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,381,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,382,50 a 59,Femenino,,24/03/2020,In house,,"",Puerto Rico,""
+,Bogotá,Bogotá,Colombia,383,60 a 69,Masculino,,24/03/2020,In house,,"",Puerto Rico,""
+,Bogotá,Bogotá,Colombia,384,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,385,50 a 59,Masculino,,24/03/2020,In house,,"",México,""
+,Bogotá,Bogotá,Colombia,386,50 a 59,Masculino,,24/03/2020,In house,,"",Venezuela,""
+,Bogotá,Bogotá,Colombia,387,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,388,20 a 29,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,389,70 a 79,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,390,70 a 79,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,391,40 a 49,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,392,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,393,30 a 39,Masculino,,24/03/2020,In house,,"",México,""
+,Bogotá,Bogotá,Colombia,394,60 a 69,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
+,Bogotá,Bogotá,Colombia,395,40 a 49,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,396,40 a 49,Femenino,,24/03/2020,In house,,"",Canadá,""
+,Bogotá,Bogotá,Colombia,397,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,398,50 a 59,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,399,20 a 29,Masculino,,24/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,400,60 a 69,Femenino,,24/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,401,30 a 39,Femenino,,24/03/2020,In house,,"",Reino Unido,""
+,Bogotá,Bogotá,Colombia,402,70 a 79,Femenino,,24/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,403,20 a 29,Masculino,,24/03/2020,In house,,"",México,""
+,Bogotá,Bogotá,Colombia,404,50 a 59,Masculino,,24/03/2020,In house,,"",Puerto Rico,""
+,Bogotá,Bogotá,Colombia,405,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,406,20 a 29,Masculino,,24/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,407,20 a 29,Femenino,,24/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,408,40 a 49,Masculino,,24/03/2020,In house,,"",Ecuador,""
+,Bogotá,Bogotá,Colombia,409,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,410,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,411,20 a 29,Femenino,,24/03/2020,In house,,"",México,""
+,Bogotá,Bogotá,Colombia,412,50 a 59,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,413,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,414,40 a 49,Masculino,,24/03/2020,In house,,"",Brasil,""
+,Bogotá,Bogotá,Colombia,415,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,416,30 a 39,Masculino,,24/03/2020,In house,,"",España,""
+,Bogotá,Bogotá,Colombia,417,50 a 59,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,418,60 a 69,Femenino,,24/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,419,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
+,Santa Marta,Santa Marta,Colombia,420,50 a 59,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Soledad,Atlántico,Colombia,421,20 a 29,Femenino,,25/03/2020,In hospital,,"",Colombia,""
+,Cartagena,Cartagena,Colombia,422,50 a 59,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Pereira,Risaralda,Colombia,423,20 a 29,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Pereira,Risaralda,Colombia,424,60 a 69,Masculino,,25/03/2020,In house,,"",Estados Unidos,""
+,Cali,Valle,Colombia,425,80 a 89,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Cartagena,Cartagena,Colombia,426,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Cartagena,Cartagena,Colombia,427,50 a 59,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Ibagué,Tolima,Colombia,428,40 a 49,Masculino,,25/03/2020,In house,,"",Estados Unidos,""
+,El Dovio,Valle,Colombia,429,40 a 49,Masculino,,25/03/2020,In house,,"",Italia,""
+,Cartagena,Cartagena,Colombia,430,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Armenia,Quindío,Colombia,431,50 a 59,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Palmira,Valle,Colombia,432,0 a 9,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Armenia,Quindío,Colombia,433,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Barranquilla,Barranquilla,Colombia,434,20 a 29,Masculino,,25/03/2020,In house,,"",Estados Unidos,""
+,Armenia,Quindío,Colombia,435,10 a 19,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Cartagena,Cartagena,Colombia,436,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Cúcuta,Norte de Santander,Colombia,437,60 a 69,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Medellín,Antioquia,Colombia,438,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
+,La Dorada,Caldas,Colombia,439,20 a 29,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Cúcuta,Norte de Santander,Colombia,440,70 a 79,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,441,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,442,50 a 59,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,443,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Medellín,Antioquia,Colombia,444,30 a 39,Masculino,,25/03/2020,In house,,"",Brasil,""
+,Santana,Boyacá,Colombia,445,50 a 59,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,446,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Cota,Cundinamarca,Colombia,447,50 a 59,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,448,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Popayán,Cauca,Colombia,449,40 a 49,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Medellín,Antioquia,Colombia,450,20 a 29,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Bucaramanga,Santander,Colombia,451,30 a 39,Femenino,,25/03/2020,In house,,"",México,""
+,Bello,Antioquia,Colombia,452,30 a 39,Femenino,,25/03/2020,In house,,"",España,""
+,Manizales,Caldas,Colombia,453,20 a 29,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Bogotá,Bogotá,Colombia,454,50 a 59,Femenino,,25/03/2020,In house,,"",España,""
+,Cali,Valle,Colombia,455,30 a 39,Femenino,,25/03/2020,In house,,"",Estados Unidos,""
+,Palmira,Valle,Colombia,456,50 a 59,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Villavicencio,Meta,Colombia,457,20 a 29,Masculino,,25/03/2020,In house,,"",Estados Unidos,""
+,Popayán,Cauca,Colombia,458,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Popayán,Cauca,Colombia,459,20 a 29,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Armenia,Quindío,Colombia,460,70 a 79,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Cúcuta,Norte de Santander,Colombia,461,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Frontino,Antioquia,Colombia,462,10 a 19,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Barranquilla,Barranquilla,Colombia,463,10 a 19,Femenino,,25/03/2020,In house,,"",España,""
+,Medellín,Antioquia,Colombia,464,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Medellín,Antioquia,Colombia,465,20 a 29,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Medellín,Antioquia,Colombia,466,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Cúcuta,Norte de Santander,Colombia,467,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
+,Popayán,Cauca,Colombia,468,0 a 9,Femenino,,25/03/2020,In hospital,,"",Colombia,""
+,Popayán,Cauca,Colombia,469,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
+,Popayán,Cauca,Colombia,470,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
