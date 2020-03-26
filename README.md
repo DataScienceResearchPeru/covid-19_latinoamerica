@@ -4,6 +4,12 @@
 
 #### This repository is a part of an effort to make a public repository [Clic here](<[pablo.diazv@pucp.edu.pe](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)>)
 
+<b>Contact Us: </b><br>
+
+- Email: [Send an e-mail](pablo.diazv@pucp.edu.pe)
+- Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
+  <br><br>
+
 #### Tabla 1. Data resources for each country
 
 | #   | Country            | User                                                            | Last Update   | Data Sources                                                                                                         |
@@ -68,10 +74,6 @@ Estamos evaluando incluir también fecha de inicio de síntomas de cada paciente
 
 This project exists thanks to all the people who contribute. [[Contribute](.github/CONTRIBUTING.md)]
 
-<b>Contact Us: </b><br>
 
-- Email: [Send an e-mail](pablo.diazv@pucp.edu.pe)
-- Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
-  <br><br>
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
