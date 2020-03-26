@@ -32,33 +32,33 @@ BO-N,Pando,Bolivia,,0,0,0
 BO-P,Potosi,Bolivia,,0,0,0
 BO-S,Santa Cruz,Bolivia,,0,0,0
 BO-T,Tarija,Bolivia,,0,0,0
-BR-AC,Acre,Brazil,,0,0,0
-BR-AL,Alagoas,Brazil,,0,0,0
-BR-AP,Amapa,Brazil,,0,0,0
-BR-AM,Amazonas,Brazil,,0,0,0
-BR-BA,Bahia,Brazil,,0,0,0
-BR-CE,Ceara,Brazil,,0,0,0
-BR-DF,Distrito Federal,Brazil,,0,0,0
-BR-ES,Espiritu Santo,Brazil,,0,0,0
-BR-GO,Goias,Brazil,,0,0,0
-BR-MA,Maranhao,Brazil,,0,0,0
-BR-MT,Mato Grosso,Brazil,,0,0,0
-BR-MS,Mato Grosso do Sul,Brazil,,0,0,0
-BR-MG,Minas Gerais,Brazil,,0,0,0
-BR-PA,Para,Brazil,,0,0,0
-BR-PB,Paraiba,Brazil,,0,0,0
-BR-PR,Parana,Brazil,,0,0,0
-BR-PE,Pernambuco,Brazil,,0,0,0
-BR-PI,Piaui,Brazil,,0,0,0
-BR-RJ,Rio de Janeiro,Brazil,,0,0,0
-BR-RN,Rio Grande do Norte,Brazil,,0,0,0
-BR-RS,Rio Grande do Sul,Brazil,,0,0,0
-BR-RO,Rondonia,Brazil,,0,0,0
-BR-RR,Roraima,Brazil,,0,0,0
-BR-SC,Santa Catarina,Brazil,,0,0,0
-BR-SP,Sao Paulo,Brazil,,0,0,0
-BR-SE,Sergipe,Brazil,,0,0,0
-BR-TO,Tocantins,Brazil,,0,0,0
+BR-AC,Acre,Brazil,2020-03-26T04:38:00,0,0,0
+BR-AL,Alagoas,Brazil,2020-03-26T04:38:00,0,0,0
+BR-AP,Amapa,Brazil,2020-03-26T04:38:00,0,0,0
+BR-AM,Amazonas,Brazil,2020-03-26T04:38:00,0,0,0
+BR-BA,Bahia,Brazil,2020-03-26T04:38:00,0,0,0
+BR-CE,Ceara,Brazil,2020-03-26T04:38:00,0,0,0
+BR-DF,Distrito Federal,Brazil,2020-03-26T04:38:00,0,0,0
+BR-ES,Espiritu Santo,Brazil,2020-03-26T04:38:00,0,0,0
+BR-GO,Goias,Brazil,2020-03-26T04:38:00,0,0,0
+BR-MA,Maranhao,Brazil,2020-03-26T04:38:00,0,0,0
+BR-MT,Mato Grosso,Brazil,2020-03-26T04:38:00,0,0,0
+BR-MS,Mato Grosso do Sul,Brazil,2020-03-26T04:38:00,0,0,0
+BR-MG,Minas Gerais,Brazil,2020-03-26T04:38:00,0,0,0
+BR-PA,Para,Brazil,2020-03-26T04:38:00,0,0,0
+BR-PB,Paraiba,Brazil,2020-03-26T04:38:00,0,0,0
+BR-PR,Parana,Brazil,2020-03-26T04:38:00,0,0,0
+BR-PE,Pernambuco,Brazil,2020-03-26T04:38:00,0,0,0
+BR-PI,Piaui,Brazil,2020-03-26T04:38:00,0,0,0
+BR-RJ,Rio de Janeiro,Brazil,2020-03-26T04:38:00,0,0,0
+BR-RN,Rio Grande do Norte,Brazil,2020-03-26T04:38:00,0,0,0
+BR-RS,Rio Grande do Sul,Brazil,2020-03-26T04:38:00,0,0,0
+BR-RO,Rondonia,Brazil,2020-03-26T04:38:00,0,0,0
+BR-RR,Roraima,Brazil,2020-03-26T04:38:00,0,0,0
+BR-SC,Santa Catarina,Brazil,2020-03-26T04:38:00,0,0,0
+BR-SP,Sao Paulo,Brazil,2020-03-26T04:38:00,1,0,0
+BR-SE,Sergipe,Brazil,2020-03-26T04:38:00,0,0,0
+BR-TO,Tocantins,Brazil,2020-03-26T04:38:00,0,0,0
 CL-AP,Arica y Parinacota,Chile,,0,0,0
 CL-TA,Tarapaca,Chile,,0,0,0
 CL-AN,Antofagasta,Chile,,0,0,0
@@ -180,7 +180,7 @@ SV-PA,La Paz,El Salvador,,0,0,0
 SV-UN,La Unión,El Salvador,,0,0,0
 SV-MO,Morazan,El Salvador,,0,0,0
 SV-SM,San Miguel,El Salvador,,0,0,0
-SV-SS,San Salvador,El Salvador,"",0,0,0
+SV-SS,San Salvador,El Salvador,,0,0,0
 SV-SV,San Vicente,El Salvador,,0,0,0
 SV-SA,Santa Ana,El Salvador,,0,0,0
 SV-SO,Sonsonate,El Salvador,,0,0,0
