@@ -23,7 +23,7 @@
 | 11  | MEXICO             |                                                                         |
 | 12  | NICARAGUA          |                                                                         |
 | 13  | PANAMA             |                                                                         |
-| 14  | PARAGUAY           |                                                                         |
+| 14  | PARAGUAY           | [MSPyBS](https://www.datos.gov.py/dataset/establecimientos-de-salud)    |
 | 15  | PERU               | [MINSA - IPRESS](https://www.datosabiertos.gob.pe/dataset/minsa-ipress) |
 | 16  | URUGUAY            |                                                                         |
 | 17  | VENEZUELA          |                                                                         |
