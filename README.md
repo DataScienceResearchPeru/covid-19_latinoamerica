@@ -21,7 +21,7 @@
 | 5   | COLOMBIA           | ACTUALIZADO                                                     | 2020-03-21    | https://bit.ly/2xkYD9k https://bit.ly/2UsSu2U                                                                        |
 | 6   | COSTA RICA         | EN ESPERA                                                       | 2020-03-20    |
 | 7   | DOMINICAN REPUBLIC | SIN ENCARGADO                                                   | 2020-03-05    | https://bit.ly/2J2aBHM                                                                                               |
-| 8   | ECUADOR            | ACTUALIZADO                                                     | 2020-03-21    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7                                                                        |
+| 8   | ECUADOR            | [pablora19](https://github.com/pablora19)                                                     | 2020-03-21    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7                                                                        |
 | 9   | EL SALVADOR        | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/2U7N7Hm                                                                                               |
 | 10  | HONDURAS           | PENDIENTE                                                       | 2020-03-03    |
 | 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19) | 2020-03-26    | [Fuente](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov) |
