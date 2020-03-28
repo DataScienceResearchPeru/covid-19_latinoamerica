@@ -1,4 +1,4 @@
-# LATAM COVID-19 Health Infraestructure Data Repository
+# [Still dirty, don't use yet] LATAM COVID-19 Health Infraestructure Data Repository
 
 <b>Contact Us: </b><br>
 
