@@ -17,7 +17,7 @@
 | 1   | ARGENTINA          | [martingra](https://github.com/martingra)                       | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy                                                                        |
 | 2   | BOLIVIA            | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/3bh1qz6                                                                                               |
 | 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-25    | https://bit.ly/2WuChNd                                                                                               |
-| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-26    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf                                                                       |
+| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-27    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf                                                                       |
 | 5   | COLOMBIA           | ACTUALIZADO                                                     | 2020-03-21    | https://bit.ly/2xkYD9k https://bit.ly/2UsSu2U                                                                        |
 | 6   | COSTA RICA         | EN ESPERA                                                       | 2020-03-20    |
 | 7   | DOMINICAN REPUBLIC | SIN ENCARGADO                                                   | 2020-03-05    | https://bit.ly/2J2aBHM                                                                                               |
