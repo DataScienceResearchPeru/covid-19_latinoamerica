@@ -58,22 +58,22 @@ BR-SC,Santa Catarina,Brazil,,,,
 BR-SP,Sao Paulo,Brazil,,,,
 BR-SE,Sergipe,Brazil,,,,
 BR-TO,Tocantins,Brazil,,,,
-CL-AP,Arica y Parinacota,Chile,,,,
-CL-TA,Tarapaca,Chile,,,,
-CL-AN,Antofagasta,Chile,,,,
-CL-AT,Atacama,Chile,,,,
-CL-CO,Coquimbo,Chile,,,,
-CL-VS,Valparaiso,Chile,,,,
-CL-RM,Santiago,Chile,,,,
-CL-LI,O'Higgins,Chile,,,,
-CL-ML,Maule,Chile,,,,
-CL-NB,Nuble,Chile,,,,
-CL-BI,Biobio,Chile,,,,
-CL-AR,Araucania,Chile,,,,
-CL-LR,Los Rios,Chile,,,,
-CL-LL,Los Lagos,Chile,,,,
-CL-AI,Aysen,Chile,,,,
-CL-MA,Magallanes,Chile,,,,
+CL-AP,Arica y Parinacota,Chile,2020-03-29T05:46:08,3,0,0
+CL-TA,Tarapaca,Chile,2020-03-29T05:46:08,5,0,0
+CL-AN,Antofagasta,Chile,2020-03-29T05:46:08,25,0,0
+CL-AT,Atacama,Chile,2020-03-29T05:46:08,1,0,0
+CL-CO,Coquimbo,Chile,2020-03-29T05:46:08,15,0,0
+CL-VS,Valparaiso,Chile,2020-03-29T05:46:08,71,0,0
+CL-RM,Santiago,Chile,2020-03-29T05:46:08,1084,3,0
+CL-LI,O'Higgins,Chile,2020-03-29T05:46:08,20,0,0
+CL-ML,Maule,Chile,2020-03-29T05:46:08,37,0,0
+CL-NB,Nuble,Chile,2020-03-29T05:46:08,172,0,0
+CL-BI,Biobio,Chile,2020-03-29T05:46:08,151,2,0
+CL-AR,Araucania,Chile,2020-03-29T05:46:08,177,1,0
+CL-LR,Los Rios,Chile,2020-03-29T05:46:08,27,0,0
+CL-LL,Los Lagos,Chile,2020-03-29T05:46:08,93,0,0
+CL-AI,Aysen,Chile,2020-03-29T05:46:08,2,0,0
+CL-MA,Magallanes,Chile,2020-03-29T05:46:08,26,0,0
 CO-AMA,Amazonas,Colombia,,,,
 CO-ANT,Antioquia,Colombia,,,,
 CO-ARA,Arauca,Colombia,,,,
