@@ -1,4 +1,4 @@
-# LATAM COVID-19 Data Repository by DSRP
+# Latin America COVID-19 Open Data Repository by [DSRP](https://www.facebook.com/DataScienceResearch/)
 
 ### Daily update up to 20:00 GTM+0
 
