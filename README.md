@@ -1,8 +1,8 @@
 # Latin America COVID-19 Open Data Repository by [DSRP](https://www.facebook.com/DataScienceResearch/)
 
-### Daily update up to 20:00 GTM+0
+### Daily update
 
-#### This repository is a part of an effort to make a public repository [Clic here](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
+#### This repository is a part of [various projects](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
 
 <b>Contact Us: </b><br>
 
