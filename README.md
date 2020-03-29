@@ -12,25 +12,25 @@
 
 #### Tabla 1. Data resources for each country
 
-| #   | Country            | User                                                            | Last Update   | Data Sources                                                                                                         |
-| --- | ------------------ | --------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1   | ARGENTINA          | [martingra](https://github.com/martingra)                       | 2020-03-03    | https://bit.ly/3aabv0y https://bit.ly/394NsPy                                                                        |
-| 2   | BOLIVIA            | [mamanipatricia](https://github.com/mamanipatricia)             | 2020-03-28    | https://bit.ly/3bh1qz6                                                                                               |
-| 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-25    | https://bit.ly/2WuChNd                                                                                               |
-| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-28    | https://bit.ly/2xWXhlH https://bit.ly/02Jg6JDf                                                                       |
-| 5   | COLOMBIA           | ACTUALIZADO                                                     | 2020-03-21    | https://bit.ly/2xkYD9k https://bit.ly/2UsSu2U                                                                        |
-| 6   | COSTA RICA         | EN ESPERA                                                       | 2020-03-20    |
-| 7   | DOMINICAN REPUBLIC | SIN ENCARGADO                                                   | 2020-03-05    | https://bit.ly/2J2aBHM                                                                                               |
-| 8   | ECUADOR            | [pablora19](https://github.com/pablora19)                       | 2020-03-21    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7                                                                        |
-| 9   | EL SALVADOR        | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/2U7N7Hm                                                                                               |
-| 10  | HONDURAS           | PENDIENTE                                                       | 2020-03-03    |
-| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19) | 2020-03-28    | [Fuente](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov) |
-| 12  | NICARAGUA          | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/2QQNfJB                                                                                               |
-| 13  | PANAMA             | SIN ENCARGADO                                                   | 2020-03-20    | [Mapa Arcgis](https://geosocial.maps.arcgis.com/apps/opsdashboard/index.html#/2c6e932c690d467b85375af52b614472)      |
-| 14  | PARAGUAY           | PENDIENTE                                                       | 2020-03-03    |
-| 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-23    | https://bit.ly/2J5Wnpj                                                                                               |
+| #   | Country            | User                                                            | Last Update   | Data Sources                                               |
+| --- | ------------------ | --------------------------------------------------------------- | ------------- | ---------------------------------------------------------- |
+| 1   | ARGENTINA          | [martingra](https://github.com/martingra)                       | 2020-03-03    | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
+| 2   | BOLIVIA            | [mamanipatricia](https://github.com/mamanipatricia)             | 2020-03-28    | [D1](https://bit.ly/3bh1qz6)                               |
+| 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-25    | [D1](https://bit.ly/2WuChNd)                               |
+| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-28    | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
+| 5   | COLOMBIA           | SIN ENCARGADO                                                     | 2020-03-21    | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
+| 6   | COSTA RICA         | [ACTUALIZADO]()                                                     | 2020-03-20    | [API](https://coronaviruscr.com/api/reports)               |
+| 7   | DOMINICAN REPUBLIC | SIN ENCARGADO                                                   | 2020-03-05    | [D1](https://bit.ly/2J2aBHM)                               |
+| 8   | ECUADOR            | [pablora19](https://github.com/pablora19)                       | 2020-03-21    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)  |
+| 9   | EL SALVADOR        | SIN ENCARGADO                                                   | 2020-03-20    | [D1](https://bit.ly/2U7N7Hm)                               |
+| 10  | HONDURAS           | SIN ENCARGADO                                                       | 2020-03-03    |
+| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19) | 2020-03-28    | [D1](https://bit.ly/3brQ7nY)                               |
+| 12  | NICARAGUA          | SIN ENCARGADO                                                   | 2020-03-20    | [D1](https://bit.ly/2QQNfJB)                               |
+| 13  | PANAMA             | SIN ENCARGADO                                                   | 2020-03-20    | [D1](https://bit.ly/2UpH8he)                               |
+| 14  | PARAGUAY           | SIN ENCARGADO                                                       | 2020-03-03    |
+| 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-23    | [D1](https://bit.ly/2J5Wnpj)                               |
 | 16  | URUGUAY            | SIN ENCARGADO                                                   | SIN ENCARGADO |
-| 17  | VENEZUELA          | [rendergraf](https://github.com/rendergraf)                     | 2020-03-04    | https://bit.ly/2J3E0Br https://bit.ly/3acdykY                                                                        |
+| 17  | VENEZUELA          | [rendergraf](https://github.com/rendergraf)                     | 2020-03-04    | [D1](https://bit.ly/2J3E0Br) [D2](https://bit.ly/3acdykY)  |
 
 #### Table 2. First date confirmed cases per country
 
