@@ -24,7 +24,7 @@
 | 8   | ECUADOR            | [pablora19](https://github.com/pablora19)                                                     | 2020-03-21    | https://bit.ly/2J3ompB https://bit.ly/2UsK2R7                                                                        |
 | 9   | EL SALVADOR        | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/2U7N7Hm                                                                                               |
 | 10  | HONDURAS           | PENDIENTE                                                       | 2020-03-03    |
-| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19) | 2020-03-26    | [Fuente](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov) |
+| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19) | 2020-03-28    | [Fuente](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov) |
 | 12  | NICARAGUA          | SIN ENCARGADO                                                   | 2020-03-20    | https://bit.ly/2QQNfJB                                                                                               |
 | 13  | PANAMA             | SIN ENCARGADO                                                   | 2020-03-20    | [Mapa Arcgis](https://geosocial.maps.arcgis.com/apps/opsdashboard/index.html#/2c6e932c690d467b85375af52b614472)      |
 | 14  | PARAGUAY           | PENDIENTE                                                       | 2020-03-03    |
