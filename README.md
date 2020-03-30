@@ -17,7 +17,7 @@
 | 1   | ARGENTINA          | [martingra](https://github.com/martingra)                       | 2020-03-03    | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
 | 2   | BOLIVIA            | [mamanipatricia](https://github.com/mamanipatricia)             | 2020-03-28    | [D1](https://bit.ly/3bh1qz6)                               |
 | 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-25    | [D1](https://bit.ly/2WuChNd)                               |
-| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-28    | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
+| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-29    | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
 | 5   | COLOMBIA           | SIN ENCARGADO                                                     | 2020-03-21    | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
 | 6   | COSTA RICA         | [ACTUALIZADO]()                                                     | 2020-03-20    | [API](https://coronaviruscr.com/api/reports)               |
 | 7   | DOMINICAN REPUBLIC | SIN ENCARGADO                                                   | 2020-03-05    | [D1](https://bit.ly/2J2aBHM)                               |
