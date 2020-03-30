@@ -1,14 +1,62 @@
-# Latin America COVID-19 Open Data Repository by [DSRP](https://www.facebook.com/DataScienceResearch/)
+<!-- Inspired on https://github.com/othneildrew/Best-README-Template/blob/master/README.md-->
 
-### Daily update
+<!-- PROJECT SHIELDS -->
 
-#### This repository is a part of [various projects](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
+[![Issues][A1]][A1]
+[![Stars][A2]][A2]
+[![Forks][A3]][A3]
+[![License][A4]][A4]
 
-<b>Contact Us: </b><br>
+[A1]: https://img.shields.io/github/issues/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
+[A2]: https://img.shields.io/github/stars/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
+[A3]: https://img.shields.io/github/forks/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
+[A4]: https://img.shields.io/github/license/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
 
-- Email: [Send an e-mail](pablo.diazv@pucp.edu.pe)
-- Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
-  <br><br>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Latin America Covid-19 Data Repository by DSRP </h3>
+
+  <p align="center">
+    Repository with daily updates related to Covid-19 of 17 countries.<br />
+    <a href="#"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="#">View Demo</a>
+    ·
+    <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Report Bug</a>
+    ·
+    <a href="hhttps://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Request Feature</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+  - [Tabla 1. Data resources for each country](#table1)
+  - [Table 2. First date confirmed cases per country](#table2)
+- [Projects](#projects)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/5533099/77381634-cfd8e500-6d54-11ea-964b-2222a603b5d7.png" alt="Map" width="400" >
+</img>
+</p>
+
+This repository is a part of [various projects](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
+
 
 #### Tabla 1. Data resources for each country
 
@@ -56,22 +104,110 @@
 
 ![Primer caso anunciado por país](https://imgur.com/uurPLNl.jpg)
 
-El dataset contiene las siguientes columnas:
 
-- `City`: Ubicación geográfica nivel 3
-- `Province/State`: Ubicación geográfica nivel 2
-- `Country/Region`: Ubicación geográfica nivel 1
-- `Last Update`: Fecha de anuncio
-- `Confirmed`: Número de pacientes contagiados
-- `Deaths`: Número de muertes
-- `Recovered`: Número de pacientes recuperados
-- `Latitude`: UTM
-- `Longitude`: UTM
+<!-- GETTING STARTED -->
 
-Estamos evaluando incluir también fecha de inicio de síntomas de cada paciente.
+<!--
+## Getting Started
 
-## Contributors
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+- npm
+
+```sh
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+
+```sh
+git clone https://github.com/your_username_/Project-Name.git
+```
+
+3. Install NPM packages
+
+```sh
+npm install
+```
+
+4. Enter your API in `config.js`
+
+```JS
+const API_KEY = 'ENTER YOUR API';
+```
+-->
+
+<!-- USAGE EXAMPLES -->
+
+## Projects
+
+[Projects]
+
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 This project exists thanks to all the people who contribute. [[Contribute](.github/CONTRIBUTING.md)]
 
+If the country don't have a maintainer (see Table 1):
+
+1. Contact us, we will give you `Maintainer` permission to commit freely.
+
+If the country have a maintainer (see Table 1):
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## License
+
+Not decided yet, please feel free to use as Open Source Data.
+
 This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
+
+<!-- CONTACT -->
+
+## Contact
+
+- Whatsapp message only: [+51938438089](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
+- Twitter: [@untalpablogod](https://twitter.com/)
+- Email: [pablo.diazv@pucp.edu.pe](pablo.diazv@pucp.edu.pe)
+
+Project Link: [https://github.com/DataScienceResearchPeru/covid-19_latinoamerica](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+<!--
+## Acknowledgements
+
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Img Shields](https://shields.io)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Pages](https://pages.github.com)
+- [Animate.css](https://daneden.github.io/animate.css)
+- [Loaders.css](https://connoratherton.com/loaders)
+- [Slick Carousel](https://kenwheeler.github.io/slick)
+- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+- [Sticky Kit](http://leafo.net/sticky-kit)
+- [JVectorMap](http://jvectormap.com)
+- [Font Awesome](https://fontawesome.com)
+
+-->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
