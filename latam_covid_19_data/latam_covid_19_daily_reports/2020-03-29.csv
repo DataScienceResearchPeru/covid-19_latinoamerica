@@ -20,8 +20,9 @@ AR-J,San Juan,Argentina,2020-03-30T01:29:04,1,0,0
 AR-D,San Luis,Argentina,2020-03-30T01:29:04,6,0,0
 AR-Z,Santa Cruz,Argentina,2020-03-30T01:29:04,9,0,0
 AR-S,Santa Fe,Argentina,2020-03-30T01:29:04,90,0,0
-AR-V,Tierra del Fuego,Argentina,2020-03-30T01:29:04,2,0,0
-AR-T,Tucuman,Argentina,2020-03-30T01:29:04,21,0,0
+AR-G,Santiago del Estero,Argentina,2020-03-30T01:29:04,2,0,0
+AR-V,Tierra del Fuego,Argentina,2020-03-30T01:29:04,21,0,0
+AR-T,Tucuman,Argentina,2020-03-30T01:29:04,15,0,0
 BO-B,Beni,Bolivia,2020-03-29T05:11:28,0,0,0
 BO-H,Chuquisaca,Bolivia,2020-03-29T05:11:28,1,0,0
 BO-C,Cochabamba,Bolivia,2020-03-29T05:11:28,14,0,0
@@ -58,32 +59,32 @@ BR-SC,Santa Catarina,Brazil,,,,
 BR-SP,Sao Paulo,Brazil,,,,
 BR-SE,Sergipe,Brazil,,,,
 BR-TO,Tocantins,Brazil,,,,
-CL-AP,Arica y Parinacota,Chile,2020-03-30T03:28:04,4,0,0
-CL-TA,Tarapaca,Chile,2020-03-30T03:28:04,6,0,0
-CL-AN,Antofagasta,Chile,2020-03-30T03:28:04,27,0,0
-CL-AT,Atacama,Chile,2020-03-30T03:28:04,2,0,0
-CL-CO,Coquimbo,Chile,2020-03-30T03:28:04,18,0,0
-CL-VS,Valparaiso,Chile,2020-03-30T03:28:04,80,0,0
-CL-RM,Santiago,Chile,2020-03-30T03:28:04,1167,3,0
-CL-LI,O'Higgins,Chile,2020-03-30T03:28:04,21,0,0
-CL-ML,Maule,Chile,2020-03-30T03:28:04,42,0,0
-CL-NB,Nuble,Chile,2020-03-30T03:28:04,197,0,0
-CL-BI,Biobio,Chile,2020-03-30T03:28:04,185,2,0
-CL-AR,Araucania,Chile,2020-03-30T03:28:04,205,2,0
-CL-LR,Los Rios,Chile,2020-03-30T03:28:04,40,0,0
-CL-LL,Los Lagos,Chile,2020-03-30T03:28:04,104,0,0
-CL-AI,Aysen,Chile,2020-03-30T03:28:04,2,0,0
-CL-MA,Magallanes,Chile,2020-03-30T03:28:04,39,0,0
-CO-AMA,Amazonas,Colombia,,,,
-CO-ANT,Antioquia,Colombia,,,,
-CO-ARA,Arauca,Colombia,,,,
-CO-ATL,Atlantico,Colombia,,,,
-CO-DC,Bogota,Colombia,,,,
-CO-BOL,Bolivar,Colombia,,,,
-CO-BOY,Boyaca,Colombia,,,,
-CO-CAL,Caldas,Colombia,,,,
-CO-CAQ,Caqueta,Colombia,,,,
-CO-CAS,Casanare,Colombia,,,,
+CL-AP,Arica y Parinacota,Chile,,,,
+CL-TA,Tarapaca,Chile,,,,
+CL-AN,Antofagasta,Chile,,,,
+CL-AT,Atacama,Chile,,,,
+CL-CO,Coquimbo,Chile,,,,
+CL-VS,Valparaiso,Chile,,,,
+CL-RM,Santiago,Chile,,,,
+CL-LI,O'Higgins,Chile,,,,
+CL-ML,Maule,Chile,,,,
+CL-NB,Nuble,Chile,,,,
+CL-BI,Biobio,Chile,2020-03-30T03:28:04,4,0,0
+CL-AR,Araucania,Chile,2020-03-30T03:28:04,6,0,0
+CL-LR,Los Rios,Chile,2020-03-30T03:28:04,27,0,0
+CL-LL,Los Lagos,Chile,2020-03-30T03:28:04,2,0,0
+CL-AI,Aysen,Chile,2020-03-30T03:28:04,18,0,0
+CL-MA,Magallanes,Chile,2020-03-30T03:28:04,80,0,0
+CO-AMA,Amazonas,Colombia,2020-03-30T03:28:04,1167,3,0
+CO-ANT,Antioquia,Colombia,2020-03-30T03:28:04,21,0,0
+CO-ARA,Arauca,Colombia,2020-03-30T03:28:04,42,0,0
+CO-ATL,Atlantico,Colombia,2020-03-30T03:28:04,197,0,0
+CO-DC,Bogota,Colombia,2020-03-30T03:28:04,185,2,0
+CO-BOL,Bolivar,Colombia,2020-03-30T03:28:04,205,2,0
+CO-BOY,Boyaca,Colombia,2020-03-30T03:28:04,40,0,0
+CO-CAL,Caldas,Colombia,2020-03-30T03:28:04,104,0,0
+CO-CAQ,Caqueta,Colombia,2020-03-30T03:28:04,2,0,0
+CO-CAS,Casanare,Colombia,2020-03-30T03:28:04,39,0,0
 CO-CAU,Cauca,Colombia,,,,
 CO-CES,Cesar,Colombia,,,,
 CO-COR,Choco,Colombia,,,,
@@ -146,40 +147,40 @@ DO-26,Santiago,Dominican Republic,,,,
 DO-32,Santiago Rodriguez,Dominican Republic,,,,
 DO-01,Santo Domingo,Dominican Republic,,,,
 DO-27,Valverde,Dominican Republic,,,,
-EC-A,Azuay,Ecuador,2020-03-29T17:00:00,53,1,0
-EC-B,Bolivar,Ecuador,2020-03-29T17:00:01,14,0,0
-EC-F,Canar,Ecuador,2020-03-29T17:00:02,26,1,0
-EC-C,Carchi,Ecuador,2020-03-29T17:00:03,6,0,0
-EC-H,Chimborazo,Ecuador,2020-03-29T17:00:04,15,0,0
-EC-X,Cotopaxi,Ecuador,2020-03-29T17:00:05,5,1,0
-EC-O,El Oro,Ecuador,2020-03-29T17:00:06,25,4,0
-EC-E,Esmeraldas,Ecuador,2020-03-29T17:00:07,7,0,0
-EC-W,Galapagos,Ecuador,2020-03-29T17:00:08,4,0,0
-EC-G,Guayas,Ecuador,2020-03-29T17:00:09,1377,37,0
-EC-I,Imbabura,Ecuador,2020-03-29T17:00:10,9,1,0
-EC-L,Loja,Ecuador,2020-03-29T17:00:11,15,0,0
-EC-R,Los Rios,Ecuador,2020-03-29T17:00:12,60,5,0
-EC-M,Manabi,Ecuador,2020-03-29T17:00:13,50,1,0
-EC-S,Morona Santiago,Ecuador,2020-03-29T17:00:14,9,0,0
-EC-N,Napo,Ecuador,2020-03-29T17:00:15,0,0,0
-EC-D,Orellana,Ecuador,2020-03-29T17:00:16,1,0,0
-EC-Y,Pastaza,Ecuador,2020-03-29T17:00:17,5,0,0
-EC-P,Pichincha,Ecuador,2020-03-29T17:00:18,188,4,0
-EC-SE,Santa Elena,Ecuador,2020-03-29T17:00:19,10,2,0
-EC-SD,Santo Domingo de los Tsachilas,Ecuador,2020-03-29T17:00:20,0,0,0
-EC-U,Sucumbios,Ecuador,2020-03-29T17:00:21,25,1,0
-EC-T,Tungurahua,Ecuador,2020-03-29T17:00:22,4,0,0
-EC-Z,Zamora Chinchipe,Ecuador,2020-03-29T17:00:23,1,0,0
-SV-AH,Ahuachapan,El Salvador,,,,
-SV-CA,Cabanas,El Salvador,,,,
-SV-CH,Chalatenango,El Salvador,,,,
-SV-CU,Cuscatlan,El Salvador,,,,
-SV-LI,La Libertad,El Salvador,,,,
-SV-PA,La Paz,El Salvador,,,,
-SV-UN,La Unión,El Salvador,,,,
-SV-MO,Morazan,El Salvador,,,,
-SV-SM,San Miguel,El Salvador,,,,
-SV-SS,San Salvador,El Salvador,,,,
+EC-A,Azuay,Ecuador,,,,
+EC-B,Bolivar,Ecuador,,,,
+EC-F,Canar,Ecuador,,,,
+EC-C,Carchi,Ecuador,,,,
+EC-H,Chimborazo,Ecuador,,,,
+EC-X,Cotopaxi,Ecuador,,,,
+EC-O,El Oro,Ecuador,,,,
+EC-E,Esmeraldas,Ecuador,,,,
+EC-W,Galapagos,Ecuador,,,,
+EC-G,Guayas,Ecuador,,,,
+EC-I,Imbabura,Ecuador,2020-03-29T17:00:00,53,1,0
+EC-L,Loja,Ecuador,2020-03-29T17:00:01,14,0,0
+EC-R,Los Rios,Ecuador,2020-03-29T17:00:02,26,1,0
+EC-M,Manabi,Ecuador,2020-03-29T17:00:03,6,0,0
+EC-S,Morona Santiago,Ecuador,2020-03-29T17:00:04,15,0,0
+EC-N,Napo,Ecuador,2020-03-29T17:00:05,5,1,0
+EC-D,Orellana,Ecuador,2020-03-29T17:00:06,25,4,0
+EC-Y,Pastaza,Ecuador,2020-03-29T17:00:07,7,0,0
+EC-P,Pichincha,Ecuador,2020-03-29T17:00:08,4,0,0
+EC-SE,Santa Elena,Ecuador,2020-03-29T17:00:09,1377,37,0
+EC-SD,Santo Domingo de los Tsachilas,Ecuador,2020-03-29T17:00:10,9,1,0
+EC-U,Sucumbios,Ecuador,2020-03-29T17:00:11,15,0,0
+EC-T,Tungurahua,Ecuador,2020-03-29T17:00:12,60,5,0
+EC-Z,Zamora Chinchipe,Ecuador,2020-03-29T17:00:13,50,1,0
+SV-AH,Ahuachapan,El Salvador,2020-03-29T17:00:14,9,0,0
+SV-CA,Cabanas,El Salvador,2020-03-29T17:00:15,0,0,0
+SV-CH,Chalatenango,El Salvador,2020-03-29T17:00:16,1,0,0
+SV-CU,Cuscatlan,El Salvador,2020-03-29T17:00:17,5,0,0
+SV-LI,La Libertad,El Salvador,2020-03-29T17:00:18,188,4,0
+SV-PA,La Paz,El Salvador,2020-03-29T17:00:19,10,2,0
+SV-UN,La Unión,El Salvador,2020-03-29T17:00:20,0,0,0
+SV-MO,Morazan,El Salvador,2020-03-29T17:00:21,25,1,0
+SV-SM,San Miguel,El Salvador,2020-03-29T17:00:22,4,0,0
+SV-SS,San Salvador,El Salvador,2020-03-29T17:00:23,1,0,0
 SV-SV,San Vicente,El Salvador,,,,
 SV-SA,Santa Ana,El Salvador,,,,
 SV-SO,Sonsonate,El Salvador,,,,
@@ -202,48 +203,48 @@ HN-OL,Olancho,Honduras,,,,
 HN-SB,Santa Barbara,Honduras,,,,
 HN-VA,Valle,Honduras,,,,
 HN-YO,Yoro,Honduras,,,,
-MX-AGU,Aguascalientes,Mexico,2020-03-29T19:50:00-06:00,24,0,
-MX-BCN,Baja California,Mexico,2020-03-29T19:50:00-06:00,23,0,
-MX-BCS,Baja California Sur,Mexico,2020-03-29T19:50:00-06:00,11,0,
-MX-CAM,Campeche,Mexico,2020-03-29T19:50:00-06:00,3,0,
-MX-CHP,Chiapas,Mexico,2020-03-29T19:50:00-06:00,10,0,
-MX-CHH,Chihuahua,Mexico,2020-03-29T19:50:00-06:00,6,0,
-MX-CMX,Ciudad de Mexico,Mexico,2020-03-29T19:50:00-06:00,196,7,
-MX-COA,Coahuila,Mexico,2020-03-29T19:50:00-06:00,32,1,
-MX-COL,Colima,Mexico,2020-03-29T19:50:00-06:00,2,0,
-MX-DUR,Durango,Mexico,2020-03-29T19:50:00-06:00,7,1,
-MX-GUA,Guanajuato,Mexico,2020-03-29T19:50:00-06:00,37,0,
-MX-GRO,Guerrero,Mexico,2020-03-29T19:50:00-06:00,13,0,
-MX-HID,Hidalgo,Mexico,2020-03-29T19:50:00-06:00,17,2,
-MX-JAL,Jalisco,Mexico,2020-03-29T19:50:00-06:00,83,3,
-MX-MIC,Michoacan,Mexico,2020-03-29T19:50:00-06:00,17,1,
-MX-MOR,Morelos,Mexico,2020-03-29T19:50:00-06:00,6,1,
-MX-MEX,Mexico,Mexico,2020-03-29T19:50:00-06:00,119,0,
-MX-NAY,Nayarit,Mexico,2020-03-29T19:50:00-06:00,5,0,
-MX-NLE,Nuevo Leon,Mexico,2020-03-29T19:50:00-06:00,67,0,
-MX-OAX,Oaxaca,Mexico,2020-03-29T19:50:00-06:00,14,0,
-MX-PUE,Puebla,Mexico,2020-03-29T19:50:00-06:00,66,1,
-MX-QUE,Queretaro,Mexico,2020-03-29T19:50:00-06:00,26,0,
-MX-ROO,Quintana Roo,Mexico,2020-03-29T19:50:00-06:00,38,1,
-MX-SLP,San Luis Potosi,Mexico,2020-03-29T19:50:00-06:00,24,2,
-MX-SIN,Sinaloa,Mexico,2020-03-29T19:50:00-06:00,19,0,
-MX-SON,Sonora,Mexico,2020-03-29T19:50:00-06:00,14,0,
-MX-TAB,Tabasco,Mexico,2020-03-29T19:50:00-06:00,33,0,
-MX-TAM,Tamaulipas,Mexico,2020-03-29T19:50:00-06:00,7,0,
-MX-TLA,Tlaxcala,Mexico,2020-03-29T19:50:00-06:00,4,0,
-MX-VER,Veracruz,Mexico,2020-03-29T19:50:00-06:00,24,0,
-MX-YUC,Yucatan,Mexico,2020-03-29T19:50:00-06:00,41,0,
-MX-ZAC,Zacatecas,Mexico,2020-03-29T19:50:00-06:00,5,0,
-NI-BO,Boaco,Nicaragua,,,,
-NI-CA,Carazo,Nicaragua,,,,
-NI-CI,Chinandega,Nicaragua,,,,
-NI-CO,Chontales,Nicaragua,,,,
-NI-ES,Estelí,Nicaragua,,,,
-NI-GR,Granada,Nicaragua,,,,
-NI-JI,Jinotega,Nicaragua,,,,
-NI-LE,León,Nicaragua,,,,
-NI-MD,Madriz,Nicaragua,,,,
-NI-MN,Managua,Nicaragua,,,,
+MX-AGU,Aguascalientes,Mexico,,,,
+MX-BCN,Baja California,Mexico,,,,
+MX-BCS,Baja California Sur,Mexico,,,,
+MX-CAM,Campeche,Mexico,,,,
+MX-CHP,Chiapas,Mexico,,,,
+MX-CHH,Chihuahua,Mexico,,,,
+MX-CMX,Ciudad de Mexico,Mexico,,,,
+MX-COA,Coahuila,Mexico,,,,
+MX-COL,Colima,Mexico,,,,
+MX-DUR,Durango,Mexico,,,,
+MX-GUA,Guanajuato,Mexico,2020-03-29T19:50:00-06:00,24,0,
+MX-GRO,Guerrero,Mexico,2020-03-29T19:50:00-06:00,23,0,
+MX-HID,Hidalgo,Mexico,2020-03-29T19:50:00-06:00,11,0,
+MX-JAL,Jalisco,Mexico,2020-03-29T19:50:00-06:00,3,0,
+MX-MIC,Michoacan,Mexico,2020-03-29T19:50:00-06:00,10,0,
+MX-MOR,Morelos,Mexico,2020-03-29T19:50:00-06:00,6,0,
+MX-MEX,Mexico,Mexico,2020-03-29T19:50:00-06:00,196,7,
+MX-NAY,Nayarit,Mexico,2020-03-29T19:50:00-06:00,32,1,
+MX-NLE,Nuevo Leon,Mexico,2020-03-29T19:50:00-06:00,2,0,
+MX-OAX,Oaxaca,Mexico,2020-03-29T19:50:00-06:00,7,1,
+MX-PUE,Puebla,Mexico,2020-03-29T19:50:00-06:00,37,0,
+MX-QUE,Queretaro,Mexico,2020-03-29T19:50:00-06:00,13,0,
+MX-ROO,Quintana Roo,Mexico,2020-03-29T19:50:00-06:00,17,2,
+MX-SLP,San Luis Potosi,Mexico,2020-03-29T19:50:00-06:00,83,3,
+MX-SIN,Sinaloa,Mexico,2020-03-29T19:50:00-06:00,17,1,
+MX-SON,Sonora,Mexico,2020-03-29T19:50:00-06:00,6,1,
+MX-TAB,Tabasco,Mexico,2020-03-29T19:50:00-06:00,119,0,
+MX-TAM,Tamaulipas,Mexico,2020-03-29T19:50:00-06:00,5,0,
+MX-TLA,Tlaxcala,Mexico,2020-03-29T19:50:00-06:00,67,0,
+MX-VER,Veracruz,Mexico,2020-03-29T19:50:00-06:00,14,0,
+MX-YUC,Yucatan,Mexico,2020-03-29T19:50:00-06:00,66,1,
+MX-ZAC,Zacatecas,Mexico,2020-03-29T19:50:00-06:00,26,0,
+NI-BO,Boaco,Nicaragua,2020-03-29T19:50:00-06:00,38,1,
+NI-CA,Carazo,Nicaragua,2020-03-29T19:50:00-06:00,24,2,
+NI-CI,Chinandega,Nicaragua,2020-03-29T19:50:00-06:00,19,0,
+NI-CO,Chontales,Nicaragua,2020-03-29T19:50:00-06:00,14,0,
+NI-ES,Estelí,Nicaragua,2020-03-29T19:50:00-06:00,33,0,
+NI-GR,Granada,Nicaragua,2020-03-29T19:50:00-06:00,7,0,
+NI-JI,Jinotega,Nicaragua,2020-03-29T19:50:00-06:00,4,0,
+NI-LE,León,Nicaragua,2020-03-29T19:50:00-06:00,24,0,
+NI-MD,Madriz,Nicaragua,2020-03-29T19:50:00-06:00,41,0,
+NI-MN,Managua,Nicaragua,2020-03-29T19:50:00-06:00,5,0,
 NI-MS,Masaya,Nicaragua,,,,
 NI-MT,Matagalpa,Nicaragua,,,,
 NI-NS,Nueva Segovia,Nicaragua,,,,
@@ -282,41 +283,41 @@ PY-14,Canindeyu,Paraguay,,,,
 PY-15,Presidente Hayes,Paraguay,,,,
 PY-16,Alto Paraguay,Paraguay,,,,
 PY-19,Boqueron,Paraguay,,,,
-PE-LIM,Lima,Peru,2020-03-29T05:10:18,639,,
-PE-LOR,Loreto,Peru,2020-03-29T05:10:18,52,,
-PE-LAM,Lambayeque,Peru,2020-03-29T05:10:18,22,,
-PE-CAL,Callao,Peru,2020-03-29T05:10:18,29,,
-PE-CUS,Cusco,Peru,2020-03-29T05:10:18,17,,
-PE-PIU,Piura,Peru,2020-03-29T05:10:18,21,,
-PE-LAL,La Libertad,Peru,2020-03-29T05:10:18,13,,
-PE-ANC,Ancash,Peru,2020-03-29T05:10:18,6,,
-PE-HUC,Huanuco,Peru,2020-03-29T05:10:18,4,,
-PE-ARE,Arequipa,Peru,2020-03-29T05:10:18,15,,
-PE-ICA,Ica,Peru,2020-03-29T05:10:18,5,,
-PE-MDD,Madre de dios,Peru,2020-03-29T05:10:18,1,,
-PE-TUM,Tumbes,Peru,2020-03-29T05:10:18,8,,
-PE-CAJ,Cajamarca,Peru,2020-03-29T05:10:18,1,,
-PE-AMA,Amazonas,Peru,2020-03-29T05:10:18,0,,
-PE-SAM,San Martin,Peru,2020-03-29T05:10:18,3,,
-PE-UCA,Ucayali,Peru,2020-03-29T05:10:18,0,,
-PE-PAS,Pasco,Peru,2020-03-29T05:10:18,1,,
-PE-JUN,Junin,Peru,2020-03-29T05:10:18,13,,
-PE-HUV,Huancavelica,Peru,2020-03-29T05:10:18,0,,
-PE-AYA,Ayacucho,Peru,2020-03-29T05:10:18,1,,
-PE-APU,Apurimac,Peru,2020-03-29T05:10:18,0,,
-PE-PUN,Puno,Peru,2020-03-29T05:10:18,0,,
-PE-MOQ,Moquegua,Peru,2020-03-29T05:10:18,0,,
-PE-TAC,Tacna,Peru,2020-03-29T05:10:18,1,,
-UY-AR,Artigas,Uruguay,,,,
-UY-CA,Canelones,Uruguay,,,,
-UY-CL,Cerro Largo,Uruguay,,,,
-UY-CO,Colonia,Uruguay,,,,
-UY-DU,Durazno,Uruguay,,,,
-UY-FS,Flores,Uruguay,,,,
-UY-FD,Florida,Uruguay,,,,
-UY-LA,Lavalleja,Uruguay,,,,
-UY-MA,Maldonado,Uruguay,,,,
-UY-MO,Montevideo,Uruguay,,,,
+PE-LIM,Lima,Peru,,,,
+PE-LOR,Loreto,Peru,,,,
+PE-LAM,Lambayeque,Peru,,,,
+PE-CAL,Callao,Peru,,,,
+PE-CUS,Cusco,Peru,,,,
+PE-PIU,Piura,Peru,,,,
+PE-LAL,La Libertad,Peru,,,,
+PE-ANC,Ancash,Peru,,,,
+PE-HUC,Huanuco,Peru,,,,
+PE-ARE,Arequipa,Peru,,,,
+PE-ICA,Ica,Peru,2020-03-29T05:10:18,639,,
+PE-MDD,Madre de dios,Peru,2020-03-29T05:10:18,52,,
+PE-TUM,Tumbes,Peru,2020-03-29T05:10:18,22,,
+PE-CAJ,Cajamarca,Peru,2020-03-29T05:10:18,29,,
+PE-AMA,Amazonas,Peru,2020-03-29T05:10:18,17,,
+PE-SAM,San Martin,Peru,2020-03-29T05:10:18,21,,
+PE-UCA,Ucayali,Peru,2020-03-29T05:10:18,13,,
+PE-PAS,Pasco,Peru,2020-03-29T05:10:18,6,,
+PE-JUN,Junin,Peru,2020-03-29T05:10:18,4,,
+PE-HUV,Huancavelica,Peru,2020-03-29T05:10:18,15,,
+PE-AYA,Ayacucho,Peru,2020-03-29T05:10:18,5,,
+PE-APU,Apurimac,Peru,2020-03-29T05:10:18,1,,
+PE-PUN,Puno,Peru,2020-03-29T05:10:18,8,,
+PE-MOQ,Moquegua,Peru,2020-03-29T05:10:18,1,,
+PE-TAC,Tacna,Peru,2020-03-29T05:10:18,0,,
+UY-AR,Artigas,Uruguay,2020-03-29T05:10:18,3,,
+UY-CA,Canelones,Uruguay,2020-03-29T05:10:18,0,,
+UY-CL,Cerro Largo,Uruguay,2020-03-29T05:10:18,1,,
+UY-CO,Colonia,Uruguay,2020-03-29T05:10:18,13,,
+UY-DU,Durazno,Uruguay,2020-03-29T05:10:18,0,,
+UY-FS,Flores,Uruguay,2020-03-29T05:10:18,1,,
+UY-FD,Florida,Uruguay,2020-03-29T05:10:18,0,,
+UY-LA,Lavalleja,Uruguay,2020-03-29T05:10:18,0,,
+UY-MA,Maldonado,Uruguay,2020-03-29T05:10:18,0,,
+UY-MO,Montevideo,Uruguay,2020-03-29T05:10:18,1,,
 UY-PA,Paysandu,Uruguay,,,,
 UY-RN,Rio Negro,Uruguay,,,,
 UY-RV,Rivera,Uruguay,,,,
