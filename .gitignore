@@ -1,4 +1,4 @@
-.coverage
+coverage
 .noseids
 *.so
 *.pyd
@@ -21,3 +21,8 @@ MANIFEST
 
 # Virtualenv
 venv
+
+### JupyterNotebooks ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
