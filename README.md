@@ -2,15 +2,15 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Issues][A1]][A1]
-[![Stars][A2]][A2]
-[![Forks][A3]][A3]
-[![License][A4]][A4]
+[![Issues][a1]][a1]
+[![Stars][a2]][a2]
+[![Forks][a3]][a3]
+[![License][a4]][a4]
 
-[A1]: https://img.shields.io/github/issues/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
-[A2]: https://img.shields.io/github/stars/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
-[A3]: https://img.shields.io/github/forks/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
-[A4]: https://img.shields.io/github/license/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
+[a1]: https://img.shields.io/github/issues/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
+[a2]: https://img.shields.io/github/stars/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
+[a3]: https://img.shields.io/github/forks/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
+[a4]: https://img.shields.io/github/license/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
 
 <!-- PROJECT LOGO -->
 <br />
@@ -57,28 +57,27 @@
 
 This repository is a part of [various projects](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
 
-
 #### Tabla 1. Data resources for each country
 
-| #   | Country            | User                                                            | Last Update   | Data Sources                                               |
-| --- | ------------------ | --------------------------------------------------------------- | ------------- | ---------------------------------------------------------- |
-| 1   | ARGENTINA          | [martingra](https://github.com/martingra)                       | 2020-03-29    | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
-| 2   | BOLIVIA            | [mamanipatricia](https://github.com/mamanipatricia)             | 2020-03-28    | [D1](https://bit.ly/3bh1qz6)                               |
-| 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-25    | [D1](https://bit.ly/2WuChNd)                               |
-| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                           | 2020-03-29    | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
-| 5   | COLOMBIA           | SIN ENCARGADO                                                   | 2020-03-21    | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
-| 6   | COSTA RICA         | [ACTUALIZADO]()                                                 | 2020-03-20    | [API](https://coronaviruscr.com/api/reports)               |
-| 7   | DOMINICAN REPUBLIC | SIN ENCARGADO                                                   | 2020-03-05    | [D1](https://bit.ly/2J2aBHM)                               |
-| 8   | ECUADOR            | [pablora19](https://github.com/pablora19)                       | 2020-03-21    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)  |
-| 9   | EL SALVADOR        | SIN ENCARGADO                                                   | 2020-03-20    | [D1](https://bit.ly/2U7N7Hm)                               |
-| 10  | HONDURAS           | SIN ENCARGADO                                                   | 2020-03-03    |
-| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19) | 2020-03-29    | [D1](https://bit.ly/3brQ7nY)                               |
-| 12  | NICARAGUA          | SIN ENCARGADO                                                   | 2020-03-20    | [D1](https://bit.ly/2QQNfJB)                               |
-| 13  | PANAMA             | SIN ENCARGADO                                                   | 2020-03-20    | [D1](https://bit.ly/2UpH8he)                               |
-| 14  | PARAGUAY           | SIN ENCARGADO                                                   | 2020-03-03    |
-| 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)              | 2020-03-23    | [D1](https://bit.ly/2J5Wnpj)                               |
-| 16  | URUGUAY            | SIN ENCARGADO                                                   | SIN ENCARGADO |
-| 17  | VENEZUELA          | [rendergraf](https://github.com/rendergraf)                     | 2020-03-04    | [D1](https://bit.ly/2J3E0Br) [D2](https://bit.ly/3acdykY)  |
+| #   | Country            | User                                                                              | Last Update   | Data Sources                                               |
+| --- | ------------------ | --------------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------- |
+| 1   | ARGENTINA          | [martingra](https://github.com/martingra) [pablorea](https://github.com/pablorea) | 2020-03-29    | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
+| 2   | BOLIVIA            | [mamanipatricia](https://github.com/mamanipatricia)                               | 2020-03-28    | [D1](https://bit.ly/3bh1qz6)                               |
+| 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)                                | 2020-03-25    | [D1](https://bit.ly/2WuChNd)                               |
+| 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                                             | 2020-03-29    | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
+| 5   | COLOMBIA           | SIN ENCARGADO                                                                     | 2020-03-21    | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
+| 6   | COSTA RICA         | [ACTUALIZADO]()                                                                   | 2020-03-20    | [API](https://coronaviruscr.com/api/reports)               |
+| 7   | DOMINICAN REPUBLIC | SIN ENCARGADO                                                                     | 2020-03-05    | [D1](https://bit.ly/2J2aBHM)                               |
+| 8   | ECUADOR            | [pablora19](https://github.com/pablora19)                                         | 2020-03-21    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)  |
+| 9   | EL SALVADOR        | SIN ENCARGADO                                                                     | 2020-03-20    | [D1](https://bit.ly/2U7N7Hm)                               |
+| 10  | HONDURAS           | SIN ENCARGADO                                                                     | 2020-03-03    |
+| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19)                   | 2020-03-29    | [D1](https://bit.ly/3brQ7nY)                               |
+| 12  | NICARAGUA          | SIN ENCARGADO                                                                     | 2020-03-20    | [D1](https://bit.ly/2QQNfJB)                               |
+| 13  | PANAMA             | SIN ENCARGADO                                                                     | 2020-03-20    | [D1](https://bit.ly/2UpH8he)                               |
+| 14  | PARAGUAY           | SIN ENCARGADO                                                                     | 2020-03-03    |
+| 15  | PERU               | [DSRP](https://github.com/DataScienceResearchPeru)                                | 2020-03-23    | [D1](https://bit.ly/2J5Wnpj)                               |
+| 16  | URUGUAY            | SIN ENCARGADO                                                                     | SIN ENCARGADO |
+| 17  | VENEZUELA          | [rendergraf](https://github.com/rendergraf)                                       | 2020-03-04    | [D1](https://bit.ly/2J3E0Br) [D2](https://bit.ly/3acdykY)  |
 
 #### Table 2. First date confirmed cases per country
 
@@ -103,7 +102,6 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 17  | VENEZUELA          | 2020-03-13 |
 
 ![Primer caso anunciado por país](https://imgur.com/uurPLNl.jpg)
-
 
 <!-- GETTING STARTED -->
 
@@ -150,7 +148,6 @@ const API_KEY = 'ENTER YOUR API';
 ## Projects
 
 [Projects]
-
 
 <!-- CONTRIBUTING -->
 
