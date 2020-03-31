@@ -48,6 +48,7 @@
   - [Table 2. First date confirmed cases per country](#table2)
 - [Projects](#projects)
 - [Contributing](#contributing)
+- [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
 
@@ -173,6 +174,12 @@ If the country have a maintainer (see Table 1):
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+<!-- USAGE -->
+## Usage
+
+How to load data in Python 3: [Google Colab - Code](https://colab.research.google.com/drive/1gPsKfPVkK5Llu6ST-QH3Gi-Lc5BhyWxl)
+
 
 <!-- LICENSE -->
 
