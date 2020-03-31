@@ -178,7 +178,7 @@ If the country have a maintainer (see Table 1):
 <!-- USAGE -->
 ## Usage
 
-How to load data in Python 3: [Google Colab - Code](https://colab.research.google.com/drive/1gPsKfPVkK5Llu6ST-QH3Gi-Lc5BhyWxl)
+How to load data in Colab with python 3: [Google Colab - Code](https://colab.research.google.com/drive/1gPsKfPVkK5Llu6ST-QH3Gi-Lc5BhyWxl)
 
 
 <!-- LICENSE -->
