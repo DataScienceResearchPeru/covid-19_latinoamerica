@@ -32,6 +32,11 @@
     ·
     <a href="hhttps://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Request Feature</a>
   </p>
+  <p align="center">
+  <font color="red">
+   <h2>Necesitamos colaboradores de forma urgente.</h2>
+   </font>
+  </p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
