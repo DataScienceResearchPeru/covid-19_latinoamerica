@@ -20,7 +20,7 @@
 | 8   | ECUADOR            | No data founded                                                                                                                       |             |
 | 9   | EL SALVADOR        | [Founded but not easy to obtain](https://bit.ly/2WU0uNg)                                                                              |             |
 | 10  | HONDURAS           | No data founded                                                                                                                       |             |
-| 11  | MEXICO             | No data founded                                                                                                                       |             |
+| 11  | MEXICO             | https://datos.gob.mx/busca/organization/salud                                                                                                                       |             |
 | 12  | NICARAGUA          | No data founded                                                                                                                       |             |
 | 13  | PANAMA             | No data founded                                                                                                                       |             |
 | 14  | PARAGUAY           | [MSPyBS](https://www.datos.gov.py/dataset/establecimientos-de-salud)                                                                  |             |
