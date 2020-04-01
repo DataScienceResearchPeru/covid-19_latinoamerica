@@ -6,11 +6,13 @@
 [![Stars][a2]][a2]
 [![Forks][a3]][a3]
 [![License][a4]][a4]
+[![All Contributors][a5]][a5]
 
 [a1]: https://img.shields.io/github/issues/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
 [a2]: https://img.shields.io/github/stars/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
 [a3]: https://img.shields.io/github/forks/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
 [a4]: https://img.shields.io/github/license/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
+[a5]: https://img.shields.io/badge/all_contributors-13-orange.svg?style=for-the-badge
 
 <!-- PROJECT LOGO -->
 <br />
@@ -182,6 +184,9 @@ If the country have a maintainer (see Table 1):
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+
 
 <!-- USAGE -->
 
