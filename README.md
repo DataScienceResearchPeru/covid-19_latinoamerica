@@ -63,12 +63,20 @@
 
 This repository is a part of [various projects](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
 
+<p align="center">
+
+[Versión mobile](https://datastudio.google.com/reporting/c817609e-3351-4614-acb7-3e72fdbc6d6a/page/QkcKB)
+
+[Versión desktop](https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB)
+
+</p>
+
 #### Tabla 1. Data resources for each country
 
 | #   | Country            | User                                                                                         | Last Update   | Data Sources                                               |
 | --- | ------------------ | -------------------------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------- |
 | 1   | ARGENTINA          | [martingra](https://github.com/martingra) [pablorea](https://github.com/pablorea)            | 2020-03-29    | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
-| 2   | BOLIVIA            | [mamanipatricia](https://github.com/mamanipatricia)                                          | 2020-03-28    | [D1](https://bit.ly/3bh1qz6)                               |
+| 2   | BOLIVIA            | [mamanipatricia](https://github.com/mamanipatricia)                                          | 2020-03-31    | [D1](https://bit.ly/3bh1qz6)                               |
 | 3   | BRAZIL             | [DSRP](https://github.com/DataScienceResearchPeru)                                           | 2020-03-25    | [D1](https://bit.ly/2WuChNd)                               |
 | 4   | CHILE              | [ivanMSC](https://github.com/ivanMSC)                                                        | 2020-03-31    | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
 | 5   | COLOMBIA           | PENDIENTE                                                                                    | 2020-03-21    | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
@@ -176,10 +184,10 @@ If the country have a maintainer (see Table 1):
 5. Open a Pull Request
 
 <!-- USAGE -->
+
 ## Usage
 
 How to load data in Colab with python 3: [Google Colab - Code](https://colab.research.google.com/drive/1gPsKfPVkK5Llu6ST-QH3Gi-Lc5BhyWxl)
-
 
 <!-- LICENSE -->
 
