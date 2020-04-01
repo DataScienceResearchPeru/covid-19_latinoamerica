@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
-AR-C,Ciudad Autonoma de Buenos Aires,Argentina,,,,
-AR-B,Buenos Aires,Argentina,,,,
-AR-K,Catamarca,Argentina,,,,
-AR-H,Chaco,Argentina,,,,
-AR-U,Chubut,Argentina,,,,
-AR-X,Cordoba,Argentina,,,,
-AR-W,Corrientes,Argentina,,,,
-AR-E,Entre Rios,Argentina,,,,
-AR-P,Formosa,Argentina,,,,
-AR-Y,Jujuy,Argentina,,,,
-AR-L,La Pampa,Argentina,,,,
-AR-F,La Rioja,Argentina,,,,
-AR-M,Mendoza,Argentina,,,,
-AR-N,Misiones,Argentina,,,,
-AR-Q,Neuquen,Argentina,,,,
-AR-R,Rio Negro,Argentina,,,,
-AR-A,Salta,Argentina,,,,
-AR-J,San Juan,Argentina,,,,
-AR-D,San Luis,Argentina,,,,
-AR-Z,Santa Cruz,Argentina,,,,
-AR-S,Santa Fe,Argentina,,,,
-AR-G,Santiago del Estero,Argentina,,,,
-AR-V,Tierra del Fuego,Argentina,,,,
-AR-T,Tucuman,Argentina,,,,
+AR-C,Ciudad Autonoma de Buenos Aires,Argentina,2020-04-01T12:11:30,311,6,53
+AR-B,Buenos Aires,Argentina,2020-04-01T12:11:31,270,10,15
+AR-K,Catamarca,Argentina,2020-04-01T12:11:32,0,0,0
+AR-H,Chaco,Argentina,2020-04-01T12:11:33,84,5,0
+AR-U,Chubut,Argentina,2020-04-01T12:11:34,0,0,0
+AR-X,Cordoba,Argentina,2020-04-01T12:11:35,95,1,1
+AR-W,Corrientes,Argentina,2020-04-01T12:11:36,20,0,0
+AR-E,Entre Rios,Argentina,2020-04-01T12:11:37,13,0,0
+AR-P,Formosa,Argentina,2020-04-01T12:11:38,0,0,0
+AR-Y,Jujuy,Argentina,2020-04-01T12:11:39,3,0,0
+AR-L,La Pampa,Argentina,2020-04-01T12:11:40,3,0,0
+AR-F,La Rioja,Argentina,2020-04-01T12:11:41,1,1,0
+AR-M,Mendoza,Argentina,2020-04-01T12:11:42,15,1,0
+AR-N,Misiones,Argentina,2020-04-01T12:11:43,3,0,0
+AR-Q,Neuquen,Argentina,2020-04-01T12:11:44,20,2,0
+AR-R,Rio Negro,Argentina,2020-04-01T12:11:45,9,0,1
+AR-A,Salta,Argentina,2020-04-01T12:11:46,1,0,0
+AR-J,San Juan,Argentina,2020-04-01T12:11:47,1,0,0
+AR-D,San Luis,Argentina,2020-04-01T12:11:48,6,0,0
+AR-Z,Santa Cruz,Argentina,2020-04-01T12:11:49,9,0,0
+AR-S,Santa Fe,Argentina,2020-04-01T12:11:50,133,0,0
+AR-G,Santiago del Estero,Argentina,2020-04-01T12:11:51,2,0,0
+AR-V,Tierra del Fuego,Argentina,2020-04-01T12:11:52,39,0,0
+AR-T,Tucuman,Argentina,2020-04-01T12:11:53,16,1,0
 BO-B,Beni,Bolivia,2020-03-30T04:22:30,0,0,0
 BO-H,Chuquisaca,Bolivia,2020-03-30T04:22:30,1,0,0
 BO-C,Cochabamba,Bolivia,2020-03-30T04:22:30,20,0,0
