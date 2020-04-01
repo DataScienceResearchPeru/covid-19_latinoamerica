@@ -77,7 +77,7 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 8   | ECUADOR            | [pablora19](https://github.com/pablora19)                                                    | 2020-03-21    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)  |
 | 9   | EL SALVADOR        | SIN ENCARGADO                                                                                | 2020-03-20    | [D1](https://bit.ly/2U7N7Hm)                               |
 | 10  | HONDURAS           | SIN ENCARGADO                                                                                | 2020-03-03    |
-| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19)                              | 2020-03-29    | [D1](https://bit.ly/3brQ7nY)                               |
+| 11  | MEXICO             | [carranco-sga](https://github.com/carranco-sga/Mexico-COVID-19)                              | 2020-03-31    | [D1](https://bit.ly/3brQ7nY)                               |
 | 12  | NICARAGUA          | SIN ENCARGADO                                                                                | 2020-03-20    | [D1](https://bit.ly/2QQNfJB)                               |
 | 13  | PANAMA             | SIN ENCARGADO                                                                                | 2020-03-20    | [D1](https://bit.ly/2UpH8he)                               |
 | 14  | PARAGUAY           | SIN ENCARGADO                                                                                | 2020-03-03    |
