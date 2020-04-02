@@ -203,38 +203,38 @@ HN-OL,Olancho,Honduras,,,,
 HN-SB,Santa Barbara,Honduras,,,,
 HN-VA,Valle,Honduras,,,,
 HN-YO,Yoro,Honduras,,,,
-MX-AGU,Aguascalientes,Mexico,,,,
-MX-BCN,Baja California,Mexico,,,,
-MX-BCS,Baja California Sur,Mexico,,,,
-MX-CAM,Campeche,Mexico,,,,
-MX-COA,Chiapas,Mexico,,,,
-MX-COL,Chihuahua,Mexico,,,,
-MX-CMX,Ciudad de Mexico,Mexico,,,,
-MX-CHP,Coahuila,Mexico,,,,
-MX-CHH,Colima,Mexico,,,,
-MX-DUR,Durango,Mexico,,,,
-MX-GUA,Guanajuato,Mexico,,,,
-MX-GRO,Guerrero,Mexico,,,,
-MX-HID,Hidalgo,Mexico,,,,
-MX-JAL,Jalisco,Mexico,,,,
-MX-MEX,Michoacan,Mexico,,,,
-MX-MIC,Morelos,Mexico,,,,
-MX-MOR,Mexico,Mexico,,,,
-MX-NAY,Nayarit,Mexico,,,,
-MX-NLE,Nuevo Leon,Mexico,,,,
-MX-OAX,Oaxaca,Mexico,,,,
-MX-PUE,Puebla,Mexico,,,,
-MX-QUE,Queretaro,Mexico,,,,
-MX-ROO,Quintana Roo,Mexico,,,,
-MX-SLP,San Luis Potosi,Mexico,,,,
-MX-SIN,Sinaloa,Mexico,,,,
-MX-SON,Sonora,Mexico,,,,
-MX-TAB,Tabasco,Mexico,,,,
-MX-TAM,Tamaulipas,Mexico,,,,
-MX-TLA,Tlaxcala,Mexico,,,,
-MX-VER,Veracruz,Mexico,,,,
-MX-YUC,Yucatan,Mexico,,,,
-MX-ZAC,Zacatecas,Mexico,,,,
+MX-AGU,Aguascalientes,Mexico,2020-04-01T19:40:00-06:00,36,0,missing
+MX-BCN,Baja California,Mexico,2020-04-01T19:40:00-06:00,37,0,missing
+MX-BCS,Baja California Sur,Mexico,2020-04-01T19:40:00-06:00,18,2,missing
+MX-CAM,Campeche,Mexico,2020-04-01T19:40:00-06:00,5,0,missing
+MX-CHP,Chiapas,Mexico,2020-04-01T19:40:00-06:00,14,0,missing
+MX-CHH,Chihuahua,Mexico,2020-04-01T19:40:00-06:00,11,0,missing
+MX-CMX,Ciudad de Mexico,Mexico,2020-04-01T19:40:00-06:00,296,8,missing
+MX-COA,Coahuila,Mexico,2020-04-01T19:40:00-06:00,57,2,missing
+MX-COL,Colima,Mexico,2020-04-01T19:40:00-06:00,3,0,missing
+MX-DUR,Durango,Mexico,2020-04-01T19:40:00-06:00,7,1,missing
+MX-GUA,Guanajuato,Mexico,2020-04-01T19:40:00-06:00,49,0,missing
+MX-GRO,Guerrero,Mexico,2020-04-01T19:40:00-06:00,17,1,missing
+MX-HID,Hidalgo,Mexico,2020-04-01T19:40:00-06:00,21,3,missing
+MX-JAL,Jalisco,Mexico,2020-04-01T19:40:00-06:00,99,3,missing
+MX-MIC,Michoacan,Mexico,2020-04-01T19:40:00-06:00,24,1,missing
+MX-MOR,Morelos,Mexico,2020-04-01T19:40:00-06:00,9,1,missing
+MX-MEX,Mexico,Mexico,2020-04-01T19:40:00-06:00,157,1,missing
+MX-NAY,Nayarit,Mexico,2020-04-01T19:40:00-06:00,8,1,missing
+MX-NLE,Nuevo Leon,Mexico,2020-04-01T19:40:00-06:00,78,0,missing
+MX-OAX,Oaxaca,Mexico,2020-04-01T19:40:00-06:00,22,1,missing
+MX-PUE,Puebla,Mexico,2020-04-01T19:40:00-06:00,97,1,missing
+MX-QUE,Queretaro,Mexico,2020-04-01T19:40:00-06:00,29,1,missing
+MX-ROO,Quintana Roo,Mexico,2020-04-01T19:40:00-06:00,51,1,missing
+MX-SLP,San Luis Potosi,Mexico,2020-04-01T19:40:00-06:00,31,2,missing
+MX-SIN,Sinaloa,Mexico,2020-04-01T19:40:00-06:00,32,4,missing
+MX-SON,Sonora,Mexico,2020-04-01T19:40:00-06:00,18,0,missing
+MX-TAB,Tabasco,Mexico,2020-04-01T19:40:00-06:00,52,1,missing
+MX-TAM,Tamaulipas,Mexico,2020-04-01T19:40:00-06:00,9,0,missing
+MX-TLA,Tlaxcala,Mexico,2020-04-01T19:40:00-06:00,5,0,missing
+MX-VER,Veracruz,Mexico,2020-04-01T19:40:00-06:00,28,1,missing
+MX-YUC,Yucatan,Mexico,2020-04-01T19:40:00-06:00,52,0,missing
+MX-ZAC,Zacatecas,Mexico,2020-04-01T19:40:00-06:00,6,1,missing
 NI-BO,Boaco,Nicaragua,,,,
 NI-CA,Carazo,Nicaragua,,,,
 NI-CI,Chinandega,Nicaragua,,,,
