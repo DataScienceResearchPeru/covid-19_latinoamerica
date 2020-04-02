@@ -1,6 +1,6 @@
 <!-- Inspired on https://github.com/othneildrew/Best-README-Template/blob/master/README.md-->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- PROJECT SHIELDS -->
@@ -248,13 +248,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/ZurMaD"><img src="https://avatars2.githubusercontent.com/u/28235457?v=4" width="100px;" alt=""/><br /><sub><b>ZurMaD</b></sub></a><br /><a href="#design-ZurMaD" title="Design">🎨</a> <a href="#projectManagement-ZurMaD" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/carranco-sga"><img src="https://avatars2.githubusercontent.com/u/32427033?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Alfonso Carranco-Sapiéns</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=carranco-sga" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://developers.ninja"><img src="https://avatars2.githubusercontent.com/u/5533099?v=4" width="100px;" alt=""/><br /><sub><b>Xavier Araque</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=rendergraf" title="Documentation">📖</a></td>
     <td align="center"><a href="http://rafnixg.xyz"><img src="https://avatars2.githubusercontent.com/u/10915285?v=4" width="100px;" alt=""/><br /><sub><b>Rafnix Guzman</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=rafnixg" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://pablorea.github.io/me/"><img src="https://avatars1.githubusercontent.com/u/25037383?v=4" width="100px;" alt=""/><br /><sub><b>Pablo Leandro Rea</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=pablorea" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/RcrdPhysics"><img src="https://avatars0.githubusercontent.com/u/43417707?v=4" width="100px;" alt=""/><br /><sub><b>RcrdPhysics</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=RcrdPhysics" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/pablora19"><img src="https://avatars0.githubusercontent.com/u/62561297?v=4" width="100px;" alt=""/><br /><sub><b>Pablo Reyes A</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=pablora19" title="Documentation">📖</a></td>
     <td align="center"><a href="http://martingramatica.me"><img src="https://avatars2.githubusercontent.com/u/7132263?v=4" width="100px;" alt=""/><br /><sub><b>Martin</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=martingra" title="Documentation">📖</a></td>
     <td align="center"><a href="http://patriciamq.xyz"><img src="https://avatars2.githubusercontent.com/u/19600504?v=4" width="100px;" alt=""/><br /><sub><b>patty</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=mamanipatricia" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://cdn-images-1.medium.com/max/1200/0*JNGqpfzJUETMz9gE."><img src="https://avatars1.githubusercontent.com/u/830054?v=4" width="100px;" alt=""/><br /><sub><b>Leytzher</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=leytzher" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/josetup123"><img src="https://avatars2.githubusercontent.com/u/52168695?v=4" width="100px;" alt=""/><br /><sub><b>josetup123</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=josetup123" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ivanMSC"><img src="https://avatars0.githubusercontent.com/u/35350256?v=4" width="100px;" alt=""/><br /><sub><b>ivang</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ivanMSC" title="Documentation">📖</a></td>
@@ -262,7 +262,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/dfuribez"><img src="https://avatars1.githubusercontent.com/u/28516148?v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernando Uribe</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=dfuribez" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/carranco-sga"><img src="https://avatars2.githubusercontent.com/u/32427033?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Alfonso Carranco-Sapiéns</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=carranco-sga" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ariasbordahugo"><img src="https://avatars0.githubusercontent.com/u/56813329?v=4" width="100px;" alt=""/><br /><sub><b>ariasbordahugo</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ariasbordahugo" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/adtor97"><img src="https://avatars0.githubusercontent.com/u/53233704?v=4" width="100px;" alt=""/><br /><sub><b>adtor97</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=adtor97" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://pablorea.github.io/me/"><img src="https://avatars1.githubusercontent.com/u/25037383?v=4" width="100px;" alt=""/><br /><sub><b>Pablo Leandro Rea</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=pablorea" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://developers.ninja"><img src="https://avatars2.githubusercontent.com/u/5533099?v=4" width="100px;" alt=""/><br /><sub><b>Xavier Araque</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=rendergraf" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ncovgt2020"><img src="https://avatars0.githubusercontent.com/u/62212482?v=4" width="100px;" alt=""/><br /><sub><b>Corona Virus Guatemala</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ncovgt2020" title="Documentation">📖</a></td>
   </tr>
 </table>
 
