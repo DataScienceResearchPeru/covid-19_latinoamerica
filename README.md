@@ -247,6 +247,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ZurMaD"><img src="https://avatars2.githubusercontent.com/u/28235457?v=4" width="100px;" alt=""/><br /><sub><b>ZurMaD</b></sub></a><br /><a href="#design-ZurMaD" title="Design">🎨</a> <a href="#projectManagement-ZurMaD" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/ariasbordahugo"><img src="https://avatars0.githubusercontent.com/u/56813329?v=4" width="100px;" alt=""/><br /><sub><b>ariasbordahugo</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ariasbordahugo" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/adtor97"><img src="https://avatars0.githubusercontent.com/u/53233704?v=4" width="100px;" alt=""/><br /><sub><b>adtor97</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=adtor97" title="Documentation">📖</a></td>
   </tr>
 </table>
