@@ -147,30 +147,30 @@ DO-26,Santiago,Dominican Republic,2020-03-14T16:00:00,,,
 DO-32,Santiago Rodriguez,Dominican Republic,2020-03-14T16:00:00,,,
 DO-01,Santo Domingo,Dominican Republic,2020-03-14T16:00:00,,,
 DO-27,Valverde,Dominican Republic,2020-03-14T16:00:00,,,
-EC-A,Azuay,Ecuador,2020-03-14T16:00:00,,,
-EC-B,Bolivar,Ecuador,2020-03-14T16:00:00,,,
-EC-F,Canar,Ecuador,2020-03-14T16:00:00,,,
-EC-C,Carchi,Ecuador,2020-03-14T16:00:00,,,
-EC-H,Chimborazo,Ecuador,2020-03-14T16:00:00,,,
-EC-X,Cotopaxi,Ecuador,2020-03-14T16:00:00,,,
-EC-O,El Oro,Ecuador,2020-03-14T16:00:00,,,
-EC-E,Esmeraldas,Ecuador,2020-03-14T16:00:00,,,
-EC-W,Galapagos,Ecuador,2020-03-14T16:00:00,,,
-EC-G,Guayas,Ecuador,2020-03-14T16:00:00,,,
-EC-I,Imbabura,Ecuador,2020-03-14T16:00:00,,,
-EC-L,Loja,Ecuador,2020-03-14T16:00:00,,,
-EC-R,Los Rios,Ecuador,2020-03-14T16:00:00,,,
-EC-M,Manabi,Ecuador,2020-03-14T16:00:00,,,
-EC-S,Morona Santiago,Ecuador,2020-03-14T16:00:00,,,
-EC-N,Napo,Ecuador,2020-03-14T16:00:00,,,
-EC-D,Orellana,Ecuador,2020-03-14T16:00:00,,,
-EC-Y,Pastaza,Ecuador,2020-03-14T16:00:00,,,
-EC-P,Pichincha,Ecuador,2020-03-14T16:00:00,,,
-EC-SE,Santa Elena,Ecuador,2020-03-14T16:00:00,,,
-EC-SD,Santo Domingo de los Tsachilas,Ecuador,2020-03-14T16:00:00,,,
-EC-U,Sucumbios,Ecuador,2020-03-14T16:00:00,,,
-EC-T,Tungurahua,Ecuador,2020-03-14T16:00:00,,,
-EC-Z,Zamora-Chinchipe,Ecuador,2020-03-14T16:00:00,,,
+EC-A,Azuay,Ecuador,2020-03-14T17:00:00,1,0,0
+EC-B,Bolivar,Ecuador,2020-03-14T17:00:01,0,0,0
+EC-F,Canar,Ecuador,2020-03-14T17:00:02,0,0,0
+EC-C,Carchi,Ecuador,2020-03-14T17:00:03,0,0,0
+EC-H,Chimborazo,Ecuador,2020-03-14T17:00:04,0,0,0
+EC-X,Cotopaxi,Ecuador,2020-03-14T17:00:05,0,0,0
+EC-O,El Oro,Ecuador,2020-03-14T17:00:06,0,0,0
+EC-E,Esmeraldas,Ecuador,2020-03-14T17:00:07,0,0,0
+EC-W,Galapagos,Ecuador,2020-03-14T17:00:08,0,0,0
+EC-G,Guayas,Ecuador,2020-03-14T17:00:09,11,0,0
+EC-I,Imbabura,Ecuador,2020-03-14T17:00:10,0,0,0
+EC-L,Loja,Ecuador,2020-03-14T17:00:11,0,0,0
+EC-R,Los Rios,Ecuador,2020-03-14T17:00:12,11,0,0
+EC-M,Manabi,Ecuador,2020-03-14T17:00:13,0,0,0
+EC-S,Morona Santiago,Ecuador,2020-03-14T17:00:14,0,0,0
+EC-N,Napo,Ecuador,2020-03-14T17:00:15,0,0,0
+EC-D,Orellana,Ecuador,2020-03-14T17:00:16,0,0,0
+EC-Y,Pastaza,Ecuador,2020-03-14T17:00:17,0,0,0
+EC-P,Pichincha,Ecuador,2020-03-14T17:00:18,4,0,0
+EC-SE,Santa Elena,Ecuador,2020-03-14T17:00:19,0,0,0
+EC-SD,Santo Domingo de los Tsachilas,Ecuador,2020-03-14T17:00:20,0,0,0
+EC-U,Sucumbios,Ecuador,2020-03-14T17:00:21,1,0,0
+EC-T,Tungurahua,Ecuador,2020-03-14T17:00:22,0,0,0
+EC-Z,Zamora Chinchipe,Ecuador,2020-03-14T17:00:23,0,0,0
 SV-AH,Ahuachapan,El Salvador,2020-03-14T16:00:00,,,
 SV-CA,Cabanas,El Salvador,2020-03-14T16:00:00,1,0,0
 SV-CH,Chalatenango,El Salvador,2020-03-14T16:00:00,0,0,0
