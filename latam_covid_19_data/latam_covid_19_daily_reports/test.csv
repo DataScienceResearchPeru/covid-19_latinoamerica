@@ -1,0 +1,521 @@
+ISO 3166-2 Code,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+AR-C,Ciudad Autonoma de Buenos Aires,Argentina,2020-04-02T11:34:00,321.0,7.0,107
+AR-B,Buenos Aires,Argentina,2020-04-02T11:34:01,280.0,12.0,23
+AR-K,Catamarca,Argentina,2020-04-02T11:34:02,0.0,0.0,0
+AR-H,Chaco,Argentina,2020-04-02T11:34:03,96.0,5.0,0
+AR-U,Chubut,Argentina,2020-04-02T11:34:04,0.0,0.0,0
+AR-X,Cordoba,Argentina,2020-04-02T11:34:05,101.0,1.0,1
+AR-W,Corrientes,Argentina,2020-04-02T11:34:06,21.0,0.0,0
+AR-E,Entre Rios,Argentina,2020-04-02T11:34:07,14.0,0.0,0
+AR-P,Formosa,Argentina,2020-04-02T11:34:08,0.0,0.0,0
+AR-Y,Jujuy,Argentina,2020-04-02T11:34:09,3.0,0.0,0
+AR-L,La Pampa,Argentina,2020-04-02T11:34:10,3.0,0.0,0
+AR-F,La Rioja,Argentina,2020-04-02T11:34:11,1.0,1.0,0
+AR-M,Mendoza,Argentina,2020-04-02T11:34:12,25.0,1.0,0
+AR-N,Misiones,Argentina,2020-04-02T11:34:13,3.0,0.0,0
+AR-Q,Neuquen,Argentina,2020-04-02T11:34:14,24.0,2.0,0
+AR-R,Rio Negro,Argentina,2020-04-02T11:34:15,9.0,0.0,1
+AR-A,Salta,Argentina,2020-04-02T11:34:16,3.0,0.0,0
+AR-J,San Juan,Argentina,2020-04-02T11:34:17,1.0,0.0,0
+AR-D,San Luis,Argentina,2020-04-02T11:34:18,7.0,0.0,0
+AR-Z,Santa Cruz,Argentina,2020-04-02T11:34:19,19.0,0.0,0
+AR-S,Santa Fe,Argentina,2020-04-02T11:34:20,144.0,1.0,0
+AR-G,Santiago del Estero,Argentina,2020-04-02T11:34:21,2.0,0.0,0
+AR-V,Tierra del Fuego,Argentina,2020-04-02T11:34:22,39.0,0.0,0
+AR-T,Tucuman,Argentina,2020-04-02T11:34:23,17.0,1.0,0
+BO-B,Beni,Bolivia,2020-04-01T19:40:00-06:00,0.0,0.0,0
+BO-H,Chuquisaca,Bolivia,2020-04-01T19:40:00-06:00,1.0,0.0,0
+BO-C,Cochabamba,Bolivia,2020-04-01T19:40:00-06:00,21.0,0.0,0
+BO-L,La Paz,Bolivia,2020-04-01T19:40:00-06:00,16.0,3.0,0
+BO-O,Oruro,Bolivia,2020-04-01T19:40:00-06:00,8.0,0.0,1
+BO-N,Pando,Bolivia,2020-04-01T19:40:00-06:00,4.0,0.0,0
+BO-P,Potosi,Bolivia,2020-04-01T19:40:00-06:00,4.0,0.0,0
+BO-S,Santa Cruz,Bolivia,2020-04-01T19:40:00-06:00,68.0,5.0,0
+BO-T,Tarija,Bolivia,2020-04-01T19:40:00-06:00,1.0,0.0,0
+BR-AC,Acre,Brazil,,,,
+BR-AL,Alagoas,Brazil,,,,
+BR-AP,Amapa,Brazil,,,,
+BR-AM,Amazonas,Brazil,,,,
+BR-BA,Bahia,Brazil,,,,
+BR-CE,Ceara,Brazil,,,,
+BR-DF,Distrito Federal,Brazil,,,,
+BR-ES,Espiritu Santo,Brazil,,,,
+BR-GO,Goias,Brazil,,,,
+BR-MA,Maranhao,Brazil,,,,
+BR-MT,Mato Grosso,Brazil,,,,
+BR-MS,Mato Grosso do Sul,Brazil,,,,
+BR-MG,Minas Gerais,Brazil,,,,
+BR-PA,Para,Brazil,,,,
+BR-PB,Paraiba,Brazil,,,,
+BR-PR,Parana,Brazil,,,,
+BR-PE,Pernambuco,Brazil,,,,
+BR-PI,Piaui,Brazil,,,,
+BR-RJ,Rio de Janeiro,Brazil,,,,
+BR-RN,Rio Grande do Norte,Brazil,,,,
+BR-RS,Rio Grande do Sul,Brazil,,,,
+BR-RO,Rondonia,Brazil,,,,
+BR-RR,Roraima,Brazil,,,,
+BR-SC,Santa Catarina,Brazil,,,,
+BR-SP,Sao Paulo,Brazil,,,,
+BR-SE,Sergipe,Brazil,,,,
+BR-TO,Tocantins,Brazil,,,,
+CL-AP,Arica y Parinacota,Chile,2020-04-02T08:26:00,6.0,0.0,0
+CL-TA,Tarapaca,Chile,2020-04-02T08:26:00,10.0,0.0,0
+CL-AN,Antofagasta,Chile,2020-04-02T08:26:00,39.0,0.0,0
+CL-AT,Atacama,Chile,2020-04-02T08:26:00,3.0,0.0,0
+CL-CO,Coquimbo,Chile,2020-04-02T08:26:00,30.0,0.0,0
+CL-VS,Valparaiso,Chile,2020-04-02T08:26:00,136.0,1.0,0
+CL-RM,Santiago,Chile,2020-04-02T08:26:00,1521.0,5.0,0
+CL-LI,O'Higgins,Chile,2020-04-02T08:26:00,26.0,0.0,0
+CL-ML,Maule,Chile,2020-04-02T08:26:00,71.0,1.0,0
+CL-NB,Nuble,Chile,2020-04-02T08:26:00,259.0,0.0,0
+CL-BI,Biobio,Chile,2020-04-02T08:26:00,240.0,2.0,0
+CL-AR,Araucania,Chile,2020-04-02T08:26:00,343.0,6.0,0
+CL-LR,Los Rios,Chile,2020-04-02T08:26:00,64.0,1.0,0
+CL-LL,Los Lagos,Chile,2020-04-02T08:26:00,181.0,0.0,0
+CL-AI,Aysen,Chile,2020-04-02T08:26:00,3.0,0.0,0
+CL-MA,Magallanes,Chile,2020-04-02T08:26:00,99.0,0.0,0
+CO-AMA,Amazonas,Colombia,,,,
+CO-ANT,Antioquia,Colombia,,,,
+CO-ARA,Arauca,Colombia,,,,
+CO-ATL,Atlantico,Colombia,,,,
+CO-DC,Bogota,Colombia,,,,
+CO-BOL,Bolivar,Colombia,,,,
+CO-BOY,Boyaca,Colombia,,,,
+CO-CAL,Caldas,Colombia,,,,
+CO-CAQ,Caqueta,Colombia,,,,
+CO-CAS,Casanare,Colombia,,,,
+CO-CAU,Cauca,Colombia,,,,
+CO-CES,Cesar,Colombia,,,,
+CO-COR,Choco,Colombia,,,,
+CO-CUN,Cordoba,Colombia,,,,
+CO-CHO,Cundinamarca,Colombia,,,,
+CO-GUA,Guainia,Colombia,,,,
+CO-GUV,Guaviare,Colombia,,,,
+CO-HUI,Huila,Colombia,,,,
+CO-LAG,La Guajira,Colombia,,,,
+CO-MAG,Magdalena,Colombia,,,,
+CO-MET,Meta,Colombia,,,,
+CO-NAR,Narino,Colombia,,,,
+CO-NSA,Norte de Santander,Colombia,,,,
+CO-PUT,Putumayo,Colombia,,,,
+CO-QUI,Quindio,Colombia,,,,
+CO-RIS,Risaralda,Colombia,,,,
+CO-SAP,San Andres y Providencia,Colombia,,,,
+CO-SAN,Santander,Colombia,,,,
+CO-SUC,Sucre,Colombia,,,,
+CO-TOL,Tolima,Colombia,,,,
+CO-VAC,Valle del Cauca,Colombia,,,,
+CO-VAU,Vaupes,Colombia,,,,
+CO-VID,Vichada,Colombia,,,,
+CR-A,Alajuela,Costa Rica,,,,
+CR-C,Cartago,Costa Rica,,,,
+CR-G,Guanacaste,Costa Rica,,,,
+CR-H,Heredia,Costa Rica,,,,
+CR-L,Limon,Costa Rica,,,,
+CR-P,Puntarenas,Costa Rica,,,,
+CR-SJ,San Jose,Costa Rica,,,,
+DO-02,Azua,Dominican Republic,,,,
+DO-03,Baoruco,Dominican Republic,,,,
+DO-04,Barahona,Dominican Republic,,,,
+DO-05,Dajabon,Dominican Republic,,,,
+DO-06,Distrito Nacional,Dominican Republic,,,,
+DO-08,Duarte,Dominican Republic,,,,
+DO-09,El Seibo,Dominican Republic,,,,
+DO-30,Elias Pina,Dominican Republic,,,,
+DO-10,Espaillat,Dominican Republic,,,,
+DO-11,Hato Mayor,Dominican Republic,,,,
+DO-07,Hermanas Mirabal,Dominican Republic,,,,
+DO-12,Independencia,Dominican Republic,,,,
+DO-13,La Altagracia,Dominican Republic,,,,
+DO-14,La Romana,Dominican Republic,,,,
+DO-28,La Vega,Dominican Republic,,,,
+DO-15,Maria Trinidad Sanchez,Dominican Republic,,,,
+DO-29,Monsenor Nouel,Dominican Republic,,,,
+DO-16,Monte Cristi,Dominican Republic,,,,
+DO-17,Monte Plata,Dominican Republic,,,,
+DO-18,Pedernales,Dominican Republic,,,,
+DO-19,Peravia,Dominican Republic,,,,
+DO-20,Puerto Plata,Dominican Republic,,,,
+DO-21,Samana,Dominican Republic,,,,
+DO-31,San Cristobal,Dominican Republic,,,,
+DO-22,San Jose de Ocoa,Dominican Republic,,,,
+DO-23,San Juan,Dominican Republic,,,,
+DO-24,San Pedro de Macoris,Dominican Republic,,,,
+DO-25,Sanchez Ramirez,Dominican Republic,,,,
+DO-26,Santiago,Dominican Republic,,,,
+DO-32,Santiago Rodriguez,Dominican Republic,,,,
+DO-01,Santo Domingo,Dominican Republic,,,,
+DO-27,Valverde,Dominican Republic,,,,
+EC-A,Azuay,Ecuador,2020-04-01T17:00:00,94.0,3.0,0
+EC-B,Bolivar,Ecuador,2020-04-01T17:00:01,20.0,0.0,0
+EC-F,Canar,Ecuador,2020-04-01T17:00:02,49.0,2.0,0
+EC-C,Carchi,Ecuador,2020-04-01T17:00:03,6.0,0.0,0
+EC-H,Chimborazo,Ecuador,2020-04-01T17:00:04,18.0,0.0,0
+EC-X,Cotopaxi,Ecuador,2020-04-01T17:00:05,10.0,1.0,0
+EC-O,El Oro,Ecuador,2020-04-01T17:00:06,52.0,9.0,0
+EC-E,Esmeraldas,Ecuador,2020-04-01T17:00:07,10.0,0.0,0
+EC-W,Galapagos,Ecuador,2020-04-01T17:00:08,7.0,0.0,0
+EC-G,Guayas,Ecuador,2020-04-01T17:00:09,1941.0,63.0,0
+EC-I,Imbabura,Ecuador,2020-04-01T17:00:10,15.0,1.0,0
+EC-L,Loja,Ecuador,2020-04-01T17:00:11,27.0,0.0,0
+EC-R,Los Rios,Ecuador,2020-04-01T17:00:12,100.0,6.0,0
+EC-M,Manabi,Ecuador,2020-04-01T17:00:13,56.0,2.0,0
+EC-S,Morona Santiago,Ecuador,2020-04-01T17:00:14,10.0,0.0,0
+EC-N,Napo,Ecuador,2020-04-01T17:00:15,1.0,0.0,0
+EC-D,Orellana,Ecuador,2020-04-01T17:00:16,1.0,0.0,0
+EC-Y,Pastaza,Ecuador,2020-04-01T17:00:17,5.0,0.0,0
+EC-P,Pichincha,Ecuador,2020-04-01T17:00:18,248.0,5.0,0
+EC-SE,Santa Elena,Ecuador,2020-04-01T17:00:19,30.0,4.0,0
+EC-SD,Santo Domingo de los Tsachilas,Ecuador,2020-04-01T17:00:20,0.0,0.0,0
+EC-U,Sucumbios,Ecuador,2020-04-01T17:00:21,27.0,1.0,0
+EC-T,Tungurahua,Ecuador,2020-04-01T17:00:22,10.0,1.0,0
+EC-Z,Zamora Chinchipe,Ecuador,2020-04-01T17:00:23,2.0,0.0,0
+SV-AH,Ahuachapan,El Salvador,,,,
+SV-CA,Cabanas,El Salvador,,,,
+SV-CH,Chalatenango,El Salvador,,,,
+SV-CU,Cuscatlan,El Salvador,,,,
+SV-LI,La Libertad,El Salvador,,,,
+SV-PA,La Paz,El Salvador,,,,
+SV-UN,La Unión,El Salvador,,,,
+SV-MO,Morazan,El Salvador,,,,
+SV-SM,San Miguel,El Salvador,,,,
+SV-SS,San Salvador,El Salvador,,,,
+SV-SV,San Vicente,El Salvador,,,,
+SV-SA,Santa Ana,El Salvador,,,,
+SV-SO,Sonsonate,El Salvador,,,,
+SV-US,Usulutan,El Salvador,,,,
+HN-AT,Atlantida,Honduras,,,,
+HN-CH,Choluteca,Honduras,,,,
+HN-CL,Colon,Honduras,,,,
+HN-CM,Comayagua,Honduras,,,,
+HN-CP,Copan,Honduras,,,,
+HN-CR,Cortes,Honduras,,,,
+HN-EP,El Paraiso,Honduras,,,,
+HN-FM,Francisco Morazan,Honduras,,,,
+HN-GD,Gracias a Dios,Honduras,,,,
+HN-IN,Intibuca,Honduras,,,,
+HN-IB,Islas de la Bahia,Honduras,,,,
+HN-LP,La Paz,Honduras,,,,
+HN-LE,Lempira,Honduras,,,,
+HN-OC,Ocotepeque,Honduras,,,,
+HN-OL,Olancho,Honduras,,,,
+HN-SB,Santa Barbara,Honduras,,,,
+HN-VA,Valle,Honduras,,,,
+HN-YO,Yoro,Honduras,,,,
+MX-AGU,Aguascalientes,Mexico,2020-04-01T19:40:00-06:00,36.0,0.0,missing
+MX-BCN,Baja California,Mexico,2020-04-01T19:40:00-06:00,37.0,0.0,missing
+MX-BCS,Baja California Sur,Mexico,2020-04-01T19:40:00-06:00,18.0,2.0,missing
+MX-CAM,Campeche,Mexico,2020-04-01T19:40:00-06:00,5.0,0.0,missing
+MX-CHP,Chiapas,Mexico,2020-04-01T19:40:00-06:00,14.0,0.0,missing
+MX-CHH,Chihuahua,Mexico,2020-04-01T19:40:00-06:00,11.0,0.0,missing
+MX-CMX,Ciudad de Mexico,Mexico,2020-04-01T19:40:00-06:00,296.0,8.0,missing
+MX-COA,Coahuila,Mexico,2020-04-01T19:40:00-06:00,57.0,2.0,missing
+MX-COL,Colima,Mexico,2020-04-01T19:40:00-06:00,3.0,0.0,missing
+MX-DUR,Durango,Mexico,2020-04-01T19:40:00-06:00,7.0,1.0,missing
+MX-GUA,Guanajuato,Mexico,2020-04-01T19:40:00-06:00,49.0,0.0,missing
+MX-GRO,Guerrero,Mexico,2020-04-01T19:40:00-06:00,17.0,1.0,missing
+MX-HID,Hidalgo,Mexico,2020-04-01T19:40:00-06:00,21.0,3.0,missing
+MX-JAL,Jalisco,Mexico,2020-04-01T19:40:00-06:00,99.0,3.0,missing
+MX-MIC,Michoacan,Mexico,2020-04-01T19:40:00-06:00,24.0,1.0,missing
+MX-MOR,Morelos,Mexico,2020-04-01T19:40:00-06:00,9.0,1.0,missing
+MX-MEX,Mexico,Mexico,2020-04-01T19:40:00-06:00,157.0,1.0,missing
+MX-NAY,Nayarit,Mexico,2020-04-01T19:40:00-06:00,8.0,1.0,missing
+MX-NLE,Nuevo Leon,Mexico,2020-04-01T19:40:00-06:00,78.0,0.0,missing
+MX-OAX,Oaxaca,Mexico,2020-04-01T19:40:00-06:00,22.0,1.0,missing
+MX-PUE,Puebla,Mexico,2020-04-01T19:40:00-06:00,97.0,1.0,missing
+MX-QUE,Queretaro,Mexico,2020-04-01T19:40:00-06:00,29.0,1.0,missing
+MX-ROO,Quintana Roo,Mexico,2020-04-01T19:40:00-06:00,51.0,1.0,missing
+MX-SLP,San Luis Potosi,Mexico,2020-04-01T19:40:00-06:00,31.0,2.0,missing
+MX-SIN,Sinaloa,Mexico,2020-04-01T19:40:00-06:00,32.0,4.0,missing
+MX-SON,Sonora,Mexico,2020-04-01T19:40:00-06:00,18.0,0.0,missing
+MX-TAB,Tabasco,Mexico,2020-04-01T19:40:00-06:00,52.0,1.0,missing
+MX-TAM,Tamaulipas,Mexico,2020-04-01T19:40:00-06:00,9.0,0.0,missing
+MX-TLA,Tlaxcala,Mexico,2020-04-01T19:40:00-06:00,5.0,0.0,missing
+MX-VER,Veracruz,Mexico,2020-04-01T19:40:00-06:00,28.0,1.0,missing
+MX-YUC,Yucatan,Mexico,2020-04-01T19:40:00-06:00,52.0,0.0,missing
+MX-ZAC,Zacatecas,Mexico,2020-04-01T19:40:00-06:00,6.0,1.0,missing
+NI-BO,Boaco,Nicaragua,,,,
+NI-CA,Carazo,Nicaragua,,,,
+NI-CI,Chinandega,Nicaragua,,,,
+NI-CO,Chontales,Nicaragua,,,,
+NI-ES,Estelí,Nicaragua,,,,
+NI-GR,Granada,Nicaragua,,,,
+NI-JI,Jinotega,Nicaragua,,,,
+NI-LE,León,Nicaragua,,,,
+NI-MD,Madriz,Nicaragua,,,,
+NI-MN,Managua,Nicaragua,,,,
+NI-MS,Masaya,Nicaragua,,,,
+NI-MT,Matagalpa,Nicaragua,,,,
+NI-NS,Nueva Segovia,Nicaragua,,,,
+NI-SJ,Rivas,Nicaragua,,,,
+NI-RI,Rio San Juan,Nicaragua,,,,
+NI-AN,NCCAR,Nicaragua,,,,
+NI-AS,SCCAR,Nicaragua,,,,
+PY-ASU,Distrito Capital,Paraguay,,,,
+PY-1,Concepcion,Paraguay,,,,
+PY-2,San Pedro,Paraguay,,,,
+PY-3,Cordillera,Paraguay,,,,
+PY-4,Guaira,Paraguay,,,,
+PY-5,Caaguazu,Paraguay,,,,
+PY-6,Caazapa,Paraguay,,,,
+PY-7,Itapua,Paraguay,,,,
+PY-8,Misiones,Paraguay,,,,
+PY-9,Paraguari,Paraguay,,,,
+PY-10,Alto Parana,Paraguay,,,,
+PY-11,Central,Paraguay,,,,
+PY-12,Neembucu,Paraguay,,,,
+PY-13,Amambay,Paraguay,,,,
+PY-14,Canindeyu,Paraguay,,,,
+PY-15,Presidente Hayes,Paraguay,,,,
+PY-16,Alto Paraguay,Paraguay,,,,
+PY-19,Boqueron,Paraguay,,,,
+PE-LIM,Lima,Peru,,,,
+PE-LOR,Loreto,Peru,,,,
+PE-LAM,Lambayeque,Peru,,,,
+PE-CAL,Callao,Peru,,,,
+PE-CUS,Cusco,Peru,,,,
+PE-PIU,Piura,Peru,,,,
+PE-LAL,La Libertad,Peru,,,,
+PE-ANC,Ancash,Peru,,,,
+PE-HUC,Huanuco,Peru,,,,
+PE-ARE,Arequipa,Peru,,,,
+PE-ICA,Ica,Peru,,,,
+PE-MDD,Madre de dios,Peru,,,,
+PE-TUM,Tumbes,Peru,,,,
+PE-CAJ,Cajamarca,Peru,,,,
+PE-AMA,Amazonas,Peru,,,,
+PE-SAM,San Martin,Peru,,,,
+PE-UCA,Ucayali,Peru,,,,
+PE-PAS,Pasco,Peru,,,,
+PE-JUN,Junin,Peru,,,,
+PE-HUV,Huancavelica,Peru,,,,
+PE-AYA,Ayacucho,Peru,,,,
+PE-APU,Apurimac,Peru,,,,
+PE-PUN,Puno,Peru,,,,
+PE-MOQ,Moquegua,Peru,,,,
+PE-TAC,Tacna,Peru,,,,
+UY-AR,Artigas,Uruguay,,,,
+UY-CA,Canelones,Uruguay,,,,
+UY-CL,Cerro Largo,Uruguay,,,,
+UY-CO,Colonia,Uruguay,,,,
+UY-DU,Durazno,Uruguay,,,,
+UY-FS,Flores,Uruguay,,,,
+UY-FD,Florida,Uruguay,,,,
+UY-LA,Lavalleja,Uruguay,,,,
+UY-MA,Maldonado,Uruguay,,,,
+UY-MO,Montevideo,Uruguay,,,,
+UY-PA,Paysandu,Uruguay,,,,
+UY-RN,Rio Negro,Uruguay,,,,
+UY-RV,Rivera,Uruguay,,,,
+UY-RO,Rocha,Uruguay,,,,
+UY-SA,Salto,Uruguay,,,,
+UY-SJ,San Jose,Uruguay,,,,
+UY-SO,Soriano,Uruguay,,,,
+UY-TA,Tacuarembo,Uruguay,,,,
+UY-TT,Treinta y Tres,Uruguay,,,,
+VE-W,Dependencias Federales,Venezuela,,,,
+VE-Z,Amazonas,Venezuela,,,,
+VE-B,Anzoategui,Venezuela,,,,
+VE-C,Apure,Venezuela,,,,
+VE-D,Aragua,Venezuela,,,,
+VE-E,Barinas,Venezuela,,,,
+VE-F,Bolivar,Venezuela,,,,
+VE-G,Carabobo,Venezuela,,,,
+VE-H,Cojedes,Venezuela,,,,
+VE-Y,Delta Amacuro,Venezuela,,,,
+VE-I,Falcon,Venezuela,,,,
+VE-J,Guarico,Venezuela,,,,
+VE-X,Vargas,Venezuela,,,,
+VE-K,Lara,Venezuela,,,,
+VE-L,Merida,Venezuela,,,,
+VE-M,Miranda,Venezuela,,,,
+VE-N,Monagas,Venezuela,,,,
+VE-O,Nueva Esparta,Venezuela,,,,
+VE-P,Portuguesa,Venezuela,,,,
+VE-R,Sucre,Venezuela,,,,
+VE-S,Tachira,Venezuela,,,,
+VE-T,Trujillo,Venezuela,,,,
+VE-U,Yaracuy,Venezuela,,,,
+VE-V,Zulia,Venezuela,,,,
+GT-AV,Alta Verapaz,Guatemala,,,,
+GT-BV,Baja Verapaz,Guatemala,,,,
+GT-CM,Chimaltenango,Guatemala,,,,
+GT-CQ,Chiquimula,Guatemala,,,,
+GT-PR,El Progreso,Guatemala,,,,
+GT-ES,Escuintla,Guatemala,,,,
+GT-GU,Guatemala,Guatemala,,,,
+GT-HU,Huehuetenango,Guatemala,,,,
+GT-IZ,Izabal,Guatemala,,,,
+GT-JA,Jalapa,Guatemala,,,,
+GT-JU,Jutiapa,Guatemala,,,,
+GT-PE,Petén,Guatemala,,,,
+GT-QZ,Quetzaltenango,Guatemala,,,,
+GT-QC,Quiché,Guatemala,,,,
+GT-RE,Retalhuleu,Guatemala,,,,
+GT-SA,Sacatepéquez,Guatemala,,,,
+GT-SM,San Marcos,Guatemala,,,,
+GT-SR,Santa Rosa,Guatemala,,,,
+GT-SO,Sololá,Guatemala,,,,
+GT-SU,Suchitepéquez,Guatemala,,,,
+GT-TO,Totonicapán,Guatemala,,,,
+GT-ZA,Zacapa,Guatemala,,,,
+US-PR,Puerto Rico,United States,,,,
+HT-AR,Artibonite,Haiti,,,,
+HT-CE,Centre,Haiti,,,,
+HT-GA,Grande’Anse,Haiti,,,,
+HT-NI,Nippes,Haiti,,,,
+HT-ND,Nord,Haiti,,,,
+HT-NE,Nord-Est,Haiti,,,,
+HT-NO,Nord-Ouest,Haiti,,,,
+HT-OU,Ouest,Haiti,,,,
+HT-SD,Sud,Haiti,,,,
+HT-SE,Sud-Est,Haiti,,,,
+CU-15,Artemisa,Cuba,,,,
+CU-09,Camagüey,Cuba,,,,
+CU-08,Ciego de Ávila,Cuba,,,,
+CU-06,Cienfuegos,Cuba,,,,
+CU-12,Granma,Cuba,,,,
+CU-14,Guantánamo,Cuba,,,,
+CU-11,Holguín,Cuba,,,,
+CU-03,La Habana,Cuba,,,,
+CU-10,Las Tunas,Cuba,,,,
+CU-04,Matanzas,Cuba,,,,
+CU-16,Mayabeque,Cuba,,,,
+CU-01,Pinar del Río,Cuba,,,,
+CU-07,Sancti Spíritus,Cuba,,,,
+CU-13,Santiago de Cuba,Cuba,,,,
+CU-05,Villa Clara,Cuba,,,,
+CU-99,Isla de la Juventud,Cuba,,,,
+FR-GF,Guyane,France,,,,
+FR-GP,Guadeloupe,France,,,,
+FR-MQ,Martinique,France,,,,
+FR-MF,Saint-Martin,France,,,,
+FR-BL,Saint-Barthélemy,France,,,,
+FR-PM,Saint-Pierre-et-Miquelon,France,,,,
+PA,SAN FRANCISCO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 91,0.0,0
+PA,JUAN DIAZ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 69,0.0,0
+PA,SANTA ANA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 52,0.0,0
+PA,VISTA ALEGRE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 52,0.0,0
+PA,BETANIA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 49,0.0,0
+PA,ARRAIJAN ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 46,0.0,0
+PA,BELLA VISTA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 45,0.0,0
+PA,TOCUMEN,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 44,0.0,0
+PA,LAS CUMBRES,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 32,0.0,0
+PA,ANCON,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 32,0.0,0
+PA,PACORA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 30,0.0,0
+PA,JUAN DEMOSTENES AROSEMENA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 29,0.0,0
+PA,ALCALDE DIAZ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 28,0.0,0
+PA,PARQUE LEFEVRE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 27,0.0,0
+PA,CHILIBRE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 26,0.0,0
+PA,AMELIA DENIS DE ICAZA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 24,0.0,0
+PA,JOSE DOMINGO ESPINAR,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 24,0.0,0
+PA,VERACRUZ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 24,0.0,0
+PA,PEDREGAL,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 23,0.0,0
+PA,RUFINA ALFARO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 23,0.0,0
+PA,24 DE DICIEMBRE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 23,0.0,0
+PA,CALIDONIA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 23,0.0,0
+PA,PUERTO CAIMITO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 22,0.0,0
+PA,ERNESTO CORDOBA CAMPOS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 22,0.0,0
+PA,DON BOSCO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 21,0.0,0
+PA,CERRO SILVESTRE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 20,0.0,0
+PA,BURUNGA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 18,0.0,0
+PA,OMAR TORRIJOS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 18,0.0,0
+PA,RIO ABAJO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 17,0.0,0
+PA,PUEBLO NUEVO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 16,0.0,0
+PA,SANTIAGO ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 16,0.0,0
+PA,GUADALUPE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 15,0.0,0
+PA,BELISARIO PORRAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 15,0.0,0
+PA,BELISARIO FRIAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 14,0.0,0
+PA,BARRIO COLON,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 13,0.0,0
+PA,SONA ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 13,0.0,0
+PA,BARRIO BALBOA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 12,0.0,0
+PA,VICTORIANO LORENZO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 11,0.0,0
+PA,PLAYA LEONA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 11,0.0,0
+PA,ARNULFO ARIAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 11,0.0,0
+PA,EL CHORRILLO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 8,0.0,0
+PA,LAS MAÑANITAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 8,0.0,0
+PA,MATEO ITURRALDE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 8,0.0,0
+PA,SAN PABLO VIEJO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 7,0.0,0
+PA,HERRERA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 7,0.0,0
+PA,CATIVA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 7,0.0,0
+PA,CAIMITILLO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 7,0.0,0
+PA,RIO HATO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 6,0.0,0
+PA,CURUNDU,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 6,0.0,0
+PA,DAVID ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 6,0.0,0
+PA,CRISTÓBAL,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 6,0.0,0
+PA,SANTA RITA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 5,0.0,0
+PA,NUEVO EMPERADOR,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 5,0.0,0
+PA,LA COLORADA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 5,0.0,0
+PA,CHEPO (CEBECERA),Panama,2020-04-02 13:43:01.779446,Casos confirmados: 5,0.0,0
+PA,PENONOME ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 5,0.0,0
+PA,PONUGA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 5,0.0,0
+PA,SAN JUAN,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 4,0.0,0
+PA,SAN ANTONIO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 4,0.0,0
+PA,LOS ALGARROBOS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 3,0.0,0
+PA,SAN FELIPE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 3,0.0,0
+PA,EDWIN FABREGA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 3,0.0,0
+PA,LIDICE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 3,0.0,0
+PA,VILLA ROSARIO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 3,0.0,0
+PA,AILIGANDI,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 3,0.0,0
+PA,PUERTO ARMUELLES ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,LAS LOMAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,GUALACA ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,LA PINTADA ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,EL COCO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,CAPIRA ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,SAN MARTIN,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,ATALAYA ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,ALTO BOQUETE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,CAÑAZAS ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,NATA ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,AGUADULCE ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,NUEVA PROVIDENCIA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,SABANITAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,PUERTO PILON,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,BUGABA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,TORTI,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,LAS GARZAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,NARGANA ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 2,0.0,0
+PA,PEDREGAL,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SAN CARLOS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,TIJERAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,PLAZA CAISAN,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,CAÑAVERAL,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,ANTON ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,BARRIO NORTE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,MARIA CHIQUITA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,BUENA VISTA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,COCLE DEL NORTE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,POCRI,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,VILLARREAL,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,COMARCA KUNA DE WARGANDI,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,NUEVA GORGONA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,LAS LAJAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,OBALDIA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,AMADOR,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,MONTIJO ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,LOS ALGARROBOS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,ALANJE ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,LA PEÑA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,TUBUALA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SABANA GRANDE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,LOS POZOS ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,LLANO BONITO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,POTUGA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,PARIS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SAN FELIX,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SANTA MARTA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,CAÑITA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,REMEDIOS ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SANTO TOMAS,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,BOQUERON ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SANTA CLARA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,HICACO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,NUEVA CALIFORNIA,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,LA MESA ,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,PAJONAL,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SAN MARTIN DE PORRES,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SAN JOSE DEL GENERAL,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,SAN ISIDRO,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
+PA,ASERRIO DE GARICHE,Panama,2020-04-02 13:43:01.779446,Casos confirmados: 1,0.0,0
