@@ -8,24 +8,34 @@
 
 ### Table 1. Health infraestructure per country
 
-| #   | Country            | Data Source                                                                                                                           | Last Update |
-| --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 1   | ARGENTINA          | [SGS - REFES](https://datos.gob.ar/dataset/salud-listado-establecimientos-salud-asentados-registro-federal-refes)                     |             |
-| 2   | BOLIVIA            | [Ministerio de Salud](https://datos.gob.bo/dataset/cantidad-de-establecimientos-de-salud-por-nivel-de-atencion-2006-20151)            | 2015        |
-| 3   | BRAZIL             | [MS - CNES](http://www.dados.gov.br/dataset/cnes_ativo)                                                                               |             |
-| 4   | CHILE              | -                                                                                                                                     |             |
-| 5   | COLOMBIA           | [Not public data](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Eps-Ips-y-Centros-de-salud/cmb8-yyw6)                            | 2018        |
-| 6   | COSTA RICA         | -                                                                                                                                     |             |
-| 7   | DOMINICAN REPUBLIC | [MSP1](http://www.datos.gob.do/dataset/listado-de-centros-de-salud) [MSP2](http://www.datos.gob.do/dataset/establecimientos-de-salud) | 2019        |
-| 8   | ECUADOR            | No data founded                                                                                                                       |             |
-| 9   | EL SALVADOR        | [Founded but not easy to obtain](https://bit.ly/2WU0uNg)                                                                              |             |
-| 10  | HONDURAS           | No data founded                                                                                                                       |             |
-| 11  | MEXICO             | https://datos.gob.mx/busca/organization/salud                                                                                                                       |             |
-| 12  | NICARAGUA          | No data founded                                                                                                                       |             |
-| 13  | PANAMA             | No data founded                                                                                                                       |             |
-| 14  | PARAGUAY           | [MSPyBS](https://www.datos.gov.py/dataset/establecimientos-de-salud)                                                                  |             |
-| 15  | PERU               | [MINSA - IPRESS](https://www.datosabiertos.gob.pe/dataset/minsa-ipress)                                                               |             |
-| 16  | URUGUAY            | No data founded                                                                                                                       |             |
-| 17  | VENEZUELA          | No data founded                                                                                                                       |             |
+| #   | Country                  | Data Source                                                   | Last Update |
+| --- | ------------------------ | ------------------------------------------------------------- | ----------- |
+| 1   | ARGENTINA                | [SGS - REFES](https://bit.ly/2R5YEFe)                         |             |
+| 2   | BOLIVIA                  | [Ministerio de Salud](https://bit.ly/2JvQa63)                 | 2015        |
+| 3   | BRAZIL                   | [MS - CNES](https://bit.ly/2ytG5EF)                           |             |
+| 4   | CHILE                    |                                                               |             |
+| 5   | COLOMBIA                 | [Not public data](https://bit.ly/2R5wI4B)                     | 2018        |
+| 6   | COSTA RICA               |                                                               |             |
+| 7   | CUBA                     |                                                               |             |
+| 8   | DOMINICAN REPUBLIC       | [MSP1](https://bit.ly/2V0dNsO) [MSP2](https://bit.ly/2URoxK6) | 2019        |
+| 9   | ECUADOR                  | No data founded                                               |             |
+| 10  | EL SALVADOR              | [Founded but not easy to obtain](https://bit.ly/2WU0uNg)      |             |
+| 11  | FRENCH GUIANA            |                                                               |             |
+| 12  | GUADELOUPE               |                                                               |             |
+| 13  | GUATEMALA                |                                                               |             |
+| 14  | HAITI                    |                                                               |             |
+| 15  | HONDURAS                 | No data founded                                               |             |
+| 16  | MARTINIQUE               |                                                               |             |
+| 17  | MEXICO                   | [Datos](https://bit.ly/2X4l5P8)                               |             |
+| 18  | NICARAGUA                | No data founded                                               |             |
+| 19  | PANAMA                   | No data founded                                               |             |
+| 20  | PARAGUAY                 | [MSPyBS](https://bit.ly/3dO6mO7)                              |             |
+| 21  | PERU                     | [MINSA - IPRESS](https://bit.ly/2JwTVIq)                      |             |
+| 22  | PUERTO RICO              |                                                               |             |
+| 23  | SAIN PIERRE AND MIQUELON |                                                               |             |
+| 24  | SAINT BARTHELEMY         |                                                               |             |
+| 25  | SAINT MARTIN             |                                                               |             |
+| 26  | URUGUAY                  | No data founded                                               |             |
+| 27  | VENEZUELA                | No data founded                                               |             |
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
