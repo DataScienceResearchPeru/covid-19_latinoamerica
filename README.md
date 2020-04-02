@@ -266,6 +266,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://pablorea.github.io/me/"><img src="https://avatars1.githubusercontent.com/u/25037383?v=4" width="100px;" alt=""/><br /><sub><b>Pablo Leandro Rea</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=pablorea" title="Documentation">📖</a></td>
     <td align="center"><a href="https://developers.ninja"><img src="https://avatars2.githubusercontent.com/u/5533099?v=4" width="100px;" alt=""/><br /><sub><b>Xavier Araque</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=rendergraf" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ncovgt2020"><img src="https://avatars0.githubusercontent.com/u/62212482?v=4" width="100px;" alt=""/><br /><sub><b>Corona Virus Guatemala</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ncovgt2020" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Caospierre"><img src="https://avatars2.githubusercontent.com/u/20137969?v=4" width="100px;" alt=""/><br /><sub><b>Jean Pineda</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=Caospierre" title="Documentation">📖</a></td>
   </tr>
 </table>
 
