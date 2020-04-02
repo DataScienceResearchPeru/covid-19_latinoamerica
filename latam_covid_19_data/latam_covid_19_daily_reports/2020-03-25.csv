@@ -147,30 +147,30 @@ DO-26,Santiago,Dominican Republic,,,,
 DO-32,Santiago Rodriguez,Dominican Republic,,,,
 DO-01,Santo Domingo,Dominican Republic,,,,
 DO-27,Valverde,Dominican Republic,,,,
-EC-A,Azuay,Ecuador,,,,
-EC-B,Bolivar,Ecuador,,,,
-EC-F,Canar,Ecuador,,,,
-EC-C,Carchi,Ecuador,,,,
-EC-H,Chimborazo,Ecuador,,,,
-EC-X,Cotopaxi,Ecuador,,,,
-EC-O,El Oro,Ecuador,,,,
-EC-E,Esmeraldas,Ecuador,,,,
-EC-W,Galapagos,Ecuador,,,,
-EC-G,Guayas,Ecuador,,,,
-EC-I,Imbabura,Ecuador,,,,
-EC-L,Loja,Ecuador,,,,
-EC-R,Los Rios,Ecuador,,,,
-EC-M,Manabi,Ecuador,,,,
-EC-S,Morona Santiago,Ecuador,,,,
-EC-N,Napo,Ecuador,,,,
-EC-D,Orellana,Ecuador,,,,
-EC-Y,Pastaza,Ecuador,,,,
-EC-P,Pichincha,Ecuador,,,,
-EC-SE,Santa Elena,Ecuador,,,,
-EC-SD,Santo Domingo de los Tsachilas,Ecuador,,,,
-EC-U,Sucumbios,Ecuador,,,,
-EC-T,Tungurahua,Ecuador,,,,
-EC-Z,Zamora-Chinchipe,Ecuador,,,,
+EC-A,Azuay,Ecuador,2020-03-25T17:00:00,31,0,0
+EC-B,Bolivar,Ecuador,2020-03-25T17:00:01,11,0,0
+EC-F,Canar,Ecuador,2020-03-25T17:00:02,12,0,0
+EC-C,Carchi,Ecuador,2020-03-25T17:00:03,2,0,0
+EC-H,Chimborazo,Ecuador,2020-03-25T17:00:04,11,0,0
+EC-X,Cotopaxi,Ecuador,2020-03-25T17:00:05,2,0,0
+EC-O,El Oro,Ecuador,2020-03-25T17:00:06,17,0,0
+EC-E,Esmeraldas,Ecuador,2020-03-25T17:00:07,4,0,0
+EC-W,Galapagos,Ecuador,2020-03-25T17:00:08,4,0,0
+EC-G,Guayas,Ecuador,2020-03-25T17:00:09,885,0,0
+EC-I,Imbabura,Ecuador,2020-03-25T17:00:10,8,0,0
+EC-L,Loja,Ecuador,2020-03-25T17:00:11,8,0,0
+EC-R,Los Rios,Ecuador,2020-03-25T17:00:12,40,0,0
+EC-M,Manabi,Ecuador,2020-03-25T17:00:13,38,0,0
+EC-S,Morona Santiago,Ecuador,2020-03-25T17:00:14,7,0,0
+EC-N,Napo,Ecuador,2020-03-25T17:00:15,0,0,0
+EC-D,Orellana,Ecuador,2020-03-25T17:00:16,0,0,0
+EC-Y,Pastaza,Ecuador,2020-03-25T17:00:17,1,0,0
+EC-P,Pichincha,Ecuador,2020-03-25T17:00:18,108,0,0
+EC-SE,Santa Elena,Ecuador,2020-03-25T17:00:19,6,0,0
+EC-SD,Santo Domingo de los Tsachilas,Ecuador,2020-03-25T17:00:20,0,0,0
+EC-U,Sucumbios,Ecuador,2020-03-25T17:00:21,6,0,0
+EC-T,Tungurahua,Ecuador,2020-03-25T17:00:22,3,0,0
+EC-Z,Zamora Chinchipe,Ecuador,2020-03-25T17:00:23,0,0,0
 SV-AH,Ahuachapan,El Salvador,,,,
 SV-CA,Cabanas,El Salvador,,,,
 SV-CH,Chalatenango,El Salvador,,,,
