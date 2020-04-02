@@ -92,7 +92,7 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 10  | EL SALVADOR              | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2U7N7Hm)                               |
 | 11  | FRENCH GUIANA            | SIN ENCARGADO                                                          |             |                                                            |
 | 12  | GUADELOUPE               | SIN ENCARGADO                                                          |             |                                                            |
-| 13  | GUATEMALA                | SIN ENCARGADO                                                          |             |                                                            |
+| 13  | GUATEMALA                | [ncovgt2020](https://bit.ly/3aHpECQ)                                   |             |                                                            |
 | 14  | HAITI                    | SIN ENCARGADO                                                          |             |                                                            |
 | 15  | HONDURAS                 | SIN ENCARGADO                                                          |             |                                                            |
 | 16  | MARTINIQUE               | SIN ENCARGADO                                                          |             |                                                            |
