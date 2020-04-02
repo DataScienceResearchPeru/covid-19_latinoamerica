@@ -14,6 +14,15 @@
         "design",
         "projectManagement"
       ]
+    },
+    {
+      "login": "ivanMSC",
+      "name": "ivang",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35350256?v=4",
+      "profile": "https://github.com/ivanMSC",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
