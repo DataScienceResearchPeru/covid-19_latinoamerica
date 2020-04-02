@@ -122,6 +122,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "pablorea",
+      "name": "Pablo Leandro Rea",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25037383?v=4",
+      "profile": "https://pablorea.github.io/me/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
