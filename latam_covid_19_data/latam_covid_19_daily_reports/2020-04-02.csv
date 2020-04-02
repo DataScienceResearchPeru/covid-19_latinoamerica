@@ -59,22 +59,22 @@ BR-SC,Santa Catarina,Brazil,,,,
 BR-SP,Sao Paulo,Brazil,,,,
 BR-SE,Sergipe,Brazil,,,,
 BR-TO,Tocantins,Brazil,,,,
-CL-AP,Arica y Parinacota,Chile,2020-04-02T13:45:00,7,0,0
-CL-TA,Tarapaca,Chile,2020-04-02T13:45:00,12,0,0
-CL-AN,Antofagasta,Chile,2020-04-02T13:45:00,47,0,0
-CL-AT,Atacama,Chile,2020-04-02T13:45:00,3,0,0
-CL-CO,Coquimbo,Chile,2020-04-02T13:45:00,34,0,0
-CL-VS,Valparaiso,Chile,2020-04-02T13:45:00,156,1,0
-CL-RM,Santiago,Chile,2020-04-02T13:45:00,1636,6,0
-CL-LI,O'Higgins,Chile,2020-04-02T13:45:00,32,0,0
-CL-ML,Maule,Chile,2020-04-02T13:45:00,82,1,0
-CL-NB,Nuble,Chile,2020-04-02T13:45:00,341,0,0
-CL-BI,Biobio,Chile,2020-04-02T13:45:00,275,2,0
-CL-AR,Araucania,Chile,2020-04-02T13:45:00,389,7,0
-CL-LR,Los Rios,Chile,2020-04-02T13:45:00,68,1,0
-CL-LL,Los Lagos,Chile,2020-04-02T13:45:00,203,0,0
-CL-AI,Aysen,Chile,2020-04-02T13:45:00,5,0,0
-CL-MA,Magallanes,Chile,2020-04-02T13:45:00,114,0,0
+CL-AP,Arica y Parinacota,Chile,2020-04-02T13:45:00,7.0,0.0,0.0
+CL-TA,Tarapaca,Chile,2020-04-02T13:45:00,12.0,0.0,0.0
+CL-AN,Antofagasta,Chile,2020-04-02T13:45:00,47.0,0.0,0.0
+CL-AT,Atacama,Chile,2020-04-02T13:45:00,3.0,0.0,0.0
+CL-CO,Coquimbo,Chile,2020-04-02T13:45:00,34.0,0.0,0.0
+CL-VS,Valparaiso,Chile,2020-04-02T13:45:00,156.0,1.0,0.0
+CL-RM,Santiago,Chile,2020-04-02T13:45:00,1636.0,6.0,0.0
+CL-LI,O'Higgins,Chile,2020-04-02T13:45:00,32.0,0.0,0.0
+CL-ML,Maule,Chile,2020-04-02T13:45:00,82.0,1.0,0.0
+CL-NB,Nuble,Chile,2020-04-02T13:45:00,341.0,0.0,0.0
+CL-BI,Biobio,Chile,2020-04-02T13:45:00,275.0,2.0,0.0
+CL-AR,Araucania,Chile,2020-04-02T13:45:00,389.0,7.0,0.0
+CL-LR,Los Rios,Chile,2020-04-02T13:45:00,68.0,1.0,0.0
+CL-LL,Los Lagos,Chile,2020-04-02T13:45:00,203.0,0.0,0.0
+CL-AI,Aysen,Chile,2020-04-02T13:45:00,5.0,0.0,0.0
+CL-MA,Magallanes,Chile,2020-04-02T13:45:00,114.0,0.0,0.0
 CO-AMA,Amazonas,Colombia,,,,
 CO-ANT,Antioquia,Colombia,,,,
 CO-ARA,Arauca,Colombia,,,,
@@ -252,19 +252,6 @@ NI-SJ,Rivas,Nicaragua,,,,
 NI-RI,Rio San Juan,Nicaragua,,,,
 NI-AN,NCCAR,Nicaragua,,,,
 NI-AS,SCCAR,Nicaragua,,,,
-PA-1,Bocas del Toro,Panama,,,,
-PA-4,Chiriqui,Panama,,,,
-PA-2,Cocle,Panama,,,,
-PA-3,Colon,Panama,,,,
-PA-5,Darien,Panama,,,,
-PA-6,Herrera,Panama,,,,
-PA-7,Los Santos,Panama,,,,
-PA-8,Panama,Panama,,,,
-PA-10,Panama Oeste,Panama,,,,
-PA-9,Veraguas,Panama,,,,
-PA-EM,Embera,Panama,,,,
-PA-KY,Guna Yala,Panama,,,,
-PA-NB,Ngabe-Bugle,Panama,,,,
 PY-ASU,Distrito Capital,Paraguay,,,,
 PY-1,Concepcion,Paraguay,,,,
 PY-2,San Pedro,Paraguay,,,,
@@ -406,3 +393,129 @@ FR-MQ,Martinique,France,,,,
 FR-MF,Saint-Martin,France,,,,
 FR-BL,Saint-Barthélemy,France,,,,
 FR-PM,Saint-Pierre-et-Miquelon,France,,,,
+PA,SAN FRANCISCO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 91,0.0,0.0
+PA,JUAN DIAZ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 69,0.0,0.0
+PA,SANTA ANA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 52,0.0,0.0
+PA,VISTA ALEGRE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 52,0.0,0.0
+PA,BETANIA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 49,0.0,0.0
+PA,ARRAIJAN ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 46,0.0,0.0
+PA,BELLA VISTA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 45,0.0,0.0
+PA,TOCUMEN,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 44,0.0,0.0
+PA,LAS CUMBRES,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 32,0.0,0.0
+PA,ANCON,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 32,0.0,0.0
+PA,PACORA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 30,0.0,0.0
+PA,JUAN DEMOSTENES AROSEMENA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 29,0.0,0.0
+PA,ALCALDE DIAZ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 28,0.0,0.0
+PA,PARQUE LEFEVRE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 27,0.0,0.0
+PA,CHILIBRE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 26,0.0,0.0
+PA,AMELIA DENIS DE ICAZA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 24,0.0,0.0
+PA,JOSE DOMINGO ESPINAR,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 24,0.0,0.0
+PA,VERACRUZ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 24,0.0,0.0
+PA,PEDREGAL,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 23,0.0,0.0
+PA,RUFINA ALFARO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 23,0.0,0.0
+PA,24 DE DICIEMBRE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 23,0.0,0.0
+PA,CALIDONIA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 23,0.0,0.0
+PA,PUERTO CAIMITO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 22,0.0,0.0
+PA,ERNESTO CORDOBA CAMPOS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 22,0.0,0.0
+PA,DON BOSCO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 21,0.0,0.0
+PA,CERRO SILVESTRE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 20,0.0,0.0
+PA,BURUNGA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 18,0.0,0.0
+PA,OMAR TORRIJOS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 18,0.0,0.0
+PA,RIO ABAJO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 17,0.0,0.0
+PA,PUEBLO NUEVO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 16,0.0,0.0
+PA,SANTIAGO ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 16,0.0,0.0
+PA,GUADALUPE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 15,0.0,0.0
+PA,BELISARIO PORRAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 15,0.0,0.0
+PA,BELISARIO FRIAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 14,0.0,0.0
+PA,BARRIO COLON,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 13,0.0,0.0
+PA,SONA ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 13,0.0,0.0
+PA,BARRIO BALBOA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 12,0.0,0.0
+PA,VICTORIANO LORENZO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 11,0.0,0.0
+PA,PLAYA LEONA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 11,0.0,0.0
+PA,ARNULFO ARIAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 11,0.0,0.0
+PA,EL CHORRILLO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 8,0.0,0.0
+PA,LAS MAÑANITAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 8,0.0,0.0
+PA,MATEO ITURRALDE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 8,0.0,0.0
+PA,SAN PABLO VIEJO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 7,0.0,0.0
+PA,HERRERA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 7,0.0,0.0
+PA,CATIVA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 7,0.0,0.0
+PA,CAIMITILLO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 7,0.0,0.0
+PA,RIO HATO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 6,0.0,0.0
+PA,CURUNDU,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 6,0.0,0.0
+PA,DAVID ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 6,0.0,0.0
+PA,CRISTÓBAL,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 6,0.0,0.0
+PA,SANTA RITA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 5,0.0,0.0
+PA,NUEVO EMPERADOR,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 5,0.0,0.0
+PA,LA COLORADA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 5,0.0,0.0
+PA,CHEPO (CEBECERA),Panama,2020-04-02 14:06:28.636314,Casos confirmados: 5,0.0,0.0
+PA,PENONOME ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 5,0.0,0.0
+PA,PONUGA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 5,0.0,0.0
+PA,SAN JUAN,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 4,0.0,0.0
+PA,SAN ANTONIO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 4,0.0,0.0
+PA,LOS ALGARROBOS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 3,0.0,0.0
+PA,SAN FELIPE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 3,0.0,0.0
+PA,EDWIN FABREGA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 3,0.0,0.0
+PA,LIDICE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 3,0.0,0.0
+PA,VILLA ROSARIO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 3,0.0,0.0
+PA,AILIGANDI,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 3,0.0,0.0
+PA,PUERTO ARMUELLES ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,LAS LOMAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,GUALACA ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,LA PINTADA ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,EL COCO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,CAPIRA ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,SAN MARTIN,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,ATALAYA ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,ALTO BOQUETE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,CAÑAZAS ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,NATA ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,AGUADULCE ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,NUEVA PROVIDENCIA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,SABANITAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,PUERTO PILON,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,BUGABA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,TORTI,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,LAS GARZAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,NARGANA ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 2,0.0,0.0
+PA,PEDREGAL,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SAN CARLOS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,TIJERAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,PLAZA CAISAN,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,CAÑAVERAL,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,ANTON ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,BARRIO NORTE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,MARIA CHIQUITA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,BUENA VISTA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,COCLE DEL NORTE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,POCRI,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,VILLARREAL,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,COMARCA KUNA DE WARGANDI,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,NUEVA GORGONA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,LAS LAJAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,OBALDIA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,AMADOR,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,MONTIJO ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,LOS ALGARROBOS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,ALANJE ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,LA PEÑA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,TUBUALA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SABANA GRANDE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,LOS POZOS ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,LLANO BONITO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,POTUGA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,PARIS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SAN FELIX,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SANTA MARTA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,CAÑITA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,REMEDIOS ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SANTO TOMAS,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,BOQUERON ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SANTA CLARA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,HICACO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,NUEVA CALIFORNIA,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,LA MESA ,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,PAJONAL,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SAN MARTIN DE PORRES,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SAN JOSE DEL GENERAL,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,SAN ISIDRO,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
+PA,ASERRIO DE GARICHE,Panama,2020-04-02 14:06:28.636314,Casos confirmados: 1,0.0,0.0
