@@ -25,20 +25,23 @@
   <h3 align="center">Latin America Covid-19 Data Repository by DSRP </h3>
 
   <p align="center">
-    Repository with daily updates related to Covid-19 of 17 countries.<br />
+    Repository with daily updates related to Covid-19 of Latin America (South America)<br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB">View Map</a>
     ·
     <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Report Bug</a>
     ·
-    <a href="hhttps://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Request Feature</a>
+    ·
+    <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Data Error</a>
   </p>
   <p align="center">
-  <span style="color:red">
-   Necesitamos colaboradores de forma urgente.
-   </span>
+  <a href="https://github.com/rafnixg/covid-19_latinoamerica_api">API</a>
+  <br>
+  <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">I want to contribute</a>
+   (Necesitamos colaboradores urgentemente)
   </p>
 </p>
 
