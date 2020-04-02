@@ -246,7 +246,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ZurMaD"><img src="https://avatars2.githubusercontent.com/u/28235457?v=4" width="100px;" alt=""/><br /><sub><b>ZurMaD</b></sub></a><br /><a href="#design-ZurMaD" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/ZurMaD"><img src="https://avatars2.githubusercontent.com/u/28235457?v=4" width="100px;" alt=""/><br /><sub><b>ZurMaD</b></sub></a><br /><a href="#design-ZurMaD" title="Design">🎨</a> <a href="#projectManagement-ZurMaD" title="Project Management">📆</a></td>
   </tr>
 </table>
 
