@@ -140,6 +140,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "rendergraf",
+      "name": "Xavier Araque",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5533099?v=4",
+      "profile": "https://developers.ninja",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
