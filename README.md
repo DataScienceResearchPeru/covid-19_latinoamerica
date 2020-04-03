@@ -48,10 +48,10 @@
   <br>
   <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">I want to contribute</a>
    (Necesitamos colaboradores urgentemente)
-
+  </p>
   <br>
-  <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">I want to contribute</a>
-   (Necesitamos colaboradores urgentemente)
+  <p align="center">
+  <a href="https://join.slack.com/t/covid19latinoamerica/shared_invite/zt-d99sp09d-mcwZ3AmFI_kmj~kYryg74w">Invitacion a Slack para coordinadores</a>
   </p>
 </p>
 
