@@ -327,30 +327,31 @@ UY-SJ,San Jose,Uruguay,,,,
 UY-SO,Soriano,Uruguay,,,,
 UY-TA,Tacuarembo,Uruguay,,,,
 UY-TT,Treinta y Tres,Uruguay,,,,
-VE-W,Dependencias Federales,Venezuela,,,,
-VE-Z,Amazonas,Venezuela,,,,
-VE-B,Anzoategui,Venezuela,,,,
-VE-C,Apure,Venezuela,,,,
-VE-D,Aragua,Venezuela,,,,
-VE-E,Barinas,Venezuela,,,,
-VE-F,Bolivar,Venezuela,,,,
-VE-G,Carabobo,Venezuela,,,,
-VE-H,Cojedes,Venezuela,,,,
-VE-Y,Delta Amacuro,Venezuela,,,,
-VE-I,Falcon,Venezuela,,,,
-VE-J,Guarico,Venezuela,,,,
-VE-X,Vargas,Venezuela,,,,
-VE-K,Lara,Venezuela,,,,
-VE-L,Merida,Venezuela,,,,
-VE-M,Miranda,Venezuela,,,,
-VE-N,Monagas,Venezuela,,,,
-VE-O,Nueva Esparta,Venezuela,,,,
-VE-P,Portuguesa,Venezuela,,,,
-VE-R,Sucre,Venezuela,,,,
-VE-S,Tachira,Venezuela,,,,
-VE-T,Trujillo,Venezuela,,,,
-VE-U,Yaracuy,Venezuela,,,,
-VE-V,Zulia,Venezuela,,,,
+VE-A,Caracas D.C.,Venezuela,2020-04-02T22:41:12,26,1,0
+VE-B,Anzoátegui,Venezuela,2020-04-02T22:41:12,2,0,0
+VE-C,Apure,Venezuela,2020-04-02T22:41:12,1,0,0
+VE-D,Aragua,Venezuela,2020-04-02T22:41:12,19,1,0
+VE-E,Barinas,Venezuela,2020-04-02T22:41:12,5,0,0
+VE-F,Bolívar,Venezuela,2020-04-02T22:41:12,2,1,0
+VE-G,Carabobo,Venezuela,2020-04-02T22:41:12,0,0,0
+VE-H,Cojedes,Venezuela,2020-04-02T22:41:12,1,0,0
+VE-I,Falcón,Venezuela,2020-04-02T22:41:12,2,0,0
+VE-J,Guárico,Venezuela,2020-04-02T22:41:12,1,0,0
+VE-K,Lara,Venezuela,2020-04-02T22:41:12,4,0,0
+VE-L,Mérida,Venezuela,2020-04-02T22:41:12,1,0,0
+VE-M,Miranda,Venezuela,2020-04-02T22:41:12,57,1,43
+VE-N,Monagas,Venezuela,2020-04-02T22:41:12,1,0,0
+VE-O,Nueva Esparta,Venezuela,2020-04-02T22:41:12,2,0,0
+VE-P,Portuguesa,Venezuela,2020-04-02T22:41:12,0,0,0
+VE-R,Sucre,Venezuela,2020-04-02T22:41:12,1,0,0
+VE-S,Táchira,Venezuela,2020-04-02T22:41:12,0,0,0
+VE-T,Trujillo,Venezuela,2020-04-02T22:41:12,2,1,0
+VE-U,Yaracuy,Venezuela,2020-04-02T22:41:12,1,0,0
+VE-V,Zulia,Venezuela,2020-04-02T22:41:12,4,0,0
+VE-W,Los Roques,Venezuela,2020-04-02T22:41:12,4,0,0
+VE-X,Vargas,Venezuela,2020-04-02T22:41:12,10,0,0
+VE-Y,Delta Amacuro,Venezuela,2020-04-02T22:41:12,0,0,0
+VE-Z,Amazonas,Venezuela,2020-04-02T22:41:12,0,0,0
 GT-AV,Alta Verapaz,Guatemala,,,,
 GT-BV,Baja Verapaz,Guatemala,,,,
 GT-CM,Chimaltenango,Guatemala,,,,
