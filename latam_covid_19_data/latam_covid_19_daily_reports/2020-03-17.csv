@@ -203,38 +203,38 @@ HN-OL,Olancho,Honduras,,,,
 HN-SB,Santa Barbara,Honduras,,,,
 HN-VA,Valle,Honduras,,,,
 HN-YO,Yoro,Honduras,,,,
-MX-AGU,Aguascalientes,Mexico,2020-04-01T17:25:00-06:00,1,0,0
-MX-BCN,Baja California,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-BCS,Baja California Sur,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-CAM,Campeche,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-CHP,Chiapas,Mexico,2020-04-01T17:25:00-06:00,1,0,0
-MX-CHH,Chihuahua,Mexico,2020-04-01T17:25:00-06:00,1,0,0
-MX-CMX,Ciudad de Mexico,Mexico,2020-04-01T17:25:00-06:00,21,0,0
-MX-COA,Coahuila,Mexico,2020-04-01T17:25:00-06:00,1,0,1
-MX-COL,Colima,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-DUR,Durango,Mexico,2020-04-01T17:25:00-06:00,3,0,0
-MX-GUA,Guanajuato,Mexico,2020-04-01T17:25:00-06:00,1,0,0
-MX-GRO,Guerrero,Mexico,2020-04-01T17:25:00-06:00,2,0,0
-MX-HID,Hidalgo,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-JAL,Jalisco,Mexico,2020-04-01T17:25:00-06:00,5,0,0
-MX-MIC,Michoacan,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-MOR,Morelos,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-MEX,Mexico,Mexico,2020-04-01T17:25:00-06:00,10,0,1
-MX-NAY,Nayarit,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-NLE,Nuevo Leon,Mexico,2020-04-01T17:25:00-06:00,14,0,0
-MX-OAX,Oaxaca,Mexico,2020-04-01T17:25:00-06:00,2,0,0
-MX-PUE,Puebla,Mexico,2020-04-01T17:25:00-06:00,9,0,0
-MX-QUE,Queretaro,Mexico,2020-04-01T17:25:00-06:00,7,0,0
-MX-ROO,Quintana Roo,Mexico,2020-04-01T17:25:00-06:00,4,0,0
-MX-SLP,San Luis Potosi,Mexico,2020-04-01T17:25:00-06:00,2,0,0
-MX-SIN,Sinaloa,Mexico,2020-04-01T17:25:00-06:00,2,0,1
-MX-SON,Sonora,Mexico,2020-04-01T17:25:00-06:00,1,0,0
-MX-TAB,Tabasco,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-TAM,Tamaulipas,Mexico,2020-04-01T17:25:00-06:00,1,0,0
-MX-TLA,Tlaxcala,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-VER,Veracruz,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-YUC,Yucatan,Mexico,2020-04-01T17:25:00-06:00,5,0,0
-MX-ZAC,Zacatecas,Mexico,2020-04-01T17:25:00-06:00,0,0,0
+MX-AGU,Aguascalientes,Mexico,2020-04-01T17:25:00,1,0,0
+MX-BCN,Baja California,Mexico,2020-04-01T17:25:00,0,0,0
+MX-BCS,Baja California Sur,Mexico,2020-04-01T17:25:00,0,0,0
+MX-CAM,Campeche,Mexico,2020-04-01T17:25:00,0,0,0
+MX-CHP,Chiapas,Mexico,2020-04-01T17:25:00,1,0,0
+MX-CHH,Chihuahua,Mexico,2020-04-01T17:25:00,1,0,0
+MX-CMX,Ciudad de Mexico,Mexico,2020-04-01T17:25:00,21,0,0
+MX-COA,Coahuila,Mexico,2020-04-01T17:25:00,1,0,1
+MX-COL,Colima,Mexico,2020-04-01T17:25:00,0,0,0
+MX-DUR,Durango,Mexico,2020-04-01T17:25:00,3,0,0
+MX-GUA,Guanajuato,Mexico,2020-04-01T17:25:00,1,0,0
+MX-GRO,Guerrero,Mexico,2020-04-01T17:25:00,2,0,0
+MX-HID,Hidalgo,Mexico,2020-04-01T17:25:00,0,0,0
+MX-JAL,Jalisco,Mexico,2020-04-01T17:25:00,5,0,0
+MX-MIC,Michoacan,Mexico,2020-04-01T17:25:00,0,0,0
+MX-MOR,Morelos,Mexico,2020-04-01T17:25:00,0,0,0
+MX-MEX,Mexico,Mexico,2020-04-01T17:25:00,10,0,1
+MX-NAY,Nayarit,Mexico,2020-04-01T17:25:00,0,0,0
+MX-NLE,Nuevo Leon,Mexico,2020-04-01T17:25:00,14,0,0
+MX-OAX,Oaxaca,Mexico,2020-04-01T17:25:00,2,0,0
+MX-PUE,Puebla,Mexico,2020-04-01T17:25:00,9,0,0
+MX-QUE,Queretaro,Mexico,2020-04-01T17:25:00,7,0,0
+MX-ROO,Quintana Roo,Mexico,2020-04-01T17:25:00,4,0,0
+MX-SLP,San Luis Potosi,Mexico,2020-04-01T17:25:00,2,0,0
+MX-SIN,Sinaloa,Mexico,2020-04-01T17:25:00,2,0,1
+MX-SON,Sonora,Mexico,2020-04-01T17:25:00,1,0,0
+MX-TAB,Tabasco,Mexico,2020-04-01T17:25:00,0,0,0
+MX-TAM,Tamaulipas,Mexico,2020-04-01T17:25:00,1,0,0
+MX-TLA,Tlaxcala,Mexico,2020-04-01T17:25:00,0,0,0
+MX-VER,Veracruz,Mexico,2020-04-01T17:25:00,0,0,0
+MX-YUC,Yucatan,Mexico,2020-04-01T17:25:00,5,0,0
+MX-ZAC,Zacatecas,Mexico,2020-04-01T17:25:00,0,0,0
 NI-BO,Boaco,Nicaragua,,0,0,0
 NI-CA,Carazo,Nicaragua,,0,0,0
 NI-CI,Chinandega,Nicaragua,,0,0,0
@@ -400,9 +400,9 @@ CU-07,Sancti Spíritus,Cuba,,,,
 CU-13,Santiago de Cuba,Cuba,,,,
 CU-05,Villa Clara,Cuba,,,,
 CU-99,Isla de la Juventud,Cuba,,,,
-FR-GF,Guyane,France,,,,
-FR-GP,Guadeloupe,France,,,,
-FR-MQ,Martinique,France,,,,
+FR-GF,Guyane,France,2020-04-03T16:57:00,5,0,0
+FR-GP,Guadeloupe,France,2020-04-03T17:06:00,6,0,0
+FR-MQ,Martinique,France,2020-04-03T16:57:00,15,1,0
 FR-MF,Saint-Martin,France,,,,
 FR-BL,Saint-Barthélemy,France,,,,
 FR-PM,Saint-Pierre-et-Miquelon,France,,,,
