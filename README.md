@@ -25,7 +25,7 @@
 
   <p align="center">
     Repository with daily updates related to Covid-19 of Latin America (South America)<br />
-    <a href="#"><strong>Explore the docs »</strong></a>
+    <a href="https://latin-america-covid-19-repository.readthedocs.io/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB">View Map</a>
