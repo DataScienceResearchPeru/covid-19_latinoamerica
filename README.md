@@ -101,12 +101,12 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 8   | DOMINICAN REPUBLIC       | SIN ENCARGADO                                                          |             | [D1](https://bit.ly/2J2aBHM)                               |
 | 9   | ECUADOR                  | [pablora19](https://bit.ly/2UB6rgl)                                    | 2020-03-21  | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)  |
 | 10  | EL SALVADOR              | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2U7N7Hm)                               |
-| 11  | FRENCH GUIANA            | SIN ENCARGADO                                                          |             |                                                            |
-| 12  | GUADELOUPE               | SIN ENCARGADO                                                          |             |                                                            |
+| 11  | FRENCH GUIANA            | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2UUZsxU)                               |
+| 12  | GUADELOUPE               | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2V0aQsj)                               |
 | 13  | GUATEMALA                | [ncovgt2020](https://bit.ly/3aHpECQ)                                   |             |                                                            |
 | 14  | HAITI                    | SIN ENCARGADO                                                          |             |                                                            |
 | 15  | HONDURAS                 | SIN ENCARGADO                                                          |             |                                                            |
-| 16  | MARTINIQUE               | SIN ENCARGADO                                                          |             |                                                            |
+| 16  | MARTINIQUE               | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/34fbNRW)                               |
 | 17  | MEXICO                   | [carranco-sga](https://bit.ly/2UAAdSw)                                 | 2020-04-01  | [D1](https://bit.ly/3brQ7nY)                               |
 | 18  | NICARAGUA                | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2QQNfJB)                               |
 | 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                            | 2020-03-20  | [D1](https://bit.ly/2UpH8he)                               |
