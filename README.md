@@ -37,11 +37,18 @@
     <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Data Error</a>
   </p>
   <p align="center">
+  REST API para programadores disponible aqui:
   <a href="https://covid19latam.herokuapp.com/">API</a>
+  </p>
+  <p align="center">
+  Github Repo del REST API:
+  <a href="https://github.com/rafnixg/covid-19_latinoamerica_api">API</a>
+  </p>
+  <p align="center">
   <br>
   <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">I want to contribute</a>
    (Necesitamos colaboradores urgentemente)
-  <a href="https://github.com/rafnixg/covid-19_latinoamerica_api">API</a>
+
   <br>
   <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">I want to contribute</a>
    (Necesitamos colaboradores urgentemente)
