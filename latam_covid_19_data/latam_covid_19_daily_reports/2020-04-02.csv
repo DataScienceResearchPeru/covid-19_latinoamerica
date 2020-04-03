@@ -203,38 +203,38 @@ HN-OL,Olancho,Honduras,,,,
 HN-SB,Santa Barbara,Honduras,,,,
 HN-VA,Valle,Honduras,,,,
 HN-YO,Yoro,Honduras,,,,
-MX-AGU,Aguascalientes,Mexico,2020-04-02T20:00:00-06:00,47,0,missing
-MX-BCN,Baja California,Mexico,2020-04-02T20:00:00-06:00,40,3,missing
-MX-BCS,Baja California Sur,Mexico,2020-04-02T20:00:00-06:00,19,2,missing
-MX-CAM,Campeche,Mexico,2020-04-02T20:00:00-06:00,5,0,missing
-MX-CHP,Chiapas,Mexico,2020-04-02T20:00:00-06:00,15,0,missing
-MX-CHH,Chihuahua,Mexico,2020-04-02T20:00:00-06:00,11,0,missing
-MX-CMX,Ciudad de Mexico,Mexico,2020-04-02T20:00:00-06:00,327,13,missing
-MX-COA,Coahuila,Mexico,2020-04-02T20:00:00-06:00,62,2,missing
-MX-COL,Colima,Mexico,2020-04-02T20:00:00-06:00,3,0,missing
-MX-DUR,Durango,Mexico,2020-04-02T20:00:00-06:00,8,1,missing
-MX-GUA,Guanajuato,Mexico,2020-04-02T20:00:00-06:00,50,0,missing
-MX-GRO,Guerrero,Mexico,2020-04-02T20:00:00-06:00,22,1,missing
-MX-HID,Hidalgo,Mexico,2020-04-02T20:00:00-06:00,26,3,missing
-MX-JAL,Jalisco,Mexico,2020-04-02T20:00:00-06:00,104,4,missing
-MX-MIC,Michoacan,Mexico,2020-04-02T20:00:00-06:00,24,1,missing
-MX-MOR,Morelos,Mexico,2020-04-02T20:00:00-06:00,9,3,missing
-MX-MEX,Mexico,Mexico,2020-04-02T20:00:00-06:00,171,1,missing
-MX-NAY,Nayarit,Mexico,2020-04-02T20:00:00-06:00,8,1,missing
-MX-NLE,Nuevo Leon,Mexico,2020-04-02T20:00:00-06:00,84,0,missing
-MX-OAX,Oaxaca,Mexico,2020-04-02T20:00:00-06:00,22,1,missing
-MX-PUE,Puebla,Mexico,2020-04-02T20:00:00-06:00,100,1,missing
-MX-QUE,Queretaro,Mexico,2020-04-02T20:00:00-06:00,32,1,missing
-MX-ROO,Quintana Roo,Mexico,2020-04-02T20:00:00-06:00,56,1,missing
-MX-SLP,San Luis Potosi,Mexico,2020-04-02T20:00:00-06:00,33,2,missing
-MX-SIN,Sinaloa,Mexico,2020-04-02T20:00:00-06:00,42,4,missing
-MX-SON,Sonora,Mexico,2020-04-02T20:00:00-06:00,21,0,missing
-MX-TAB,Tabasco,Mexico,2020-04-02T20:00:00-06:00,62,3,missing
-MX-TAM,Tamaulipas,Mexico,2020-04-02T20:00:00-06:00,13,0,missing
-MX-TLA,Tlaxcala,Mexico,2020-04-02T20:00:00-06:00,5,0,missing
-MX-VER,Veracruz,Mexico,2020-04-02T20:00:00-06:00,29,1,missing
-MX-YUC,Yucatan,Mexico,2020-04-02T20:00:00-06:00,53,0,missing
-MX-ZAC,Zacatecas,Mexico,2020-04-02T20:00:00-06:00,7,1,missing
+MX-AGU,Aguascalientes,Mexico,2020-04-02T20:00:00-06:00,47,0,
+MX-BCN,Baja California,Mexico,2020-04-02T20:00:00-06:00,40,3,
+MX-BCS,Baja California Sur,Mexico,2020-04-02T20:00:00-06:00,19,2,
+MX-CAM,Campeche,Mexico,2020-04-02T20:00:00-06:00,5,0,
+MX-CHP,Chiapas,Mexico,2020-04-02T20:00:00-06:00,15,0,
+MX-CHH,Chihuahua,Mexico,2020-04-02T20:00:00-06:00,11,0,
+MX-CMX,Ciudad de Mexico,Mexico,2020-04-02T20:00:00-06:00,327,13,
+MX-COA,Coahuila,Mexico,2020-04-02T20:00:00-06:00,62,2,
+MX-COL,Colima,Mexico,2020-04-02T20:00:00-06:00,3,0,
+MX-DUR,Durango,Mexico,2020-04-02T20:00:00-06:00,8,1,
+MX-GUA,Guanajuato,Mexico,2020-04-02T20:00:00-06:00,50,0,
+MX-GRO,Guerrero,Mexico,2020-04-02T20:00:00-06:00,22,1,
+MX-HID,Hidalgo,Mexico,2020-04-02T20:00:00-06:00,26,3,
+MX-JAL,Jalisco,Mexico,2020-04-02T20:00:00-06:00,104,4,
+MX-MIC,Michoacan,Mexico,2020-04-02T20:00:00-06:00,24,1,
+MX-MOR,Morelos,Mexico,2020-04-02T20:00:00-06:00,9,3,
+MX-MEX,Mexico,Mexico,2020-04-02T20:00:00-06:00,171,1,
+MX-NAY,Nayarit,Mexico,2020-04-02T20:00:00-06:00,8,1,
+MX-NLE,Nuevo Leon,Mexico,2020-04-02T20:00:00-06:00,84,0,
+MX-OAX,Oaxaca,Mexico,2020-04-02T20:00:00-06:00,22,1,
+MX-PUE,Puebla,Mexico,2020-04-02T20:00:00-06:00,100,1,
+MX-QUE,Queretaro,Mexico,2020-04-02T20:00:00-06:00,32,1,
+MX-ROO,Quintana Roo,Mexico,2020-04-02T20:00:00-06:00,56,1,
+MX-SLP,San Luis Potosi,Mexico,2020-04-02T20:00:00-06:00,33,2,
+MX-SIN,Sinaloa,Mexico,2020-04-02T20:00:00-06:00,42,4,
+MX-SON,Sonora,Mexico,2020-04-02T20:00:00-06:00,21,0,
+MX-TAB,Tabasco,Mexico,2020-04-02T20:00:00-06:00,62,3,
+MX-TAM,Tamaulipas,Mexico,2020-04-02T20:00:00-06:00,13,0,
+MX-TLA,Tlaxcala,Mexico,2020-04-02T20:00:00-06:00,5,0,
+MX-VER,Veracruz,Mexico,2020-04-02T20:00:00-06:00,29,1,
+MX-YUC,Yucatan,Mexico,2020-04-02T20:00:00-06:00,53,0,
+MX-ZAC,Zacatecas,Mexico,2020-04-02T20:00:00-06:00,7,1,
 NI-BO,Boaco,Nicaragua,,,,
 NI-CA,Carazo,Nicaragua,,,,
 NI-CI,Chinandega,Nicaragua,,,,
@@ -252,6 +252,19 @@ NI-SJ,Rivas,Nicaragua,,,,
 NI-RI,Rio San Juan,Nicaragua,,,,
 NI-AN,NCCAR,Nicaragua,,,,
 NI-AS,SCCAR,Nicaragua,,,,
+PA-1,Bocas del Toro,Panama,,,,
+PA-4,Chiriqui,Panama,,,,
+PA-2,Cocle,Panama,,,,
+PA-3,Colon,Panama,,,,
+PA-5,Darien,Panama,,,,
+PA-6,Herrera,Panama,,,,
+PA-7,Los Santos,Panama,,,,
+PA-8,Panama,Panama,,,,
+PA-10,Panama Oeste,Panama,,,,
+PA-9,Veraguas,Panama,,,,
+PA-EM,Embera,Panama,,,,
+PA-KY,Guna Yala,Panama,,,,
+PA-NB,Ngabe-Bugle,Panama,,,,
 PY-ASU,Distrito Capital,Paraguay,,,,
 PY-1,Concepcion,Paraguay,,,,
 PY-2,San Pedro,Paraguay,,,,
