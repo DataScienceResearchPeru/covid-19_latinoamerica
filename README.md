@@ -37,7 +37,7 @@
     <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Data Error</a>
   </p>
   <p align="center">
-  <a href="https://covid19latam.herokuapp.com/">API</a>
+  <a href="https://github.com/rafnixg/covid-19_latinoamerica_api">API</a>
   <br>
   <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">I want to contribute</a>
    (Necesitamos colaboradores urgentemente)
@@ -141,7 +141,7 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 27  | VENEZUELA                | 2020-03-13          |
 
 ![Primer caso anunciado por país](https://imgur.com/Txowz4v.jpg)
-See in [Google Sheets](https://bit.ly/3aEyAZI)
+
 <!-- GETTING STARTED -->
 
 <!--
