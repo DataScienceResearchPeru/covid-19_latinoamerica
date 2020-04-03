@@ -2,7 +2,7 @@ ISO 3166-2 Code,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recov
 AR-C,Ciudad Autonoma de Buenos Aires,Argentina,2020-04-03T14:58:00,345,7,117
 AR-B,Buenos Aires,Argentina,2020-04-03T14:58:01,316,14,37
 AR-K,Catamarca,Argentina,2020-04-03T14:58:02,0,0,0
-AR-H,Chaco,Argentina,2020-04-03T14:58:03,99,7,0
+AR-H,Chaco,Argentina,2020-04-03T14:58:03,99,6,0
 AR-U,Chubut,Argentina,2020-04-03T14:58:04,0,0,0
 AR-X,Cordoba,Argentina,2020-04-03T14:58:05,117,1,1
 AR-W,Corrientes,Argentina,2020-04-03T14:58:06,22,0,0
@@ -22,7 +22,7 @@ AR-Z,Santa Cruz,Argentina,2020-04-03T14:58:19,21,0,0
 AR-S,Santa Fe,Argentina,2020-04-03T14:58:20,152,1,0
 AR-G,Santiago del Estero,Argentina,2020-04-03T14:58:21,3,0,0
 AR-V,Tierra del Fuego,Argentina,2020-04-03T14:58:22,63,0,0
-AR-T,Tucuman,Argentina,2020-04-03T14:58:23,21,1,0
+AR-T,Tucuman,Argentina,2020-04-03T14:58:23,21,2,0
 BO-B,Beni,Bolivia,,,,
 BO-H,Chuquisaca,Bolivia,,,,
 BO-C,Cochabamba,Bolivia,,,,
