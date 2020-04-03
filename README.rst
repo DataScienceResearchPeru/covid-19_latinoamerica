@@ -8,6 +8,5 @@ Important links
 ===============
 
 
-* ``Repository``: https://github.com/DataScienceResearchPeru/covid-19_latinoamerica (`Dataset`_)
+* Repository: https://github.com/DataScienceResearchPeru/covid-19_latinoamerica
 
-.. _Dataset: https://github.com/DataScienceResearchPeru/covid-19_latinoamerica
