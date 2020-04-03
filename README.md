@@ -151,10 +151,10 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 26  | URUGUAY                  | 2020-03-13          |
 | 27  | VENEZUELA                | 2020-03-13          |
 
-![Primer caso anunciado por país](https://imgur.com/Txowz4v.jpg)
-
-![Primer caso anunciado por país](https://imgur.com/Txowz4v.jpg)
 See in [Google Sheets](https://bit.ly/3aEyAZI)
+
+![Primer caso anunciado por país](https://imgur.com/zCegf9o.jpg)
+
 <!-- GETTING STARTED -->
 
 <!--
@@ -199,7 +199,14 @@ const API_KEY = 'ENTER YOUR API';
 
 ## Projects
 
-[Projects]
+<p align="center">
+REST API para programadores disponible aqui:
+<a href="https://covid19latam.herokuapp.com/">API</a>
+</p>
+<p align="center">
+Github Repo del REST API:
+<a href="https://github.com/rafnixg/covid-19_latinoamerica_api">API</a>
+</p>
 
 <!-- CONTRIBUTING -->
 
@@ -304,6 +311,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
