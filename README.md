@@ -51,7 +51,7 @@
   </p>
   <br>
   <p align="center">
-  <a href="https://join.slack.com/t/covid19latinoamerica/shared_invite/zt-d99sp09d-mcwZ3AmFI_kmj~kYryg74w">Invitacion a Slack para coordinadores</a>
+  <a href="https://join.slack.com/t/covid19latinoamerica/shared_invite/zt-d99sp09d-mcwZ3AmFI_kmj~kYryg74w">¡Únete a nuestro Slack!</a>
   </p>
 </p>
 
@@ -81,9 +81,9 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 
 <p align="center">
 
-[Versión mobile](https://datastudio.google.com/reporting/c817609e-3351-4614-acb7-3e72fdbc6d6a/page/QkcKB)
+[MAP Versión mobile](https://datastudio.google.com/reporting/c817609e-3351-4614-acb7-3e72fdbc6d6a/page/QkcKB)
 
-[Versión desktop](https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB)
+[MAP Versión desktop](https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB)
 
 </p>
 
