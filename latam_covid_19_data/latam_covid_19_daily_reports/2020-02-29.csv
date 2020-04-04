@@ -1,409 +1,409 @@
-ISO 3166-2 Code,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
-AR-C,Ciudad Autonoma de Buenos Aires,Argentina,,0,0,0
-AR-B,Buenos Aires,Argentina,,0,0,0
-AR-K,Catamarca,Argentina,,0,0,0
-AR-H,Chaco,Argentina,,0,0,0
-AR-U,Chubut,Argentina,,0,0,0
-AR-X,Cordoba,Argentina,,0,0,0
-AR-W,Corrientes,Argentina,,0,0,0
-AR-E,Entre Rios,Argentina,,0,0,0
-AR-P,Formosa,Argentina,,0,0,0
-AR-Y,Jujuy,Argentina,,0,0,0
-AR-L,La Pampa,Argentina,,0,0,0
-AR-F,La Rioja,Argentina,,0,0,0
-AR-M,Mendoza,Argentina,,0,0,0
-AR-N,Misiones,Argentina,,0,0,0
-AR-Q,Neuquen,Argentina,,0,0,0
-AR-R,Rio Negro,Argentina,,0,0,0
-AR-A,Salta,Argentina,,0,0,0
-AR-J,San Juan,Argentina,,0,0,0
-AR-D,San Luis,Argentina,,0,0,0
-AR-Z,Santa Cruz,Argentina,,0,0,0
-AR-S,Santa Fe,Argentina,,0,0,0
-AR-G,Santiago del Estero,Argentina,,0,0,0
-AR-V,Tierra del Fuego,Argentina,,0,0,0
-AR-T,Tucuman,Argentina,,0,0,0
-BO-B,Beni,Bolivia,,0,0,0
-BO-H,Chuquisaca,Bolivia,,0,0,0
-BO-C,Cochabamba,Bolivia,,0,0,0
-BO-L,La Paz,Bolivia,,0,0,0
-BO-O,Oruro,Bolivia,,0,0,0
-BO-N,Pando,Bolivia,,0,0,0
-BO-P,Potosi,Bolivia,,0,0,0
-BO-S,Santa Cruz,Bolivia,,0,0,0
-BO-T,Tarija,Bolivia,,0,0,0
-BR-AC,Acre,Brazil,2020-03-26T04:38:00,0,0,0
-BR-AL,Alagoas,Brazil,2020-03-26T04:38:00,0,0,0
-BR-AP,Amapa,Brazil,2020-03-26T04:38:00,0,0,0
-BR-AM,Amazonas,Brazil,2020-03-26T04:38:00,0,0,0
-BR-BA,Bahia,Brazil,2020-03-26T04:38:00,0,0,0
-BR-CE,Ceara,Brazil,2020-03-26T04:38:00,0,0,0
-BR-DF,Distrito Federal,Brazil,2020-03-26T04:38:00,0,0,0
-BR-ES,Espiritu Santo,Brazil,2020-03-26T04:38:00,0,0,0
-BR-GO,Goias,Brazil,2020-03-26T04:38:00,0,0,0
-BR-MA,Maranhao,Brazil,2020-03-26T04:38:00,0,0,0
-BR-MT,Mato Grosso,Brazil,2020-03-26T04:38:00,0,0,0
-BR-MS,Mato Grosso do Sul,Brazil,2020-03-26T04:38:00,0,0,0
-BR-MG,Minas Gerais,Brazil,2020-03-26T04:38:00,0,0,0
-BR-PA,Para,Brazil,2020-03-26T04:38:00,0,0,0
-BR-PB,Paraiba,Brazil,2020-03-26T04:38:00,0,0,0
-BR-PR,Parana,Brazil,2020-03-26T04:38:00,0,0,0
-BR-PE,Pernambuco,Brazil,2020-03-26T04:38:00,0,0,0
-BR-PI,Piaui,Brazil,2020-03-26T04:38:00,0,0,0
-BR-RJ,Rio de Janeiro,Brazil,2020-03-26T04:38:00,0,0,0
-BR-RN,Rio Grande do Norte,Brazil,2020-03-26T04:38:00,0,0,0
-BR-RS,Rio Grande do Sul,Brazil,2020-03-26T04:38:00,0,0,0
-BR-RO,Rondonia,Brazil,2020-03-26T04:38:00,0,0,0
-BR-RR,Roraima,Brazil,2020-03-26T04:38:00,0,0,0
-BR-SC,Santa Catarina,Brazil,2020-03-26T04:38:00,0,0,0
-BR-SP,Sao Paulo,Brazil,2020-03-26T04:38:00,2,0,0
-BR-SE,Sergipe,Brazil,2020-03-26T04:38:00,0,0,0
-BR-TO,Tocantins,Brazil,2020-03-26T04:38:00,0,0,0
-CL-AP,Arica y Parinacota,Chile,,0,0,0
-CL-TA,Tarapaca,Chile,,0,0,0
-CL-AN,Antofagasta,Chile,,0,0,0
-CL-AT,Atacama,Chile,,0,0,0
-CL-CO,Coquimbo,Chile,,0,0,0
-CL-VS,Valparaiso,Chile,,0,0,0
-CL-RM,Santiago,Chile,,0,0,0
-CL-LI,O'Higgins,Chile,,0,0,0
-CL-ML,Maule,Chile,,0,0,0
-CL-NB,Nuble,Chile,,0,0,0
-CL-BI,Biobio,Chile,,0,0,0
-CL-AR,Araucania,Chile,,0,0,0
-CL-LR,Los Rios,Chile,,0,0,0
-CL-LL,Los Lagos,Chile,,0,0,0
-CL-AI,Aysen,Chile,,0,0,0
-CL-MA,Magallanes,Chile,,0,0,0
-CO-AMA,Amazonas,Colombia,,0,0,0
-CO-ANT,Antioquia,Colombia,,0,0,0
-CO-ARA,Arauca,Colombia,,0,0,0
-CO-ATL,Atlantico,Colombia,,0,0,0
-CO-DC,Bogota,Colombia,,0,0,0
-CO-BOL,Bolivar,Colombia,,0,0,0
-CO-BOY,Boyaca,Colombia,,0,0,0
-CO-CAL,Caldas,Colombia,,0,0,0
-CO-CAQ,Caqueta,Colombia,,0,0,0
-CO-CAS,Casanare,Colombia,,0,0,0
-CO-CAU,Cauca,Colombia,,0,0,0
-CO-CES,Cesar,Colombia,,0,0,0
-CO-COR,Choco,Colombia,,0,0,0
-CO-CUN,Cordoba,Colombia,,0,0,0
-CO-CHO,Cundinamarca,Colombia,,0,0,0
-CO-GUA,Guainia,Colombia,,0,0,0
-CO-GUV,Guaviare,Colombia,,0,0,0
-CO-HUI,Huila,Colombia,,0,0,0
-CO-LAG,La Guajira,Colombia,,0,0,0
-CO-MAG,Magdalena,Colombia,,0,0,0
-CO-MET,Meta,Colombia,,0,0,0
-CO-NAR,Narino,Colombia,,0,0,0
-CO-NSA,Norte de Santander,Colombia,,0,0,0
-CO-PUT,Putumayo,Colombia,,0,0,0
-CO-QUI,Quindio,Colombia,,0,0,0
-CO-RIS,Risaralda,Colombia,,0,0,0
-CO-SAP,San Andres y Providencia,Colombia,,0,0,0
-CO-SAN,Santander,Colombia,,0,0,0
-CO-SUC,Sucre,Colombia,,0,0,0
-CO-TOL,Tolima,Colombia,,0,0,0
-CO-VAC,Valle del Cauca,Colombia,,0,0,0
-CO-VAU,Vaupes,Colombia,,0,0,0
-CO-VID,Vichada,Colombia,,0,0,0
-CR-A,Alajuela,Costa Rica,,0,0,0
-CR-C,Cartago,Costa Rica,,0,0,0
-CR-G,Guanacaste,Costa Rica,,0,0,0
-CR-H,Heredia,Costa Rica,,0,0,0
-CR-L,Limon,Costa Rica,,0,0,0
-CR-P,Puntarenas,Costa Rica,,0,0,0
-CR-SJ,San Jose,Costa Rica,,0,0,0
-DO-02,Azua,Dominican Republic,,0,0,0
-DO-03,Baoruco,Dominican Republic,,0,0,0
-DO-04,Barahona,Dominican Republic,,0,0,0
-DO-05,Dajabon,Dominican Republic,,0,0,0
-DO-06,Distrito Nacional,Dominican Republic,,0,0,0
-DO-08,Duarte,Dominican Republic,,0,0,0
-DO-09,El Seibo,Dominican Republic,,0,0,0
-DO-30,Elias Pina,Dominican Republic,,0,0,0
-DO-10,Espaillat,Dominican Republic,,0,0,0
-DO-11,Hato Mayor,Dominican Republic,,0,0,0
-DO-07,Hermanas Mirabal,Dominican Republic,,0,0,0
-DO-12,Independencia,Dominican Republic,,0,0,0
-DO-13,La Altagracia,Dominican Republic,,0,0,0
-DO-14,La Romana,Dominican Republic,,0,0,0
-DO-28,La Vega,Dominican Republic,,0,0,0
-DO-15,Maria Trinidad Sanchez,Dominican Republic,,0,0,0
-DO-29,Monsenor Nouel,Dominican Republic,,0,0,0
-DO-16,Monte Cristi,Dominican Republic,,0,0,0
-DO-17,Monte Plata,Dominican Republic,,0,0,0
-DO-18,Pedernales,Dominican Republic,,0,0,0
-DO-19,Peravia,Dominican Republic,,0,0,0
-DO-20,Puerto Plata,Dominican Republic,,0,0,0
-DO-21,Samana,Dominican Republic,,0,0,0
-DO-31,San Cristobal,Dominican Republic,,0,0,0
-DO-22,San Jose de Ocoa,Dominican Republic,,0,0,0
-DO-23,San Juan,Dominican Republic,,0,0,0
-DO-24,San Pedro de Macoris,Dominican Republic,,0,0,0
-DO-25,Sanchez Ramirez,Dominican Republic,,0,0,0
-DO-26,Santiago,Dominican Republic,,0,0,0
-DO-32,Santiago Rodriguez,Dominican Republic,,0,0,0
-DO-01,Santo Domingo,Dominican Republic,,0,0,0
-DO-27,Valverde,Dominican Republic,,0,0,0
-EC-A,Azuay,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-B,Bolivar,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-F,Canar,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-C,Carchi,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-H,Chimborazo,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-X,Cotopaxi,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-O,El Oro,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-E,Esmeraldas,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-W,Galapagos,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-G,Guayas,Ecuador,2020-02-29T16:00:00,1,0,0
-EC-I,Imbabura,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-L,Loja,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-R,Los Rios,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-M,Manabi,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-S,Morona Santiago,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-N,Napo,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-D,Orellana,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-Y,Pastaza,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-P,Pichincha,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-SE,Santa Elena,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-SD,Santo Domingo de los Tsachilas,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-U,Sucumbios,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-T,Tungurahua,Ecuador,2020-02-29T16:00:00,0,0,0
-EC-Z,Zamora-Chinchipe,Ecuador,2020-02-29T16:00:00,0,0,0
-SV-AH,Ahuachapan,El Salvador,,0,0,0
-SV-CA,Cabanas,El Salvador,,0,0,0
-SV-CH,Chalatenango,El Salvador,,0,0,0
-SV-CU,Cuscatlan,El Salvador,,0,0,0
-SV-LI,La Libertad,El Salvador,,0,0,0
-SV-PA,La Paz,El Salvador,,0,0,0
-SV-UN,La Unión,El Salvador,,0,0,0
-SV-MO,Morazan,El Salvador,,0,0,0
-SV-SM,San Miguel,El Salvador,,0,0,0
-SV-SS,San Salvador,El Salvador,,0,0,0
-SV-SV,San Vicente,El Salvador,,0,0,0
-SV-SA,Santa Ana,El Salvador,,0,0,0
-SV-SO,Sonsonate,El Salvador,,0,0,0
-SV-US,Usulutan,El Salvador,,0,0,0
-HN-AT,Atlantida,Honduras,,0,0,0
-HN-CH,Choluteca,Honduras,,0,0,0
-HN-CL,Colon,Honduras,,0,0,0
-HN-CM,Comayagua,Honduras,,0,0,0
-HN-CP,Copan,Honduras,,0,0,0
-HN-CR,Cortes,Honduras,,0,0,0
-HN-EP,El Paraiso,Honduras,,0,0,0
-HN-FM,Francisco Morazan,Honduras,,0,0,0
-HN-GD,Gracias a Dios,Honduras,,0,0,0
-HN-IN,Intibuca,Honduras,,0,0,0
-HN-IB,Islas de la Bahia,Honduras,,0,0,0
-HN-LP,La Paz,Honduras,,0,0,0
-HN-LE,Lempira,Honduras,,0,0,0
-HN-OC,Ocotepeque,Honduras,,0,0,0
-HN-OL,Olancho,Honduras,,0,0,0
-HN-SB,Santa Barbara,Honduras,,0,0,0
-HN-VA,Valle,Honduras,,0,0,0
-HN-YO,Yoro,Honduras,,0,0,0
-MX-AGU,Aguascalientes,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-BCN,Baja California,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-BCS,Baja California Sur,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-CAM,Campeche,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-CHP,Chiapas,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-CHH,Chihuahua,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-CMX,Ciudad de Mexico,Mexico,2020-04-01T17:25:00-06:00,2,0,0
-MX-COA,Coahuila,Mexico,2020-04-01T17:25:00-06:00,1,0,0
-MX-COL,Colima,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-DUR,Durango,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-GUA,Guanajuato,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-GRO,Guerrero,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-HID,Hidalgo,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-JAL,Jalisco,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-MIC,Michoacan,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-MOR,Morelos,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-MEX,Mexico,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-NAY,Nayarit,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-NLE,Nuevo Leon,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-OAX,Oaxaca,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-PUE,Puebla,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-QUE,Queretaro,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-ROO,Quintana Roo,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-SLP,San Luis Potosi,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-SIN,Sinaloa,Mexico,2020-04-01T17:25:00-06:00,1,0,0
-MX-SON,Sonora,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-TAB,Tabasco,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-TAM,Tamaulipas,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-TLA,Tlaxcala,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-VER,Veracruz,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-YUC,Yucatan,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-MX-ZAC,Zacatecas,Mexico,2020-04-01T17:25:00-06:00,0,0,0
-NI-BO,Boaco,Nicaragua,,0,0,0
-NI-CA,Carazo,Nicaragua,,0,0,0
-NI-CI,Chinandega,Nicaragua,,0,0,0
-NI-CO,Chontales,Nicaragua,,0,0,0
-NI-ES,Estelí,Nicaragua,,0,0,0
-NI-GR,Granada,Nicaragua,,0,0,0
-NI-JI,Jinotega,Nicaragua,,0,0,0
-NI-LE,León,Nicaragua,,0,0,0
-NI-MD,Madriz,Nicaragua,,0,0,0
-NI-MN,Managua,Nicaragua,,0,0,0
-NI-MS,Masaya,Nicaragua,,0,0,0
-NI-MT,Matagalpa,Nicaragua,,0,0,0
-NI-NS,Nueva Segovia,Nicaragua,,0,0,0
-NI-SJ,Rivas,Nicaragua,,0,0,0
-NI-RI,Rio San Juan,Nicaragua,,0,0,0
-NI-AN,NCCAR,Nicaragua,,0,0,0
-NI-AS,SCCAR,Nicaragua,,0,0,0
-PA-1,Bocas del Toro,Panama,,0,0,0
-PA-4,Chiriqui,Panama,,0,0,0
-PA-2,Cocle,Panama,,0,0,0
-PA-3,Colon,Panama,,0,0,0
-PA-5,Darien,Panama,,0,0,0
-PA-6,Herrera,Panama,,0,0,0
-PA-7,Los Santos,Panama,,0,0,0
-PA-8,Panama,Panama,,0,0,0
-PA-10,Panama Oeste,Panama,,0,0,0
-PA-9,Veraguas,Panama,,0,0,0
-PA-EM,Embera,Panama,,0,0,0
-PA-KY,Guna Yala,Panama,,0,0,0
-PA-NB,Ngabe-Bugle,Panama,,0,0,0
-PY-ASU,Distrito Capital,Paraguay,,0,0,0
-PY-1,Concepcion,Paraguay,,0,0,0
-PY-2,San Pedro,Paraguay,,0,0,0
-PY-3,Cordillera,Paraguay,,0,0,0
-PY-4,Guaira,Paraguay,,0,0,0
-PY-5,Caaguazu,Paraguay,,0,0,0
-PY-6,Caazapa,Paraguay,,0,0,0
-PY-7,Itapua,Paraguay,,0,0,0
-PY-8,Misiones,Paraguay,,0,0,0
-PY-9,Paraguari,Paraguay,,0,0,0
-PY-10,Alto Parana,Paraguay,,0,0,0
-PY-11,Central,Paraguay,,0,0,0
-PY-12,Neembucu,Paraguay,,0,0,0
-PY-13,Amambay,Paraguay,,0,0,0
-PY-14,Canindeyu,Paraguay,,0,0,0
-PY-15,Presidente Hayes,Paraguay,,0,0,0
-PY-16,Alto Paraguay,Paraguay,,0,0,0
-PY-19,Boqueron,Paraguay,,0,0,0
-PE-LIM,Lima,Peru,,0,0,0
-PE-LOR,Loreto,Peru,,0,0,0
-PE-LAM,Lambayeque,Peru,,0,0,0
-PE-CAL,Callao,Peru,,0,0,0
-PE-CUS,Cusco,Peru,,0,0,0
-PE-PIU,Piura,Peru,,0,0,0
-PE-LAL,La Libertad,Peru,,0,0,0
-PE-ANC,Ancash,Peru,,0,0,0
-PE-HUC,Huanuco,Peru,,0,0,0
-PE-ARE,Arequipa,Peru,,0,0,0
-PE-ICA,Ica,Peru,,0,0,0
-PE-MDD,Madre de dios,Peru,,0,0,0
-PE-TUM,Tumbes,Peru,,0,0,0
-PE-CAJ,Cajamarca,Peru,,0,0,0
-PE-AMA,Amazonas,Peru,,0,0,0
-PE-SAM,San Martin,Peru,,0,0,0
-PE-UCA,Ucayali,Peru,,0,0,0
-PE-PAS,Pasco,Peru,,0,0,0
-PE-JUN,Junin,Peru,,0,0,0
-PE-HUV,Huancavelica,Peru,,0,0,0
-PE-AYA,Ayacucho,Peru,,0,0,0
-PE-APU,Apurimac,Peru,,0,0,0
-PE-PUN,Puno,Peru,,0,0,0
-PE-MOQ,Moquegua,Peru,,0,0,0
-PE-TAC,Tacna,Peru,,0,0,0
-UY-AR,Artigas,Uruguay,,0,0,0
-UY-CA,Canelones,Uruguay,,0,0,0
-UY-CL,Cerro Largo,Uruguay,,0,0,0
-UY-CO,Colonia,Uruguay,,0,0,0
-UY-DU,Durazno,Uruguay,,0,0,0
-UY-FS,Flores,Uruguay,,0,0,0
-UY-FD,Florida,Uruguay,,0,0,0
-UY-LA,Lavalleja,Uruguay,,0,0,0
-UY-MA,Maldonado,Uruguay,,0,0,0
-UY-MO,Montevideo,Uruguay,,0,0,0
-UY-PA,Paysandu,Uruguay,,0,0,0
-UY-RN,Rio Negro,Uruguay,,0,0,0
-UY-RV,Rivera,Uruguay,,0,0,0
-UY-RO,Rocha,Uruguay,,0,0,0
-UY-SA,Salto,Uruguay,,0,0,0
-UY-SJ,San Jose,Uruguay,,0,0,0
-UY-SO,Soriano,Uruguay,,0,0,0
-UY-TA,Tacuarembo,Uruguay,,0,0,0
-UY-TT,Treinta y Tres,Uruguay,,0,0,0
-VE-W,Dependencias Federales,Venezuela,,0,0,0
-VE-Z,Amazonas,Venezuela,,0,0,0
-VE-A,Caracas Distrito Capital,Venezuela,,0,0,0
-VE-B,Anzoategui,Venezuela,,0,0,0
-VE-C,Apure,Venezuela,,0,0,0
-VE-D,Aragua,Venezuela,,0,0,0
-VE-E,Barinas,Venezuela,,0,0,0
-VE-F,Bolivar,Venezuela,,0,0,0
-VE-G,Carabobo,Venezuela,,0,0,0
-VE-H,Cojedes,Venezuela,,0,0,0
-VE-Y,Delta Amacuro,Venezuela,,0,0,0
-VE-I,Falcon,Venezuela,,0,0,0
-VE-J,Guarico,Venezuela,,0,0,0
-VE-X,Vargas,Venezuela,,0,0,0
-VE-K,Lara,Venezuela,,0,0,0
-VE-L,Merida,Venezuela,,0,0,0
-VE-M,Miranda,Venezuela,,0,0,0
-VE-N,Monagas,Venezuela,,0,0,0
-VE-O,Nueva Esparta,Venezuela,,0,0,0
-VE-P,Portuguesa,Venezuela,,0,0,0
-VE-R,Sucre,Venezuela,,0,0,0
-VE-S,Tachira,Venezuela,,0,0,0
-VE-T,Trujillo,Venezuela,,0,0,0
-VE-U,Yaracuy,Venezuela,,0,0,0
-VE-V,Zulia,Venezuela,,0,0,0
-GT-AV,Alta Verapaz,Guatemala,,,,
-GT-BV,Baja Verapaz,Guatemala,,,,
-GT-CM,Chimaltenango,Guatemala,,,,
-GT-CQ,Chiquimula,Guatemala,,,,
-GT-PR,El Progreso,Guatemala,,,,
-GT-ES,Escuintla,Guatemala,,,,
+ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
+AR-B,Argentina,Buenos Aires,,0,0,0
+AR-K,Argentina,Catamarca,,0,0,0
+AR-H,Argentina,Chaco,,0,0,0
+AR-U,Argentina,Chubut,,0,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,,0,0,0
+AR-X,Argentina,Cordoba,,0,0,0
+AR-W,Argentina,Corrientes,,0,0,0
+AR-E,Argentina,Entre Rios,,0,0,0
+AR-P,Argentina,Formosa,,0,0,0
+AR-Y,Argentina,Jujuy,,0,0,0
+AR-L,Argentina,La Pampa,,0,0,0
+AR-F,Argentina,La Rioja,,0,0,0
+AR-M,Argentina,Mendoza,,0,0,0
+AR-N,Argentina,Misiones,,0,0,0
+AR-Q,Argentina,Neuquen,,0,0,0
+AR-R,Argentina,Rio Negro,,0,0,0
+AR-A,Argentina,Salta,,0,0,0
+AR-J,Argentina,San Juan,,0,0,0
+AR-D,Argentina,San Luis,,0,0,0
+AR-Z,Argentina,Santa Cruz,,0,0,0
+AR-S,Argentina,Santa Fe,,0,0,0
+AR-G,Argentina,Santiago del Estero,,0,0,0
+AR-V,Argentina,Tierra del Fuego,,0,0,0
+AR-T,Argentina,Tucuman,,0,0,0
+BO-B,Bolivia,Beni,,0,0,0
+BO-H,Bolivia,Chuquisaca,,0,0,0
+BO-C,Bolivia,Cochabamba,,0,0,0
+BO-L,Bolivia,La Paz,,0,0,0
+BO-O,Bolivia,Oruro,,0,0,0
+BO-N,Bolivia,Pando,,0,0,0
+BO-P,Bolivia,Potosi,,0,0,0
+BO-S,Bolivia,Santa Cruz,,0,0,0
+BO-T,Bolivia,Tarija,,0,0,0
+BR-AC,Brazil,Acre,2020-03-26T04:38:00,0,0,0
+BR-AL,Brazil,Alagoas,2020-03-26T04:38:00,0,0,0
+BR-AP,Brazil,Amapa,2020-03-26T04:38:00,0,0,0
+BR-AM,Brazil,Amazonas,2020-03-26T04:38:00,0,0,0
+BR-BA,Brazil,Bahia,2020-03-26T04:38:00,0,0,0
+BR-CE,Brazil,Ceara,2020-03-26T04:38:00,0,0,0
+BR-DF,Brazil,Distrito Federal,2020-03-26T04:38:00,0,0,0
+BR-ES,Brazil,Espiritu Santo,2020-03-26T04:38:00,0,0,0
+BR-GO,Brazil,Goias,2020-03-26T04:38:00,0,0,0
+BR-MA,Brazil,Maranhao,2020-03-26T04:38:00,0,0,0
+BR-MT,Brazil,Mato Grosso,2020-03-26T04:38:00,0,0,0
+BR-MS,Brazil,Mato Grosso do Sul,2020-03-26T04:38:00,0,0,0
+BR-MG,Brazil,Minas Gerais,2020-03-26T04:38:00,0,0,0
+BR-PA,Brazil,Para,2020-03-26T04:38:00,0,0,0
+BR-PB,Brazil,Paraiba,2020-03-26T04:38:00,0,0,0
+BR-PR,Brazil,Parana,2020-03-26T04:38:00,0,0,0
+BR-PE,Brazil,Pernambuco,2020-03-26T04:38:00,0,0,0
+BR-PI,Brazil,Piaui,2020-03-26T04:38:00,0,0,0
+BR-RJ,Brazil,Rio de Janeiro,2020-03-26T04:38:00,0,0,0
+BR-RN,Brazil,Rio Grande do Norte,2020-03-26T04:38:00,0,0,0
+BR-RS,Brazil,Rio Grande do Sul,2020-03-26T04:38:00,0,0,0
+BR-RO,Brazil,Rondonia,2020-03-26T04:38:00,0,0,0
+BR-RR,Brazil,Roraima,2020-03-26T04:38:00,0,0,0
+BR-SC,Brazil,Santa Catarina,2020-03-26T04:38:00,0,0,0
+BR-SP,Brazil,Sao Paulo,2020-03-26T04:38:00,2,0,0
+BR-SE,Brazil,Sergipe,2020-03-26T04:38:00,0,0,0
+BR-TO,Brazil,Tocantins,2020-03-26T04:38:00,0,0,0
+CL-AN,Chile,Antofagasta,,0,0,0
+CL-AR,Chile,Araucania,,0,0,0
+CL-AP,Chile,Arica y Parinacota,,0,0,0
+CL-AT,Chile,Atacama,,0,0,0
+CL-AI,Chile,Aysen,,0,0,0
+CL-BI,Chile,Biobio,,0,0,0
+CL-CO,Chile,Coquimbo,,0,0,0
+CL-LL,Chile,Los Lagos,,0,0,0
+CL-LR,Chile,Los Rios,,0,0,0
+CL-MA,Chile,Magallanes,,0,0,0
+CL-ML,Chile,Maule,,0,0,0
+CL-NB,Chile,Nuble,,0,0,0
+CL-LI,Chile,O'Higgins,,0,0,0
+CL-RM,Chile,Santiago,,0,0,0
+CL-TA,Chile,Tarapaca,,0,0,0
+CL-VS,Chile,Valparaiso,,0,0,0
+CO-AMA,Colombia,Amazonas,,0,0,0
+CO-ANT,Colombia,Antioquia,,0,0,0
+CO-ARA,Colombia,Arauca,,0,0,0
+CO-ATL,Colombia,Atlantico,,0,0,0
+CO-DC,Colombia,Bogota,,0,0,0
+CO-BOL,Colombia,Bolivar,,0,0,0
+CO-BOY,Colombia,Boyaca,,0,0,0
+CO-CAL,Colombia,Caldas,,0,0,0
+CO-CAQ,Colombia,Caqueta,,0,0,0
+CO-CAS,Colombia,Casanare,,0,0,0
+CO-CAU,Colombia,Cauca,,0,0,0
+CO-CES,Colombia,Cesar,,0,0,0
+CO-COR,Colombia,Choco,,0,0,0
+CO-CUN,Colombia,Cordoba,,0,0,0
+CO-CHO,Colombia,Cundinamarca,,0,0,0
+CO-GUA,Colombia,Guainia,,0,0,0
+CO-GUV,Colombia,Guaviare,,0,0,0
+CO-HUI,Colombia,Huila,,0,0,0
+CO-LAG,Colombia,La Guajira,,0,0,0
+CO-MAG,Colombia,Magdalena,,0,0,0
+CO-MET,Colombia,Meta,,0,0,0
+CO-NAR,Colombia,Narino,,0,0,0
+CO-NSA,Colombia,Norte de Santander,,0,0,0
+CO-PUT,Colombia,Putumayo,,0,0,0
+CO-QUI,Colombia,Quindio,,0,0,0
+CO-RIS,Colombia,Risaralda,,0,0,0
+CO-SAP,Colombia,San Andres y Providencia,,0,0,0
+CO-SAN,Colombia,Santander,,0,0,0
+CO-SUC,Colombia,Sucre,,0,0,0
+CO-TOL,Colombia,Tolima,,0,0,0
+CO-VAC,Colombia,Valle del Cauca,,0,0,0
+CO-VAU,Colombia,Vaupes,,0,0,0
+CO-VID,Colombia,Vichada,,0,0,0
+CR-A,Costa Rica,Alajuela,,0,0,0
+CR-C,Costa Rica,Cartago,,0,0,0
+CR-G,Costa Rica,Guanacaste,,0,0,0
+CR-H,Costa Rica,Heredia,,0,0,0
+CR-L,Costa Rica,Limon,,0,0,0
+CR-P,Costa Rica,Puntarenas,,0,0,0
+CR-SJ,Costa Rica,San Jose,,0,0,0
+CU-15,Cuba,Artemisa,,0,0,0
+CU-09,Cuba,Camagüey,,0,0,0
+CU-08,Cuba,Ciego de Ávila,,0,0,0
+CU-06,Cuba,Cienfuegos,,0,0,0
+CU-12,Cuba,Granma,,0,0,0
+CU-14,Cuba,Guantánamo,,0,0,0
+CU-11,Cuba,Holguín,,0,0,0
+CU-99,Cuba,Isla de la Juventud,,0,0,0
+CU-03,Cuba,La Habana,,0,0,0
+CU-10,Cuba,Las Tunas,,0,0,0
+CU-04,Cuba,Matanzas,,0,0,0
+CU-16,Cuba,Mayabeque,,0,0,0
+CU-01,Cuba,Pinar del Río,,0,0,0
+CU-07,Cuba,Sancti Spíritus,,0,0,0
+CU-13,Cuba,Santiago de Cuba,,0,0,0
+CU-05,Cuba,Villa Clara,,0,0,0
+DO-02,Dominican Republic,Azua,,0,0,0
+DO-03,Dominican Republic,Baoruco,,0,0,0
+DO-04,Dominican Republic,Barahona,,0,0,0
+DO-05,Dominican Republic,Dajabon,,0,0,0
+DO-06,Dominican Republic,Distrito Nacional,,0,0,0
+DO-08,Dominican Republic,Duarte,,0,0,0
+DO-09,Dominican Republic,El Seibo,,0,0,0
+DO-30,Dominican Republic,Elias Pina,,0,0,0
+DO-10,Dominican Republic,Espaillat,,0,0,0
+DO-11,Dominican Republic,Hato Mayor,,0,0,0
+DO-07,Dominican Republic,Hermanas Mirabal,,0,0,0
+DO-12,Dominican Republic,Independencia,,0,0,0
+DO-13,Dominican Republic,La Altagracia,,0,0,0
+DO-14,Dominican Republic,La Romana,,0,0,0
+DO-28,Dominican Republic,La Vega,,0,0,0
+DO-15,Dominican Republic,Maria Trinidad Sanchez,,0,0,0
+DO-29,Dominican Republic,Monsenor Nouel,,0,0,0
+DO-16,Dominican Republic,Monte Cristi,,0,0,0
+DO-17,Dominican Republic,Monte Plata,,0,0,0
+DO-18,Dominican Republic,Pedernales,,0,0,0
+DO-19,Dominican Republic,Peravia,,0,0,0
+DO-20,Dominican Republic,Puerto Plata,,0,0,0
+DO-21,Dominican Republic,Samana,,0,0,0
+DO-31,Dominican Republic,San Cristobal,,0,0,0
+DO-22,Dominican Republic,San Jose de Ocoa,,0,0,0
+DO-23,Dominican Republic,San Juan,,0,0,0
+DO-24,Dominican Republic,San Pedro de Macoris,,0,0,0
+DO-25,Dominican Republic,Sanchez Ramirez,,0,0,0
+DO-26,Dominican Republic,Santiago,,0,0,0
+DO-32,Dominican Republic,Santiago Rodriguez,,0,0,0
+DO-01,Dominican Republic,Santo Domingo,,0,0,0
+DO-27,Dominican Republic,Valverde,,0,0,0
+EC-A,Ecuador,Azuay,2020-02-29T16:00:00,0,0,0
+EC-B,Ecuador,Bolivar,2020-02-29T16:00:00,0,0,0
+EC-F,Ecuador,Canar,2020-02-29T16:00:00,0,0,0
+EC-C,Ecuador,Carchi,2020-02-29T16:00:00,0,0,0
+EC-H,Ecuador,Chimborazo,2020-02-29T16:00:00,0,0,0
+EC-X,Ecuador,Cotopaxi,2020-02-29T16:00:00,0,0,0
+EC-O,Ecuador,El Oro,2020-02-29T16:00:00,0,0,0
+EC-E,Ecuador,Esmeraldas,2020-02-29T16:00:00,0,0,0
+EC-W,Ecuador,Galapagos,2020-02-29T16:00:00,0,0,0
+EC-G,Ecuador,Guayas,2020-02-29T16:00:00,1,0,0
+EC-I,Ecuador,Imbabura,2020-02-29T16:00:00,0,0,0
+EC-L,Ecuador,Loja,2020-02-29T16:00:00,0,0,0
+EC-R,Ecuador,Los Rios,2020-02-29T16:00:00,0,0,0
+EC-M,Ecuador,Manabi,2020-02-29T16:00:00,0,0,0
+EC-S,Ecuador,Morona Santiago,2020-02-29T16:00:00,0,0,0
+EC-N,Ecuador,Napo,2020-02-29T16:00:00,0,0,0
+EC-D,Ecuador,Orellana,2020-02-29T16:00:00,0,0,0
+EC-Y,Ecuador,Pastaza,2020-02-29T16:00:00,0,0,0
+EC-P,Ecuador,Pichincha,2020-02-29T16:00:00,0,0,0
+EC-SE,Ecuador,Santa Elena,2020-02-29T16:00:00,0,0,0
+EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-02-29T16:00:00,0,0,0
+EC-U,Ecuador,Sucumbios,2020-02-29T16:00:00,0,0,0
+EC-T,Ecuador,Tungurahua,2020-02-29T16:00:00,0,0,0
+EC-Z,Ecuador,Zamora-Chinchipe,2020-02-29T16:00:00,0,0,0
+SV-AH,El Salvador,Ahuachapan,,0,0,0
+SV-CA,El Salvador,Cabanas,,0,0,0
+SV-CH,El Salvador,Chalatenango,,0,0,0
+SV-CU,El Salvador,Cuscatlan,,0,0,0
+SV-LI,El Salvador,La Libertad,,0,0,0
+SV-PA,El Salvador,La Paz,,0,0,0
+SV-UN,El Salvador,La Unión,,0,0,0
+SV-MO,El Salvador,Morazan,,0,0,0
+SV-SM,El Salvador,San Miguel,,0,0,0
+SV-SS,El Salvador,San Salvador,,0,0,0
+SV-SV,El Salvador,San Vicente,,0,0,0
+SV-SA,El Salvador,Santa Ana,,0,0,0
+SV-SO,El Salvador,Sonsonate,,0,0,0
+SV-US,El Salvador,Usulutan,,0,0,0
+FR-GP,France,Guadeloupe,,,,
+FR-GF,France,Guyane,,,,
+FR-MQ,France,Martinique,,,,
+FR-BL,France,Saint-Barthélemy,,,,
+FR-MF,France,Saint-Martin,,,,
+FR-PM,France,Saint-Pierre-et-Miquelon,,,,
+GT-AV,Guatemala,Alta Verapaz,,,,
+GT-BV,Guatemala,Baja Verapaz,,,,
+GT-CM,Guatemala,Chimaltenango,,,,
+GT-CQ,Guatemala,Chiquimula,,,,
+GT-PR,Guatemala,El Progreso,,,,
+GT-ES,Guatemala,Escuintla,,,,
 GT-GU,Guatemala,Guatemala,,,,
-GT-HU,Huehuetenango,Guatemala,,,,
-GT-IZ,Izabal,Guatemala,,,,
-GT-JA,Jalapa,Guatemala,,,,
-GT-JU,Jutiapa,Guatemala,,,,
-GT-PE,Petén,Guatemala,,,,
-GT-QZ,Quetzaltenango,Guatemala,,,,
-GT-QC,Quiché,Guatemala,,,,
-GT-RE,Retalhuleu,Guatemala,,,,
-GT-SA,Sacatepéquez,Guatemala,,,,
-GT-SM,San Marcos,Guatemala,,,,
-GT-SR,Santa Rosa,Guatemala,,,,
-GT-SO,Sololá,Guatemala,,,,
-GT-SU,Suchitepéquez,Guatemala,,,,
-GT-TO,Totonicapán,Guatemala,,,,
-GT-ZA,Zacapa,Guatemala,,,,
-US-PR,Puerto Rico,United States,,,,
-HT-AR,Artibonite,Haiti,,,,
-HT-CE,Centre,Haiti,,,,
-HT-GA,Grande’Anse,Haiti,,,,
-HT-NI,Nippes,Haiti,,,,
-HT-ND,Nord,Haiti,,,,
-HT-NE,Nord-Est,Haiti,,,,
-HT-NO,Nord-Ouest,Haiti,,,,
-HT-OU,Ouest,Haiti,,,,
-HT-SD,Sud,Haiti,,,,
-HT-SE,Sud-Est,Haiti,,,,
-CU-15,Artemisa,Cuba,,0,0,0
-CU-09,Camagüey,Cuba,,0,0,0
-CU-08,Ciego de Ávila,Cuba,,0,0,0
-CU-06,Cienfuegos,Cuba,,0,0,0
-CU-12,Granma,Cuba,,0,0,0
-CU-14,Guantánamo,Cuba,,0,0,0
-CU-11,Holguín,Cuba,,0,0,0
-CU-03,La Habana,Cuba,,0,0,0
-CU-10,Las Tunas,Cuba,,0,0,0
-CU-04,Matanzas,Cuba,,0,0,0
-CU-16,Mayabeque,Cuba,,0,0,0
-CU-01,Pinar del Río,Cuba,,0,0,0
-CU-07,Sancti Spíritus,Cuba,,0,0,0
-CU-13,Santiago de Cuba,Cuba,,0,0,0
-CU-05,Villa Clara,Cuba,,0,0,0
-CU-99,Isla de la Juventud,Cuba,,0,0,0
-FR-GF,Guyane,France,,,,
-FR-GP,Guadeloupe,France,,,,
-FR-MQ,Martinique,France,,,,
-FR-MF,Saint-Martin,France,,,,
-FR-BL,Saint-Barthélemy,France,,,,
-FR-PM,Saint-Pierre-et-Miquelon,France,,,,
+GT-HU,Guatemala,Huehuetenango,,,,
+GT-IZ,Guatemala,Izabal,,,,
+GT-JA,Guatemala,Jalapa,,,,
+GT-JU,Guatemala,Jutiapa,,,,
+GT-PE,Guatemala,Petén,,,,
+GT-QZ,Guatemala,Quetzaltenango,,,,
+GT-QC,Guatemala,Quiché,,,,
+GT-RE,Guatemala,Retalhuleu,,,,
+GT-SA,Guatemala,Sacatepéquez,,,,
+GT-SM,Guatemala,San Marcos,,,,
+GT-SR,Guatemala,Santa Rosa,,,,
+GT-SO,Guatemala,Sololá,,,,
+GT-SU,Guatemala,Suchitepéquez,,,,
+GT-TO,Guatemala,Totonicapán,,,,
+GT-ZA,Guatemala,Zacapa,,,,
+HT-AR,Haiti,Artibonite,,,,
+HT-CE,Haiti,Centre,,,,
+HT-GA,Haiti,Grande’Anse,,,,
+HT-NI,Haiti,Nippes,,,,
+HT-ND,Haiti,Nord,,,,
+HT-NE,Haiti,Nord-Est,,,,
+HT-NO,Haiti,Nord-Ouest,,,,
+HT-OU,Haiti,Ouest,,,,
+HT-SD,Haiti,Sud,,,,
+HT-SE,Haiti,Sud-Est,,,,
+HN-AT,Honduras,Atlantida,,0,0,0
+HN-CH,Honduras,Choluteca,,0,0,0
+HN-CL,Honduras,Colon,,0,0,0
+HN-CM,Honduras,Comayagua,,0,0,0
+HN-CP,Honduras,Copan,,0,0,0
+HN-CR,Honduras,Cortes,,0,0,0
+HN-EP,Honduras,El Paraiso,,0,0,0
+HN-FM,Honduras,Francisco Morazan,,0,0,0
+HN-GD,Honduras,Gracias a Dios,,0,0,0
+HN-IN,Honduras,Intibuca,,0,0,0
+HN-IB,Honduras,Islas de la Bahia,,0,0,0
+HN-LP,Honduras,La Paz,,0,0,0
+HN-LE,Honduras,Lempira,,0,0,0
+HN-OC,Honduras,Ocotepeque,,0,0,0
+HN-OL,Honduras,Olancho,,0,0,0
+HN-SB,Honduras,Santa Barbara,,0,0,0
+HN-VA,Honduras,Valle,,0,0,0
+HN-YO,Honduras,Yoro,,0,0,0
+MX-AGU,Mexico,Aguascalientes,2020-04-01T17:25:00,0,0,0
+MX-BCN,Mexico,Baja California,2020-04-01T17:25:00,0,0,0
+MX-BCS,Mexico,Baja California Sur,2020-04-01T17:25:00,0,0,0
+MX-CAM,Mexico,Campeche,2020-04-01T17:25:00,0,0,0
+MX-CHP,Mexico,Chiapas,2020-04-01T17:25:00,0,0,0
+MX-CHH,Mexico,Chihuahua,2020-04-01T17:25:00,0,0,0
+MX-CMX,Mexico,Ciudad de Mexico,2020-04-01T17:25:00,2,0,0
+MX-COA,Mexico,Coahuila,2020-04-01T17:25:00,1,0,0
+MX-COL,Mexico,Colima,2020-04-01T17:25:00,0,0,0
+MX-DUR,Mexico,Durango,2020-04-01T17:25:00,0,0,0
+MX-GUA,Mexico,Guanajuato,2020-04-01T17:25:00,0,0,0
+MX-GRO,Mexico,Guerrero,2020-04-01T17:25:00,0,0,0
+MX-HID,Mexico,Hidalgo,2020-04-01T17:25:00,0,0,0
+MX-JAL,Mexico,Jalisco,2020-04-01T17:25:00,0,0,0
+MX-MEX,Mexico,Mexico,2020-04-01T17:25:00,0,0,0
+MX-MIC,Mexico,Michoacan,2020-04-01T17:25:00,0,0,0
+MX-MOR,Mexico,Morelos,2020-04-01T17:25:00,0,0,0
+MX-NAY,Mexico,Nayarit,2020-04-01T17:25:00,0,0,0
+MX-NLE,Mexico,Nuevo Leon,2020-04-01T17:25:00,0,0,0
+MX-OAX,Mexico,Oaxaca,2020-04-01T17:25:00,0,0,0
+MX-PUE,Mexico,Puebla,2020-04-01T17:25:00,0,0,0
+MX-QUE,Mexico,Queretaro,2020-04-01T17:25:00,0,0,0
+MX-ROO,Mexico,Quintana Roo,2020-04-01T17:25:00,0,0,0
+MX-SLP,Mexico,San Luis Potosi,2020-04-01T17:25:00,0,0,0
+MX-SIN,Mexico,Sinaloa,2020-04-01T17:25:00,1,0,0
+MX-SON,Mexico,Sonora,2020-04-01T17:25:00,0,0,0
+MX-TAB,Mexico,Tabasco,2020-04-01T17:25:00,0,0,0
+MX-TAM,Mexico,Tamaulipas,2020-04-01T17:25:00,0,0,0
+MX-TLA,Mexico,Tlaxcala,2020-04-01T17:25:00,0,0,0
+MX-VER,Mexico,Veracruz,2020-04-01T17:25:00,0,0,0
+MX-YUC,Mexico,Yucatan,2020-04-01T17:25:00,0,0,0
+MX-ZAC,Mexico,Zacatecas,2020-04-01T17:25:00,0,0,0
+NI-BO,Nicaragua,Boaco,,0,0,0
+NI-CA,Nicaragua,Carazo,,0,0,0
+NI-CI,Nicaragua,Chinandega,,0,0,0
+NI-CO,Nicaragua,Chontales,,0,0,0
+NI-ES,Nicaragua,Estelí,,0,0,0
+NI-GR,Nicaragua,Granada,,0,0,0
+NI-JI,Nicaragua,Jinotega,,0,0,0
+NI-LE,Nicaragua,León,,0,0,0
+NI-MD,Nicaragua,Madriz,,0,0,0
+NI-MN,Nicaragua,Managua,,0,0,0
+NI-MS,Nicaragua,Masaya,,0,0,0
+NI-MT,Nicaragua,Matagalpa,,0,0,0
+NI-AN,Nicaragua,NCCAR,,0,0,0
+NI-NS,Nicaragua,Nueva Segovia,,0,0,0
+NI-RI,Nicaragua,Rio San Juan,,0,0,0
+NI-SJ,Nicaragua,Rivas,,0,0,0
+NI-AS,Nicaragua,SCCAR,,0,0,0
+PA-1,Panama,Bocas del Toro,,0,0,0
+PA-4,Panama,Chiriqui,,0,0,0
+PA-2,Panama,Cocle,,0,0,0
+PA-3,Panama,Colon,,0,0,0
+PA-5,Panama,Darien,,0,0,0
+PA-EM,Panama,Embera,,0,0,0
+PA-KY,Panama,Guna Yala,,0,0,0
+PA-6,Panama,Herrera,,0,0,0
+PA-7,Panama,Los Santos,,0,0,0
+PA-NB,Panama,Ngabe-Bugle,,0,0,0
+PA-8,Panama,Panama,,0,0,0
+PA-10,Panama,Panama Oeste,,0,0,0
+PA-9,Panama,Veraguas,,0,0,0
+PY-16,Paraguay,Alto Paraguay,,0,0,0
+PY-10,Paraguay,Alto Parana,,0,0,0
+PY-13,Paraguay,Amambay,,0,0,0
+PY-19,Paraguay,Boqueron,,0,0,0
+PY-5,Paraguay,Caaguazu,,0,0,0
+PY-6,Paraguay,Caazapa,,0,0,0
+PY-14,Paraguay,Canindeyu,,0,0,0
+PY-11,Paraguay,Central,,0,0,0
+PY-1,Paraguay,Concepcion,,0,0,0
+PY-3,Paraguay,Cordillera,,0,0,0
+PY-ASU,Paraguay,Distrito Capital,,0,0,0
+PY-4,Paraguay,Guaira,,0,0,0
+PY-7,Paraguay,Itapua,,0,0,0
+PY-8,Paraguay,Misiones,,0,0,0
+PY-12,Paraguay,Neembucu,,0,0,0
+PY-9,Paraguay,Paraguari,,0,0,0
+PY-15,Paraguay,Presidente Hayes,,0,0,0
+PY-2,Paraguay,San Pedro,,0,0,0
+PE-AMA,Peru,Amazonas,,0,0,0
+PE-ANC,Peru,Ancash,,0,0,0
+PE-APU,Peru,Apurimac,,0,0,0
+PE-ARE,Peru,Arequipa,,0,0,0
+PE-AYA,Peru,Ayacucho,,0,0,0
+PE-CAJ,Peru,Cajamarca,,0,0,0
+PE-CAL,Peru,Callao,,0,0,0
+PE-CUS,Peru,Cusco,,0,0,0
+PE-HUV,Peru,Huancavelica,,0,0,0
+PE-HUC,Peru,Huanuco,,0,0,0
+PE-ICA,Peru,Ica,,0,0,0
+PE-JUN,Peru,Junin,,0,0,0
+PE-LAL,Peru,La Libertad,,0,0,0
+PE-LAM,Peru,Lambayeque,,0,0,0
+PE-LIM,Peru,Lima,,0,0,0
+PE-LOR,Peru,Loreto,,0,0,0
+PE-MDD,Peru,Madre de dios,,0,0,0
+PE-MOQ,Peru,Moquegua,,0,0,0
+PE-PAS,Peru,Pasco,,0,0,0
+PE-PIU,Peru,Piura,,0,0,0
+PE-PUN,Peru,Puno,,0,0,0
+PE-SAM,Peru,San Martin,,0,0,0
+PE-TAC,Peru,Tacna,,0,0,0
+PE-TUM,Peru,Tumbes,,0,0,0
+PE-UCA,Peru,Ucayali,,0,0,0
+US-PR,United States,Puerto Rico,,,,
+UY-AR,Uruguay,Artigas,,0,0,0
+UY-CA,Uruguay,Canelones,,0,0,0
+UY-CL,Uruguay,Cerro Largo,,0,0,0
+UY-CO,Uruguay,Colonia,,0,0,0
+UY-DU,Uruguay,Durazno,,0,0,0
+UY-FS,Uruguay,Flores,,0,0,0
+UY-FD,Uruguay,Florida,,0,0,0
+UY-LA,Uruguay,Lavalleja,,0,0,0
+UY-MA,Uruguay,Maldonado,,0,0,0
+UY-MO,Uruguay,Montevideo,,0,0,0
+UY-PA,Uruguay,Paysandu,,0,0,0
+UY-RN,Uruguay,Rio Negro,,0,0,0
+UY-RV,Uruguay,Rivera,,0,0,0
+UY-RO,Uruguay,Rocha,,0,0,0
+UY-SA,Uruguay,Salto,,0,0,0
+UY-SJ,Uruguay,San Jose,,0,0,0
+UY-SO,Uruguay,Soriano,,0,0,0
+UY-TA,Uruguay,Tacuarembo,,0,0,0
+UY-TT,Uruguay,Treinta y Tres,,0,0,0
+VE-Z,Venezuela,Amazonas,,0,0,0
+VE-B,Venezuela,Anzoategui,,0,0,0
+VE-C,Venezuela,Apure,,0,0,0
+VE-D,Venezuela,Aragua,,0,0,0
+VE-E,Venezuela,Barinas,,0,0,0
+VE-F,Venezuela,Bolivar,,0,0,0
+VE-G,Venezuela,Carabobo,,0,0,0
+VE-A,Venezuela,Caracas Distrito Capital,,0,0,0
+VE-H,Venezuela,Cojedes,,0,0,0
+VE-Y,Venezuela,Delta Amacuro,,0,0,0
+VE-W,Venezuela,Dependencias Federales,,0,0,0
+VE-I,Venezuela,Falcon,,0,0,0
+VE-J,Venezuela,Guarico,,0,0,0
+VE-K,Venezuela,Lara,,0,0,0
+VE-L,Venezuela,Merida,,0,0,0
+VE-M,Venezuela,Miranda,,0,0,0
+VE-N,Venezuela,Monagas,,0,0,0
+VE-O,Venezuela,Nueva Esparta,,0,0,0
+VE-P,Venezuela,Portuguesa,,0,0,0
+VE-R,Venezuela,Sucre,,0,0,0
+VE-S,Venezuela,Tachira,,0,0,0
+VE-T,Venezuela,Trujillo,,0,0,0
+VE-X,Venezuela,Vargas,,0,0,0
+VE-U,Venezuela,Yaracuy,,0,0,0
+VE-V,Venezuela,Zulia,,0,0,0
