@@ -94,7 +94,7 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 1   | ARGENTINA                | [martingra](https://bit.ly/2UA5JjF) [pablorea](https://bit.ly/3dHNlwG) | 2020-04-02  | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
 | 2   | BOLIVIA                  | [mamanipatricia](https://bit.ly/2UzdbLU)                               | 2020-04-02  | [D1](https://bit.ly/3bh1qz6)                               |
 | 3   | BRAZIL                   | [DSRP](https://bit.ly/2UzdciW)                                         | 2020-03-25  | [D1](https://bit.ly/2WuChNd)                               |
-| 4   | CHILE                    | [ivanMSC](https://bit.ly/2UZBUb6)                                      | 2020-04-02  | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
+| 4   | CHILE                    | [ivanMSC](https://bit.ly/2UZBUb6)                                      | 2020-04-04  | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
 | 5   | COLOMBIA                 | WITHOUT MAINTENANCE                                                    | 2020-03-21  | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
 | 6   | COSTA RICA               | WITHOUT MAINTENANCE                                                    | 2020-03-05  | [API](https://coronaviruscr.com/api/reports)               |
 | 7   | CUBA                     | [yudivian](https://github.com/yudivian)                                | WORKING     |                                                            |
