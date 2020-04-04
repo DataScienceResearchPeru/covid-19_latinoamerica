@@ -1,4 +1,4 @@
-id ,cod_dep,departamento,cod_mun,municipio,banco_de_sangre          ,c_caracteristicas_part.,c_s_ambulatorio,c_s_con_internacion,c_s_integral,centro_salud             ,policlinico,policonsultorio,puesto_de_ salud          ,hospital_de_segundo_ nivel ,hospital_general         ,instituto_especializado  ,total_establecimientos_de_salud
+id ,cod_dep,departamento,cod_mun,municipio,banco_de_sangre,c_caracteristicas_part.,c_s_ambulatorio,c_s_con_internacion,c_s_integral,centro_salud             ,policlinico,policonsultorio,puesto_de_ salud          ,hospital_de_segundo_ nivel ,hospital_general         ,instituto_especializado  ,total_establecimientos_de_salud
 1,1,CHUQUISACA,10101,SUCRE,1,,1,,,109,,,10,9,2,5,137
 2,1,CHUQUISACA,10102,YOTALA,,,,,,1,,,9,,,,10
 3,1,CHUQUISACA,10103,POROMA,,,1,,,8,,,12,,,,21
