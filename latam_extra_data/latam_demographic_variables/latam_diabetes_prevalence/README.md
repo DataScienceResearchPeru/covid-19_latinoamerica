@@ -1,4 +1,4 @@
-# LATAM Economic variables per country
+# LATAM 
 
 <b>Contact Us: </b><br>
 
@@ -6,16 +6,16 @@
 - Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
   <br><br>
 
-### Table 1. Health infraestructure per country
+### Table 1. 
 
 | #   | Country                  | Data Source | Last Update |
 | --- | ------------------------ | ----------- | ----------- |
 | 1   | ARGENTINA                |             |             |
 | 2   | BOLIVIA                  |             |             |
 | 3   | BRAZIL                   |             |             |
-| 4   | CHILE                    | -           |             |
-| 5   | COLOMBIA                 | -           |             |
-| 6   | COSTA RICA               | -           |             |
+| 4   | CHILE                    |             |             |
+| 5   | COLOMBIA                 |             |             |
+| 6   | COSTA RICA               |             |             |
 | 7   | CUBA                     |             |             |
 | 8   | DOMINICAN REPUBLIC       |             |             |
 | 9   | ECUADOR                  |             |             |
