@@ -91,32 +91,32 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 
 | #   | Country                  | User                                                                   | Last Update | Data Sources                                               |
 | --- | ------------------------ | ---------------------------------------------------------------------- | ----------- | ---------------------------------------------------------- |
-| 1   | ARGENTINA                | [martingra](https://bit.ly/2UA5JjF) [pablorea](https://bit.ly/3dHNlwG) | 2020-03-29  | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
-| 2   | BOLIVIA                  | [mamanipatricia](https://bit.ly/2UzdbLU)                               | 2020-03-31  | [D1](https://bit.ly/3bh1qz6)                               |
+| 1   | ARGENTINA                | [martingra](https://bit.ly/2UA5JjF) [pablorea](https://bit.ly/3dHNlwG) | 2020-04-02  | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
+| 2   | BOLIVIA                  | [mamanipatricia](https://bit.ly/2UzdbLU)                               | 2020-04-02  | [D1](https://bit.ly/3bh1qz6)                               |
 | 3   | BRAZIL                   | [DSRP](https://bit.ly/2UzdciW)                                         | 2020-03-25  | [D1](https://bit.ly/2WuChNd)                               |
 | 4   | CHILE                    | [ivanMSC](https://bit.ly/2UZBUb6)                                      | 2020-04-02  | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
-| 5   | COLOMBIA                 | SIN ENCARGADO                                                          | 2020-03-21  | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
-| 6   | COSTA RICA               | SIN ENCARGADO                                                          | 2020-03-05  | [API](https://coronaviruscr.com/api/reports)               |
-| 7   | CUBA                     | SIN ENCARGADO                                                          |             |                                                            |
-| 8   | DOMINICAN REPUBLIC       | SIN ENCARGADO                                                          |             | [D1](https://bit.ly/2J2aBHM)                               |
+| 5   | COLOMBIA                 | WITHOUT MAINTENANCE                                                    | 2020-03-21  | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
+| 6   | COSTA RICA               | WITHOUT MAINTENANCE                                                    | 2020-03-05  | [API](https://coronaviruscr.com/api/reports)               |
+| 7   | CUBA                     | [yudivian](https://github.com/yudivian)                                | WORKING     |                                                            |
+| 8   | DOMINICAN REPUBLIC       | WITHOUT MAINTENANCE                                                    |             | [D1](https://bit.ly/2J2aBHM)                               |
 | 9   | ECUADOR                  | [pablora19](https://bit.ly/2UB6rgl)                                    | 2020-03-21  | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)  |
-| 10  | EL SALVADOR              | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2U7N7Hm)                               |
-| 11  | FRENCH GUIANA            | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2UUZsxU)                               |
-| 12  | GUADELOUPE               | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2V0aQsj)                               |
+| 10  | EL SALVADOR              | WITHOUT MAINTENANCE                                                    | 2020-03-20  | [D1](https://bit.ly/2U7N7Hm)                               |
+| 11  | FRENCH GUIANA            | WITHOUT MAINTENANCE                                                    | 2020-03-20  | [D1](https://bit.ly/2UUZsxU)                               |
+| 12  | GUADELOUPE               | WITHOUT MAINTENANCE                                                    | 2020-03-20  | [D1](https://bit.ly/2V0aQsj)                               |
 | 13  | GUATEMALA                | [ncovgt2020](https://bit.ly/3aHpECQ)                                   |             |                                                            |
-| 14  | HAITI                    | SIN ENCARGADO                                                          |             |                                                            |
-| 15  | HONDURAS                 | SIN ENCARGADO                                                          |             |                                                            |
-| 16  | MARTINIQUE               | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/34fbNRW)                               |
+| 14  | HAITI                    | WITHOUT MAINTENANCE                                                    |             |                                                            |
+| 15  | HONDURAS                 | WITHOUT MAINTENANCE                                                    |             |                                                            |
+| 16  | MARTINIQUE               | WITHOUT MAINTENANCE                                                    | 2020-03-20  | [D1](https://bit.ly/34fbNRW)                               |
 | 17  | MEXICO                   | [carranco-sga](https://bit.ly/2UAAdSw)                                 | 2020-04-03  | [D1](https://bit.ly/3brQ7nY)                               |
-| 18  | NICARAGUA                | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2QQNfJB)                               |
+| 18  | NICARAGUA                | WITHOUT MAINTENANCE                                                    | 2020-03-20  | [D1](https://bit.ly/2QQNfJB)                               |
 | 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                            | 2020-03-20  | [D1](https://bit.ly/2UpH8he)                               |
-| 20  | PARAGUAY                 | SIN ENCARGADO                                                          | 2020-03-03  |                                                            |
+| 20  | PARAGUAY                 | WITHOUT MAINTENANCE                                                    | 2020-03-03  |                                                            |
 | 21  | PERU                     | [DSRP](https://bit.ly/2UzdciW) [diegocl02](https://bit.ly/2wNIlGt)     | 2020-03-23  | [D1](https://bit.ly/2J5Wnpj)                               |
-| 22  | PUERTO RICO              | SIN ENCARGADO                                                          |             |                                                            |
-| 23  | SAIN PIERRE AND MIQUELON | SIN ENCARGADO                                                          |             |                                                            |
-| 24  | SAINT BARTHELEMY         | SIN ENCARGADO                                                          |             |                                                            |
-| 25  | SAINT MARTIN             | SIN ENCARGADO                                                          |             |                                                            |
-| 26  | URUGUAY                  | SIN ENCARGADO                                                          |             |                                                            |
+| 22  | PUERTO RICO              | WITHOUT MAINTENANCE                                                    |             |                                                            |
+| 23  | SAIN PIERRE AND MIQUELON | WITHOUT MAINTENANCE                                                    |             |                                                            |
+| 24  | SAINT BARTHELEMY         | WITHOUT MAINTENANCE                                                    |             |                                                            |
+| 25  | SAINT MARTIN             | WITHOUT MAINTENANCE                                                    |             |                                                            |
+| 26  | URUGUAY                  | WITHOUT MAINTENANCE                                                    |             |                                                            |
 | 27  | VENEZUELA                | [rendergraf](https://bit.ly/345Z2Jg)                                   | 2020-03-04  | [D1](https://bit.ly/2J3E0Br) [D2](https://bit.ly/3acdykY)  |
 
 #### Table 2. First date confirmed cases per country
