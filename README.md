@@ -111,7 +111,7 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 18  | NICARAGUA                | WITHOUT MAINTENANCE                                                    | 2020-03-20  | [D1](https://bit.ly/2QQNfJB)                               |
 | 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                            | 2020-03-20  | [D1](https://bit.ly/2UpH8he)                               |
 | 20  | PARAGUAY                 | WITHOUT MAINTENANCE                                                    | 2020-03-03  |                                                            |
-| 21  | PERU                     | [DSRP](https://bit.ly/2UzdciW) [diegocl02](https://bit.ly/2wNIlGt)     | 2020-03-23  | [D1](https://bit.ly/2J5Wnpj)                               |
+| 21  | PERU                     | [DSRP](https://bit.ly/2UzdciW) [diegocl02](https://bit.ly/2wNIlGt)     | 2020-04-04  | [D1](https://bit.ly/2J5Wnpj) [D2](https://bit.ly/3dSKwZO)  |
 | 22  | PUERTO RICO              | WITHOUT MAINTENANCE                                                    |             |                                                            |
 | 23  | SAIN PIERRE AND MIQUELON | WITHOUT MAINTENANCE                                                    |             |                                                            |
 | 24  | SAINT BARTHELEMY         | WITHOUT MAINTENANCE                                                    |             |                                                            |
