@@ -107,7 +107,7 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 14  | HAITI                    | SIN ENCARGADO                                                          |             |                                                            |
 | 15  | HONDURAS                 | SIN ENCARGADO                                                          |             |                                                            |
 | 16  | MARTINIQUE               | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/34fbNRW)                               |
-| 17  | MEXICO                   | [carranco-sga](https://bit.ly/2UAAdSw)                                 | 2020-04-01  | [D1](https://bit.ly/3brQ7nY)                               |
+| 17  | MEXICO                   | [carranco-sga](https://bit.ly/2UAAdSw)                                 | 2020-04-03  | [D1](https://bit.ly/3brQ7nY)                               |
 | 18  | NICARAGUA                | SIN ENCARGADO                                                          | 2020-03-20  | [D1](https://bit.ly/2QQNfJB)                               |
 | 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                            | 2020-03-20  | [D1](https://bit.ly/2UpH8he)                               |
 | 20  | PARAGUAY                 | SIN ENCARGADO                                                          | 2020-03-03  |                                                            |
