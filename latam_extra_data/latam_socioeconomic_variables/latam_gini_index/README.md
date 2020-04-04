@@ -14,7 +14,7 @@
 | 2   | BOLIVIA                  |                                                   |             |
 | 3   | BRAZIL                   |                                                   |             |
 | 4   | CHILE                    |                                                   |             |
-| 5   | COLOMBIA                 |                                                   |             |
+| 5   | COLOMBIA                 | [Datos Abiertos - Not all subdivisions](https://bit.ly/349sKgq)          | 2010-2017   |
 | 6   | COSTA RICA               |                                                   |             |
 | 7   | CUBA                     |                                                   |             |
 | 8   | DOMINICAN REPUBLIC       |                                                   |             |
