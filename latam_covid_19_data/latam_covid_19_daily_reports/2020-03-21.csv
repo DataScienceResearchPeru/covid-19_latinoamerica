@@ -131,38 +131,38 @@ CU-01,Cuba,Pinar del Río,,0,0,0
 CU-07,Cuba,Sancti Spíritus,,0,0,0
 CU-13,Cuba,Santiago de Cuba,,0,0,0
 CU-05,Cuba,Villa Clara,,0,0,0
-DO-02,Dominican Republic,Azua,,0,0,0
-DO-03,Dominican Republic,Baoruco,,0,0,0
-DO-04,Dominican Republic,Barahona,,0,0,0
-DO-05,Dominican Republic,Dajabon,,0,0,0
-DO-06,Dominican Republic,Distrito Nacional,,0,0,0
-DO-08,Dominican Republic,Duarte,,0,0,0
-DO-09,Dominican Republic,El Seibo,,0,0,0
-DO-30,Dominican Republic,Elias Pina,,0,0,0
-DO-10,Dominican Republic,Espaillat,,0,0,0
-DO-11,Dominican Republic,Hato Mayor,,0,0,0
-DO-07,Dominican Republic,Hermanas Mirabal,,0,0,0
-DO-12,Dominican Republic,Independencia,,0,0,0
-DO-13,Dominican Republic,La Altagracia,,0,0,0
-DO-14,Dominican Republic,La Romana,,0,0,0
-DO-28,Dominican Republic,La Vega,,0,0,0
-DO-15,Dominican Republic,Maria Trinidad Sanchez,,0,0,0
-DO-29,Dominican Republic,Monsenor Nouel,,0,0,0
-DO-16,Dominican Republic,Monte Cristi,,0,0,0
-DO-17,Dominican Republic,Monte Plata,,0,0,0
-DO-18,Dominican Republic,Pedernales,,0,0,0
-DO-19,Dominican Republic,Peravia,,0,0,0
-DO-20,Dominican Republic,Puerto Plata,,0,0,0
-DO-21,Dominican Republic,Samana,,0,0,0
-DO-31,Dominican Republic,San Cristobal,,0,0,0
-DO-22,Dominican Republic,San Jose de Ocoa,,0,0,0
-DO-23,Dominican Republic,San Juan,,0,0,0
-DO-24,Dominican Republic,San Pedro de Macoris,,0,0,0
-DO-25,Dominican Republic,Sanchez Ramirez,,0,0,0
-DO-26,Dominican Republic,Santiago,,0,0,0
-DO-32,Dominican Republic,Santiago Rodriguez,,0,0,0
-DO-01,Dominican Republic,Santo Domingo,,0,0,0
-DO-27,Dominican Republic,Valverde,,0,0,0
+DO-02,Dominican Republic,Azua,2020-04-05T23:13:00,2,0,0
+DO-03,Dominican Republic,Baoruco,2020-04-05T23:13:00,0,0,0
+DO-04,Dominican Republic,Barahona,2020-04-05T23:13:00,1,0,0
+DO-05,Dominican Republic,Dajabon,2020-04-05T23:13:00,0,0,0
+DO-06,Dominican Republic,Distrito Nacional,2020-04-05T23:13:00,88,0,0
+DO-08,Dominican Republic,Duarte,2020-04-05T23:13:00,8,1,0
+DO-09,Dominican Republic,El Seibo,2020-04-05T23:13:00,0,0,0
+DO-30,Dominican Republic,Elias Pina,2020-04-05T23:13:00,0,0,0
+DO-10,Dominican Republic,Espaillat,2020-04-05T23:13:00,1,0,0
+DO-11,Dominican Republic,Hato Mayor,2020-04-05T23:13:00,0,0,0
+DO-07,Dominican Republic,Hermanas Mirabal,2020-04-05T23:13:00,2,0,0
+DO-12,Dominican Republic,Independencia,2020-04-05T23:13:00,0,0,0
+DO-13,Dominican Republic,La Altagracia,2020-04-05T23:13:00,7,0,0
+DO-14,Dominican Republic,La Romana,2020-04-05T23:13:00,3,0,0
+DO-28,Dominican Republic,La Vega,2020-04-05T23:13:00,7,0,0
+DO-15,Dominican Republic,Maria Trinidad Sanchez,2020-04-05T23:13:00,2,0,0
+DO-29,Dominican Republic,Monsenor Nouel,2020-04-05T23:13:00,2,0,0
+DO-16,Dominican Republic,Monte Cristi,2020-04-05T23:13:00,0,0,0
+DO-17,Dominican Republic,Monte Plata,2020-04-05T23:13:00,1,0,0
+DO-18,Dominican Republic,Pedernales,2020-04-05T23:13:00,0,0,0
+DO-19,Dominican Republic,Peravia,2020-04-05T23:13:00,0,0,0
+DO-20,Dominican Republic,Puerto Plata,2020-04-05T23:13:00,3,0,0
+DO-21,Dominican Republic,Samana,2020-04-05T23:13:00,4,0,0
+DO-31,Dominican Republic,San Cristobal,2020-04-05T23:13:00,1,0,0
+DO-22,Dominican Republic,San Jose de Ocoa,2020-04-05T23:13:00,0,0,0
+DO-23,Dominican Republic,San Juan,2020-04-05T23:13:00,2,1,0
+DO-24,Dominican Republic,San Pedro de Macoris,2020-04-05T23:13:00,6,1,0
+DO-25,Dominican Republic,Sanchez Ramirez,2020-04-05T23:13:00,1,0,0
+DO-26,Dominican Republic,Santiago,2020-04-05T23:13:00,29,0,0
+DO-32,Dominican Republic,Santiago Rodriguez,2020-04-05T23:13:00,0,0,0
+DO-01,Dominican Republic,Santo Domingo,2020-04-05T23:13:00,31,0,0
+DO-27,Dominican Republic,Valverde,2020-04-05T23:13:00,1,0,0
 EC-A,Ecuador,Azuay,2020-03-21T22:00:00,19,0,0
 EC-B,Ecuador,Bolivar,2020-03-21T22:00:00,5,0,0
 EC-F,Ecuador,Canar,2020-03-21T22:00:00,3,0,0
