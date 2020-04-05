@@ -32,33 +32,33 @@ BO-N,Bolivia,Pando,2020-04-05T18:45:29,0,0,0
 BO-P,Bolivia,Potosi,2020-04-05T18:45:30,0,0,0
 BO-S,Bolivia,Santa Cruz,2020-04-05T18:45:31,0,0,0
 BO-T,Bolivia,Tarija,2020-04-05T18:45:32,0,0,0
-BR-AC,Brazil,Acre,2020-04-05T18:45:33,0,0,0
-BR-AL,Brazil,Alagoas,2020-04-05T18:45:34,0,0,0
-BR-AP,Brazil,Amapa,2020-04-05T18:45:35,0,0,0
-BR-AM,Brazil,Amazonas,2020-04-05T18:45:36,0,0,0
-BR-BA,Brazil,Bahia,2020-04-05T18:45:37,0,0,0
-BR-CE,Brazil,Ceara,2020-04-05T18:45:38,0,0,0
-BR-DF,Brazil,Distrito Federal,2020-04-05T18:45:39,0,0,0
-BR-ES,Brazil,Espiritu Santo,2020-04-05T18:45:40,0,0,0
-BR-GO,Brazil,Goias,2020-04-05T18:45:41,0,0,0
-BR-MA,Brazil,Maranhao,2020-04-05T18:45:42,0,0,0
-BR-MT,Brazil,Mato Grosso,2020-04-05T18:45:43,0,0,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-04-05T18:45:44,0,0,0
-BR-MG,Brazil,Minas Gerais,2020-04-05T18:45:45,0,0,0
-BR-PA,Brazil,Para,2020-04-05T18:45:46,0,0,0
-BR-PB,Brazil,Paraiba,2020-04-05T18:45:47,0,0,0
-BR-PR,Brazil,Parana,2020-04-05T18:45:48,0,0,0
-BR-PE,Brazil,Pernambuco,2020-04-05T18:45:49,0,0,0
-BR-PI,Brazil,Piaui,2020-04-05T18:45:50,0,0,0
-BR-RJ,Brazil,Rio de Janeiro,2020-04-05T18:45:51,0,0,0
-BR-RN,Brazil,Rio Grande do Norte,2020-04-05T18:45:52,0,0,0
-BR-RS,Brazil,Rio Grande do Sul,2020-04-05T18:45:53,0,0,0
-BR-RO,Brazil,Rondonia,2020-04-05T18:45:54,0,0,0
-BR-RR,Brazil,Roraima,2020-04-05T18:45:55,0,0,0
-BR-SC,Brazil,Santa Catarina,2020-04-05T18:45:56,0,0,0
-BR-SP,Brazil,Sao Paulo,2020-04-05T18:45:57,0,0,0
-BR-SE,Brazil,Sergipe,2020-04-05T18:45:58,0,0,0
-BR-TO,Brazil,Tocantins,2020-04-05T18:45:59,0,0,0
+BR-AC,Brazil,Acre,2020-04-04,46,0,0
+BR-AL,Brazil,Alagoas,2020-04-04,23,2,0
+BR-AP,Brazil,Amapa,2020-04-04,28,1,0
+BR-AM,Brazil,Amazonas,2020-04-04,311,12,0
+BR-BA,Brazil,Bahia,2020-04-04,332,7,0
+BR-CE,Brazil,Ceara,2020-04-04,730,22,0
+BR-DF,Brazil,Distrito Federal,2020-04-04,454,7,0
+BR-ES,Brazil,Espiritu Santo,2020-04-04,0,0,0
+BR-GO,Brazil,Goias,2020-04-04,103,2,0
+BR-MA,Brazil,Maranhao,2020-04-04,88,1,0
+BR-MT,Brazil,Mato Grosso,2020-04-04,56,1,0
+BR-MS,Brazil,Mato Grosso do Sul,2020-04-04,62,1,0
+BR-MG,Brazil,Minas Gerais,2020-04-04,430,6,0
+BR-PA,Brazil,Para,2020-04-04,80,1,0
+BR-PB,Brazil,Paraiba,2020-04-04,32,2,0
+BR-PR,Brazil,Parana,2020-04-04,395,6,0
+BR-PE,Brazil,Pernambuco,2020-04-04,176,14,0
+BR-PI,Brazil,Piaui,2020-04-04,22,4,0
+BR-RJ,Brazil,Rio de Janeiro,2020-04-04,1246,58,0
+BR-RN,Brazil,Rio Grande do Norte,2020-04-04,212,5,0
+BR-RS,Brazil,Rio Grande do Sul,2020-04-04,410,6,0
+BR-RO,Brazil,Rondonia,2020-04-04,11,1,0
+BR-RR,Brazil,Roraima,2020-04-04,37,1,0
+BR-SC,Brazil,Santa Catarina,2020-04-04,334,5,0
+BR-SP,Brazil,Sao Paulo,2020-04-04,4466,260,0
+BR-SE,Brazil,Sergipe,2020-04-04,27,2,0
+BR-TO,Brazil,Tocantins,2020-04-04,14,0,0
 CL-AN,Chile,Antofagasta,2020-04-04T21:16:00,55,0,0
 CL-AR,Chile,Araucania,2020-04-04T21:16:00,477,9,0
 CL-AP,Chile,Arica y Parinacota,2020-04-04T21:16:00,12,0,0
