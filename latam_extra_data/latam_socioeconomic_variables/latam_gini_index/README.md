@@ -12,7 +12,7 @@
 | --- | ------------------------ | --------------------------------------------------------------- | ----------- |
 | 1   | ARGENTINA                | [EPH - INDEC](https://bit.ly/2X8SGr9)                           | 2010-2015   |
 | 2   | BOLIVIA                  |                                                                 |             |
-| 3   | BRAZIL                   |                                                                 |             |
+| 3   | BRAZIL                   | [IBGE](https://bit.ly/2Xc7ipE)                                  | 2013        |
 | 4   | CHILE                    |                                                                 |             |
 | 5   | COLOMBIA                 | [Datos Abiertos - Not all subdivisions](https://bit.ly/349sKgq) | 2010-2017   |
 | 6   | COSTA RICA               |                                                                 |             |
