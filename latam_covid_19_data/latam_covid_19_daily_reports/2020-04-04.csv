@@ -1,64 +1,64 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,,,,
-AR-K,Argentina,Catamarca,,,,
-AR-H,Argentina,Chaco,,,,
-AR-U,Argentina,Chubut,,,,
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,,,,
-AR-X,Argentina,Cordoba,,,,
-AR-W,Argentina,Corrientes,,,,
-AR-E,Argentina,Entre Rios,,,,
-AR-P,Argentina,Formosa,,,,
-AR-Y,Argentina,Jujuy,,,,
-AR-L,Argentina,La Pampa,,,,
-AR-F,Argentina,La Rioja,,,,
-AR-M,Argentina,Mendoza,,,,
-AR-N,Argentina,Misiones,,,,
-AR-Q,Argentina,Neuquen,,,,
-AR-R,Argentina,Rio Negro,,,,
-AR-A,Argentina,Salta,,,,
-AR-J,Argentina,San Juan,,,,
-AR-D,Argentina,San Luis,,,,
-AR-Z,Argentina,Santa Cruz,,,,
-AR-S,Argentina,Santa Fe,,,,
-AR-G,Argentina,Santiago del Estero,,,,
-AR-V,Argentina,Tierra del Fuego,,,,
-AR-T,Argentina,Tucuman,,,,
-BO-B,Bolivia,Beni,,,,
-BO-H,Bolivia,Chuquisaca,,,,
-BO-C,Bolivia,Cochabamba,,,,
-BO-L,Bolivia,La Paz,,,,
-BO-O,Bolivia,Oruro,,,,
-BO-N,Bolivia,Pando,,,,
-BO-P,Bolivia,Potosi,,,,
-BO-S,Bolivia,Santa Cruz,,,,
-BO-T,Bolivia,Tarija,,,,
-BR-AC,Brazil,Acre,,,,
-BR-AL,Brazil,Alagoas,,,,
-BR-AP,Brazil,Amapa,,,,
-BR-AM,Brazil,Amazonas,,,,
-BR-BA,Brazil,Bahia,,,,
-BR-CE,Brazil,Ceara,,,,
-BR-DF,Brazil,Distrito Federal,,,,
-BR-ES,Brazil,Espiritu Santo,,,,
-BR-GO,Brazil,Goias,,,,
-BR-MA,Brazil,Maranhao,,,,
-BR-MT,Brazil,Mato Grosso,,,,
-BR-MS,Brazil,Mato Grosso do Sul,,,,
-BR-MG,Brazil,Minas Gerais,,,,
-BR-PA,Brazil,Para,,,,
-BR-PB,Brazil,Paraiba,,,,
-BR-PR,Brazil,Parana,,,,
-BR-PE,Brazil,Pernambuco,,,,
-BR-PI,Brazil,Piaui,,,,
-BR-RJ,Brazil,Rio de Janeiro,,,,
-BR-RN,Brazil,Rio Grande do Norte,,,,
-BR-RS,Brazil,Rio Grande do Sul,,,,
-BR-RO,Brazil,Rondonia,,,,
-BR-RR,Brazil,Roraima,,,,
-BR-SC,Brazil,Santa Catarina,,,,
-BR-SP,Brazil,Sao Paulo,,,,
-BR-SE,Brazil,Sergipe,,,,
-BR-TO,Brazil,Tocantins,,,,
+AR-B,Argentina,Buenos Aires,2020-04-05T18:45:00,407,7,117
+AR-K,Argentina,Catamarca,2020-04-05T18:45:01,364,18,40
+AR-H,Argentina,Chaco,2020-04-05T18:45:02,0,0,0
+AR-U,Argentina,Chubut,2020-04-05T18:45:03,115,7,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-04-05T18:45:04,0,0,0
+AR-X,Argentina,Cordoba,2020-04-05T18:45:05,134,1,1
+AR-W,Argentina,Corrientes,2020-04-05T18:45:06,22,0,2
+AR-E,Argentina,Entre Rios,2020-04-05T18:45:07,18,0,4
+AR-P,Argentina,Formosa,2020-04-05T18:45:08,0,0,0
+AR-Y,Argentina,Jujuy,2020-04-05T18:45:09,5,0,2
+AR-L,Argentina,La Pampa,2020-04-05T18:45:10,3,0,0
+AR-F,Argentina,La Rioja,2020-04-05T18:45:11,6,1,0
+AR-M,Argentina,Mendoza,2020-04-05T18:45:12,27,4,0
+AR-N,Argentina,Misiones,2020-04-05T18:45:13,3,0,0
+AR-Q,Argentina,Neuquen,2020-04-05T18:45:14,33,2,0
+AR-R,Argentina,Rio Negro,2020-04-05T18:45:15,15,0,2
+AR-A,Argentina,Salta,2020-04-05T18:45:16,3,0,0
+AR-J,Argentina,San Juan,2020-04-05T18:45:17,1,0,0
+AR-D,Argentina,San Luis,2020-04-05T18:45:18,10,0,0
+AR-Z,Argentina,Santa Cruz,2020-04-05T18:45:19,22,0,0
+AR-S,Argentina,Santa Fe,2020-04-05T18:45:20,165,1,0
+AR-G,Argentina,Santiago del Estero,2020-04-05T18:45:21,4,0,0
+AR-V,Argentina,Tierra del Fuego,2020-04-05T18:45:22,72,0,0
+AR-T,Argentina,Tucuman,2020-04-05T18:45:23,22,2,0
+BO-B,Bolivia,Beni,2020-04-05T18:45:24,,,
+BO-H,Bolivia,Chuquisaca,2020-04-05T18:45:25,,,
+BO-C,Bolivia,Cochabamba,2020-04-05T18:45:26,,,
+BO-L,Bolivia,La Paz,2020-04-05T18:45:27,,,
+BO-O,Bolivia,Oruro,2020-04-05T18:45:28,,,
+BO-N,Bolivia,Pando,2020-04-05T18:45:29,,,
+BO-P,Bolivia,Potosi,2020-04-05T18:45:30,,,
+BO-S,Bolivia,Santa Cruz,2020-04-05T18:45:31,,,
+BO-T,Bolivia,Tarija,2020-04-05T18:45:32,,,
+BR-AC,Brazil,Acre,2020-04-05T18:45:33,,,
+BR-AL,Brazil,Alagoas,2020-04-05T18:45:34,,,
+BR-AP,Brazil,Amapa,2020-04-05T18:45:35,,,
+BR-AM,Brazil,Amazonas,2020-04-05T18:45:36,,,
+BR-BA,Brazil,Bahia,2020-04-05T18:45:37,,,
+BR-CE,Brazil,Ceara,2020-04-05T18:45:38,,,
+BR-DF,Brazil,Distrito Federal,2020-04-05T18:45:39,,,
+BR-ES,Brazil,Espiritu Santo,2020-04-05T18:45:40,,,
+BR-GO,Brazil,Goias,2020-04-05T18:45:41,,,
+BR-MA,Brazil,Maranhao,2020-04-05T18:45:42,,,
+BR-MT,Brazil,Mato Grosso,2020-04-05T18:45:43,,,
+BR-MS,Brazil,Mato Grosso do Sul,2020-04-05T18:45:44,,,
+BR-MG,Brazil,Minas Gerais,2020-04-05T18:45:45,,,
+BR-PA,Brazil,Para,2020-04-05T18:45:46,,,
+BR-PB,Brazil,Paraiba,2020-04-05T18:45:47,,,
+BR-PR,Brazil,Parana,2020-04-05T18:45:48,,,
+BR-PE,Brazil,Pernambuco,2020-04-05T18:45:49,,,
+BR-PI,Brazil,Piaui,2020-04-05T18:45:50,,,
+BR-RJ,Brazil,Rio de Janeiro,2020-04-05T18:45:51,,,
+BR-RN,Brazil,Rio Grande do Norte,2020-04-05T18:45:52,,,
+BR-RS,Brazil,Rio Grande do Sul,2020-04-05T18:45:53,,,
+BR-RO,Brazil,Rondonia,2020-04-05T18:45:54,,,
+BR-RR,Brazil,Roraima,2020-04-05T18:45:55,,,
+BR-SC,Brazil,Santa Catarina,2020-04-05T18:45:56,,,
+BR-SP,Brazil,Sao Paulo,2020-04-05T18:45:57,,,
+BR-SE,Brazil,Sergipe,2020-04-05T18:45:58,,,
+BR-TO,Brazil,Tocantins,2020-04-05T18:45:59,,,
 CL-AN,Chile,Antofagasta,2020-04-04T21:16:00,55,0,0
 CL-AR,Chile,Araucania,2020-04-04T21:16:00,477,9,0
 CL-AP,Chile,Arica y Parinacota,2020-04-04T21:16:00,12,0,0
