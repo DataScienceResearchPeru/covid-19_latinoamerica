@@ -32,33 +32,33 @@ BO-N,Bolivia,Pando,2020-03-28T17:55:10,0,0,0
 BO-P,Bolivia,Potosi,2020-03-28T17:55:10,0,0,0
 BO-S,Bolivia,Santa Cruz,2020-03-28T17:55:10,24,0,0
 BO-T,Bolivia,Tarija,2020-03-28T17:55:10,0,0,0
-BR-AC,Brazil,Acre,2020-03-26T04:38:00,23,0,0
-BR-AL,Brazil,Alagoas,2020-03-26T04:38:00,11,0,0
-BR-AP,Brazil,Amapa,2020-03-26T04:38:00,2,0,0
-BR-AM,Brazil,Amazonas,2020-03-26T04:38:00,54,0,0
-BR-BA,Brazil,Bahia,2020-03-26T04:38:00,91,0,0
-BR-CE,Brazil,Ceara,2020-03-26T04:38:00,211,0,0
-BR-DF,Brazil,Distrito Federal,2020-03-26T04:38:00,191,0,0
-BR-ES,Brazil,Espiritu Santo,2020-03-26T04:38:00,40,0,0
-BR-GO,Brazil,Goias,2020-03-26T04:38:00,29,0,0
-BR-MA,Brazil,Maranhao,2020-03-26T04:38:00,8,0,0
-BR-MT,Brazil,Mato Grosso,2020-03-26T04:38:00,11,0,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-03-26T04:38:00,24,0,0
-BR-MG,Brazil,Minas Gerais,2020-03-26T04:38:00,133,0,0
-BR-PA,Brazil,Para,2020-03-26T04:38:00,7,0,0
-BR-PB,Brazil,Paraiba,2020-03-26T04:38:00,5,0,0
-BR-PR,Brazil,Parana,2020-03-26T04:38:00,97,0,0
-BR-PE,Brazil,Pernambuco,2020-03-26T04:38:00,46,0,0
-BR-PI,Brazil,Piaui,2020-03-26T04:38:00,8,0,0
-BR-RJ,Brazil,Rio de Janeiro,2020-03-26T04:38:00,370,0,0
-BR-RN,Brazil,Rio Grande do Norte,2020-03-26T04:38:00,14,0,0
-BR-RS,Brazil,Rio Grande do Sul,2020-03-26T04:38:00,162,0,0
-BR-RO,Brazil,Rondonia,2020-03-26T04:38:00,5,0,0
-BR-RR,Brazil,Roraima,2020-03-26T04:38:00,8,0,0
-BR-SC,Brazil,Santa Catarina,2020-03-26T04:38:00,122,0,0
-BR-SP,Brazil,Sao Paulo,2020-03-26T04:38:00,862,0,0
-BR-SE,Brazil,Sergipe,2020-03-26T04:38:00,16,0,0
-BR-TO,Brazil,Tocantins,2020-03-26T04:38:00,7,0,0
+BR-AC,Brazil,Acre,2020-03-25,23,0,0
+BR-AL,Brazil,Alagoas,2020-03-25,11,0,0
+BR-AP,Brazil,Amapa,2020-03-25,1,0,0
+BR-AM,Brazil,Amazonas,2020-03-25,54,1,0
+BR-BA,Brazil,Bahia,2020-03-25,84,0,0
+BR-CE,Brazil,Ceara,2020-03-25,200,0,0
+BR-DF,Brazil,Distrito Federal,2020-03-25,160,0,0
+BR-ES,Brazil,Espiritu Santo,2020-03-25,0,0,0
+BR-GO,Brazil,Goias,2020-03-25,29,0,0
+BR-MA,Brazil,Maranhao,2020-03-25,8,0,0
+BR-MT,Brazil,Mato Grosso,2020-03-25,8,0,0
+BR-MS,Brazil,Mato Grosso do Sul,2020-03-25,24,0,0
+BR-MG,Brazil,Minas Gerais,2020-03-25,133,0,0
+BR-PA,Brazil,Para,2020-03-25,7,0,0
+BR-PB,Brazil,Paraiba,2020-03-25,3,0,0
+BR-PR,Brazil,Parana,2020-03-25,81,0,0
+BR-PE,Brazil,Pernambuco,2020-03-25,46,1,0
+BR-PI,Brazil,Piaui,2020-03-25,8,0,0
+BR-RJ,Brazil,Rio de Janeiro,2020-03-25,370,6,0
+BR-RN,Brazil,Rio Grande do Norte,2020-03-25,14,0,0
+BR-RS,Brazil,Rio Grande do Sul,2020-03-25,123,1,0
+BR-RO,Brazil,Rondonia,2020-03-25,5,0,0
+BR-RR,Brazil,Roraima,2020-03-25,8,0,0
+BR-SC,Brazil,Santa Catarina,2020-03-25,109,0,0
+BR-SP,Brazil,Sao Paulo,2020-03-25,862,48,0
+BR-SE,Brazil,Sergipe,2020-03-25,16,0,0
+BR-TO,Brazil,Tocantins,2020-03-25,7,0,0
 CL-AN,Chile,Antofagasta,2020-03-26T01:43:11,19,0,0
 CL-AR,Chile,Araucania,2020-03-26T01:43:11,74,0,0
 CL-AP,Chile,Arica y Parinacota,2020-03-26T01:43:11,2,0,0
