@@ -95,6 +95,8 @@ for column in confirmed_columns:
 
     final["Last Update"] = date
     
+    daily_report.update(final)
+
     daily_report.Deaths = daily_report.Deaths.fillna(0)
     daily_report.Confirmed = daily_report.Confirmed.fillna(0)
     daily_report.Recovered = daily_report.Recovered.fillna(0)
@@ -103,7 +105,6 @@ for column in confirmed_columns:
     daily_report.Confirmed = daily_report.Confirmed.astype("int64")
     daily_report.Recovered = daily_report.Recovered.astype("int64")
 
-    
-    daily_report.update(final)
+
     print(daily_report[daily_report.Country=="Brazil"])
     daily_report.to_csv(daily_report_path, index=False)
