@@ -6,7 +6,7 @@ if 1 < len(sys.argv) < 3:
     try:
         init_date = pd.to_datetime(init_date, format="%Y/%m/%d")
     except ValueError:
-        print("date format incorrect")
+        print("incorrect date format")
         sys.exit(0)
 else:
     print("Usage brazil_data.py <initial_date>\n date format: %Y/%m/%d example: 2020/03/25")
@@ -14,7 +14,7 @@ else:
 
 
 confirmed_url = "https://raw.githubusercontent.com/elhenrico/covid19-Brazil-timeseries/master/confirmed-cases.csv"
-deaths_url = "https://raw.githubusercontent.com/elhenrico/covid19-Brazil-timeseries/master/deaths-new.csv"
+deaths_url = "https://raw.githubusercontent.com/elhenrico/covid19-Brazil-timeseries/master/deaths.csv"
 
 confirmed = pd.read_csv(confirmed_url)
 deaths = pd.read_csv(deaths_url)
@@ -25,7 +25,7 @@ brazil_compare = compare[compare.Country=="Brazil"]
 ###
 
 
-string_a = "áéíóúäëïöüâêîôûã"  # character to be replace
+string_a = "áéíóúäëïöüâêîôûã"  # character to be replaced
 string_b = "aeiouaeiouaeioua"  # character to replace with
 
 def remove_tildes(string):
