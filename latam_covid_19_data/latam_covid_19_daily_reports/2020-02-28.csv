@@ -32,33 +32,33 @@ BO-N,Bolivia,Pando,,0,0,0
 BO-P,Bolivia,Potosi,,0,0,0
 BO-S,Bolivia,Santa Cruz,,0,0,0
 BO-T,Bolivia,Tarija,,0,0,0
-BR-AC,Brazil,Acre,2020-03-26T04:38:00,0,0,0
-BR-AL,Brazil,Alagoas,2020-03-26T04:38:00,0,0,0
-BR-AP,Brazil,Amapa,2020-03-26T04:38:00,0,0,0
-BR-AM,Brazil,Amazonas,2020-03-26T04:38:00,0,0,0
-BR-BA,Brazil,Bahia,2020-03-26T04:38:00,0,0,0
-BR-CE,Brazil,Ceara,2020-03-26T04:38:00,0,0,0
-BR-DF,Brazil,Distrito Federal,2020-03-26T04:38:00,0,0,0
-BR-ES,Brazil,Espiritu Santo,2020-03-26T04:38:00,0,0,0
-BR-GO,Brazil,Goias,2020-03-26T04:38:00,0,0,0
-BR-MA,Brazil,Maranhao,2020-03-26T04:38:00,0,0,0
-BR-MT,Brazil,Mato Grosso,2020-03-26T04:38:00,0,0,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-03-26T04:38:00,0,0,0
-BR-MG,Brazil,Minas Gerais,2020-03-26T04:38:00,0,0,0
-BR-PA,Brazil,Para,2020-03-26T04:38:00,0,0,0
-BR-PB,Brazil,Paraiba,2020-03-26T04:38:00,0,0,0
-BR-PR,Brazil,Parana,2020-03-26T04:38:00,0,0,0
-BR-PE,Brazil,Pernambuco,2020-03-26T04:38:00,0,0,0
-BR-PI,Brazil,Piaui,2020-03-26T04:38:00,0,0,0
-BR-RJ,Brazil,Rio de Janeiro,2020-03-26T04:38:00,0,0,0
-BR-RN,Brazil,Rio Grande do Norte,2020-03-26T04:38:00,0,0,0
-BR-RS,Brazil,Rio Grande do Sul,2020-03-26T04:38:00,0,0,0
-BR-RO,Brazil,Rondonia,2020-03-26T04:38:00,0,0,0
-BR-RR,Brazil,Roraima,2020-03-26T04:38:00,0,0,0
-BR-SC,Brazil,Santa Catarina,2020-03-26T04:38:00,0,0,0
-BR-SP,Brazil,Sao Paulo,2020-03-26T04:38:00,1,0,0
-BR-SE,Brazil,Sergipe,2020-03-26T04:38:00,0,0,0
-BR-TO,Brazil,Tocantins,2020-03-26T04:38:00,0,0,0
+BR-AC,Brazil,Acre,2020-02-28,0,0,0
+BR-AL,Brazil,Alagoas,2020-02-28,0,0,0
+BR-AP,Brazil,Amapa,2020-02-28,0,0,0
+BR-AM,Brazil,Amazonas,2020-02-28,0,0,0
+BR-BA,Brazil,Bahia,2020-02-28,0,0,0
+BR-CE,Brazil,Ceara,2020-02-28,0,0,0
+BR-DF,Brazil,Distrito Federal,2020-02-28,0,0,0
+BR-ES,Brazil,Espiritu Santo,2020-02-28,0,0,0
+BR-GO,Brazil,Goias,2020-02-28,0,0,0
+BR-MA,Brazil,Maranhao,2020-02-28,0,0,0
+BR-MT,Brazil,Mato Grosso,2020-02-28,0,0,0
+BR-MS,Brazil,Mato Grosso do Sul,2020-02-28,0,0,0
+BR-MG,Brazil,Minas Gerais,2020-02-28,0,0,0
+BR-PA,Brazil,Para,2020-02-28,0,0,0
+BR-PB,Brazil,Paraiba,2020-02-28,0,0,0
+BR-PR,Brazil,Parana,2020-02-28,0,0,0
+BR-PE,Brazil,Pernambuco,2020-02-28,0,0,0
+BR-PI,Brazil,Piaui,2020-02-28,0,0,0
+BR-RJ,Brazil,Rio de Janeiro,2020-02-28,0,0,0
+BR-RN,Brazil,Rio Grande do Norte,2020-02-28,0,0,0
+BR-RS,Brazil,Rio Grande do Sul,2020-02-28,0,0,0
+BR-RO,Brazil,Rondonia,2020-02-28,0,0,0
+BR-RR,Brazil,Roraima,2020-02-28,0,0,0
+BR-SC,Brazil,Santa Catarina,2020-02-28,0,0,0
+BR-SP,Brazil,Sao Paulo,2020-02-28,1,0,0
+BR-SE,Brazil,Sergipe,2020-02-28,0,0,0
+BR-TO,Brazil,Tocantins,2020-02-28,0,0,0
 CL-AN,Chile,Antofagasta,,0,0,0
 CL-AR,Chile,Araucania,,0,0,0
 CL-AP,Chile,Arica y Parinacota,,0,0,0
@@ -196,49 +196,49 @@ SV-PA,El Salvador,La Paz,,0,0,0
 SV-UN,El Salvador,La Unión,,0,0,0
 SV-MO,El Salvador,Morazan,,0,0,0
 SV-SM,El Salvador,San Miguel,,0,0,0
-SV-SS,El Salvador,San Salvador,,,,
+SV-SS,El Salvador,San Salvador,,0,0,0
 SV-SV,El Salvador,San Vicente,,0,0,0
 SV-SA,El Salvador,Santa Ana,,0,0,0
 SV-SO,El Salvador,Sonsonate,,0,0,0
 SV-US,El Salvador,Usulutan,,0,0,0
-FR-GP,France,Guadeloupe,,,,
-FR-GF,France,Guyane,,,,
-FR-MQ,France,Martinique,,,,
-FR-BL,France,Saint-Barthélemy,,,,
-FR-MF,France,Saint-Martin,,,,
-FR-PM,France,Saint-Pierre-et-Miquelon,,,,
-GT-AV,Guatemala,Alta Verapaz,,,,
-GT-BV,Guatemala,Baja Verapaz,,,,
-GT-CM,Guatemala,Chimaltenango,,,,
-GT-CQ,Guatemala,Chiquimula,,,,
-GT-PR,Guatemala,El Progreso,,,,
-GT-ES,Guatemala,Escuintla,,,,
-GT-GU,Guatemala,Guatemala,,,,
-GT-HU,Guatemala,Huehuetenango,,,,
-GT-IZ,Guatemala,Izabal,,,,
-GT-JA,Guatemala,Jalapa,,,,
-GT-JU,Guatemala,Jutiapa,,,,
-GT-PE,Guatemala,Petén,,,,
-GT-QZ,Guatemala,Quetzaltenango,,,,
-GT-QC,Guatemala,Quiché,,,,
-GT-RE,Guatemala,Retalhuleu,,,,
-GT-SA,Guatemala,Sacatepéquez,,,,
-GT-SM,Guatemala,San Marcos,,,,
-GT-SR,Guatemala,Santa Rosa,,,,
-GT-SO,Guatemala,Sololá,,,,
-GT-SU,Guatemala,Suchitepéquez,,,,
-GT-TO,Guatemala,Totonicapán,,,,
-GT-ZA,Guatemala,Zacapa,,,,
-HT-AR,Haiti,Artibonite,,,,
-HT-CE,Haiti,Centre,,,,
-HT-GA,Haiti,Grande’Anse,,,,
-HT-NI,Haiti,Nippes,,,,
-HT-ND,Haiti,Nord,,,,
-HT-NE,Haiti,Nord-Est,,,,
-HT-NO,Haiti,Nord-Ouest,,,,
-HT-OU,Haiti,Ouest,,,,
-HT-SD,Haiti,Sud,,,,
-HT-SE,Haiti,Sud-Est,,,,
+FR-GP,France,Guadeloupe,,0,0,0
+FR-GF,France,Guyane,,0,0,0
+FR-MQ,France,Martinique,,0,0,0
+FR-BL,France,Saint-Barthélemy,,0,0,0
+FR-MF,France,Saint-Martin,,0,0,0
+FR-PM,France,Saint-Pierre-et-Miquelon,,0,0,0
+GT-AV,Guatemala,Alta Verapaz,,0,0,0
+GT-BV,Guatemala,Baja Verapaz,,0,0,0
+GT-CM,Guatemala,Chimaltenango,,0,0,0
+GT-CQ,Guatemala,Chiquimula,,0,0,0
+GT-PR,Guatemala,El Progreso,,0,0,0
+GT-ES,Guatemala,Escuintla,,0,0,0
+GT-GU,Guatemala,Guatemala,,0,0,0
+GT-HU,Guatemala,Huehuetenango,,0,0,0
+GT-IZ,Guatemala,Izabal,,0,0,0
+GT-JA,Guatemala,Jalapa,,0,0,0
+GT-JU,Guatemala,Jutiapa,,0,0,0
+GT-PE,Guatemala,Petén,,0,0,0
+GT-QZ,Guatemala,Quetzaltenango,,0,0,0
+GT-QC,Guatemala,Quiché,,0,0,0
+GT-RE,Guatemala,Retalhuleu,,0,0,0
+GT-SA,Guatemala,Sacatepéquez,,0,0,0
+GT-SM,Guatemala,San Marcos,,0,0,0
+GT-SR,Guatemala,Santa Rosa,,0,0,0
+GT-SO,Guatemala,Sololá,,0,0,0
+GT-SU,Guatemala,Suchitepéquez,,0,0,0
+GT-TO,Guatemala,Totonicapán,,0,0,0
+GT-ZA,Guatemala,Zacapa,,0,0,0
+HT-AR,Haiti,Artibonite,,0,0,0
+HT-CE,Haiti,Centre,,0,0,0
+HT-GA,Haiti,Grande’Anse,,0,0,0
+HT-NI,Haiti,Nippes,,0,0,0
+HT-ND,Haiti,Nord,,0,0,0
+HT-NE,Haiti,Nord-Est,,0,0,0
+HT-NO,Haiti,Nord-Ouest,,0,0,0
+HT-OU,Haiti,Ouest,,0,0,0
+HT-SD,Haiti,Sud,,0,0,0
+HT-SE,Haiti,Sud-Est,,0,0,0
 HN-AT,Honduras,Atlantida,,0,0,0
 HN-CH,Honduras,Choluteca,,0,0,0
 HN-CL,Honduras,Colon,,0,0,0
@@ -362,7 +362,7 @@ PE-SAM,Peru,San Martin,,0,0,0
 PE-TAC,Peru,Tacna,,0,0,0
 PE-TUM,Peru,Tumbes,,0,0,0
 PE-UCA,Peru,Ucayali,,0,0,0
-US-PR,United States,Puerto Rico,,,,
+US-PR,United States,Puerto Rico,,0,0,0
 UY-AR,Uruguay,Artigas,,0,0,0
 UY-CA,Uruguay,Canelones,,0,0,0
 UY-CL,Uruguay,Cerro Largo,,0,0,0
