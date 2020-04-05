@@ -1,5 +1,6 @@
 import pandas as pd
 import sys
+import os
 
 if 1 < len(sys.argv) < 3:
     init_date = sys.argv[1]
@@ -107,4 +108,7 @@ for column in confirmed_columns:
 
 
     print(daily_report[daily_report.Country=="Brazil"])
+    os.system("git pull")
     daily_report.to_csv(daily_report_path, index=False)
+    os.system(f"git add {daily_report_path}")
+    os.system("git commit -m 'Update Brazil'")
