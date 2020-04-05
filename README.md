@@ -89,35 +89,35 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 
 #### Tabla 1. Data resources for each country
 
-| #   | Country                  | User                                                                   | Data Sources                                               |
-| --- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 1   | ARGENTINA                | [martingra](https://bit.ly/2UA5JjF) [pablorea](https://bit.ly/3dHNlwG) | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)  |
-| 2   | BOLIVIA                  | [mamanipatricia](https://bit.ly/2UzdbLU)                               | [D1](https://bit.ly/3bh1qz6)                               |
-| 3   | BRAZIL                   | [Automated - dfuribez](https://github.com/dfuribez)                    | [D1](https://bit.ly/2WuChNd)                               |
-| 4   | CHILE                    | [ivanMSC](https://bit.ly/2UZBUb6)                                      | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) |
-| 5   | COLOMBIA                 | [Automated - dfuribez](https://github.com/dfuribez)                    | [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)  |
-| 6   | COSTA RICA               | [Automated - dfuribez](https://github.com/dfuribez)                    | [API](https://coronaviruscr.com/api/reports)               |
-| 7   | CUBA                     | [yudivian](https://github.com/yudivian)                                |                                                            |
-| 8   | DOMINICAN REPUBLIC       | WITHOUT MAINTENANCE                                                    | [D1](https://bit.ly/2J2aBHM)                               |
-| 9   | ECUADOR                  | [pablora19](https://bit.ly/2UB6rgl)                                    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)  |
-| 10  | EL SALVADOR              | WITHOUT MAINTENANCE                                                    | [D1](https://bit.ly/2U7N7Hm)                               |
-| 11  | FRENCH GUIANA            | WITHOUT MAINTENANCE                                                    | [D1](https://bit.ly/2UUZsxU)                               |
-| 12  | GUADELOUPE               | WITHOUT MAINTENANCE                                                    | [D1](https://bit.ly/2V0aQsj)                               |
-| 13  | GUATEMALA                | [ncovgt2020](https://bit.ly/3aHpECQ)                                   |                                                            |
-| 14  | HAITI                    | WITHOUT MAINTENANCE                                                    |                                                            |
-| 15  | HONDURAS                 | WITHOUT MAINTENANCE                                                    |                                                            |
-| 16  | MARTINIQUE               | WITHOUT MAINTENANCE                                                    | [D1](https://bit.ly/34fbNRW)                               |
-| 17  | MEXICO                   | [carranco-sga](https://bit.ly/2UAAdSw)                                 | [D1](https://bit.ly/3brQ7nY)                               |
-| 18  | NICARAGUA                | WITHOUT MAINTENANCE                                                    | [D1](https://bit.ly/2QQNfJB)                               |
-| 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                            | [D1](https://bit.ly/2UpH8he)                               |
-| 20  | PARAGUAY                 | WITHOUT MAINTENANCE                                                    |                                                            |
-| 21  | PERU                     | [DSRP](https://bit.ly/2UzdciW) [diegocl02](https://bit.ly/2wNIlGt)     | [D1](https://bit.ly/2J5Wnpj) [D2](https://bit.ly/3dSKwZO)  |
-| 22  | PUERTO RICO              | WITHOUT MAINTENANCE                                                    |                                                            |
-| 23  | SAIN PIERRE AND MIQUELON | WITHOUT MAINTENANCE                                                    |                                                            |
-| 24  | SAINT BARTHELEMY         | WITHOUT MAINTENANCE                                                    |                                                            |
-| 25  | SAINT MARTIN             | WITHOUT MAINTENANCE                                                    |                                                            |
-| 26  | URUGUAY                  | WITHOUT MAINTENANCE                                                    |                                                            |
-| 27  | VENEZUELA                | [rendergraf](https://bit.ly/345Z2Jg)                                   | [D1](https://bit.ly/2J3E0Br) [D2](https://bit.ly/3acdykY)  |
+| #   | Country                  | User                                                                                                   | Data Sources                                                                           |
+| --- | ------------------------ | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| 1   | ARGENTINA                | [martingra](https://bit.ly/2UA5JjF) [pablorea](https://bit.ly/3dHNlwG)                                 | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)                              |
+| 2   | BOLIVIA                  | [mamanipatricia](https://bit.ly/2UzdbLU)                                                               | [D1](https://bit.ly/3bh1qz6)                                                           |
+| 3   | BRAZIL                   | [Automated - dfuribez](https://bit.ly/3aN3xLc)                                                         | [S1](https://bit.ly/2xMr5kR) [D1](https://bit.ly/2WuChNd)                              |
+| 4   | CHILE                    | [ivanMSC](https://bit.ly/2UZBUb6)                                                                      | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf)                             |
+| 5   | COLOMBIA                 | [Automated - dfuribez](https://bit.ly/3aN3xLc)                                                         | [S1](https://bit.ly/39LPi8n) [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U) |
+| 6   | COSTA RICA               | [Automated - dfuribez](https://bit.ly/3aN3xLc)                                                         | [API](https://bit.ly/2V34zfz)                                                          |
+| 7   | CUBA                     | [yudivian](https://bit.ly/2wVSYqL)                                                                     | [API](https://bit.ly/2JGSA1Z)                                                          |
+| 8   | DOMINICAN REPUBLIC       | [ZurMaD](https://github.com/zurmad)                                                                    | [D1](https://bit.ly/2UKoUY9) [D2](https://bit.ly/2J2aBHM)                              |
+| 9   | ECUADOR                  | [pablora19](https://bit.ly/2UB6rgl)                                                                    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)                              |
+| 10  | EL SALVADOR              | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2U7N7Hm)                                                           |
+| 11  | FRENCH GUIANA            | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2UUZsxU)                                                           |
+| 12  | GUADELOUPE               | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2V0aQsj)                                                           |
+| 13  | GUATEMALA                | [ncovgt2020](https://bit.ly/3aHpECQ)                                                                   |                                                                                        |
+| 14  | HAITI                    | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 15  | HONDURAS                 | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 16  | MARTINIQUE               | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/34fbNRW)                                                           |
+| 17  | MEXICO                   | [carranco-sga](https://bit.ly/2UAAdSw)                                                                 | [D1](https://bit.ly/3brQ7nY)                                                           |
+| 18  | NICARAGUA                | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2QQNfJB)                                                           |
+| 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                                                            | [D1](https://bit.ly/2UpH8he)                                                           |
+| 20  | PARAGUAY                 | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 21  | PERU                     | [DSRP](https://bit.ly/2UzdciW) [ZurMaD](https://github.com/zurmad) [diegocl02](https://bit.ly/2wNIlGt) | [D1](https://bit.ly/2J5Wnpj) [D2](https://bit.ly/3dSKwZO)                              |
+| 22  | PUERTO RICO              | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 23  | SAIN PIERRE AND MIQUELON | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 24  | SAINT BARTHELEMY         | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 25  | SAINT MARTIN             | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 26  | URUGUAY                  | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 27  | VENEZUELA                | [rendergraf](https://bit.ly/345Z2Jg)                                                                   | [D1](https://bit.ly/2J3E0Br) [D2](https://bit.ly/3acdykY)                              |
 
 \*Automated by scripts in [this folder](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/tree/master/utils/scripts)
 
@@ -132,7 +132,7 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 5   | COLOMBIA                 | 2020-03-06          | Automatic each day       |
 | 6   | COSTA RICA               | 2020-03-06          | Automatic each day       |
 | 7   | CUBA                     | 2020-02-24          | WORKING                  |
-| 8   | DOMINICAN REPUBLIC       | 2020-03-01          |                          |
+| 8   | DOMINICAN REPUBLIC       | 2020-03-01          | 2020-04-04               |
 | 9   | ECUADOR                  | 2020-02-29          | 2020-03-26               |
 | 10  | EL SALVADOR              | 2020-03-18          | 2020-03-20               |
 | 11  | FRENCH GUIANA            | 2020-03-04          | 2020-03-20               |
@@ -298,7 +298,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/josetup123"><img src="https://avatars2.githubusercontent.com/u/52168695?v=4" width="100px;" alt=""/><br /><sub><b>josetup123</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=josetup123" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ivanMSC"><img src="https://avatars0.githubusercontent.com/u/35350256?v=4" width="100px;" alt=""/><br /><sub><b>ivang</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ivanMSC" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/diegocl02"><img src="https://avatars1.githubusercontent.com/u/24798804?v=4" width="100px;" alt=""/><br /><sub><b>Diego Cisneros</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=diegocl02" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/dfuribez"><img src="https://avatars1.githubusercontent.com/u/28516148?v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernando Uribe</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=dfuribez" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://bit.ly/3aN3xLc"><img src="https://avatars1.githubusercontent.com/u/28516148?v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernando Uribe</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=dfuribez" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/carranco-sga"><img src="https://avatars2.githubusercontent.com/u/32427033?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Alfonso Carranco-Sapiéns</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=carranco-sga" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ariasbordahugo"><img src="https://avatars0.githubusercontent.com/u/56813329?v=4" width="100px;" alt=""/><br /><sub><b>ariasbordahugo</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ariasbordahugo" title="Documentation">📖</a></td>
   </tr>
