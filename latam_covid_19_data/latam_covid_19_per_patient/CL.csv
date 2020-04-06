@@ -1,2 +1,202 @@
-City,Province/State,Country/Region,Patient number,Age,Gender,First Symptoms,Date Confirmed,State,Latitude,Longitude,Hospital code
-,,,,,,,,,,,""
+ISO 3166-2 Code,Subdivision,Country,Patient number,Age,Gender,First Symptoms,Date Confirmed,State,Latitude,Longitude,Hospital code,Hospital
+CL-AN,Antofagasta,Chile,,58,Female,,,Reserved,,,,Hospital CarlosCisternas Calama
+CL-AN,Antofagasta,Chile,,63,Male,,,Reserved,,,,Hospital Carlos Cisternas Calama
+CL-AP,Atacama,Chile,,50,Male,,,Reserved,,,,Hospital de Copiapó
+CL-VS,Valparaíso,Chile,,34,Male,,,Reserved,,,,Clínica Ciudad del Mar
+CL-CO,Metropolitana,Chile,,54,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,40,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,58,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,17,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,83,Female,,,Reserved,,,,Clínica Las Condes
+CL-CO,Metropolitana,Chile,,14,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,42,Male,,,Reserved,,,,Clínica U. de Los Andes
+CL-CO,Metropolitana,Chile,,40,Male,,,Reserved,,,,Clínica U. de Los Andes
+CL-CO,Metropolitana,Chile,,31,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,32,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,58,Male,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,48,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,23,Female,,,Reserved,,,,Hospital de Carabineros
+CL-CO,Metropolitana,Chile,,26,Male,,,Reserved,,,,Red de Salud UC-Christus San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,46,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,67,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,31,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,46,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,23,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,34,Female,,,Reserved,,,,Clínica Tabancura
+CL-CO,Metropolitana,Chile,,29,Female,,,Reserved,,,,Clínica Las Condes
+CL-CO,Metropolitana,Chile,,28,Female,,,Reserved,,,,Clínica Las Condes
+CL-CO,Metropolitana,Chile,,21,Female,,,Reserved,,,,Laboratorio Integramédica
+CL-CO,Metropolitana,Chile,,35,Male,,,Reserved,,,,Clínica Red Salud Santiago
+CL-CO,Metropolitana,Chile,,50,Female,,,Reserved,,,,Clínica Tabancura
+CL-CO,Metropolitana,Chile,,—,Male,,,Reserved,,,,Red Salud Vitacura
+CL-CO,Metropolitana,Chile,,31,Male,,,Reserved,,,,Clínica U. de Los Andes
+CL-CO,Metropolitana,Chile,,47,Male,,,Reserved,,,,Clínica Indisa
+CL-CO,Metropolitana,Chile,,39,Male,,,Reserved,,,,Red de Salud UC-Christus San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,37,Female,,,Reserved,,,,Laboratorio Integramédica
+CL-CO,Metropolitana,Chile,,28,Male,,,Reserved,,,,Pontificia Universidad Católica
+CL-CO,Metropolitana,Chile,,29,Male,,,Reserved,,,,Red de Salud UC-Christus San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,28,Male,,,Reserved,,,,Clínica U. de Los Andes
+CL-CO,Metropolitana,Chile,,53,Male,,,Reserved,,,,Clínica Indisa
+CL-CO,Metropolitana,Chile,,38,Male,,,Reserved,,,,Laboratorio Integramédica
+CL-CO,Metropolitana,Chile,,55,Female,,,Reserved,,,,Laboratorio Bionet
+CL-CO,Metropolitana,Chile,,51,Female,,,Reserved,,,,Laboratorio Integramédica
+CL-CO,Metropolitana,Chile,,23,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,36,Male,,,Reserved,,,,Clínica Las Condes
+CL-CO,Metropolitana,Chile,,58,Female,,,Reserved,,,,Clínica Las Condes
+CL-CO,Metropolitana,Chile,,42,Male,,,Reserved,,,,Laboratorio Bionet
+CL-CO,Metropolitana,Chile,,49,Female,,,Reserved,,,,Hospital del trabajador
+CL-CO,Metropolitana,Chile,,29,Male,,,Reserved,,,,Clínica U. de Los Andes
+CL-CO,Metropolitana,Chile,,61,Male,,,Reserved,,,,Red de Salud UC-Christus San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,15,Female,,,Reserved,,,,Red de Salud UC-Christus San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,—,Male,,,Reserved,,,,Megasalud. S. A.
+CL-CO,Metropolitana,Chile,,42,Male,,,Reserved,,,,Mutual de Seguridad
+CL-CO,Metropolitana,Chile,,48,Female,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,45,Male,,,Reserved,,,,Red de Salud UC-Christus San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,29,Male,,,Reserved,,,,Clinica Vespucio
+CL-CO,Metropolitana,Chile,,24,Male,,,Reserved,,,,Red de Salud UC-Christus San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,45,Male,,,Reserved,,,,Red de Salud UC-Christus San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,70,Male,,,Reserved,,,,Clínica U. de Los Andes
+CL-CO,Metropolitana,Chile,,58,Female,,,Reserved,,,,Clínica Las Condes
+CL-CO,Metropolitana,Chile,,43,Male,,,Reserved,,,,Hospital San juan de Dios
+CL-CO,Metropolitana,Chile,,45,Female,,,Reserved,,,,Hospital San juan de Dios
+CL-CO,Metropolitana,Chile,,38,Female,,,Reserved,,,,Hospital del Trabajador
+CL-CO,Metropolitana,Chile,,53,Female,,,Reserved,,,,Hospital del Profesor
+CL-CO,Metropolitana,Chile,,38,Female,,,Reserved,,,,Bioxell Laboratorio Clinico Ltda.
+CL-CO,Metropolitana,Chile,,32,Female,,,Reserved,,,,Megasalud. S. A.
+CL-CO,Metropolitana,Chile,,39,Female,,,Reserved,,,,Clinica Las Condes
+CL-CO,Metropolitana,Chile,,35,Male,,,Reserved,,,,Mutual de Seguridad
+CL-CO,Metropolitana,Chile,,32,Female,,,Reserved,,,,Clinica UC San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,31,Male,,,Reserved,,,,Clinica UC San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,46,Male,,,Reserved,,,,Clinica UC San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,35,Female,,,Reserved,,,,Clinica UC San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,63,Female,,,Reserved,,,,Integramédica
+CL-CO,Metropolitana,Chile,,62,Female,,,Reserved,,,,Integramédica
+CL-CO,Metropolitana,Chile,,62,Female,,,Reserved,,,,Integramédica
+CL-CO,Metropolitana,Chile,,52,Male,,,Reserved,,,,Laboratorio Bionet
+CL-CO,Metropolitana,Chile,,34,Female,,,Reserved,,,,Laboratorio Bionet
+CL-CO,Metropolitana,Chile,,33,Female,,,Reserved,,,,Clinica Dávila
+CL-CO,Metropolitana,Chile,,42,Male,,,Reserved,,,,Clinica Dávila
+CL-CO,Metropolitana,Chile,,29,Female,,,Reserved,,,,Clinica Dávila
+CL-CO,Metropolitana,Chile,,28,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,27,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,40,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,24,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,49,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,—,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,33,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,29,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,59,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,13,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,33,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,33,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,45,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,41,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,29,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,37,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,40,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,58,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,31,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,48,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,41,Male,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,45,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,33,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,54,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,40,Female,,,Reserved,,,,Clínica Alemana
+CL-CO,Metropolitana,Chile,,27,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,23,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,39,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,41,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,43,Male,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,49,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,30,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,35,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,46,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,31,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,40,Male,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,44,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,42,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,43,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,39,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,26,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,46,Male,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,41,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,51,Male,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,31,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,1,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,5,Female,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,45,Male,,,Reserved,,,,Clínica Santa María
+CL-CO,Metropolitana,Chile,,29,Female,,,Reserved,,,,Clinica Las Condes
+CL-CO,Metropolitana,Chile,,61,Female,,,Reserved,,,,Mutual de Seguridad
+CL-CO,Metropolitana,Chile,,33,Male,,,Reserved,,,,Mutual de Seguridad
+CL-CO,Metropolitana,Chile,,48,Female,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,31,Male,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,32,Male,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,56,Female,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,56,Male,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,75,Female,,,Reserved,,,,Hospital La Florida
+CL-CO,Metropolitana,Chile,,47,Female,,,Reserved,,,,Hospital del Salvador
+CL-CO,Metropolitana,Chile,,36,Male,,,Reserved,,,,Laboratorio Bionet
+CL-CO,Metropolitana,Chile,,45,Male,,,Reserved,,,,Clinica Las Condes
+CL-CO,Metropolitana,Chile,,38,Female,,,Reserved,,,,Clinica Las Condes
+CL-CO,Metropolitana,Chile,,41,Female,,,Reserved,,,,Clinica Las Condes
+CL-CO,Metropolitana,Chile,,29,Male,,,Reserved,,,,Clinica Las Condes
+CL-CO,Metropolitana,Chile,,57,Male,,,Reserved,,,,Clinica Dávila
+CL-CO,Metropolitana,Chile,,43,Female,,,Reserved,,,,Hospital del Trabajador
+CL-CO,Metropolitana,Chile,,44,Female,,,Reserved,,,,Clinica U. Andes
+CL-CO,Metropolitana,Chile,,50,Female,,,Reserved,,,,Hospital Lucio Córdova
+CL-CO,Metropolitana,Chile,,22,Female,,,Reserved,,,,Hospital San juan de Dios
+CL-CO,Metropolitana,Chile,,39,Male,,,Reserved,,,,Hospital San juan de Dios
+CL-CO,Metropolitana,Chile,,43,Male,,,Reserved,,,,Clinica San Carlos de Apoquindo
+CL-CO,Metropolitana,Chile,,35,Male,,,Reserved,,,,Clinica Vespucio
+CL-CO,Metropolitana,Chile,,16,Female,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,50,Female,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,56,Male,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,49,Male,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,28,Male,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,34,Female,,,Reserved,,,,Clinica Alemana
+CL-CO,Metropolitana,Chile,,73,Male,,,Reserved,,,,Clinica Alemana
+CL-CO,Maule,Chile,,33,Male,,,Reserved,,,,Hospital de Talca
+CL-CO,Maule,Chile,,33,Female,,,Reserved,,,,
+CL-CO,Maule,Chile,,39,Male,,,Reserved,,,,
+CL-CO,Maule,Chile,,2,Female,,,Reserved,,,,
+CL-CO,Maule,Chile,,21,Male,,,Reserved,,,,
+CL-CO,Maule,Chile,,24,Female,,,Reserved,,,,
+CL-CO,Maule,Chile,,29,Male,,,Reserved,,,,Hospital de Curicó
+CL-CO,Maule,Chile,,38,Female,,,Reserved,,,,Hospital de Talca
+CL-CO,Maule,Chile,,53,Male,,,Reserved,,,,Hospital de Talca
+CL-CO,Ñuble,Chile,,29,Male,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,16,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,25,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,23,Male,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,38,Male,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,26,Male,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,42,Female,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,38,Female,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,32,Male,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,31,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,24,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,39,Male,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,33,Female,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,29,Female,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,43,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,27,Female,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,37,Female,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,40,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,27,Female,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,36,Male,,,Reserved,,,,Clínica de Chillán
+CL-CO,Ñuble,Chile,,30,Female,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,26,Female,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,29,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,32,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,48,Male,,,Reserved,,,,Hospital de Chillán
+CL-CO,Ñuble,Chile,,31,Female,,,Reserved,,,,Clinica de Chillán
+CL-AP,Biobío,Chile,,38,Male,,,Reserved,,,,Hospital de Los Ángeles
+CL-AP,Biobío,Chile,,34,Male,,,Reserved,,,,Hospital G. Grant Benavente
+CL-AP,Biobío,Chile,,32,Male,,,Reserved,,,,Clínica Universitaria
+CL-AP,Biobío,Chile,,47,Female,,,Reserved,,,,Clinica Biobío
+CL-AN,Araucanía,Chile,,35,Male,,,Reserved,,,,Hospital Hernán Henríquez Aravena
+CL-CO,Los Ríos,Chile,,1,Female,,,Reserved,,,,Clinica Alemana Valdivia
+CL-CO,Los Lagos,Chile,,20,Female,,,Reserved,,,,Hospital de Puerto Montt
+CL-AP,Aysén,Chile,,83,Male,,,Reserved,,,,Hospital de Aysén
+CL-CO,Magallanes,Chile,,70,Male,,,Reserved,,,,Clínica Magallanes
+CL-CO,Magallanes,Chile,,23,Male,,,Reserved,,,,Hospital de Punta Arenas
