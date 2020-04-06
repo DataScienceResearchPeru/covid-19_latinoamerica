@@ -16,7 +16,7 @@
 | 2   | BOLIVIA                  |                                  |             |
 | 3   | BRAZIL                   |                                  |             |
 | 4   | CHILE                    | [MINSAL](https://bit.ly/2xWXhlH) | 2020-03-17  |
-| 5   | COLOMBIA                 | [INS](https://bit.ly/2Rh9qsj)    | 2020-03-25  |
+| 5   | COLOMBIA                 | [INS](https://bit.ly/2Rh9qsj)    | 2020-04-06  |
 | 6   | COSTA RICA               |                                  |             |
 | 7   | CUBA                     |                                  |             |
 | 8   | DOMINICAN REPUBLIC       |                                  |             |
