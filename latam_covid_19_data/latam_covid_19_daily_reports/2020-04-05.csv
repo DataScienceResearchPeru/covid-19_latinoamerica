@@ -257,38 +257,38 @@ HN-OL,Honduras,Olancho,,0,0,0
 HN-SB,Honduras,Santa Barbara,,0,0,0
 HN-VA,Honduras,Valle,,0,0,0
 HN-YO,Honduras,Yoro,,0,0,0
-MX-AGU,Aguascalientes,Mexico,2020-04-05T19:45:00-06:00,49,0,missing
-MX-BCN,Baja California,Mexico,2020-04-05T19:45:00-06:00,69,6,missing
-MX-BCS,Baja California Sur,Mexico,2020-04-05T19:45:00-06:00,28,2,missing
-MX-CAM,Campeche,Mexico,2020-04-05T19:45:00-06:00,8,0,missing
-MX-CHP,Chiapas,Mexico,2020-04-05T19:45:00-06:00,25,0,missing
-MX-CHH,Chihuahua,Mexico,2020-04-05T19:45:00-06:00,15,0,missing
-MX-CMX,Ciudad de Mexico,Mexico,2020-04-05T19:45:00-06:00,560,19,missing
-MX-COA,Coahuila,Mexico,2020-04-05T19:45:00-06:00,82,4,missing
-MX-COL,Colima,Mexico,2020-04-05T19:45:00-06:00,4,0,missing
-MX-DUR,Durango,Mexico,2020-04-05T19:45:00-06:00,12,3,missing
-MX-GUA,Guanajuato,Mexico,2020-04-05T19:45:00-06:00,53,0,missing
-MX-GRO,Guerrero,Mexico,2020-04-05T19:45:00-06:00,30,2,missing
-MX-HID,Hidalgo,Mexico,2020-04-05T19:45:00-06:00,34,5,missing
-MX-JAL,Jalisco,Mexico,2020-04-05T19:45:00-06:00,123,6,missing
-MX-MIC,Michoacan,Mexico,2020-04-05T19:45:00-06:00,30,3,missing
-MX-MOR,Morelos,Mexico,2020-04-05T19:45:00-06:00,15,3,missing
-MX-MEX,Mexico,Mexico,2020-04-05T19:45:00-06:00,204,3,missing
-MX-NAY,Nayarit,Mexico,2020-04-05T19:45:00-06:00,9,1,missing
-MX-NLE,Nuevo Leon,Mexico,2020-04-05T19:45:00-06:00,91,2,missing
-MX-OAX,Oaxaca,Mexico,2020-04-05T19:45:00-06:00,25,1,missing
-MX-PUE,Puebla,Mexico,2020-04-05T19:45:00-06:00,147,1,missing
-MX-QUE,Queretaro,Mexico,2020-04-05T19:45:00-06:00,38,2,missing
-MX-ROO,Quintana Roo,Mexico,2020-04-05T19:45:00-06:00,86,4,missing
-MX-SLP,San Luis Potosi,Mexico,2020-04-05T19:45:00-06:00,37,2,missing
-MX-SIN,Sinaloa,Mexico,2020-04-05T19:45:00-06:00,90,12,missing
-MX-SON,Sonora,Mexico,2020-04-05T19:45:00-06:00,28,1,missing
-MX-TAB,Tabasco,Mexico,2020-04-05T19:45:00-06:00,97,4,missing
-MX-TAM,Tamaulipas,Mexico,2020-04-05T19:45:00-06:00,26,1,missing
-MX-TLA,Tlaxcala,Mexico,2020-04-05T19:45:00-06:00,11,0,missing
-MX-VER,Veracruz,Mexico,2020-04-05T19:45:00-06:00,40,3,missing
-MX-YUC,Yucatan,Mexico,2020-04-05T19:45:00-06:00,67,2,missing
-MX-ZAC,Zacatecas,Mexico,2020-04-05T19:45:00-06:00,10,2,missing
+MX-AGU,Mexico,Aguascalientes,2020-04-06T01:05:00,49,0,missing
+MX-BCN,Mexico,Baja California,2020-04-06T01:05:00,69,6,missing
+MX-BCS,Mexico,Baja California Sur,2020-04-06T01:05:00,28,2,missing
+MX-CAM,Mexico,Campeche,2020-04-06T01:05:00,8,0,missing
+MX-CHP,Mexico,Chiapas,2020-04-06T01:05:00,25,0,missing
+MX-CHH,Mexico,Chihuahua,2020-04-06T01:05:00,15,0,missing
+MX-CMX,Mexico,Ciudad de Mexico,2020-04-06T01:05:00,560,19,missing
+MX-COA,Mexico,Coahuila,2020-04-06T01:05:00,82,4,missing
+MX-COL,Mexico,Colima,2020-04-06T01:05:00,4,0,missing
+MX-DUR,Mexico,Durango,2020-04-06T01:05:00,12,3,missing
+MX-GUA,Mexico,Guanajuato,2020-04-06T01:05:00,53,0,missing
+MX-GRO,Mexico,Guerrero,2020-04-06T01:05:00,30,2,missing
+MX-HID,Mexico,Hidalgo,2020-04-06T01:05:00,34,5,missing
+MX-JAL,Mexico,Jalisco,2020-04-06T01:05:00,123,6,missing
+MX-MIC,Mexico,Michoacan,2020-04-06T01:05:00,30,3,missing
+MX-MOR,Mexico,Morelos,2020-04-06T01:05:00,15,3,missing
+MX-MEX,Mexico,Mexico,2020-04-06T01:05:00,204,3,missing
+MX-NAY,Mexico,Nayarit,2020-04-06T01:05:00,9,1,missing
+MX-NLE,Mexico,Nuevo Leon,2020-04-06T01:05:00,91,2,missing
+MX-OAX,Mexico,Oaxaca,2020-04-06T01:05:00,25,1,missing
+MX-PUE,Mexico,Puebla,2020-04-06T01:05:00,147,1,missing
+MX-QUE,Mexico,Queretaro,2020-04-06T01:05:00,38,2,missing
+MX-ROO,Mexico,Quintana Roo,2020-04-06T01:05:00,86,4,missing
+MX-SLP,Mexico,San Luis Potosi,2020-04-06T01:05:00,37,2,missing
+MX-SIN,Mexico,Sinaloa,2020-04-06T01:05:00,90,12,missing
+MX-SON,Mexico,Sonora,2020-04-06T01:05:00,28,1,missing
+MX-TAB,Mexico,Tabasco,2020-04-06T01:05:00,97,4,missing
+MX-TAM,Mexico,Tamaulipas,2020-04-06T01:05:00,26,1,missing
+MX-TLA,Mexico,Tlaxcala,2020-04-06T01:05:00,11,0,missing
+MX-VER,Mexico,Veracruz,2020-04-06T01:05:00,40,3,missing
+MX-YUC,Mexico,Yucatan,2020-04-06T01:05:00,67,2,missing
+MX-ZAC,Mexico,Zacatecas,2020-04-06T01:05:00,10,2,missing
 NI-BO,Nicaragua,Boaco,,0,0,0
 NI-CA,Nicaragua,Carazo,,0,0,0
 NI-CI,Nicaragua,Chinandega,,0,0,0
