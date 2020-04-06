@@ -1,471 +1,1486 @@
-ISO 3166-2 Code Country Confirmed,City,Province/State,Country/Region,Patient Code,Age,Gender,First Symptoms,Date Confirmed,State,Hospital code,ISO 3166-2 Code Country Origin,Country Origin,Type Contagion
-,Bogotá,Bogotá,Colombia,1,10 a 19,Femenino,,6/03/2020,Recovered,,"",Italia,Germane
-,Buga,Valle,Colombia,2,30 a 39,Masculino,,9/03/2020,Recovered,,"",España,Germane
-,Medellín,Antioquia,Colombia,3,50 a 59,Femenino,,9/03/2020,Recovered,,"",España,Germane
-,Medellín,Antioquia,Colombia,4,50 a 59,Masculino,,11/03/2020,In house,,"",Colombia,Germane
-,Medellín,Antioquia,Colombia,5,20 a 29,Masculino,,11/03/2020,Recovered,,"",Colombia,Germane
-,Itagüí,Antioquia,Colombia,6,20 a 29,Femenino,,11/03/2020,In house,,"",Colombia,Germane
-,Cartagena,Cartagena,Colombia,7,80 a 89,Femenino,,11/03/2020,Recovered,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,8,20 a 29,Femenino,,11/03/2020,Recovered,,"",España,Germane
-,Bogotá,Bogotá,Colombia,9,20 a 29,Femenino,,11/03/2020,Recovered,,"",España-Italia,Germane
-,Bogotá,Bogotá,Colombia,10,30 a 39,Femenino,,12/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,11,40 a 49,Femenino,,12/03/2020,In house,,"",España,Germane
-,Neiva,Huila,Colombia,12,70 a 79,Femenino,,12/03/2020,In house,,"",Italia,Germane
-,Neiva,Huila,Colombia,13,60 a 69,Femenino,,12/03/2020,In house,,"",Colombia,Germane
-,Palmira,Valle,Colombia,14,40 a 49,Masculino,,13/03/2020,In house,,"",España,Germane
-,Villavicencio,Meta,Colombia,15,30 a 39,Femenino,,13/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,16,60 a 69,Femenino,,13/03/2020,In hospital,,"",Italia-Ucrania-España,Germane
-,Bogotá,Bogotá,Colombia,17,70 a 79,Femenino,,14/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,18,50 a 59,Masculino,,14/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,19,50 a 59,Femenino,,14/03/2020,In house,,"",Colombia,Germane
-,Medellín,Antioquia,Colombia,20,20 a 29,Femenino,,14/03/2020,In house,,"",Colombia,Germane
-,Medellín,Antioquia,Colombia,21,20 a 29,Masculino,,14/03/2020,In house,,"",Colombia,Germane
-,Rionegro,Antioquia,Colombia,22,30 a 39,Masculino,,14/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,23,20 a 29,Masculino,,14/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,24,10 a 19,Femenino,,14/03/2020,In house,,"",España,Germane
-,Cali,Valle,Colombia,25,40 a 49,Masculino,,15/03/2020,In house,,"",España,Germane
-,Cartagena,Cartagena,Colombia,26,30 a 39,Femenino,,15/03/2020,In house,,"",Colombia,Germane
-,Cartagena,Cartagena,Colombia,27,30 a 39,Femenino,,15/03/2020,In house,,"",Colombia,Germane
-,Dosquebradas,Risaralda,Colombia,28,20 a 29,Masculino,,15/03/2020,In house,,"",Estados Unidos,Germane
-,Neiva,Huila,Colombia,29,50 a 59,Femenino,,15/03/2020,In house,,"",Colombia,Germane
-,Cúcuta,Norte de Santander,Colombia,30,40 a 49,Femenino,,15/03/2020,In house,,"",España,Germane
-,Manizales,Caldas,Colombia,31,60 a 69,Masculino,,15/03/2020,Recovered,,"",Estados Unidos,Germane
-,Medellín,Antioquia,Colombia,32,50 a 59,Masculino,,15/03/2020,In house,,"",España-Croacia-Bosnia,Germane
-,Bogotá,Bogotá,Colombia,33,50 a 59,Masculino,,15/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,34,20 a 29,Femenino,,15/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,35,50 a 59,Masculino,,15/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,36,70 a 79,Masculino,,15/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,37,40 a 49,Femenino,,15/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,38,20 a 29,Masculino,,15/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,39,50 a 59,Masculino,,15/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,40,20 a 29,Femenino,,15/03/2020,In house,,"",España,Germane
-,Neiva,Huila,Colombia,41,70 a 79,Masculino,,15/03/2020,In house,,"",Colombia,Germane
-,Neiva,Huila,Colombia,42,50 a 59,Femenino,,15/03/2020,In house,,"",Colombia,Germane
-,Neiva,Huila,Colombia,43,70 a 79,Masculino,,15/03/2020,In house,,"",Colombia,Germane
-,Neiva,Huila,Colombia,44,20 a 29,Femenino,,15/03/2020,In house,,"",Colombia,Germane
-,Subachoque,Cundinamarca,Colombia,45,20 a 29,Masculino,,15/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,46,40 a 49,Femenino,,16/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,47,30 a 39,Masculino,,16/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,48,30 a 39,Masculino,,16/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,49,40 a 49,Femenino,,16/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,50,60 a 69,Femenino,,16/03/2020,In house,,"",España,Germane
-,Soacha,Cundinamarca,Colombia,51,20 a 29,Masculino,,16/03/2020,In house,,"",Ecuador,Germane
-,Bogotá,Bogotá,Colombia,52,20 a 29,Masculino,,16/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,53,60 a 69,Masculino,,16/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,54,40 a 49,Femenino,,16/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,55,50 a 59,Femenino,,16/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,56,30 a 39,Masculino,,16/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,57,30 a 39,Masculino,,16/03/2020,In hospital,,"",Colombia,Germane
-,Cartagena,Cartagena,Colombia,58,20 a 29,Masculino,,17/03/2020,In house,,"",Colombia,Germane
-,Barranquilla,Barranquilla,Colombia,59,20 a 29,Masculino,,17/03/2020,In house,,"",España,Germane
-,Bucaramanga,Santander,Colombia,60,20 a 29,Masculino,,17/03/2020,In house,,"",España,Germane
-,Barranquilla,Barranquilla,Colombia,61,20 a 29,Masculino,,17/03/2020,In house,,"",España,Germane
-,Cali,Valle,Colombia,62,30 a 39,Masculino,,17/03/2020,In house,,"",Italia,Germane
-,Cali,Valle,Colombia,63,20 a 29,Femenino,,17/03/2020,In house,,"",Francia,Germane
-,Bogotá,Bogotá,Colombia,64,30 a 39,Masculino,,17/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,65,60 a 69,Masculino,,17/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,66,40 a 49,Femenino,,17/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,67,20 a 29,Masculino,,17/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,68,70 a 79,Masculino,,17/03/2020,In hospital,,"",España,Germane
-,Bogotá,Bogotá,Colombia,69,20 a 29,Femenino,,17/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,70,30 a 39,Femenino,,17/03/2020,In house,,"",Turquía-Grecia,Germane
-,Cúcuta,Norte de Santander,Colombia,71,50 a 59,Masculino,,17/03/2020,In house,,"",Colombia,Germane
-,Cúcuta,Norte de Santander,Colombia,72,20 a 29,Femenino,,17/03/2020,In house,,"",Colombia,Germane
-,Cartagena,Cartagena,Colombia,73,50 a 59,Femenino,,17/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,74,10 a 19,Masculino,,17/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,75,40 a 49,Femenino,,17/03/2020,In house,,"",Colombia,Germane
-,Armenia,Quindío,Colombia,76,40 a 49,Femenino,,18/03/2020,In house,,"",Italia,Germane
-,Armenia,Quindío,Colombia,77,10 a 19,Masculino,,18/03/2020,In house,,"",España,Germane
-,Palmira,Valle,Colombia,78,30 a 39,Femenino,,18/03/2020,In house,,"",Colombia,Germane
-,Palmira,Valle,Colombia,79,0 a 9,Masculino,,18/03/2020,In house,,"",Colombia,Germane
-,Palmira,Valle,Colombia,80,50 a 59,Femenino,,18/03/2020,In house,,"",Colombia,Germane
-,Cali,Valle,Colombia,81,40 a 49,Femenino,,18/03/2020,In house,,"",Estados Unidos,Germane
-,Cali,Valle,Colombia,82,50 a 59,Masculino,,18/03/2020,In house,,"",España,Germane
-,Cali,Valle,Colombia,83,50 a 59,Masculino,,18/03/2020,In house,,"",Estados Unidos,Germane
-,Cali,Valle,Colombia,84,50 a 59,Masculino,,18/03/2020,In house,,"",Ecuador,Germane
-,Cali,Valle,Colombia,85,40 a 49,Femenino,,18/03/2020,In house,,"",Colombia,Germane
-,Pereira,Risaralda,Colombia,86,20 a 29,Masculino,,18/03/2020,In house,,"",Francia,Germane
-,Cajicá,Cundinamarca,Colombia,87,40 a 49,Masculino,,18/03/2020,In house,,"",España,Germane
-,Tolima,Tolima,Colombia,88,30 a 39,Masculino,,18/03/2020,In house,,"",Colombia,Germane
-,Bucaramanga,Santander,Colombia,89,30 a 39,Femenino,,18/03/2020,In house,,"",España,Germane
-,Neiva,Huila,Colombia,90,50 a 59,Femenino,,18/03/2020,In house,,"",Colombia,Germane
-,Cajicá,Cundinamarca,Colombia,91,30 a 39,Masculino,,18/03/2020,In house,,"",España - Italia,Germane
-,Bogotá,Bogotá,Colombia,92,50 a 59,Masculino,,18/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,93,20 a 29,Femenino,,18/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,94,50 a 59,Masculino,,18/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,95,60 a 69,Masculino,,18/03/2020,In house,,"",Turquía,Germane
-,Bogotá,Bogotá,Colombia,96,30 a 39,Femenino,,18/03/2020,In house,,"",Estados Unidos,Germane
-,Cartagena,Cartagena,Colombia,97,20 a 29,Masculino,,18/03/2020,In house,,"",Estados Unidos,Germane
-,Cartagena,Cartagena,Colombia,98,20 a 29,Masculino,,18/03/2020,In house,,"",España,Germane
-,Ibagué,Tolima,Colombia,99,10 a 19,Masculino,,18/03/2020,In house,,"",Colombia,Germane
-,Pereira,Risaralda,Colombia,100,20 a 29,Masculino,,18/03/2020,In house,,"",España,Germane
-,Dosquebradas,Risaralda,Colombia,101,10 a 19,Masculino,,18/03/2020,In house,,"",España,Germane
-,Pereira,Risaralda,Colombia,102,70 a 79,Masculino,,18/03/2020,In house,,"",España,Germane
-,Cartagena,Cartagena,Colombia,103,20 a 29,Femenino,,19/03/2020,In house,,"",España,Germane
-,Barranquilla,Barranquilla,Colombia,104,40 a 49,Femenino,,19/03/2020,In house,,"",España,Germane
-,Palmira,Valle,Colombia,105,20 a 29,Femenino,,19/03/2020,In house,,"",España,Germane
-,Medellín,Antioquia,Colombia,106,40 a 49,Masculino,,19/03/2020,In house,,"",España,Germane
-,Medellín,Antioquia,Colombia,107,50 a 59,Masculino,,19/03/2020,In house,,"",España,Germane
-,Medellín,Antioquia,Colombia,108,50 a 59,Femenino,,19/03/2020,In hospital,,"",España,Germane
-,Bogotá,Bogotá,Colombia,109,50 a 59,Masculino,,19/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,110,60 a 69,Femenino,,19/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,111,60 a 69,Masculino,,19/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,112,30 a 39,Masculino,,19/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,113,30 a 39,Masculino,,19/03/2020,In house,,"",Italia-España-Turquía,Germane
-,Bogotá,Bogotá,Colombia,114,40 a 49,Masculino,,19/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,115,20 a 29,Masculino,,19/03/2020,In house,,"",Ecuador,Germane
-,Bogotá,Bogotá,Colombia,116,40 a 49,Femenino,,19/03/2020,In house,,"",Colombia,Germane
-,Cúcuta,Norte de Santander,Colombia,117,20 a 29,Masculino,,19/03/2020,In house,,"",España,Germane
-,Cúcuta,Norte de Santander,Colombia,118,50 a 59,Masculino,,19/03/2020,In house,,"",Colombia,Germane
-,Cúcuta,Norte de Santander,Colombia,119,20 a 29,Masculino,,19/03/2020,In house,,"",Colombia,Germane
-,Armenia,Quindío,Colombia,120,20 a 29,Femenino,,19/03/2020,In house,,"",Colombia,Germane
-,Popayán,Cauca,Colombia,121,60 a 69,Masculino,,19/03/2020,In house,,"",España,Germane
-,Popayán,Cauca,Colombia,122,30 a 39,Femenino,,19/03/2020,In house,,"",España,Germane
-,Viterbo,Caldas,Colombia,123,30 a 39,Femenino,,19/03/2020,In house,,"",España,Germane
-,Neiva,Huila,Colombia,124,70 a 79,Femenino,,19/03/2020,In house,,"",Colombia,Germane
-,Cartagena,Cartagena,Colombia,125,40 a 49,Masculino,,19/03/2020,In house,,"",España,Germane
-,Barranquilla,Barranquilla,Colombia,126,50 a 59,Femenino,,19/03/2020,In house,,"",Estados Unidos,Germane
-,Barranquilla,Barranquilla,Colombia,127,30 a 39,Femenino,,19/03/2020,In house,,"",Colombia,Germane
-,Soacha,Cundinamarca,Colombia,128,50 a 59,Masculino,,19/03/2020,In house,,"",Colombia,Germane
-,Pereira,Risaralda,Colombia,129,20 a 29,Femenino,,20/03/2020,In house,,"",España,Germane
-,Anapoima,Cundinamarca,Colombia,130,50 a 59,Masculino,,20/03/2020,In house,,"",Estados Unidos,Germane
-,Medellín,Antioquia,Colombia,131,20 a 29,Femenino,,20/03/2020,In house,,"",España - Italia,Germane
-,Cali,Valle,Colombia,132,30 a 39,Masculino,,20/03/2020,In house,,"",Colombia,Germane
-,Rionegro,Antioquia,Colombia,133,50 a 59,Masculino,,20/03/2020,In hospital,,"",Colombia,Germane
-,Medellín,Antioquia,Colombia,134,20 a 29,Masculino,,20/03/2020,In house,,"",Colombia,Germane
-,Medellín,Antioquia,Colombia,135,40 a 49,Femenino,,20/03/2020,In house,,"",Alemania,Germane
-,Medellín,Antioquia,Colombia,136,30 a 39,Masculino,,20/03/2020,In house,,"",Colombia,Germane
-,Medellín,Antioquia,Colombia,137,50 a 59,Masculino,,20/03/2020,In house,,"",España-Croacia,Germane
-,Bogotá,Bogotá,Colombia,138,50 a 59,Masculino,,20/03/2020,In house,,"",Ecuador,Germane
-,Bogotá,Bogotá,Colombia,139,30 a 39,Masculino,,20/03/2020,In house,,"",España-India,Germane
-,Bogotá,Bogotá,Colombia,140,30 a 39,Masculino,,20/03/2020,In house,,"",Brasil,Germane
-,Medellín,Antioquia,Colombia,141,60 a 69,Femenino,,20/03/2020,In house,,"",Croacia,Germane
-,Medellín,Antioquia,Colombia,142,30 a 39,Femenino,,20/03/2020,In house,,"",Italia- Jamaica- Panamá,Germane
-,Envigado,Antioquia,Colombia,143,40 a 49,Masculino,,20/03/2020,In house,,"",España-Italia,Germane
-,Medellín,Antioquia,Colombia,144,40 a 49,Masculino,,20/03/2020,In house,,"",Panamá,Germane
-,Medellín,Antioquia,Colombia,145,10 a 19,Femenino,,20/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,146,30 a 39,Femenino,,20/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,147,20 a 29,Femenino,,20/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,148,30 a 39,Masculino,,20/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,149,30 a 39,Masculino,,20/03/2020,In house,,"",Alemania-Estambul,Germane
-,Bogotá,Bogotá,Colombia,150,20 a 29,Femenino,,20/03/2020,In house,,"",Italia-España-Turquía,Germane
-,Bogotá,Bogotá,Colombia,151,40 a 49,Masculino,,20/03/2020,In house,,"",Ecuador,Germane
-,Bogotá,Bogotá,Colombia,152,60 a 69,Masculino,,20/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,153,50 a 59,Femenino,,20/03/2020,In hospital,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,154,40 a 49,Masculino,,20/03/2020,In house,,"",Jamaica-Panamá-Islas Caimán,Germane
-,Santa Marta,Santa Marta,Colombia,155,20 a 29,Masculino,,20/03/2020,In house,,"",España,Germane
-,Chía,Cundinamarca,Colombia,156,20 a 29,Femenino,,20/03/2020,In house,,"",España,Germane
-,Santa Marta,Santa Marta,Colombia,157,80 a 89,Masculino,,20/03/2020,Dead,,"",Colombia,Germane
-,Madrid,Cundinamarca,Colombia,158,30 a 39,Masculino,,20/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,159,30 a 39,Masculino,,20/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,160,40 a 49,Femenino,,20/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,161,20 a 29,Femenino,,20/03/2020,In house,,"",Estados Unidos,Germane
-,Bogotá,Bogotá,Colombia,162,20 a 29,Masculino,,20/03/2020,In house,,"",Estados Unidos-México,Germane
-,Bogotá,Bogotá,Colombia,163,20 a 29,Masculino,,20/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,164,60 a 69,Femenino,,20/03/2020,In house,,"",España,Germane
-,Bogotá,Bogotá,Colombia,165,30 a 39,Femenino,,20/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,166,40 a 49,Femenino,,20/03/2020,In house,,"",Colombia,Germane
-,Bogotá,Bogotá,Colombia,167,40 a 49,Femenino,,20/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,168,20 a 29,Femenino,,20/03/2020,In hospital,,"",España,""
-,Bogotá,Bogotá,Colombia,169,40 a 49,Femenino,,20/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,170,40 a 49,Femenino,,20/03/2020,In house,,"",Grecia,""
-,Bogotá,Bogotá,Colombia,171,20 a 29,Femenino,,20/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,172,20 a 29,Masculino,,20/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,173,60 a 69,Femenino,,20/03/2020,In house,,"",México,""
-,Bogotá,Bogotá,Colombia,174,70 a 79,Masculino,,20/03/2020,In house,,"",México,""
-,Bogotá,Bogotá,Colombia,175,20 a 29,Femenino,,20/03/2020,In house,,"",España,""
-,Ibagué,Tolima,Colombia,176,20 a 29,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
-,Cartagena,Cartagena,Colombia,177,20 a 29,Masculino,,21/03/2020,In house,,"",Colombia,""
-,Cartagena,Cartagena,Colombia,178,20 a 29,Masculino,,21/03/2020,In house,,"",Estados Unidos,""
-,Cartagena,Cartagena,Colombia,179,40 a 49,Femenino,,21/03/2020,In house,,"",Colombia,""
-,Villa del Rosario,Norte de Santander,Colombia,180,20 a 29,Masculino,,21/03/2020,In house,,"",España,""
-,Manizales,Caldas,Colombia,181,20 a 29,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
-,Cúcuta,Norte de Santander,Colombia,182,40 a 49,Femenino,,21/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,183,40 a 49,Femenino,,21/03/2020,In house,,"",Ecuador,""
-,Pereira,Risaralda,Colombia,184,40 a 49,Femenino,,21/03/2020,In hospital,,"",Estados Unidos,""
-,Palmira,Valle,Colombia,185,50 a 59,Femenino,,21/03/2020,In house,,"",Colombia,""
-,Palmira,Valle,Colombia,186,50 a 59,Femenino,,21/03/2020,In house,,"",España,""
-,Cali,Valle,Colombia,187,70 a 79,Masculino,,21/03/2020,In hospital,,"",Colombia,""
-,Cali,Valle,Colombia,188,70 a 79,Femenino,,21/03/2020,Dead,,"",Colombia,""
-,Cali,Valle,Colombia,189,80 a 89,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
-,Cali,Valle,Colombia,190,20 a 29,Masculino,,21/03/2020,In house,,"",España,""
-,Palmira,Valle,Colombia,191,10 a 19,Masculino,,21/03/2020,In house,,"",Estados Unidos,""
-,Cali,Valle,Colombia,192,30 a 39,Femenino,,21/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,193,50 a 59,Femenino,,21/03/2020,In house,,"",Italia,""
-,Palmira,Valle,Colombia,194,60 a 69,Femenino,,21/03/2020,In house,,"",España,""
-,Pereira,Risaralda,Colombia,195,60 a 69,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
-,Neiva,Huila,Colombia,196,50 a 59,Femenino,,21/03/2020,In house,,"",España,""
-,Cartagena,Cartagena,Colombia,197,50 a 59,Masculino,,21/03/2020,Dead,,"",Colombia,""
-,Medellín,Antioquia,Colombia,198,30 a 39,Masculino,,21/03/2020,In house,,"",España,""
-,Guarne,Antioquia,Colombia,199,20 a 29,Masculino,,21/03/2020,In house,,"",Estados Unidos,""
-,Cartagena,Cartagena,Colombia,200,50 a 59,Femenino,,21/03/2020,In hospital,,"",Colombia,""
-,Chía,Cundinamarca,Colombia,201,50 a 59,Femenino,,21/03/2020,In house,,"",España,""
-,Itaguí,Antioquia,Colombia,202,50 a 59,Masculino,,21/03/2020,In hospital,,"",Colombia,""
-,Barranquilla,Barranquilla,Colombia,203,20 a 29,Femenino,,21/03/2020,In house,,"",Estados Unidos,""
-,Barranquilla,Barranquilla,Colombia,204,30 a 39,Masculino,,21/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,205,20 a 29,Masculino,,21/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,206,60 a 69,Femenino,,21/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,207,40 a 49,Masculino,,21/03/2020,In hospital,,"",Guatemala,""
-,Bogotá,Bogotá,Colombia,208,60 a 69,Masculino,,21/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,209,60 a 69,Femenino,,21/03/2020,In house,,"",Reino Unido,""
-,Bogotá,Bogotá,Colombia,210,50 a 59,Masculino,,21/03/2020,In house,,"",Turquía,""
-,Calarcá,Quindío,Colombia,211,20 a 29,Masculino,,22/03/2020,In house,,"",España,""
-,Armenia,Quindío,Colombia,212,50 a 59,Femenino,,22/03/2020,In house,,"",Colombia,""
-,Valledupar,Cesar,Colombia,213,30 a 39,Masculino,,22/03/2020,In house,,"",España,""
-,Pereira,Risaralda,Colombia,214,50 a 59,Femenino,,22/03/2020,In house,,"",Colombia,""
-,Pereira,Risaralda,Colombia,215,50 a 59,Femenino,,22/03/2020,In house,,"",Grecia,""
-,Dosquebradas,Risaralda,Colombia,216,40 a 49,Masculino,,22/03/2020,In house,,"",España,""
-,Pereira,Risaralda,Colombia,217,30 a 39,Masculino,,22/03/2020,In house,,"",España,""
-,La Dorada,Caldas,Colombia,218,20 a 29,Femenino,,22/03/2020,In house,,"",Colombia,""
-,Chinchiná,Caldas,Colombia,219,50 a 59,Masculino,,22/03/2020,In house,,"",España,""
-,Chinchiná,Caldas,Colombia,220,40 a 49,Femenino,,22/03/2020,In house,,"",Colombia,""
-,Bucaramanga,Santander,Colombia,221,50 a 59,Femenino,,22/03/2020,In house,,"",República Dominicana,""
-,San Andrés Islas,San Andrés Islas,Colombia,222,30 a 39,Masculino,,22/03/2020,In house,,"",Colombia,""
-,Pereira,Risaralda,Colombia,223,70 a 79,Femenino,,22/03/2020,In house,,"",Estados Unidos,""
-,Ibagué,Tolima,Colombia,224,10 a 19,Masculino,,22/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,225,20 a 29,Masculino,,22/03/2020,In house,,"",Colombia,""
-,Yumbo,Valle,Colombia,226,40 a 49,Femenino,,22/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,227,20 a 29,Masculino,,22/03/2020,In house,,"",Estados Unidos,""
-,Cali,Valle,Colombia,228,20 a 29,Masculino,,22/03/2020,In house,,"",España,""
-,Yopal,Casanare,Colombia,229,30 a 39,Femenino,,22/03/2020,In house,,"",Colombia,""
-,Armenia,Quindío,Colombia,230,30 a 39,Femenino,,22/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,231,40 a 49,Femenino,,22/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,232,50 a 59,Femenino,,22/03/2020,In hospital,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,233,60 a 69,Masculino,,22/03/2020,In hospital,,"",Colombia,""
-,Bogota,Bogotá,Colombia,234,40 a 49,Masculino,,22/03/2020,In hospital,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,235,40 a 49,Masculino,,22/03/2020,In house,,"",España,""
-,Guatapé,Antioquia,Colombia,236,50 a 59,Masculino,,22/03/2020,In hospital,,"",Colombia,""
-,Medellín,Antioquia,Colombia,237,30 a 39,Masculino,,22/03/2020,In house,,"",España,""
-,Medellín,Antioquia,Colombia,238,60 a 69,Femenino,,22/03/2020,In house,,"",España,""
-,Bello,Antioquia,Colombia,239,40 a 49,Masculino,,22/03/2020,In house,,"",España,""
-,Medellín,Antioquia,Colombia,240,30 a 39,Masculino,,22/03/2020,In hospital,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,241,50 a 59,Femenino,,23/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,242,40 a 49,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,243,40 a 49,Masculino,,23/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,244,50 a 59,Masculino,,23/03/2020,In house,,"",Panamá,""
-,Bogotá,Bogotá,Colombia,245,70 a 79,Femenino,,23/03/2020,In house,,"",Turquía - Grecia,""
-,Bogotá,Bogotá,Colombia,246,20 a 29,Masculino,,23/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,247,20 a 29,Masculino,,23/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,248,30 a 39,Femenino,,23/03/2020,In house,,"",República Dominicana,""
-,Bogotá,Bogotá,Colombia,249,30 a 39,Femenino,,23/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,250,70 a 79,Masculino,,23/03/2020,Dead,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,251,50 a 59,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,252,30 a 39,Femenino,,23/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,253,30 a 39,Femenino,,23/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,254,40 a 49,Femenino,,23/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,255,10 a 19,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,256,50 a 59,Femenino,,23/03/2020,In house,,"",Turquía,""
-,Bogotá,Bogotá,Colombia,257,80 a 89,Femenino,,23/03/2020,In hospital,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,258,20 a 29,Masculino,,23/03/2020,In house,,"",Turquía,""
-,Bogotá,Bogotá,Colombia,259,30 a 39,Masculino,,23/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,260,40 a 49,Femenino,,23/03/2020,In hospital,,"",Reino Unido,""
-,Bogotá,Bogotá,Colombia,261,60 a 69,Masculino,,23/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,262,30 a 39,Masculino,,23/03/2020,In house,,"",Isla Martín - Caribe,""
-,Medellín,Antioquia,Colombia,263,50 a 59,Masculino,,23/03/2020,In house,,"",España,""
-,Envigado,Antioquia,Colombia,264,30 a 39,Femenino,,23/03/2020,In house,,"",España,""
-,Cajicá,Cundinamarca,Colombia,265,50 a 59,Masculino,,23/03/2020,In house,,"",Ecuador,""
-,Cartagena,Cartagena,Colombia,266,80 a 89,Femenino,,23/03/2020,In hospital,,"",Colombia,""
-,Medellín,Antioquia,Colombia,267,20 a 29,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
-,Medellín,Antioquia,Colombia,268,30 a 39,Femenino,,23/03/2020,In house,,"",España,""
-,Chía,Cundinamarca,Colombia,269,50 a 59,Masculino,,23/03/2020,In house,,"",Colombia,""
-,Cartagena,Cartagena,Colombia,270,50 a 59,Femenino,,23/03/2020,In house,,"",Colombia,""
-,Medellín,Antioquia,Colombia,271,20 a 29,Femenino,,23/03/2020,In house,,"",España,""
-,Medellín,Antioquia,Colombia,272,40 a 49,Femenino,,23/03/2020,In house,,"",España,""
-,Medellín,Antioquia,Colombia,273,80 a 89,Masculino,,23/03/2020,In hospital,,"",Panama,""
-,Medellín,Antioquia,Colombia,274,30 a 39,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
-,Barbosa,Antioquia,Colombia,275,20 a 29,Femenino,,23/03/2020,In house,,"",España,""
-,Cota,Cundinamarca,Colombia,276,50 a 59,Masculino,,23/03/2020,In house,,"",Puerto Rico,""
-,Sabaneta,Antioquia,Colombia,277,30 a 39,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
-,Armenia,Quindío,Colombia,278,60 a 69,Masculino,,23/03/2020,In house,,"",España,""
-,Villamaría,Caldas,Colombia,279,20 a 29,Masculino,,23/03/2020,In house,,"",Ecuador,""
-,Palmira,Valle,Colombia,280,60 a 69,Femenino,,23/03/2020,In house,,"",España,""
-,Trujillo,Valle,Colombia,281,50 a 59,Masculino,,23/03/2020,In house,,"",España,""
-,Cali,Valle,Colombia,282,40 a 49,Masculino,,23/03/2020,In hospital,,"",Estados Unidos,""
-,Cali,Valle,Colombia,283,50 a 59,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
-,Cali,Valle,Colombia,284,60 a 69,Femenino,,23/03/2020,In house,,"",España,""
-,Palmira,Valle,Colombia,285,40 a 49,Femenino,,23/03/2020,In house,,"",Colombia,""
-,Neiva,Huila,Colombia,286,80 a 89,Femenino,,23/03/2020,In hospital,,"",Colombia,""
-,Soacha,Cundinamarca,Colombia,287,20 a 29,Masculino,,23/03/2020,In house,,"",Colombia,""
-,Pacho,Cundinamarca,Colombia,288,20 a 29,Masculino,,23/03/2020,In house,,"",España,""
-,Dosquebradas,Risaralda,Colombia,289,40 a 49,Femenino,,23/03/2020,In house,,"",Colombia,""
-,Santa Marta,Santa Marta,Colombia,290,60 a 69,Femenino,,23/03/2020,In hospital,,"",Colombia,""
-,El Retiro,Antioquia,Colombia,291,20 a 29,Femenino,,23/03/2020,In house,,"",España,""
-,Medellín,Antioquia,Colombia,292,40 a 49,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
-,Medellín,Antioquia,Colombia,293,30 a 39,Femenino,,23/03/2020,In house,,"",Ecuador,""
-,Medellín,Antioquia,Colombia,294,30 a 39,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
-,Medellín,Antioquia,Colombia,295,40 a 49,Masculino,,23/03/2020,In house,,"",Colombia,""
-,Medellín,Antioquia,Colombia,296,20 a 29,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
-,Envigado,Antioquia,Colombia,297,20 a 29,Masculino,,23/03/2020,In house,,"",Reino Unido,""
-,Villavicencio,Meta,Colombia,298,50 a 59,Masculino,,23/03/2020,In house,,"",Ecuador,""
-,Villavicencio,Meta,Colombia,299,60 a 69,Femenino,,23/03/2020,In house,,"",Ecuador,""
-,Medellín,Antioquia,Colombia,300,20 a 29,Femenino,,23/03/2020,In house,,"",Turquía,""
-,Apartado,Antioquia,Colombia,301,20 a 29,Femenino,,23/03/2020,In house,,"",Turquía,""
-,Villavicencio,Meta,Colombia,302,30 a 39,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
-,Itagüí,Antioquia,Colombia,303,70 a 79,Femenino,,23/03/2020,In house,,"",Estados Unidos,""
-,Bello,Antioquia,Colombia,304,30 a 39,Masculino,,23/03/2020,In house,,"",Estados Unidos,""
-,Villavicencio,Meta,Colombia,305,20 a 29,Masculino,,23/03/2020,In house,,"",Ecuador,""
-,Rionegro,Antioquia,Colombia,306,20 a 29,Masculino,,23/03/2020,In house,,"",Brasil,""
-,Bogotá,Bogotá,Colombia,307,30 a 39,Masculino,,24/03/2020,In house,,"",Chile,""
-,Bogotá,Bogotá,Colombia,308,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,309,50 a 59,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,310,20 a 29,Femenino,,24/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,311,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,312,10 a 19,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,313,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Ipiales,Nariño,Colombia,314,60 a 69,Masculino,,24/03/2020,In house,,"",Ecuador,""
-,Cúcuta,Norte de Santander,Colombia,315,40 a 49,Masculino,,24/03/2020,In house,,"",Canadá,""
-,Cúcuta,Norte de Santander,Colombia,316,10 a 19,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
-,Mosquera,Cundinamarca,Colombia,317,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cucuta,Norte de Santander,Colombia,318,70 a 79,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Ibagué,Tolima,Colombia,319,60 a 69,Femenino,,24/03/2020,In house,,"",España,""
-,Ibagué,Tolima,Colombia,320,50 a 59,Masculino,,24/03/2020,In house,,"",España,""
-,Ibagué,Tolima,Colombia,321,20 a 29,Femenino,,24/03/2020,In house,,"",Estados Unidos,""
-,Ibagué,Tolima,Colombia,322,50 a 59,Femenino,,24/03/2020,In house,,"",España,""
-,Viterbo,Caldas,Colombia,323,10 a 19,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Barranquilla,Barranquilla,Colombia,324,50 a 59,Masculino,,24/03/2020,In house,,"",Panama,""
-,Barranquilla,Barranquilla,Colombia,325,10 a 19,Femenino,,24/03/2020,In house,,"",España,""
-,Pereira,Risaralda,Colombia,326,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Pereira,Risaralda,Colombia,327,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Valledupar,Cesar,Colombia,328,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cartagena,Cartagena,Colombia,329,50 a 59,Femenino,,24/03/2020,In house,,"",España,""
-,Cartagena,Cartagena,Colombia,330,40 a 49,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,331,30 a 39,Masculino,,24/03/2020,In house,,"",Costa Rica,""
-,Cali,Valle,Colombia,332,30 a 39,Femenino,,24/03/2020,In house,,"",España,""
-,Pereira,Risaralda,Colombia,333,70 a 79,Masculino,,24/03/2020,In house,,"",España,""
-,Cali,Valle,Colombia,334,20 a 29,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,335,50 a 59,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cartagena,Cartagena,Colombia,336,20 a 29,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,337,20 a 29,Masculino,,24/03/2020,In house,,"",Colombia,""
-,La Unión,Valle,Colombia,338,50 a 59,Femenino,,24/03/2020,In house,,"",Reino Unido,""
-,Cartago,Valle,Colombia,339,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
-,Cartagena,Cartagena,Colombia,340,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Neiva,Huila,Colombia,341,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,342,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,343,20 a 29,Femenino,,24/03/2020,In house,,"",Estados Unidos,""
-,Cali,Valle,Colombia,344,50 a 59,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,345,50 a 59,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,346,80 a 89,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Villavicencio,Meta,Colombia,347,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
-,Cali,Valle,Colombia,348,30 a 39,Femenino,,24/03/2020,In house,,"",Estados Unidos,""
-,Cali,Valle,Colombia,349,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Fusagasugá,Cundinamarca,Colombia,350,50 a 59,Masculino,,24/03/2020,In house,,"",Turquía,""
-,Sopó,Cundinamarca,Colombia,351,50 a 59,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Villeta,Cundinamarca,Colombia,352,30 a 39,Masculino,,24/03/2020,In house,,"",España,""
-,Palermo,Huila,Colombia,353,40 a 49,Masculino,,24/03/2020,In house,,"",Ecuador,""
-,San Pedro,Valle,Colombia,354,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Villeta,Cundinamarca,Colombia,355,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
-,Anapoima,Cundinamarca,Colombia,356,30 a 39,Masculino,,24/03/2020,In house,,"",España,""
-,Cali,Valle,Colombia,357,40 a 49,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,358,50 a 59,Femenino,,24/03/2020,In house,,"",España,""
-,Neiva,Huila,Colombia,359,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,360,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Villavicencio,Meta,Colombia,361,60 a 69,Femenino,,24/03/2020,In hospital,,"",España,""
-,Cali,Valle,Colombia,362,40 a 49,Masculino,,24/03/2020,In house,,"",Ecuador,""
-,Cali,Valle,Colombia,363,20 a 29,Masculino,,24/03/2020,In house,,"",España,""
-,Cali,Valle,Colombia,364,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,365,60 a 69,Masculino,,24/03/2020,In house,,"",España,""
-,Cali,Valle,Colombia,366,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Cali,Valle,Colombia,367,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Armenia,Quindío,Colombia,368,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Darién,Valle,Colombia,369,40 a 49,Masculino,,24/03/2020,In house,,"",España,""
-,Funza,Cundinamarca,Colombia,370,60 a 69,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Santa Marta,Santa Marta,Colombia,371,80 a 89,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Manizales,Caldas,Colombia,372,70 a 79,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
-,Cartagena,Cartagena,Colombia,373,30 a 39,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
-,Cali,Valle,Colombia,374,20 a 29,Masculino,,24/03/2020,In hospital,,"",Colombia,""
-,Cali,Valle,Colombia,375,20 a 29,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Popayán,Cauca,Colombia,376,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Tuluá,Valle,Colombia,377,50 a 59,Masculino,,24/03/2020,In house,,"",Ecuador,""
-,Tuluá,Valle,Colombia,378,40 a 49,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,379,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,380,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,381,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,382,50 a 59,Femenino,,24/03/2020,In house,,"",Puerto Rico,""
-,Bogotá,Bogotá,Colombia,383,60 a 69,Masculino,,24/03/2020,In house,,"",Puerto Rico,""
-,Bogotá,Bogotá,Colombia,384,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,385,50 a 59,Masculino,,24/03/2020,In house,,"",México,""
-,Bogotá,Bogotá,Colombia,386,50 a 59,Masculino,,24/03/2020,In house,,"",Venezuela,""
-,Bogotá,Bogotá,Colombia,387,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,388,20 a 29,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,389,70 a 79,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,390,70 a 79,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,391,40 a 49,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,392,40 a 49,Femenino,,24/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,393,30 a 39,Masculino,,24/03/2020,In house,,"",México,""
-,Bogotá,Bogotá,Colombia,394,60 a 69,Masculino,,24/03/2020,In house,,"",Estados Unidos,""
-,Bogotá,Bogotá,Colombia,395,40 a 49,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,396,40 a 49,Femenino,,24/03/2020,In house,,"",Canadá,""
-,Bogotá,Bogotá,Colombia,397,20 a 29,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,398,50 a 59,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,399,20 a 29,Masculino,,24/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,400,60 a 69,Femenino,,24/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,401,30 a 39,Femenino,,24/03/2020,In house,,"",Reino Unido,""
-,Bogotá,Bogotá,Colombia,402,70 a 79,Femenino,,24/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,403,20 a 29,Masculino,,24/03/2020,In house,,"",México,""
-,Bogotá,Bogotá,Colombia,404,50 a 59,Masculino,,24/03/2020,In house,,"",Puerto Rico,""
-,Bogotá,Bogotá,Colombia,405,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,406,20 a 29,Masculino,,24/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,407,20 a 29,Femenino,,24/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,408,40 a 49,Masculino,,24/03/2020,In house,,"",Ecuador,""
-,Bogotá,Bogotá,Colombia,409,40 a 49,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,410,30 a 39,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,411,20 a 29,Femenino,,24/03/2020,In house,,"",México,""
-,Bogotá,Bogotá,Colombia,412,50 a 59,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,413,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,414,40 a 49,Masculino,,24/03/2020,In house,,"",Brasil,""
-,Bogotá,Bogotá,Colombia,415,60 a 69,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,416,30 a 39,Masculino,,24/03/2020,In house,,"",España,""
-,Bogotá,Bogotá,Colombia,417,50 a 59,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,418,60 a 69,Femenino,,24/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,419,30 a 39,Masculino,,24/03/2020,In house,,"",Colombia,""
-,Santa Marta,Santa Marta,Colombia,420,50 a 59,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Soledad,Atlántico,Colombia,421,20 a 29,Femenino,,25/03/2020,In hospital,,"",Colombia,""
-,Cartagena,Cartagena,Colombia,422,50 a 59,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Pereira,Risaralda,Colombia,423,20 a 29,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Pereira,Risaralda,Colombia,424,60 a 69,Masculino,,25/03/2020,In house,,"",Estados Unidos,""
-,Cali,Valle,Colombia,425,80 a 89,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Cartagena,Cartagena,Colombia,426,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Cartagena,Cartagena,Colombia,427,50 a 59,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Ibagué,Tolima,Colombia,428,40 a 49,Masculino,,25/03/2020,In house,,"",Estados Unidos,""
-,El Dovio,Valle,Colombia,429,40 a 49,Masculino,,25/03/2020,In house,,"",Italia,""
-,Cartagena,Cartagena,Colombia,430,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Armenia,Quindío,Colombia,431,50 a 59,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Palmira,Valle,Colombia,432,0 a 9,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Armenia,Quindío,Colombia,433,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Barranquilla,Barranquilla,Colombia,434,20 a 29,Masculino,,25/03/2020,In house,,"",Estados Unidos,""
-,Armenia,Quindío,Colombia,435,10 a 19,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Cartagena,Cartagena,Colombia,436,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Cúcuta,Norte de Santander,Colombia,437,60 a 69,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Medellín,Antioquia,Colombia,438,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
-,La Dorada,Caldas,Colombia,439,20 a 29,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Cúcuta,Norte de Santander,Colombia,440,70 a 79,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,441,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,442,50 a 59,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,443,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Medellín,Antioquia,Colombia,444,30 a 39,Masculino,,25/03/2020,In house,,"",Brasil,""
-,Santana,Boyacá,Colombia,445,50 a 59,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,446,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Cota,Cundinamarca,Colombia,447,50 a 59,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,448,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Popayán,Cauca,Colombia,449,40 a 49,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Medellín,Antioquia,Colombia,450,20 a 29,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Bucaramanga,Santander,Colombia,451,30 a 39,Femenino,,25/03/2020,In house,,"",México,""
-,Bello,Antioquia,Colombia,452,30 a 39,Femenino,,25/03/2020,In house,,"",España,""
-,Manizales,Caldas,Colombia,453,20 a 29,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Bogotá,Bogotá,Colombia,454,50 a 59,Femenino,,25/03/2020,In house,,"",España,""
-,Cali,Valle,Colombia,455,30 a 39,Femenino,,25/03/2020,In house,,"",Estados Unidos,""
-,Palmira,Valle,Colombia,456,50 a 59,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Villavicencio,Meta,Colombia,457,20 a 29,Masculino,,25/03/2020,In house,,"",Estados Unidos,""
-,Popayán,Cauca,Colombia,458,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Popayán,Cauca,Colombia,459,20 a 29,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Armenia,Quindío,Colombia,460,70 a 79,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Cúcuta,Norte de Santander,Colombia,461,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Frontino,Antioquia,Colombia,462,10 a 19,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Barranquilla,Barranquilla,Colombia,463,10 a 19,Femenino,,25/03/2020,In house,,"",España,""
-,Medellín,Antioquia,Colombia,464,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Medellín,Antioquia,Colombia,465,20 a 29,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Medellín,Antioquia,Colombia,466,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Cúcuta,Norte de Santander,Colombia,467,30 a 39,Masculino,,25/03/2020,In house,,"",Colombia,""
-,Popayán,Cauca,Colombia,468,0 a 9,Femenino,,25/03/2020,In hospital,,"",Colombia,""
-,Popayán,Cauca,Colombia,469,30 a 39,Femenino,,25/03/2020,In house,,"",Colombia,""
-,Popayán,Cauca,Colombia,470,40 a 49,Femenino,,25/03/2020,In house,,"",Colombia,""
+ISO 3166-2 Code,Country,Subdivision,City,Patient Code,Age,Gender,First Symptoms,Date Confirmed,State,Hospital Code,Country Origin
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1,19,Female,,2020-03-06,Recovered,,Italia
+CO-VAC,Colombia,Valle del Cauca,Buga,2,34,Male,,2020-03-09,Recovered,,España
+CO-ANT,Colombia,Antioquia,Medellín,3,50,Female,,2020-03-09,Recovered,,España
+CO-ANT,Colombia,Antioquia,Medellín,4,55,Male,,2020-03-11,Recovered,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,5,25,Male,,2020-03-11,Recovered,,Colombia
+CO-ANT,Colombia,Antioquia,Itagüí,6,27,Female,,2020-03-11,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,7,85,Female,,2020-03-11,Recovered,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,8,22,Female,,2020-03-11,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,9,28,Female,,2020-03-11,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,10,36,Female,,2020-03-12,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,11,42,Female,,2020-03-12,House,,España
+CO-HUI,Colombia,Huila,Neiva,12,74,Female,,2020-03-12,House,,Italia
+CO-HUI,Colombia,Huila,Neiva,13,68,Female,,2020-03-12,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,14,48,Male,,2020-03-13,Recovered,,España
+CO-MET,Colombia,Meta,Villavicencio,15,30,Female,,2020-03-13,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,16,61,Female,,2020-03-13,Recovered,,Italia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,17,73,Female,,2020-03-14,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,18,54,Male,,2020-03-14,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,19,54,Female,,2020-03-14,Recovered,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,20,26,Female,,2020-03-14,Recovered,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,21,28,Male,,2020-03-14,House,,Colombia
+CO-ANT,Colombia,Antioquia,Rionegro,22,36,Male,,2020-03-14,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,23,23,Male,,2020-03-14,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,24,18,Female,,2020-03-14,Recovered,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,25,49,Male,,2020-03-15,House,,España
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,26,30,Female,,2020-03-15,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,27,30,Female,,2020-03-15,House,,Colombia
+CO-RIS,Colombia,Risaralda,Dosquebradas,28,22,Male,,2020-03-15,House,,Estados Unidos
+CO-HUI,Colombia,Huila,Neiva,29,55,Female,,2020-03-15,Recovered,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,30,48,Female,,2020-03-15,Recovered,,España
+CO-CAL,Colombia,Caldas,Manizales,31,65,Male,,2020-03-15,Recovered,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,32,55,Male,,2020-03-15,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,33,59,Male,,2020-03-15,Hospital,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,34,23,Female,,2020-03-15,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,35,54,Male,,2020-03-15,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,36,72,Male,,2020-03-15,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,37,45,Female,,2020-03-15,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,38,29,Male,,2020-03-15,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,39,21,Male,,2020-03-15,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,40,23,Female,,2020-03-15,Recovered,,España
+CO-HUI,Colombia,Huila,Neiva,41,79,Male,,2020-03-15,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,42,52,Female,,2020-03-15,Recovered,,Colombia
+CO-HUI,Colombia,Huila,Neiva,43,71,Male,,2020-03-15,Recovered,,Colombia
+CO-HUI,Colombia,Huila,Neiva,44,24,Female,,2020-03-15,Recovered,,Colombia
+CO-CUN,Colombia,Cundinamarca,Subachoque,45,29,Male,,2020-03-15,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,46,44,Female,,2020-03-16,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,47,38,Male,,2020-03-16,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,48,31,Male,,2020-03-16,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,49,41,Female,,2020-03-16,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,50,67,Female,,2020-03-16,Recovered,,España
+CO-CUN,Colombia,Cundinamarca,Soacha,51,24,Male,,2020-03-16,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,52,29,Male,,2020-03-16,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,53,62,Male,,2020-03-16,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,54,42,Female,,2020-03-16,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,55,58,Female,,2020-03-16,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,56,34,Male,,2020-03-16,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,57,37,Male,,2020-03-16,Recovered,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,58,27,Male,,2020-03-17,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,59,20,Male,,2020-03-17,Recovered,,España
+CO-SAN,Colombia,Santander,Bucaramanga,60,24,Male,,2020-03-17,House,,España
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,61,21,Male,,2020-03-17,Recovered,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,62,32,Male,,2020-03-17,House,,Italia
+CO-VAC,Colombia,Valle del Cauca,Cali,63,26,Female,,2020-03-17,House,,Francia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,64,31,Male,,2020-03-17,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,65,64,Male,,2020-03-17,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,66,40,Female,,2020-03-17,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,67,21,Male,,2020-03-17,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,68,72,Male,,2020-03-17,UCI,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,69,22,Female,,2020-03-17,Recovered,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,70,37,Female,,2020-03-17,House,,Turquía
+CO-NSA,Colombia,Norte de Santander,Cúcuta,71,54,Male,,2020-03-17,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,72,22,Female,,2020-03-17,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,73,54,Female,,2020-03-17,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,74,18,Male,,2020-03-17,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,75,49,Female,,2020-03-17,Recovered,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,76,46,Female,,2020-03-18,Recovered,,Italia
+CO-QUI,Colombia,Quindío,Armenia,77,18,Male,,2020-03-18,Recovered,,España
+CO-VAC,Colombia,Valle del Cauca,Palmira,78,39,Female,,2020-03-18,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,79,9,Male,,2020-03-18,Recovered,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,80,53,Female,,2020-03-18,Recovered,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,81,49,Female,,2020-03-18,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,82,54,Male,,2020-03-18,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,83,56,Male,,2020-03-18,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,84,51,Male,,2020-03-18,House,,Ecuador
+CO-VAC,Colombia,Valle del Cauca,Cali,85,42,Female,,2020-03-18,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,86,29,Male,,2020-03-18,House,,Francia
+CO-CUN,Colombia,Cundinamarca,Cajicá,87,45,Male,,2020-03-18,Recovered,,España
+CO-TOL,Colombia,Tolima,Ibagué,88,36,Male,,2020-03-18,Recovered,,Colombia
+CO-SAN,Colombia,Santander,Bucaramanga,89,39,Female,,2020-03-18,House,,España
+CO-HUI,Colombia,Huila,Neiva,90,53,Female,,2020-03-18,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Cajicá,91,32,Male,,2020-03-18,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,92,50,Male,,2020-03-18,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,93,26,Female,,2020-03-18,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,94,53,Male,,2020-03-18,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,95,69,Male,,2020-03-18,UCI,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,96,37,Female,,2020-03-18,House,,Estados Unidos
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,97,24,Male,,2020-03-18,House,,Estados Unidos
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,98,21,Male,,2020-03-18,House,,España
+CO-TOL,Colombia,Tolima,Ibagué,99,16,Male,,2020-03-18,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,100,21,Male,,2020-03-18,House,,España
+CO-RIS,Colombia,Risaralda,Dosquebradas,101,18,Male,,2020-03-18,House,,España
+CO-RIS,Colombia,Risaralda,Pereira,102,79,Male,,2020-03-18,Recovered,,España
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,103,24,Female,,2020-03-19,House,,España
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,104,48,Female,,2020-03-19,Recovered,,España
+CO-VAC,Colombia,Valle del Cauca,Palmira,105,23,Female,,2020-03-19,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,106,44,Male,,2020-03-19,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,107,56,Male,,2020-03-19,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,108,57,Female,,2020-03-19,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,109,54,Male,,2020-03-19,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,110,62,Female,,2020-03-19,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,111,60,Male,,2020-03-19,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,112,30,Male,,2020-03-19,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,113,33,Male,,2020-03-19,House,,Italia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,114,49,Male,,2020-03-19,Recovered,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,115,29,Male,,2020-03-19,Recovered,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,116,40,Female,,2020-03-19,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,117,28,Male,,2020-03-19,House,,España
+CO-NSA,Colombia,Norte de Santander,Cúcuta,118,50,Male,,2020-03-19,Recovered,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,119,24,Male,,2020-03-19,House,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,120,23,Female,,2020-03-19,Recovered,,Colombia
+CO-CAU,Colombia,Cauca,Popayán,121,61,Male,,2020-03-19,House,,España
+CO-CAU,Colombia,Cauca,Popayán,122,32,Female,,2020-03-19,House,,España
+CO-CAL,Colombia,Caldas,Viterbo,123,38,Female,,2020-03-19,Recovered,,España
+CO-HUI,Colombia,Huila,Neiva,124,76,Female,,2020-03-19,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,125,47,Male,,2020-03-19,House,,España
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,126,52,Female,,2020-03-19,Recovered,,Estados Unidos
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,127,30,Female,,2020-03-19,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Soacha,128,58,Male,,2020-03-19,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,129,26,Female,,2020-03-20,House,,España
+CO-CUN,Colombia,Cundinamarca,Anapoima,130,53,Male,,2020-03-20,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,131,22,Female,,2020-03-20,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,132,33,Male,,2020-03-20,House,,Colombia
+CO-ANT,Colombia,Antioquia,Rionegro,133,51,Male,,2020-03-20,UCI,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,134,28,Male,,2020-03-20,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,135,44,Female,,2020-03-20,House,,Alemania
+CO-ANT,Colombia,Antioquia,Medellín,136,37,Male,,2020-03-20,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,137,54,Male,,2020-03-20,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,138,54,Male,,2020-03-20,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,139,30,Male,,2020-03-20,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,140,34,Male,,2020-03-20,House,,Brasil
+CO-ANT,Colombia,Antioquia,Medellín,141,62,Female,,2020-03-20,Recovered,,Croacia
+CO-ANT,Colombia,Antioquia,Medellín,142,35,Female,,2020-03-20,House,,Italia
+CO-ANT,Colombia,Antioquia,Envigado,143,46,Male,,2020-03-20,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,144,41,Male,,2020-03-20,House,,Panamá
+CO-ANT,Colombia,Antioquia,Medellín,145,18,Female,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,146,31,Female,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,147,25,Female,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,148,32,Male,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,149,37,Male,,2020-03-20,House,,Alemania
+CO-DC,Colombia,Bogotá D.C.,Bogotá,150,29,Female,,2020-03-20,Recovered,,Italia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,151,47,Male,,2020-03-20,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,152,65,Male,,2020-03-20,UCI,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,153,53,Female,,2020-03-20,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,154,40,Male,,2020-03-20,House,,Jamaica
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,155,20,Male,,2020-03-20,House,,España
+CO-CUN,Colombia,Cundinamarca,Chía,156,28,Female,,2020-03-20,Recovered,,España
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,157,88,Male,,2020-03-20,Death,,Colombia
+CO-CUN,Colombia,Cundinamarca,Madrid,158,32,Male,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,159,34,Male,,2020-03-20,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,160,42,Female,,2020-03-20,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,161,22,Female,,2020-03-20,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,162,25,Male,,2020-03-20,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,163,28,Male,,2020-03-20,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,164,67,Female,,2020-03-20,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,165,32,Female,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,166,45,Female,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,167,46,Female,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,168,25,Female,,2020-03-20,Hospital,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,169,42,Female,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,170,45,Female,,2020-03-20,House,,Grecia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,171,21,Female,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,172,27,Male,,2020-03-20,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,173,65,Female,,2020-03-20,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,174,70,Male,,2020-03-20,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,175,23,Female,,2020-03-20,Recovered,,España
+CO-TOL,Colombia,Tolima,Ibagué,176,26,Female,,2020-03-21,UCI,,Estados Unidos
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,177,28,Male,,2020-03-21,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,178,28,Male,,2020-03-21,House,,Estados Unidos
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,179,44,Female,,2020-03-21,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Villa del Rosario,180,23,Male,,2020-03-21,House,,España
+CO-CAL,Colombia,Caldas,Manizales,181,22,Female,,2020-03-21,House,,Estados Unidos
+CO-NSA,Colombia,Norte de Santander,Cúcuta,182,44,Female,,2020-03-21,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,183,48,Female,,2020-03-21,House,,Ecuador
+CO-RIS,Colombia,Risaralda,Pereira,184,41,Female,,2020-03-21,UCI,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Palmira,185,58,Female,,2020-03-21,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,186,50,Female,,2020-03-21,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,187,74,Male,,2020-03-21,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,188,70,Female,,2020-03-21,Death,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,189,81,Female,,2020-03-21,Recovered,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,190,28,Male,,2020-03-21,House,,España
+CO-VAC,Colombia,Valle del Cauca,Palmira,191,17,Male,,2020-03-21,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,192,30,Female,,2020-03-21,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,193,53,Female,,2020-03-21,House,,Italia
+CO-VAC,Colombia,Valle del Cauca,Palmira,194,63,Female,,2020-03-21,House,,España
+CO-RIS,Colombia,Risaralda,Pereira,195,65,Female,,2020-03-21,House,,Estados Unidos
+CO-HUI,Colombia,Huila,Neiva,196,50,Female,,2020-03-21,House,,España
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,197,58,Male,,2020-03-21,Death,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,198,39,Male,,2020-03-21,House,,España
+CO-ANT,Colombia,Antioquia,Guarne,199,28,Male,,2020-03-21,House,,Estados Unidos
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,200,53,Female,,2020-03-21,Recovered,,Colombia
+CO-CUN,Colombia,Cundinamarca,Chía,201,50,Female,,2020-03-21,Recovered,,España
+CO-ANT,Colombia,Antioquia,Bello,202,26,Male,,2020-03-21,Recovered,,España
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,203,24,Female,,2020-03-21,House,,Estados Unidos
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,204,35,Male,,2020-03-21,Recovered,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,205,28,Male,,2020-03-21,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,206,60,Female,,2020-03-21,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,207,41,Male,,2020-03-21,UCI,,Guatemala
+CO-DC,Colombia,Bogotá D.C.,Bogotá,208,62,Male,,2020-03-21,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,209,68,Female,,2020-03-21,Recovered,,Londres
+CO-CUN,Colombia,Cundinamarca,Soacha,210,55,Male,,2020-03-21,House,,Turquía
+CO-QUI,Colombia,Quindío,Calarcá,211,25,Male,,2020-03-22,House,,España
+CO-QUI,Colombia,Quindío,Armenia,212,58,Female,,2020-03-22,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,213,30,Male,,2020-03-22,Recovered,,España
+CO-RIS,Colombia,Risaralda,Dosquebradas,214,56,Female,,2020-03-22,House,,Colombia
+CO-RIS,Colombia,Risaralda,Dosquebradas,215,57,Female,,2020-03-22,House,,Grecia
+CO-RIS,Colombia,Risaralda,Dosquebradas,216,45,Male,,2020-03-22,UCI,,España
+CO-RIS,Colombia,Risaralda,Pereira,217,33,Male,,2020-03-22,House,,España
+CO-CAL,Colombia,Caldas,La Dorada,218,24,Female,,2020-03-22,House,,Colombia
+CO-CAL,Colombia,Caldas,Chinchiná,219,51,Male,,2020-03-22,House,,España
+CO-CAL,Colombia,Caldas,Chinchiná,220,47,Female,,2020-03-22,House,,Colombia
+CO-SAN,Colombia,Santander,BUCARAMANGA,221,49,Female,,2020-03-22,House,,República Dominicana
+CO-SAP,Colombia,San Andrés,San Andrés,222,36,Male,,2020-03-22,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,223,73,Female,,2020-03-22,House,,Estados Unidos
+CO-TOL,Colombia,Tolima,Ibagué,224,19,Male,,2020-03-22,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,225,22,Male,,2020-03-22,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Yumbo,226,41,Female,,2020-03-22,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,227,28,Male,,2020-03-22,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,228,26,Male,,2020-03-22,House,,España
+CO-CAS,Colombia,Casanare,Yopal,229,38,Female,,2020-03-22,Recovered,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,230,38,Female,,2020-03-22,Recovered,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,231,46,Female,,2020-03-22,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,232,59,Female,,2020-03-22,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,233,64,Male,,2020-03-22,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,234,41,Male,,2020-03-22,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,235,47,Male,,2020-03-22,Hospital,,España
+CO-ANT,Colombia,Antioquia,Guatapé,236,52,Male,,2020-03-22,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,237,32,Male,,2020-03-22,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,238,61,Female,,2020-03-22,House,,España
+CO-ANT,Colombia,Antioquia,Bello,239,41,Male,,2020-03-22,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,240,41,Male,,2020-03-22,UCI,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,241,58,Female,,2020-03-23,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,242,49,Male,,2020-03-23,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,243,40,Male,,2020-03-23,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,244,52,Male,,2020-03-23,House,,Panamá
+CO-DC,Colombia,Bogotá D.C.,Bogotá,245,72,Female,,2020-03-23,House,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,246,28,Male,,2020-03-23,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,247,26,Male,,2020-03-23,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,248,30,Female,,2020-03-23,House,,República Dominicana
+CO-DC,Colombia,Bogotá D.C.,Bogotá,249,38,Female,,2020-03-23,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,250,76,Male,,2020-03-23,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,251,55,Male,,2020-03-23,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,252,32,Female,,2020-03-23,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,253,34,Female,,2020-03-23,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,254,45,Female,,2020-03-23,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,255,19,Female,,2020-03-23,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,256,57,Female,,2020-03-23,House,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,257,80,Male,,2020-03-23,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,258,26,Male,,2020-03-23,House,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,259,35,Male,,2020-03-23,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,260,41,Male,,2020-03-23,Hospital,,Inglaterra
+CO-DC,Colombia,Bogotá D.C.,Bogotá,261,61,Male,,2020-03-23,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,262,39,Male,,2020-03-23,House,,Isla San Martín
+CO-ANT,Colombia,Antioquia,Medellín,263,59,Male,,2020-03-23,House,,España
+CO-ANT,Colombia,Antioquia,Envigado,264,39,Female,,2020-03-23,House,,España
+CO-CUN,Colombia,Cundinamarca,Cajicá,265,54,Male,,2020-03-23,House,,Ecuador
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,266,84,Female,,2020-03-23,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,267,21,Male,,2020-03-23,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,268,37,Female,,2020-03-23,House,,España
+CO-CUN,Colombia,Cundinamarca,Chía,269,56,Male,,2020-03-23,Hospital,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,270,58,Female,,2020-03-23,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,271,21,Female,,2020-03-23,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,272,47,Female,,2020-03-23,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,273,87,Male,,2020-03-23,Hospital,,Panamá
+CO-ANT,Colombia,Antioquia,Medellín,274,30,Male,,2020-03-23,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Barbosa,275,21,Female,,2020-03-23,House,,España
+CO-CUN,Colombia,Cundinamarca,Cota,276,52,Male,,2020-03-23,House,,Puerto Rico
+CO-ANT,Colombia,Antioquia,Sabaneta,277,36,Female,,2020-03-23,House,,Estados Unidos
+CO-QUI,Colombia,Quindío,Armenia,278,64,Male,,2020-03-23,UCI,,España
+CO-CAL,Colombia,Caldas,Villamaría,279,29,Male,,2020-03-23,House,,Ecuador
+CO-VAC,Colombia,Valle del Cauca,Palmira,280,63,Female,,2020-03-23,House,,España
+CO-VAC,Colombia,Valle del Cauca,Trujillo,281,51,Male,,2020-03-23,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,282,40,Male,,2020-03-23,UCI,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,283,56,Male,,2020-03-23,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,284,65,Female,,2020-03-23,House,,España
+CO-VAC,Colombia,Valle del Cauca,Palmira,285,42,Female,,2020-03-23,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,286,83,Female,,2020-03-23,Hospital,,Colombia
+CO-CUN,Colombia,Cundinamarca,Soacha,287,25,Male,,2020-03-23,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Pacho,288,29,Male,,2020-03-23,House,,España
+CO-RIS,Colombia,Risaralda,Dosquebradas,289,49,Female,,2020-03-23,House,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,290,63,Female,,2020-03-23,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,El Retiro,291,23,Female,,2020-03-23,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,292,43,Female,,2020-03-23,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,293,30,Female,,2020-03-23,House,,Ecuador
+CO-ANT,Colombia,Antioquia,Medellín,294,30,Female,,2020-03-23,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,295,42,Male,,2020-03-23,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,296,25,Female,,2020-03-23,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Envigado,297,20,Male,,2020-03-23,House,,Londres
+CO-MET,Colombia,Meta,Villavicencio,298,58,Male,,2020-03-23,House,,Ecuador
+CO-MET,Colombia,Meta,Villavicencio,299,60,Female,,2020-03-23,House,,Ecuador
+CO-ANT,Colombia,Antioquia,Medellín,300,29,Female,,2020-03-23,House,,Turquía
+CO-ANT,Colombia,Antioquia,Apartadó,301,29,Female,,2020-03-23,House,,Turquía
+CO-MET,Colombia,Meta,Villavicencio,302,33,Female,,2020-03-23,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Itagüí,303,74,Female,,2020-03-23,UCI,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Bello,304,30,Male,,2020-03-23,House,,Estados Unidos
+CO-MET,Colombia,Meta,Villavicencio,305,29,Male,,2020-03-23,House,,Ecuador
+CO-ANT,Colombia,Antioquia,Rionegro,306,29,Male,,2020-03-23,House,,Brasil
+CO-DC,Colombia,Bogotá D.C.,Bogotá,307,31,Male,,2020-03-24,House,,Chile
+CO-DC,Colombia,Bogotá D.C.,Bogotá,308,21,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,309,59,Male,,2020-03-24,Hospital,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,310,28,Female,,2020-03-24,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,311,40,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,312,18,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,313,48,Female,,2020-03-24,House,,Colombia
+CO-NAR,Colombia,Nariño,Ipiales,314,62,Male,,2020-03-24,House,,Ecuador
+CO-NSA,Colombia,Norte de Santander,Cúcuta,315,49,Male,,2020-03-24,House,,Canadá
+CO-NSA,Colombia,Norte de Santander,Cúcuta,316,18,Male,,2020-03-24,House,,Estados Unidos
+CO-CUN,Colombia,Cundinamarca,Mosquera,317,37,Male,,2020-03-24,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,318,78,Male,,2020-03-24,House,,Colombia
+CO-TOL,Colombia,Tolima,Ibagué,319,62,Female,,2020-03-24,House,,España
+CO-TOL,Colombia,Tolima,Ibagué,320,56,Male,,2020-03-24,House,,España
+CO-TOL,Colombia,Tolima,Ibagué,321,23,Female,,2020-03-24,House,,Estados Unidos
+CO-TOL,Colombia,Tolima,Ibagué,322,55,Female,,2020-03-24,House,,España
+CO-CAL,Colombia,Caldas,Viterbo,323,15,Female,,2020-03-24,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,324,57,Male,,2020-03-24,House,,Panamá
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,325,19,Female,,2020-03-24,House,,España
+CO-RIS,Colombia,Risaralda,Pereira,326,61,Male,,2020-03-24,Death,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,327,32,Female,,2020-03-24,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,328,33,Male,,2020-03-24,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,329,51,Female,,2020-03-24,House,,España
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,330,42,Male,,2020-03-24,House,,Brasil
+CO-VAC,Colombia,Valle del Cauca,Cali,331,37,Male,,2020-03-24,House,,Costa Rica
+CO-VAC,Colombia,Valle del Cauca,Cali,332,38,Female,,2020-03-24,UCI,,España
+CO-RIS,Colombia,Risaralda,Pereira,333,79,Male,,2020-03-24,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,334,23,Male,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,335,59,Male,,2020-03-24,UCI,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,336,24,Male,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,337,22,Male,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,La Unión,338,56,Female,,2020-03-24,House,,Londres
+CO-VAC,Colombia,Valle del Cauca,Cartago,339,34,Female,,2020-03-24,House,,España
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,340,36,Male,,2020-03-24,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,341,68,Male,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,342,47,Female,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,343,26,Female,,2020-03-24,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,344,56,Male,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,345,53,Female,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,346,87,Male,,2020-03-24,House,,Colombia
+CO-MET,Colombia,Meta,Villavicencio,347,43,Female,,2020-03-24,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,348,36,Female,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,349,33,Female,,2020-03-24,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Fusagasugá,350,54,Male,,2020-03-24,House,,Turquía
+CO-CUN,Colombia,Cundinamarca,La Calera,351,58,Male,,2020-03-24,Hospital,,Colombia
+CO-CUN,Colombia,Cundinamarca,Villeta,352,33,Male,,2020-03-24,House,,España
+CO-HUI,Colombia,Huila,Palermo,353,41,Male,,2020-03-24,House,,Ecuador
+CO-VAC,Colombia,Valle del Cauca,San Pedro,354,29,Female,,2020-03-24,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Villeta,355,44,Female,,2020-03-24,House,,España
+CO-CUN,Colombia,Cundinamarca,Anapoima,356,32,Male,,2020-03-24,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,357,42,Male,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,358,58,Female,,2020-03-24,House,,España
+CO-HUI,Colombia,Huila,Neiva,359,42,Female,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,360,33,Male,,2020-03-24,House,,Colombia
+CO-MET,Colombia,Meta,Villavicencio,361,80,Female,,2020-03-24,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,362,46,Male,,2020-03-24,House,,Ecuador
+CO-VAC,Colombia,Valle del Cauca,Cali,363,23,Male,,2020-03-24,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,364,21,Female,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,365,64,Male,,2020-03-24,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,366,34,Male,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,367,28,Female,,2020-03-24,House,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,368,34,Female,,2020-03-24,House,,España
+CO-VAC,Colombia,Valle del Cauca,Darién,369,41,Male,,2020-03-24,House,,España
+CO-CUN,Colombia,Cundinamarca,Funza,370,61,Female,,2020-03-24,House,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,371,83,Female,,2020-03-24,Hospital,,Colombia
+CO-CAL,Colombia,Caldas,Manizales,372,70,Male,,2020-03-24,House,,Estados Unidos
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,373,39,Male,,2020-03-24,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,374,29,Male,,2020-03-24,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,375,28,Male,,2020-03-24,House,,Colombia
+CO-CAU,Colombia,Cauca,Popayán,376,48,Female,,2020-03-24,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Tuluá,377,52,Male,,2020-03-24,House,,Ecuador
+CO-VAC,Colombia,Valle del Cauca,Tuluá,378,45,Male,,2020-03-24,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,379,23,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,380,34,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,381,48,Female,,2020-03-24,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,382,58,Female,,2020-03-24,House,,Puerto Rico
+CO-DC,Colombia,Bogotá D.C.,Bogotá,383,61,Male,,2020-03-24,House,,Puerto Rico
+CO-DC,Colombia,Bogotá D.C.,Bogotá,384,63,Male,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,385,51,Male,,2020-03-24,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,386,59,Male,,2020-03-24,Hospital,,Venezuela
+CO-DC,Colombia,Bogotá D.C.,Bogotá,387,43,Female,,2020-03-24,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,388,29,Male,,2020-03-24,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,389,73,Male,,2020-03-24,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,390,74,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,391,48,Male,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,392,45,Female,,2020-03-24,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,393,34,Male,,2020-03-24,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,394,66,Male,,2020-03-24,Hospital,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,395,45,Male,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,396,44,Female,,2020-03-24,House,,Canadá
+CO-DC,Colombia,Bogotá D.C.,Bogotá,397,27,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,398,51,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,399,21,Male,,2020-03-24,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,400,60,Female,,2020-03-24,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,401,30,Female,,2020-03-24,House,,Londres
+CO-DC,Colombia,Bogotá D.C.,Bogotá,402,70,Female,,2020-03-24,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,403,21,Male,,2020-03-24,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,404,58,Male,,2020-03-24,House,,Puerto Rico
+CO-DC,Colombia,Bogotá D.C.,Bogotá,405,39,Male,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,406,25,Male,,2020-03-24,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,407,25,Female,,2020-03-24,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,408,45,Male,,2020-03-24,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,409,43,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,410,33,Female,,2020-03-24,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,411,23,Female,,2020-03-24,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,412,57,Female,,2020-03-24,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,413,63,Male,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,414,48,Male,,2020-03-24,House,,Brasil
+CO-DC,Colombia,Bogotá D.C.,Bogotá,415,62,Male,,2020-03-24,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,416,35,Male,,2020-03-24,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,417,52,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,418,69,Female,,2020-03-24,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,419,35,Male,,2020-03-24,House,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,420,58,Male,,2020-03-25,House,,Colombia
+CO-ATL,Colombia,Atlántico,Soledad,421,21,Female,,2020-03-25,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,422,50,Female,,2020-03-25,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,423,28,Female,,2020-03-25,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,424,64,Male,,2020-03-25,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,425,80,Female,,2020-03-25,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,426,41,Female,,2020-03-25,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,427,54,Male,,2020-03-25,House,,Colombia
+CO-TOL,Colombia,Tolima,Ibagué,428,44,Male,,2020-03-25,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,El Dovio,429,48,Male,,2020-03-25,House,,Italia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,430,38,Male,,2020-03-25,House,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,431,50,Female,,2020-03-25,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,432,9,Male,,2020-03-25,House,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,433,33,Male,,2020-03-25,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,434,25,Male,,2020-03-25,House,,Estados Unidos
+CO-QUI,Colombia,Quindío,Armenia,435,19,Male,,2020-03-25,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,436,38,Female,,2020-03-25,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,437,28,Female,,2020-03-25,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,438,36,Female,,2020-03-25,House,,Colombia
+CO-CAL,Colombia,Caldas,La Dorada,439,28,Male,,2020-03-25,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,440,73,Female,,2020-03-25,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,441,43,Female,,2020-03-25,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,442,55,Female,,2020-03-25,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,443,34,Female,,2020-03-25,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,444,37,Male,,2020-03-25,House,,Brasil
+CO-BOY,Colombia,Boyacá,Santana,445,57,Female,,2020-03-25,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,446,35,Female,,2020-03-25,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Cota,447,52,Male,,2020-03-25,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,448,40,Male,,2020-03-25,House,,Colombia
+CO-CAU,Colombia,Cauca,Popayán,449,48,Male,,2020-03-25,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,450,24,Female,,2020-03-25,House,,Colombia
+CO-SAN,Colombia,Santander,Bucaramanga,451,33,Female,,2020-03-25,House,,México
+CO-ANT,Colombia,Antioquia,Bello,452,32,Female,,2020-03-25,House,,España
+CO-CAL,Colombia,Caldas,Manizales,453,26,Female,,2020-03-25,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,454,50,Female,,2020-03-25,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,455,35,Female,,2020-03-25,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Palmira,456,58,Male,,2020-03-25,House,,Colombia
+CO-MET,Colombia,Meta,Villavicencio,457,29,Male,,2020-03-25,House,,Estados Unidos
+CO-CAU,Colombia,Cauca,Popayán,458,45,Female,,2020-03-25,House,,Colombia
+CO-CAU,Colombia,Cauca,Popayán,459,26,Male,,2020-03-25,House,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,460,72,Male,,2020-03-25,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,461,44,Female,,2020-03-25,House,,Colombia
+CO-ANT,Colombia,Antioquia,Frontino,462,15,Male,,2020-03-25,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,463,19,Female,,2020-03-25,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,464,34,Male,,2020-03-25,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,465,28,Male,,2020-03-25,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,466,32,Female,,2020-03-25,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,467,33,Male,,2020-03-25,House,,Colombia
+CO-CAU,Colombia,Cauca,Popayán,468,3,Female,,2020-03-25,House,,Colombia
+CO-CAU,Colombia,Cauca,Popayán,469,32,Female,,2020-03-25,House,,Colombia
+CO-CAU,Colombia,Cauca,Popayán,470,45,Female,,2020-03-25,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,471,50,Female,,2020-03-25,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,472,19,Female,,2020-03-25,House,,Alemania
+CO-DC,Colombia,Bogotá D.C.,Bogotá,473,40,Female,,2020-03-25,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,474,33,Female,,2020-03-25,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,475,37,Female,,2020-03-25,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,476,41,Male,,2020-03-25,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,477,30,Female,,2020-03-25,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,478,84,Female,,2020-03-25,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,479,61,Female,,2020-03-25,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,480,57,Female,,2020-03-25,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,481,42,Male,,2020-03-25,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,482,50,Male,,2020-03-26,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,483,51,Male,,2020-03-26,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,484,39,Male,,2020-03-26,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,485,30,Male,,2020-03-26,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,486,37,Female,,2020-03-26,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,487,22,Male,,2020-03-26,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,488,27,Male,,2020-03-26,House,,Colombia
+CO-BOY,Colombia,Boyacá,Tunja,489,69,Male,,2020-03-26,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,490,32,Male,,2020-03-26,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,491,84,Male,,2020-03-26,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,492,85,Male,,2020-03-27,UCI,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,493,65,Male,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,494,23,Female,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,495,35,Male,,2020-03-27,House,,Panamá
+CO-DC,Colombia,Bogotá D.C.,Bogotá,496,32,Female,,2020-03-27,House,,Panamá
+CO-DC,Colombia,Bogotá D.C.,Bogotá,497,34,Male,,2020-03-27,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,498,48,Male,,2020-03-27,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,499,42,Female,,2020-03-27,Recovered,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,500,28,Female,,2020-03-27,House,,Chile
+CO-DC,Colombia,Bogotá D.C.,Bogotá,501,28,Male,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,502,31,Male,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,503,50,Male,,2020-03-27,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,504,27,Male,,2020-03-27,House,,Brasil
+CO-DC,Colombia,Bogotá D.C.,Bogotá,505,52,Male,,2020-03-27,House,,Francia
+CO-CUN,Colombia,Cundinamarca,Tocancipá,506,34,Female,,2020-03-27,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,507,47,Female,,2020-03-27,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,508,35,Male,,2020-03-27,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,509,37,Male,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,510,72,Male,,2020-03-27,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,511,74,Female,,2020-03-27,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,512,35,Male,,2020-03-27,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,513,71,Male,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,514,71,Male,,2020-03-27,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,515,50,Male,,2020-03-27,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,516,80,Female,,2020-03-27,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,517,30,Female,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,518,24,Female,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,519,20,Male,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,520,47,Male,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,521,26,Male,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,522,24,Female,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,523,62,Female,,2020-03-27,House,,Francia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,524,37,Male,,2020-03-27,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,525,32,Male,,2020-03-27,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,526,36,Female,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,527,56,Female,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,528,33,Female,,2020-03-27,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,529,51,Male,,2020-03-27,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,530,43,Male,,2020-03-27,House,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,531,34,Female,,2020-03-27,House,,Colombia
+CO-ATL,Colombia,Atlántico,Puerto Colombia,532,47,Female,,2020-03-27,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,533,25,Male,,2020-03-27,Death,,España
+CO-QUI,Colombia,Quindío,Armenia,534,26,Male,,2020-03-27,House,,Estados Unidos
+CO-ATL,Colombia,Atlántico,Soledad,535,50,Male,,2020-03-27,Death,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,536,24,Male,,2020-03-27,House,,Francia
+CO-QUI,Colombia,Quindío,Armenia,537,34,Female,,2020-03-27,House,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,538,49,Female,,2020-03-27,House,,Colombia
+CO-CAL,Colombia,Caldas,Manizales,539,81,Male,,2020-03-27,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Mosquera,540,37,Male,,2020-03-28,House,,Egipto
+CO-VAC,Colombia,Valle del Cauca,Cali,541,57,Female,,2020-03-28,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,542,30,Male,,2020-03-28,House,,Costa Rica
+CO-VAC,Colombia,Valle del Cauca,Cali,543,51,Male,,2020-03-28,Death,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,544,27,Female,,2020-03-28,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,545,9,Male,,2020-03-28,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,546,60,Female,,2020-03-28,House,,Colombia
+CO-COR,Colombia,Córdoba,Sahagún,547,29,Female,,2020-03-28,House,,España
+CO-NAR,Colombia,Nariño,Pasto,548,54,Male,,2020-03-28,House,,México
+CO-CES,Colombia,Cesar,Valledupar,549,16,Female,,2020-03-28,House,,Inglaterra
+CO-ATL,Colombia,Atlántico,Polonuevo,550,16,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,551,29,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,552,40,Male,,2020-03-28,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,553,33,Male,,2020-03-28,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,554,42,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,555,39,Male,,2020-03-28,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,556,43,Male,,2020-03-28,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,557,82,Female,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,558,41,Male,,2020-03-28,House,,Jamaica
+CO-DC,Colombia,Bogotá D.C.,Bogotá,559,53,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,560,55,Female,,2020-03-28,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,561,49,Male,,2020-03-28,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,562,58,Female,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,563,38,Female,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,564,31,Female,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,565,64,Female,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,566,48,Female,,2020-03-28,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,567,33,Female,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,568,35,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,569,57,Female,,2020-03-28,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,570,30,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,571,54,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,572,53,Female,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,573,38,Female,,2020-03-28,Recovered,,Cuba
+CO-DC,Colombia,Bogotá D.C.,Bogotá,574,30,Male,,2020-03-28,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,575,38,Male,,2020-03-28,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,576,31,Female,,2020-03-28,House,,Europa
+CO-DC,Colombia,Bogotá D.C.,Bogotá,577,38,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,578,37,Male,,2020-03-28,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,579,68,Female,,2020-03-28,Hospital,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,580,43,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,581,26,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,582,62,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,583,30,Male,,2020-03-28,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,584,37,Male,,2020-03-28,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,585,33,Female,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,586,67,Female,,2020-03-28,UCI,,Jamaica
+CO-CUN,Colombia,Cundinamarca,Villapinzón,587,67,Female,,2020-03-28,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,588,39,Male,,2020-03-28,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,589,50,Female,,2020-03-28,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cartago,590,58,Male,,2020-03-28,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,591,28,Female,,2020-03-28,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,592,72,Male,,2020-03-28,Hospital,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,593,47,Female,,2020-03-28,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,594,27,Male,,2020-03-28,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,595,27,Female,,2020-03-28,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Montebello,596,52,Female,,2020-03-28,House,,Panamá
+CO-ANT,Colombia,Antioquia,Medellín,597,21,Male,,2020-03-28,House,,Alemania
+CO-ANT,Colombia,Antioquia,Medellín,598,24,Female,,2020-03-28,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,599,32,Female,,2020-03-28,House,,Estados Unidos
+CO-CAL,Colombia,Caldas,Chinchiná,600,25,Male,,2020-03-28,House,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,601,59,Male,,2020-03-28,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,602,46,Female,,2020-03-28,House,,España
+CO-ANT,Colombia,Antioquia,Santa Rosa de Osos,603,55,Male,,2020-03-28,House,,Jamaica
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,604,54,Male,,2020-03-28,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,605,37,Female,,2020-03-28,House,,Colombia
+CO-BOL,Colombia,Bolívar,Turbaco,606,58,Male,,2020-03-28,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,607,31,Male,,2020-03-28,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,608,47,Male,,2020-03-28,House,,España
+CO-ANT,Colombia,Antioquia,Envigado,609,51,Female,,2020-03-29,House,,Turquía
+CO-ANT,Colombia,Antioquia,Envigado,610,60,Male,,2020-03-29,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,611,82,Female,,2020-03-29,House,,Panamá
+CO-ANT,Colombia,Antioquia,Medellín,612,42,Male,,2020-03-29,UCI,,España
+CO-ANT,Colombia,Antioquia,Bello,613,73,Male,,2020-03-29,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,614,64,Female,,2020-03-29,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,615,46,Male,,2020-03-29,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,616,12,Female,,2020-03-29,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,617,32,Male,,2020-03-29,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,618,62,Female,,2020-03-29,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,619,36,Male,,2020-03-29,Death,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,620,45,Male,,2020-03-29,House,,Emiratos Árabes
+CO-DC,Colombia,Bogotá D.C.,Bogotá,621,25,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,622,42,Female,,2020-03-29,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,623,62,Female,,2020-03-29,House,,Alemania
+CO-DC,Colombia,Bogotá D.C.,Bogotá,624,38,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,625,45,Female,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,626,45,Female,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,627,45,Male,,2020-03-29,House,,Isla San Martín
+CO-DC,Colombia,Bogotá D.C.,Bogotá,628,42,Female,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,629,42,Female,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,630,62,Male,,2020-03-29,UCI,,Puerto Rico
+CO-DC,Colombia,Bogotá D.C.,Bogotá,631,29,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,632,70,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,633,60,Female,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,634,50,Female,,2020-03-29,House,,Panamá
+CO-DC,Colombia,Bogotá D.C.,Bogotá,635,29,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,636,69,Female,,2020-03-29,Hospital,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,637,52,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,638,58,Female,,2020-03-29,UCI,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,639,46,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,640,68,Male,,2020-03-29,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,641,26,Female,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,642,38,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,643,25,Female,,2020-03-29,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,644,22,Female,,2020-03-29,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,645,33,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,646,34,Female,,2020-03-29,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,647,28,Female,,2020-03-29,House,,Bélgica
+CO-DC,Colombia,Bogotá D.C.,Bogotá,648,42,Female,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,649,51,Male,,2020-03-29,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,650,65,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,651,57,Male,,2020-03-29,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,652,34,Male,,2020-03-29,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,653,30,Male,,2020-03-29,House,,Colombia
+CO-ANT,Colombia,Antioquia,Bello,654,33,Female,,2020-03-29,House,,Jamaica
+CO-ANT,Colombia,Antioquia,Bello,655,29,Male,,2020-03-29,House,,Panamá
+CO-ANT,Colombia,Antioquia,Medellín,656,61,Female,,2020-03-29,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,657,8,Female,,2020-03-29,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,658,30,Female,,2020-03-29,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,659,26,Male,,2020-03-29,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,660,21,Female,,2020-03-29,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,661,26,Male,,2020-03-29,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,662,36,Male,,2020-03-29,House,,España
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,663,16,Female,,2020-03-29,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,664,42,Female,,2020-03-29,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,665,24,Female,,2020-03-29,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,666,24,Female,,2020-03-29,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,667,29,Female,,2020-03-29,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,668,64,Male,,2020-03-29,UCI,,Colombia
+CO-SUC,Colombia,Sucre,Sincelejo,669,21,Female,,2020-03-29,House,,Colombia
+CO-CAL,Colombia,Caldas,Villamaría,670,39,Female,,2020-03-29,House,,España
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,671,28,Female,,2020-03-29,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,672,1,Male,,2020-03-29,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,673,35,Male,,2020-03-29,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,674,33,Female,,2020-03-29,Death,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,675,41,Male,,2020-03-29,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Rionegro,676,24,Male,,2020-03-29,House,,Colombia
+CO-ANT,Colombia,Antioquia,Rionegro,677,80,Male,,2020-03-29,UCI,,Colombia
+CO-ANT,Colombia,Antioquia,Envigado,678,40,Female,,2020-03-29,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,679,24,Female,,2020-03-29,House,,España
+CO-ANT,Colombia,Antioquia,Envigado,680,18,Female,,2020-03-29,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,681,5,Female,,2020-03-29,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,682,63,Female,,2020-03-29,House,,España
+CO-ANT,Colombia,Antioquia,Rionegro,683,50,Male,,2020-03-29,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,684,42,Male,,2020-03-29,House,,Colombia
+CO-SAN,Colombia,Santander,Bucaramanga,685,80,Female,,2020-03-29,House,,Brasil
+CO-SAN,Colombia,Santander,Bucaramanga,686,58,Male,,2020-03-29,House,,Panamá
+CO-SAN,Colombia,Santander,Bucaramanga,687,24,Male,,2020-03-29,House,,México
+CO-SAN,Colombia,Santander,Floridablanca,688,46,Male,,2020-03-29,House,,Colombia
+CO-COR,Colombia,Córdoba,Lorica,689,35,Male,,2020-03-29,House,,Colombia
+CO-BOY,Colombia,Boyacá,Oicatá,690,72,Female,,2020-03-29,House,,Francia
+CO-RIS,Colombia,Risaralda,Dosquebradas,691,55,Female,,2020-03-29,House,,Turquía
+CO-RIS,Colombia,Risaralda,Pereira,692,62,Female,,2020-03-29,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,693,6,Female,,2020-03-29,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,694,63,Male,,2020-03-29,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,695,66,Female,,2020-03-29,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,696,54,Female,,2020-03-29,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,697,61,Male,,2020-03-29,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,698,32,Male,,2020-03-29,House,,Colombia
+CO-RIS,Colombia,Risaralda,Dosquebradas,699,47,Male,,2020-03-29,House,,Panamá
+CO-RIS,Colombia,Risaralda,Pereira,700,45,Female,,2020-03-29,House,,Francia
+CO-BOL,Colombia,Bolívar,Arjona,701,25,Male,,2020-03-29,House,,Colombia
+CO-BOL,Colombia,Bolívar,Arjona,702,22,Female,,2020-03-29,House,,Turquía
+CO-BOY,Colombia,Boyacá,Santana,703,73,Female,,2020-03-30,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,704,21,Female,,2020-03-30,House,,Panamá
+CO-CUN,Colombia,Cundinamarca,Sopó,705,60,Male,,2020-03-30,House,,Estados Unidos
+CO-CUN,Colombia,Cundinamarca,Chía,706,35,Male,,2020-03-30,House,,Ecuador
+CO-CUN,Colombia,Cundinamarca,Villapinzón,707,65,Male,,2020-03-30,Death,,Colombia
+CO-CUN,Colombia,Cundinamarca,Soacha,708,54,Female,,2020-03-30,House,,Estados Unidos
+CO-HUI,Colombia,Huila,Neiva,709,32,Female,,2020-03-30,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,710,64,Female,,2020-03-30,Death,,Colombia
+CO-HUI,Colombia,Huila,Neiva,711,27,Female,,2020-03-30,House,,España
+CO-HUI,Colombia,Huila,Palermo,712,45,Male,,2020-03-30,House,,Colombia
+CO-HUI,Colombia,Huila,Palermo,713,33,Female,,2020-03-30,House,,Ecuador
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,714,44,Female,,2020-03-30,Death,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,715,36,Female,,2020-03-30,House,,México
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,716,49,Female,,2020-03-30,UCI,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,717,28,Female,,2020-03-30,House,,Colombia
+CO-CAL,Colombia,Caldas,La Dorada,718,65,Female,,2020-03-30,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,719,26,Female,,2020-03-30,House,,Ecuador
+CO-VAC,Colombia,Valle del Cauca,Cali,720,31,Male,,2020-03-30,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,721,45,Female,,2020-03-30,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,722,68,Male,,2020-03-30,Death,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,723,24,Male,,2020-03-30,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,724,34,Male,,2020-03-30,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,725,37,Female,,2020-03-30,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,726,36,Male,,2020-03-30,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,727,25,Male,,2020-03-30,House,,Londres
+CO-ANT,Colombia,Antioquia,Itagüí,728,53,Male,,2020-03-30,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,729,64,Male,,2020-03-30,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,730,19,Female,,2020-03-30,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,731,82,Male,,2020-03-30,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,732,35,Female,,2020-03-30,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,733,31,Male,,2020-03-30,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,734,50,Male,,2020-03-30,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,735,48,Male,,2020-03-30,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,736,32,Male,,2020-03-30,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,737,26,Male,,2020-03-30,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,738,47,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,739,38,Male,,2020-03-30,House,,Londres
+CO-DC,Colombia,Bogotá D.C.,Bogotá,740,29,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,741,36,Female,,2020-03-30,House,,Londres
+CO-DC,Colombia,Bogotá D.C.,Bogotá,742,38,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,743,75,Female,,2020-03-30,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,744,27,Male,,2020-03-30,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,745,51,Female,,2020-03-30,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,746,54,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,747,52,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,748,23,Male,,2020-03-30,Hospital,,Londres
+CO-DC,Colombia,Bogotá D.C.,Bogotá,749,50,Male,,2020-03-30,House,,Jamaica
+CO-DC,Colombia,Bogotá D.C.,Bogotá,750,61,Male,,2020-03-30,House,,Jamaica
+CO-DC,Colombia,Bogotá D.C.,Bogotá,751,61,Female,,2020-03-30,House,,Jamaica
+CO-DC,Colombia,Bogotá D.C.,Bogotá,752,73,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,753,51,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,754,28,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,755,33,Female,,2020-03-30,House,,Isla San Martín
+CO-DC,Colombia,Bogotá D.C.,Bogotá,756,38,Male,,2020-03-30,House,,Isla San Martín
+CO-DC,Colombia,Bogotá D.C.,Bogotá,757,38,Female,,2020-03-30,House,,Isla San Martín
+CO-DC,Colombia,Bogotá D.C.,Bogotá,758,31,Male,,2020-03-30,House,,Isla San Martín
+CO-DC,Colombia,Bogotá D.C.,Bogotá,759,74,Male,,2020-03-30,House,,Isla San Martín
+CO-DC,Colombia,Bogotá D.C.,Bogotá,760,29,Male,,2020-03-30,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,761,51,Female,,2020-03-30,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,762,21,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,763,57,Male,,2020-03-30,House,,Argentina
+CO-DC,Colombia,Bogotá D.C.,Bogotá,764,61,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,765,35,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,766,30,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,767,31,Female,,2020-03-30,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,768,46,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,769,84,Male,,2020-03-30,House,,Argentina
+CO-DC,Colombia,Bogotá D.C.,Bogotá,770,47,Female,,2020-03-30,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,771,72,Female,,2020-03-30,House,,Egipto
+CO-DC,Colombia,Bogotá D.C.,Bogotá,772,65,Male,,2020-03-30,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,773,33,Female,,2020-03-30,House,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,774,68,Female,,2020-03-30,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,775,51,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,776,2,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,777,47,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,778,44,Male,,2020-03-30,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,779,50,Male,,2020-03-30,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,780,30,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,781,27,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,782,35,Male,,2020-03-30,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,783,36,Male,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,784,28,Male,,2020-03-30,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,785,25,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,786,47,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,787,2,Female,,2020-03-30,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,788,64,Female,,2020-03-30,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,789,51,Male,,2020-03-30,House,,Francia
+CO-VAC,Colombia,Valle del Cauca,Cali,790,66,Male,,2020-03-30,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,791,88,Male,,2020-03-30,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cartago,792,26,Female,,2020-03-30,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,793,27,Male,,2020-03-30,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,794,55,Female,,2020-03-30,House,,España
+CO-VAC,Colombia,Valle del Cauca,Palmira,795,17,Male,,2020-03-30,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,796,22,Male,,2020-03-30,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,797,83,Male,,2020-03-30,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cartago,798,63,Female,,2020-03-30,House,,Panamá
+CO-VAC,Colombia,Valle del Cauca,Palmira,799,69,Female,,2020-03-31,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cartago,800,25,Female,,2020-03-31,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,801,44,Male,,2020-03-31,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,802,54,Male,,2020-03-31,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,803,20,Female,,2020-03-31,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,804,28,Male,,2020-03-31,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,805,26,Male,,2020-03-31,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,806,26,Male,,2020-03-31,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,807,32,Male,,2020-03-31,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,808,30,Female,,2020-03-31,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,809,38,Male,,2020-03-31,House,,España
+CO-NAR,Colombia,Nariño,Tumaco,810,0,Male,,2020-03-31,House,,Ecuador
+CO-NAR,Colombia,Nariño,Pasto,811,76,Female,,2020-03-31,House,,España
+CO-CES,Colombia,Cesar,Valledupar,812,46,Male,,2020-03-31,Hospital,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,813,41,Male,,2020-03-31,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,814,38,Male,,2020-03-31,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,815,31,Male,,2020-03-31,House,,Estados Unidos
+CO-CES,Colombia,Cesar,Valledupar,816,27,Male,,2020-03-31,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,817,40,Male,,2020-03-31,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,818,21,Male,,2020-03-31,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,819,26,Male,,2020-03-31,House,,Estados Unidos
+CO-LAG,Colombia,La Guajira,Riohacha,820,42,Male,,2020-03-31,House,,Estados Unidos
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,821,70,Male,,2020-03-31,House,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,822,43,Male,,2020-03-31,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,823,57,Female,,2020-03-31,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,824,32,Female,,2020-03-31,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,825,44,Male,,2020-03-31,House,,España
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,826,24,Male,,2020-03-31,House,,Estados Unidos
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,827,25,Male,,2020-03-31,House,,Estados Unidos
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,828,77,Male,,2020-03-31,Death,,Turquía
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,829,30,Female,,2020-03-31,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,830,55,Female,,2020-03-31,Recovered,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,831,30,Female,,2020-03-31,House,,Colombia
+CO-ANT,Colombia,Antioquia,Sabaneta,832,59,Male,,2020-03-31,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,833,67,Female,,2020-03-31,UCI,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,834,66,Male,,2020-03-31,House,,Marruecos
+CO-ANT,Colombia,Antioquia,Medellín,835,56,Female,,2020-03-31,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,836,67,Male,,2020-03-31,UCI,,Colombia
+CO-CUN,Colombia,Cundinamarca,Chía,837,57,Male,,2020-03-31,House,,México
+CO-CUN,Colombia,Cundinamarca,Cota,838,19,Male,,2020-03-31,House,,Puerto Rico
+CO-CUN,Colombia,Cundinamarca,Cota,839,50,Female,,2020-03-31,House,,Puerto Rico
+CO-CUN,Colombia,Cundinamarca,Cota,840,57,Male,,2020-03-31,House,,Puerto Rico
+CO-CUN,Colombia,Cundinamarca,Cota,841,42,Female,,2020-03-31,House,,Puerto Rico
+CO-CUN,Colombia,Cundinamarca,Cajicá,842,25,Female,,2020-03-31,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Cota,843,50,Female,,2020-03-31,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Zipaquirá,844,81,Female,,2020-03-31,Death,,Colombia
+CO-CUN,Colombia,Cundinamarca,Cajicá,845,47,Female,,2020-03-31,House,,México
+CO-MET,Colombia,Meta,Villavicencio,846,31,Female,,2020-03-31,House,,Estados Unidos
+CO-MET,Colombia,Meta,Villavicencio,847,29,Female,,2020-03-31,House,,Estados Unidos
+CO-MET,Colombia,Meta,Villavicencio,848,29,Female,,2020-03-31,House,,Estados Unidos
+CO-NSA,Colombia,Norte de Santander,Cúcuta,849,42,Male,,2020-03-31,Hospital,,Colombia
+CO-NSA,Colombia,Norte de Santander,Puerto Santander,850,26,Male,,2020-03-31,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,851,50,Female,,2020-03-31,House,,Canadá
+CO-SAN,Colombia,Santander,Bucaramanga,852,25,Male,,2020-03-31,House,,México
+CO-SAN,Colombia,Santander,Bucaramanga,853,34,Male,,2020-03-31,House,,Estados Unidos
+CO-SAN,Colombia,Santander,Floridablanca,854,57,Male,,2020-03-31,House,,Estados Unidos
+CO-HUI,Colombia,Huila,Neiva,855,36,Male,,2020-03-31,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,856,33,Female,,2020-03-31,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,857,61,Female,,2020-03-31,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,858,18,Female,,2020-03-31,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,859,9,Male,,2020-03-31,House,,España
+CO-RIS,Colombia,Risaralda,Pereira,860,30,Female,,2020-03-31,House,,España
+CO-RIS,Colombia,Risaralda,Pereira,861,32,Female,,2020-03-31,Hospital,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,862,32,Male,,2020-03-31,House,,España
+CO-RIS,Colombia,Risaralda,Pereira,863,22,Female,,2020-03-31,House,,Estados Unidos
+CO-BOY,Colombia,Boyacá,Tunja,864,84,Male,,2020-03-31,Death,,Colombia
+CO-BOY,Colombia,Boyacá,Toguí,865,70,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,866,49,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,867,28,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,868,33,Male,,2020-03-31,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,869,69,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,870,2,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,871,39,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,872,50,Male,,2020-03-31,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,873,15,Female,,2020-03-31,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,874,30,Male,,2020-03-31,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,875,27,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,876,32,Male,,2020-03-31,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,877,58,Female,,2020-03-31,House,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,878,56,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,879,13,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,880,66,Female,,2020-03-31,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,881,45,Male,,2020-03-31,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,882,40,Female,,2020-03-31,Recovered,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,883,55,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,884,18,Male,,2020-03-31,House,,Inglaterra
+CO-DC,Colombia,Bogotá D.C.,Bogotá,885,56,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,886,65,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,887,36,Male,,2020-03-31,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,888,35,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,889,31,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,890,49,Male,,2020-03-31,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,891,43,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,892,28,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,893,32,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,894,41,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,895,38,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,896,18,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,897,35,Male,,2020-03-31,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,898,31,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,899,20,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,900,2,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,901,37,Male,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,902,29,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,903,38,Male,,2020-03-31,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,904,54,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,905,30,Female,,2020-03-31,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,906,44,Female,,2020-03-31,House,,Colombia
+CO-QUI,Colombia,Quindío,Montenegro,907,9,Female,,2020-04-01,House,,Colombia
+CO-QUI,Colombia,Quindío,Montenegro,908,35,Female,,2020-04-01,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,909,51,Female,,2020-04-01,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,910,21,Female,,2020-04-01,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,911,29,Male,,2020-04-01,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,912,45,Female,,2020-04-01,House,,Colombia
+CO-ANT,Colombia,Antioquia,Envigado,913,82,Male,,2020-04-01,Hospital,,Colombia
+CO-TOL,Colombia,Tolima,Ibagué,914,48,Female,,2020-04-01,House,,Estados Unidos
+CO-SAN,Colombia,Santander,Floridablanca,915,25,Male,,2020-04-01,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,916,61,Male,,2020-04-01,House,,Colombia
+CO-NAR,Colombia,Nariño,Cumbal,917,57,Female,,2020-04-01,House,,Ecuador
+CO-NAR,Colombia,Nariño,Cumbal,918,58,Male,,2020-04-01,House,,Ecuador
+CO-VAC,Colombia,Valle del Cauca,Cartago,919,16,Female,,2020-04-01,House,,Francia
+CO-VAC,Colombia,Valle del Cauca,Cali,920,41,Male,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Ulloa,921,58,Male,,2020-04-01,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Yumbo,922,68,Female,,2020-04-01,House,,España
+CO-CAU,Colombia,Cauca,Santander de Quilichao,923,19,Female,,2020-04-01,Death,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,924,16,Female,,2020-04-01,House,,Colombia
+CO-SAP,Colombia,San Andrés,San Andrés,925,31,Male,,2020-04-01,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Cota,926,26,Female,,2020-04-01,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Soacha,927,15,Male,,2020-04-01,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Funza,928,43,Female,,2020-04-01,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Tocancipá,929,39,Male,,2020-04-01,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,930,35,Male,,2020-04-01,House,,México
+CO-VAC,Colombia,Valle del Cauca,Cali,931,57,Male,,2020-04-01,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,932,47,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,933,23,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Tuluá,934,47,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Yumbo,935,31,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Yumbo,936,4,Male,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,CALI,937,50,Male,,2020-04-01,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,938,21,Female,,2020-04-01,House,,República Dominicana
+CO-VAC,Colombia,Valle del Cauca,Cali,939,42,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,940,61,Female,,2020-04-01,House,,España
+CO-HUI,Colombia,Huila,Neiva,941,26,Female,,2020-04-01,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,942,45,Male,,2020-04-01,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,943,39,Female,,2020-04-01,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,944,50,Female,,2020-04-01,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,945,47,Male,,2020-04-01,UCI,,Colombia
+CO-HUI,Colombia,Huila,Neiva,946,59,Male,,2020-04-01,Hospital,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,947,43,Female,,2020-04-01,House,,Colombia
+CO-MAG,Colombia,Santa Marta D.T. y C.,Santa Marta,948,41,Male,,2020-04-01,House,,Colombia
+CO-MET,Colombia,Meta,Villavicencio,949,31,Male,,2020-04-01,House,,México
+CO-CAS,Colombia,Casanare,Yopal,950,26,Male,,2020-04-01,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,951,36,Male,,2020-04-01,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,952,70,Male,,2020-04-01,UCI,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,953,33,Male,,2020-04-01,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,954,33,Male,,2020-04-01,House,,Colombia
+CO-CES,Colombia,Cesar,Valledupar,955,27,Male,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,956,64,Female,,2020-04-01,House,,Aruba
+CO-VAC,Colombia,Valle del Cauca,cali,957,46,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Yumbo,958,19,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,959,39,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,960,12,Male,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,961,64,Male,,2020-04-01,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,962,68,Female,,2020-04-01,House,,Suiza
+CO-VAC,Colombia,Valle del Cauca,Cali,963,36,Male,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,964,45,Male,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,965,32,Male,,2020-04-01,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,966,51,Male,,2020-04-01,House,,Aruba
+CO-VAC,Colombia,Valle del Cauca,Cali,967,44,Female,,2020-04-01,House,,México
+CO-VAC,Colombia,Valle del Cauca,Cali,968,46,Male,,2020-04-01,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,969,39,Female,,2020-04-01,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,970,35,Female,,2020-04-01,House,,Estados Unidos
+CO-CAU,Colombia,Cauca,Popayán,971,33,Male,,2020-04-01,House,,Colombia
+CO-CAU,Colombia,Cauca,Popayán,972,32,Female,,2020-04-01,House,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,973,37,Male,,2020-04-01,House,,Colombia
+CO-QUI,Colombia,Quindío,Armenia,974,58,Female,,2020-04-01,House,,Colombia
+CO-QUI,Colombia,Quindío,Filandia,975,22,Male,,2020-04-01,House,,Estados Unidos
+CO-TOL,Colombia,Tolima,Ibagué,976,55,Female,,2020-04-01,House,,Jamaica
+CO-TOL,Colombia,Tolima,Ibagué,977,63,Female,,2020-04-01,House,,España
+CO-TOL,Colombia,Tolima,Ibagué,978,26,Female,,2020-04-01,House,,Estados Unidos
+CO-TOL,Colombia,Tolima,Ibagué,979,31,Male,,2020-04-01,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,980,57,Male,,2020-04-01,House,,Estados Unidos
+CO-QUI,Colombia,Quindío,Circasia,981,40,Male,,2020-04-01,House,,Estados Unidos
+CO-QUI,Colombia,Quindío,Circasia,982,41,Female,,2020-04-01,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,983,63,Male,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,984,15,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,985,39,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,986,49,Female,,2020-04-01,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,987,73,Male,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,988,72,Male,,2020-04-01,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,989,35,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,990,50,Male,,2020-04-01,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,991,51,Female,,2020-04-01,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,992,54,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,993,31,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,994,32,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,995,23,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,996,30,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,997,44,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,998,17,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,999,39,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1000,30,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1001,56,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1002,24,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1003,54,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1004,29,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1005,26,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1006,32,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1007,66,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1008,54,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1009,56,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1010,42,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1011,23,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1012,24,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1013,12,Male,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1014,64,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1015,29,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1016,32,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1017,21,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1018,22,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1019,58,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1020,53,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1021,56,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1022,56,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1023,41,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1024,31,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1025,31,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1026,40,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1027,27,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1028,39,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1029,26,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1030,39,Male,,2020-04-01,Hospital,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1031,59,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1032,71,Female,,2020-04-01,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1033,44,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1034,24,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1035,2,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1036,20,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1037,31,Male,,2020-04-01,House,,Francia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1038,40,Male,,2020-04-01,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1039,34,Female,,2020-04-01,House,,Francia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1040,70,Male,,2020-04-01,Recovered,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1041,74,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1042,30,Male,,2020-04-01,House,,Brasil
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1043,23,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1044,31,Female,,2020-04-01,Recovered,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1045,26,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1046,38,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1047,49,Male,,2020-04-01,Hospital,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1048,36,Female,,2020-04-01,House,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1049,27,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1050,26,Male,,2020-04-01,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1051,75,Male,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1052,79,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1053,33,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1054,38,Female,,2020-04-01,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1055,61,Female,,2020-04-01,House,,Israel Egipto
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1056,25,Female,,2020-04-01,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1057,38,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1058,39,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1059,45,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1060,47,Male,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1061,47,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1062,60,Female,,2020-04-01,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1063,33,Female,,2020-04-01,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1064,33,Male,,2020-04-01,UCI,,Colombia
+CO-ANT,Colombia,Antioquia,Santa Rosa de Osos,1065,32,Female,,2020-04-01,House,,Panamá
+CO-ANT,Colombia,Antioquia,Rionegro,1066,40,Female,,2020-04-02,Hospital,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Envigado,1067,51,Female,,2020-04-02,Hospital,,Panamá
+CO-ANT,Colombia,Antioquia,Medellín,1068,43,Male,,2020-04-02,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1069,63,Female,,2020-04-02,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,1070,52,Female,,2020-04-02,House,,Turquía
+CO-ANT,Colombia,Antioquia,Medellín,1071,41,Female,,2020-04-02,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1072,51,Male,,2020-04-02,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,1073,37,Female,,2020-04-02,House,,Turquía
+CO-ANT,Colombia,Antioquia,Rionegro,1074,39,Female,,2020-04-02,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Itagüí,1075,68,Male,,2020-04-02,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,1076,30,Female,,2020-04-02,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1077,38,Female,,2020-04-02,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1078,33,Male,,2020-04-02,Death,,Colombia
+CO-CAL,Colombia,Caldas,Anserma,1079,40,Female,,2020-04-02,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,1080,57,Female,,2020-04-02,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1081,50,Male,,2020-04-02,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,1082,44,Female,,2020-04-02,House,,Estados Unidos
+CO-NSA,Colombia,Norte de Santander,Cúcuta,1083,46,Male,,2020-04-02,House,,España
+CO-NSA,Colombia,Norte de Santander,Cúcuta,1084,42,Male,,2020-04-02,House,,Perú
+CO-ANT,Colombia,Antioquia,Medellín,1085,70,Female,,2020-04-02,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1086,30,Female,,2020-04-02,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,1087,26,Male,,2020-04-02,House,,México
+CO-ANT,Colombia,Antioquia,Medellín,1088,30,Female,,2020-04-02,House,,Colombia
+CO-ANT,Colombia,Antioquia,Don Matías,1089,50,Male,,2020-04-02,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,1090,78,Male,,2020-04-02,House,,Colombia
+CO-ANT,Colombia,Antioquia,Bello,1091,37,Male,,2020-04-02,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,1092,22,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1093,55,Male,,2020-04-02,Hospital,,Perú
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1094,41,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1095,60,Male,,2020-04-02,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1096,59,Male,,2020-04-02,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1097,60,Female,,2020-04-02,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1098,23,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1099,35,Male,,2020-04-02,House,,Turquía
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1100,59,Female,,2020-04-02,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1101,36,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1102,66,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1103,39,Male,,2020-04-02,House,,Francia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1104,62,Male,,2020-04-02,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1105,30,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1106,71,Male,,2020-04-02,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1107,66,Female,,2020-04-02,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1108,60,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1109,57,Male,,2020-04-02,House,,Brasil
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1110,21,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1111,24,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1112,29,Male,,2020-04-02,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1113,44,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1114,28,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1115,50,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1116,38,Female,,2020-04-02,House,,Brasil
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1117,39,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1118,52,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1119,74,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1120,50,Male,,2020-04-02,House,,Brasil
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1121,62,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1122,39,Female,,2020-04-02,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1123,84,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1124,55,Female,,2020-04-02,House,,Francia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1125,59,Female,,2020-04-02,House,,Francia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1126,5,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1127,25,Male,,2020-04-02,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1128,47,Female,,2020-04-02,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1129,60,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1130,37,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1131,69,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1132,67,Female,,2020-04-02,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1133,59,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1134,28,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1135,67,Female,,2020-04-02,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1136,29,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1137,32,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1138,40,Male,,2020-04-02,House,,Arabia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1139,25,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1140,22,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1141,69,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1142,10,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1143,47,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1144,60,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1145,29,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1146,10,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1147,27,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1148,52,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1149,49,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1150,50,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1151,47,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1152,34,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1153,34,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1154,20,Male,,2020-04-02,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1155,42,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1156,32,Male,,2020-04-02,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1157,28,Male,,2020-04-02,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1158,38,Female,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1159,3,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1160,48,Male,,2020-04-02,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1161,22,Male,,2020-04-02,House,,España
+CO-VAC,Colombia,Valle del Cauca,Cali,1162,43,Male,,2020-04-03,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1163,54,Female,,2020-04-03,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1164,57,Male,,2020-04-03,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1165,57,Male,,2020-04-03,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1166,28,Female,,2020-04-03,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1167,58,Male,,2020-04-03,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1168,26,Female,,2020-04-03,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,1169,75,Male,,2020-04-03,UCI,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,1170,85,Female,,2020-04-03,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1171,62,Female,,2020-04-03,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1172,49,Male,,2020-04-03,Hospital,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1173,67,Female,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1174,25,Male,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1175,13,Male,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1176,48,Female,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1177,23,Female,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1178,62,Female,,2020-04-03,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1179,72,Male,,2020-04-03,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1180,23,Female,,2020-04-03,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1181,57,Male,,2020-04-03,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1182,25,Male,,2020-04-03,House,,Colombia
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,1183,38,Female,,2020-04-03,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,1184,56,Male,,2020-04-03,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,1185,47,Male,,2020-04-03,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1186,37,Female,,2020-04-03,House,,España
+CO-ANT,Colombia,Antioquia,Envigado,1187,33,Female,,2020-04-03,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1188,46,Male,,2020-04-03,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,1189,29,Female,,2020-04-03,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,1190,58,Male,,2020-04-03,House,,Colombia
+CO-ANT,Colombia,Antioquia,San Antonio de Prado,1191,23,Female,,2020-04-03,House,,Turquía
+CO-ANT,Colombia,Antioquia,Sabaneta,1192,52,Female,,2020-04-03,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,1193,53,Male,,2020-04-03,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1194,34,Female,,2020-04-03,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1195,43,Male,,2020-04-03,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,1196,73,Female,,2020-04-03,House,,Colombia
+CO-RIS,Colombia,Risaralda,Pereira,1197,0,Male,,2020-04-03,House,,Colombia
+CO-TOL,Colombia,Tolima,Ibagué,1198,47,Female,,2020-04-03,House,,Estados Unidos
+CO-NSA,Colombia,Norte de Santander,Cúcuta,1199,24,Female,,2020-04-03,House,,Colombia
+CO-MET,Colombia,Meta,Villavicencio,1200,94,Female,,2020-04-03,Hospital,,Estados Unidos
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,1201,31,Female,,2020-04-03,House,,Alemania
+CO-BOL,Colombia,Cartagena D.T. y C,Cartagena,1202,55,Male,,2020-04-03,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,1203,74,Female,,2020-04-03,Death,,Venezuela
+CO-CUN,Colombia,Cundinamarca,Choachí,1204,44,Female,,2020-04-03,Hospital,,Colombia
+CO-CUN,Colombia,Cundinamarca,Soacha,1205,34,Male,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1206,27,Female,,2020-04-03,Hospital,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1207,24,Female,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1208,1,Female,,2020-04-03,Hospital,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1209,0,Female,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1210,40,Female,,2020-04-03,House,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,1211,31,Female,,2020-04-03,Hospital,,Colombia
+CO-NSA,Colombia,Norte de Santander,Cúcuta,1212,54,Male,,2020-04-03,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1213,28,Female,,2020-04-03,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1214,47,Male,,2020-04-03,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1215,71,Male,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1216,45,Male,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1217,35,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1218,70,Male,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1219,88,Female,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1220,52,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1221,27,Male,,2020-04-03,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1222,71,Female,,2020-04-03,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1223,21,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1224,41,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1225,29,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1226,46,Male,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1227,70,Female,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1228,36,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1229,33,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1230,26,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1231,66,Female,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1232,83,Female,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1233,44,Female,,2020-04-03,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1234,34,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1235,62,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1236,53,Male,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1237,64,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1238,82,Male,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1239,26,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1240,7,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1241,41,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1242,51,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1243,58,Male,,2020-04-03,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1244,45,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1245,26,Male,,2020-04-03,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1246,95,Female,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1247,19,Male,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1248,48,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1249,71,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1250,30,Female,,2020-04-03,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1251,45,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1252,76,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1253,34,Female,,2020-04-03,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Madrid,1254,31,Female,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1255,48,Male,,2020-04-03,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1256,47,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1257,11,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1258,46,Male,,2020-04-03,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1259,64,Female,,2020-04-03,House,,Colombia
+CO-ATL,Colombia,Atlántico,Soledad,1260,55,Male,,2020-04-03,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1261,39,Female,,2020-04-03,House,,Colombia
+CO-ANT,Colombia,Antioquia,Itagüí,1262,78,Male,,2020-04-03,House,,Jamaica
+CO-ANT,Colombia,Antioquia,Medellín,1263,26,Male,,2020-04-03,House,,Estados unidos
+CO-ANT,Colombia,Antioquia,Itagüí,1264,59,Female,,2020-04-03,House,,Jamaica
+CO-ANT,Colombia,Antioquia,Itagüí,1265,9,Female,,2020-04-03,House,,Jamaica
+CO-ANT,Colombia,Antioquia,Itagüí,1266,54,Female,,2020-04-03,House,,Jamaica
+CO-ANT,Colombia,Antioquia,Cocorná,1267,25,Male,,2020-04-03,House,,Australia
+CO-ANT,Colombia,Antioquia,Medellín,1268,31,Female,,2020-04-04,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1269,81,Male,,2020-04-04,UCI,,Panamá
+CO-VAC,Colombia,Valle del Cauca,Cali,1270,54,Male,,2020-04-04,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1271,44,Female,,2020-04-04,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1272,50,Male,,2020-04-04,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1273,57,Female,,2020-04-04,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1274,62,Male,,2020-04-04,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1275,55,Female,,2020-04-04,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1276,31,Female,,2020-04-04,UCI,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1277,41,Male,,2020-04-04,House,,Colombia
+CO-ANT,Colombia,Antioquia,Sabaneta,1278,51,Male,,2020-04-04,House,,Colombia
+CO-COR,Colombia,Córdoba,Monteria,1279,64,Male,,2020-04-04,Death,,Colombia
+CO-ANT,Colombia,Antioquia,La Estrella,1280,53,Female,,2020-04-04,House,,Colombia
+CO-BOY,Colombia,Boyacá,Toguí,1281,42,Male,,2020-04-04,House,,Colombia
+CO-BOY,Colombia,Boyacá,Toguí,1282,40,Female,,2020-04-04,House,,Colombia
+CO-BOY,Colombia,Boyacá,Toguí,1283,29,Female,,2020-04-04,House,,Colombia
+CO-BOY,Colombia,Boyacá,Toguí,1284,72,Male,,2020-04-04,House,,Colombia
+CO-BOY,Colombia,Boyacá,Toguí,1285,50,Male,,2020-04-04,House,,Colombia
+CO-BOY,Colombia,Boyacá,Toguí,1286,20,Male,,2020-04-04,House,,Colombia
+CO-BOY,Colombia,Boyacá,Toguí,1287,2,Male,,2020-04-04,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,1288,41,Female,,2020-04-04,House,,Colombia
+CO-HUI,Colombia,Huila,Neiva,1289,53,Male,,2020-04-04,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Mosquera,1290,58,Female,,2020-04-04,UCI,,Colombia
+CO-CUN,Colombia,Cundinamarca,Cajicá,1291,36,Female,,2020-04-04,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Chía,1292,36,Female,,2020-04-04,House,,Colombia
+CO-VAC,Colombia,Valle del cauca,Cali,1293,28,Female,,2020-04-04,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1294,54,Male,,2020-04-04,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1295,42,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1296,28,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1297,60,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1298,42,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1299,93,Female,,2020-04-04,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1300,57,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1301,60,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1302,37,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1303,21,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1304,26,Female,,2020-04-04,House,,Dubai
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1305,36,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1306,57,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1307,54,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1308,32,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1309,27,Male,,2020-04-04,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1310,25,Female,,2020-04-04,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1311,48,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1312,76,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1313,28,Male,,2020-04-04,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1314,12,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1315,23,Male,,2020-04-04,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1316,41,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1317,73,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1318,58,Female,,2020-04-04,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1319,32,Male,,2020-04-04,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1320,26,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1321,26,Female,,2020-04-04,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1322,66,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1323,55,Male,,2020-04-04,House,,Panamá
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1324,30,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1325,12,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1326,67,Female,,2020-04-04,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1327,39,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1328,92,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1329,36,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1330,67,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1331,29,Female,,2020-04-04,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1332,52,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1333,5,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1334,38,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1335,32,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1336,48,Female,,2020-04-04,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1337,34,Male,,2020-04-04,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1338,32,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1339,35,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1340,28,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1341,18,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1342,46,Male,,2020-04-04,Hospital,,República Dominicana
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1343,41,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1344,67,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1345,85,Male,,2020-04-04,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1346,26,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1347,58,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1348,32,Female,,2020-04-04,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1349,61,Male,,2020-04-04,House,,Ecuador
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1350,32,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1351,64,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1352,28,Male,,2020-04-04,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1353,30,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1354,29,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1355,37,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1356,41,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1357,62,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1358,42,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1359,66,Male,,2020-04-04,Hospital,,Jamaica
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1360,57,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1361,22,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1362,51,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1363,54,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1364,63,Male,,2020-04-04,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1365,29,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1366,59,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1367,75,Male,,2020-04-04,House,,Egipto
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1368,33,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1369,24,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1370,31,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1371,25,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1372,72,Male,,2020-04-04,UCI,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1373,18,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1374,61,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1375,32,Male,,2020-04-04,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1376,36,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1377,65,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1378,29,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1379,35,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1380,33,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1381,35,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1382,52,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1383,59,Male,,2020-04-04,Hospital,,Panamá
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1384,55,Male,,2020-04-04,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1385,27,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1386,63,Female,,2020-04-04,Death,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1387,43,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1388,46,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1389,90,Male,,2020-04-04,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1390,78,Male,,2020-04-04,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1391,29,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1392,27,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1393,73,Female,,2020-04-04,House,,México
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1394,23,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1395,48,Male,,2020-04-04,House,,Honduras
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1396,36,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1397,20,Male,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1398,34,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1399,33,Female,,2020-04-04,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1400,29,Female,,2020-04-04,House,,República Dominicana
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1401,48,Male,,2020-04-04,Hospital,,Canadá
+CO-VAC,Colombia,Valle del Cauca,Cali,1402,29,Female,,2020-04-04,House,,Estados Unidos
+CO-VAC,Colombia,Valle del Cauca,Cali,1403,40,Male,,2020-04-04,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1404,32,Male,,2020-04-04,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1405,41,Male,,2020-04-04,House,,Panamá
+CO-VAC,Colombia,Valle del Cauca,Cali,1406,45,Female,,2020-04-04,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1407,70,Male,,2020-04-05,UCI,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1408,34,Male,,2020-04-05,House,,Perú
+CO-ANT,Colombia,Antioquia,Medellín,1409,37,Female,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Envigado,1410,51,Male,,2020-04-05,Hospital,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Medellín,1411,40,Male,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Envigado,1412,28,Female,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Guarne,1413,25,Female,,2020-04-05,House,,México
+CO-ANT,Colombia,Antioquia,Itagüí,1414,43,Male,,2020-04-05,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1415,55,Male,,2020-04-05,House,,Estados Unidos
+CO-ANT,Colombia,Antioquia,Montebello,1416,47,Male,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Montebello,1417,78,Female,,2020-04-05,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1418,64,Male,,2020-04-05,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1419,47,Male,,2020-04-05,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Guacarí,1420,38,Male,,2020-04-05,House,,Colombia
+CO-ATL,Colombia,Barranquilla D.E.,Barranquilla,1421,38,Female,,2020-04-05,House,,Estados Unidos
+CO-ATL,Colombia,Atlántico,Soledad,1422,43,Male,,2020-04-05,Death,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1423,44,Female,,2020-04-05,UCI,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1424,34,Female,,2020-04-05,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1425,25,Female,,2020-04-05,UCI,,Colombia
+CO-ANT,Colombia,Antioquia,Itagüí,1426,53,Female,,2020-04-05,House,,Colombiana
+CO-ANT,Colombia,Antioquia,Apartadó,1427,37,Male,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1428,58,Male,,2020-04-05,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1429,30,Female,,2020-04-05,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Cota,1430,8,Female,,2020-04-05,House,,Colombia
+CO-CUN,Colombia,Cundinamarca,Zipaquirá,1431,45,Female,,2020-04-05,House,,Estados Unidos
+CO-CUN,Colombia,Cundinamarca,Tenjo,1432,52,Male,,2020-04-05,Hospital,,Colombia
+CO-ANT,Colombia,Antioquia,Bello,1433,51,Male,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Apartadó,1434,37,Male,,2020-04-05,House,,Turqía
+CO-ANT,Colombia,Antioquia,Medellín,1435,54,Female,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Bello,1436,49,Female,,2020-04-05,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1437,40,Male,,2020-04-05,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1438,25,Male,,2020-04-05,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1439,49,Female,,2020-04-05,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Palmira,1440,38,Female,,2020-04-05,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1441,40,Female,,2020-04-05,House,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Cali,1442,53,Male,,2020-04-05,House,,España
+CO-ANT,Colombia,Antioquia,Medellín,1443,34,Female,,2020-04-05,Hospital,,Colombia
+CO-ATL,Colombia,Atlántico,Soledad,1444,50,Female,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1445,23,Female,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1446,27,Male,,2020-04-05,House,,Colombia
+CO-ANT,Colombia,Antioquia,Medellín,1447,63,Female,,2020-04-05,House,,República Dominicana
+CO-VAC,Colombia,Valle del Cauca,Cali,1448,26,Female,,2020-04-05,House,,Colombiana
+CO-VAC,Colombia,Valle del Cauca,Cali,1449,31,Male,,2020-04-05,Hospital,,Colomabia
+CO-VAC,Colombia,Valle del Cauca,Cali,1450,35,Male,,2020-04-05,Hospital,,Colombiana
+CO-VAC,Colombia,Valle del Cauca,Cali,1451,43,Female,,2020-04-05,Hospital,,Colombia
+CO-VAC,Colombia,Valle del Cauca,Buenaventura,1452,26,Male,,2020-04-05,Hospital,,Colombia
+CO-MET,Colombia,Meta,Acacias,1453,37,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1454,34,Male,,2020-04-05,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1455,59,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1456,57,Male,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1457,37,Male,,2020-04-05,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1458,34,Female,,2020-04-05,House,,España
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1459,45,Female,,2020-04-05,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1460,49,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1461,31,Male,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1462,66,Male,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1463,62,Male,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1464,22,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1465,33,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1466,50,Male,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1467,36,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1468,28,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1469,31,Male,,2020-04-05,House,,Estados Unidos
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1470,48,Male,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1471,50,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1472,84,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1473,45,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1474,48,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1475,37,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1476,42,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1477,44,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1478,32,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1479,38,Male,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1480,71,Male,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1481,49,Female,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1482,19,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1483,97,Female,,2020-04-05,Hospital,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1484,75,Male,,2020-04-05,House,,Colombia
+CO-DC,Colombia,Bogotá D.C.,Bogotá,1485,56,Female,,2020-04-05,House,,Colombia
