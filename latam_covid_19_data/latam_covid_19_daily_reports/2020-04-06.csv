@@ -337,31 +337,31 @@ PY-12,Paraguay,Neembucu,,0,0,0
 PY-9,Paraguay,Paraguari,,0,0,0
 PY-15,Paraguay,Presidente Hayes,,0,0,0
 PY-2,Paraguay,San Pedro,,0,0,0
-PE-AMA,Peru,Amazonas,,0,0,0
-PE-ANC,Peru,Ancash,,0,0,0
-PE-APU,Peru,Apurimac,,0,0,0
-PE-ARE,Peru,Arequipa,,0,0,0
-PE-AYA,Peru,Ayacucho,,0,0,0
-PE-CAJ,Peru,Cajamarca,,0,0,0
-PE-CAL,Peru,Callao,,0,0,0
-PE-CUS,Peru,Cusco,,0,0,0
-PE-HUV,Peru,Huancavelica,,0,0,0
-PE-HUC,Peru,Huanuco,,0,0,0
-PE-ICA,Peru,Ica,,0,0,0
-PE-JUN,Peru,Junin,,0,0,0
-PE-LAL,Peru,La Libertad,,0,0,0
-PE-LAM,Peru,Lambayeque,,0,0,0
-PE-LIM,Peru,Lima,,0,0,0
-PE-LOR,Peru,Loreto,,0,0,0
-PE-MDD,Peru,Madre de dios,,0,0,0
-PE-MOQ,Peru,Moquegua,,0,0,0
-PE-PAS,Peru,Pasco,,0,0,0
-PE-PIU,Peru,Piura,,0,0,0
-PE-PUN,Peru,Puno,,0,0,0
-PE-SAM,Peru,San Martin,,0,0,0
-PE-TAC,Peru,Tacna,,0,0,0
-PE-TUM,Peru,Tumbes,,0,0,0
-PE-UCA,Peru,Ucayali,,0,0,0
+PE-AMA,Peru,Amazonas,0,0,0,0
+PE-ANC,Peru,Ancash,27,1,0,0
+PE-APU,Peru,Apurimac,1,0,0,0
+PE-ARE,Peru,Arequipa,60,4,0,0
+PE-AYA,Peru,Ayacucho,5,0,0,0
+PE-CAJ,Peru,Cajamarca,6,0,0,0
+PE-CAL,Peru,Callao,109,8,0,0
+PE-CUS,Peru,Cusco,54,3,0,0
+PE-HUV,Peru,Huancavelica,2,1,0,0
+PE-HUC,Peru,Huanuco,6,0,0,0
+PE-ICA,Peru,Ica,18,1,0,0
+PE-JUN,Peru,Junin,28,1,0,0
+PE-LAL,Peru,La Libertad,56,5,0,0
+PE-LAM,Peru,Lambayeque,100,3,0,0
+PE-LIM,Peru,Lima,1837,58,0,0
+PE-LOR,Peru,Loreto,171,2,0,0
+PE-MDD,Peru,Madre de dios,2,0,0,0
+PE-MOQ,Peru,Moquegua,1,0,0,0
+PE-PAS,Peru,Pasco,5,0,0,0
+PE-PIU,Peru,Piura,30,1,0,0
+PE-PUN,Peru,Puno,0,0,0,0
+PE-SAM,Peru,San Martin,8,1,0,0
+PE-TAC,Peru,Tacna,9,0,0,0
+PE-TUM,Peru,Tumbes,26,3,0,0
+PE-UCA,Peru,Ucayali,0,0,0,0
 US-PR,United States,Puerto Rico,,0,0,0
 UY-AR,Uruguay,Artigas,,0,0,0
 UY-CA,Uruguay,Canelones,,0,0,0
