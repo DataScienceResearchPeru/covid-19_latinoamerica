@@ -128,7 +128,7 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 1   | ARGENTINA                | 2020-03-03          | 2020-04-04               |
 | 2   | BOLIVIA                  | 2020-03-10          | 2020-04-02               |
 | 3   | BRAZIL                   | 2020-02-26          | Automatic each day       |
-| 4   | CHILE                    | 2020-03-03          | 2020-04-05               |
+| 4   | CHILE                    | 2020-03-06          | 2020-04-07               |
 | 5   | COLOMBIA                 | 2020-03-06          | Automatic each day       |
 | 6   | COSTA RICA               | 2020-03-06          | Automatic each day       |
 | 7   | CUBA                     | 2020-02-24          | WORKING                  |
