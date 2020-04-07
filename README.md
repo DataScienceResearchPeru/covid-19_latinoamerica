@@ -87,7 +87,10 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 
 </p>
 
+WARNING: Some countries are not reporting their death and recovery figures to the resolution we have in the repository.
+
 #### Tabla 1. Data resources for each country
+
 
 | #   | Country                  | User                                                                                                   | Data Sources                                                                           |
 | --- | ------------------------ | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
