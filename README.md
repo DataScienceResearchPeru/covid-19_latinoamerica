@@ -37,7 +37,7 @@
     <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Data Error</a>
   </p>
   <p align="center">
-  REST API para programadores disponible aqui:
+  REST API para programadores disponible aquí:
   <a href="https://covid19latam.herokuapp.com/">API</a>
   </p>
   <p align="center">
@@ -202,7 +202,7 @@ const API_KEY = 'ENTER YOUR API';
 ## Projects
 
 <p align="center">
-REST API para programadores disponible aqui:
+REST API para programadores disponible aquí:
 <a href="https://covid19latam.herokuapp.com/">API</a>
 </p>
 <p align="center">
