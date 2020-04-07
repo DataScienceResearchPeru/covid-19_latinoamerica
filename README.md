@@ -98,9 +98,9 @@ This repository is a part of [various projects](https://www.notion.so/covid19dsr
 | 5   | COLOMBIA                 | [Automated - dfuribez](https://bit.ly/3aN3xLc)                                                         | [S1](https://bit.ly/39LPi8n) [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U) |
 | 6   | COSTA RICA               | [Automated - dfuribez](https://bit.ly/3aN3xLc)                                                         | [API](https://bit.ly/2V34zfz)                                                          |
 | 7   | CUBA                     | [yudivian](https://bit.ly/2wVSYqL)                                                                     | [API](https://bit.ly/2JGSA1Z)                                                          |
-| 8   | DOMINICAN REPUBLIC       | [ZurMaD](https://github.com/zurmad)                                                                    | [D1](https://bit.ly/2UKoUY9) [D2](https://bit.ly/2J2aBHM)                              |
+| 8   | DOMINICAN REPUBLIC       | [ZurMaD](https://bit.ly/2wZwntr)                                                                       | [D1](https://bit.ly/2UKoUY9) [D2](https://bit.ly/2J2aBHM)                              |
 | 9   | ECUADOR                  | [pablora19](https://bit.ly/2UB6rgl)                                                                    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)                              |
-| 10  | EL SALVADOR              | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2U7N7Hm)                                                           |
+| 10  | EL SALVADOR              | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                       | [D1](https://bit.ly/2U7N7Hm) [D2](https://bit.ly/39JhgBn)                              |
 | 11  | FRENCH GUIANA            | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2UUZsxU)                                                           |
 | 12  | GUADELOUPE               | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2V0aQsj)                                                           |
 | 13  | GUATEMALA                | [ncovgt2020](https://bit.ly/3aHpECQ)                                                                   |                                                                                        |
@@ -236,8 +236,6 @@ If the country have a maintainer (see Table 1):
 
 How to load data in Colab with python 3: [Google Colab - Code](https://colab.research.google.com/drive/1gPsKfPVkK5Llu6ST-QH3Gi-Lc5BhyWxl)
 
-
-
 <!-- CONTACT -->
 
 ## Contact
@@ -311,7 +309,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 
 <!-- LICENSE -->
 
