@@ -144,7 +144,7 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 | 14  | HAITI                    | 2020-03-19          |                          |
 | 15  | HONDURAS                 | 2020-03-10          |                          |
 | 16  | MARTINIQUE               | 2020-03-03          | 2020-03-20               |
-| 17  | MEXICO                   | 2020-02-28          | 2020-04-06               |
+| 17  | MEXICO                   | 2020-02-28          | 2020-04-07               |
 | 18  | NICARAGUA                | 2020-03-16          | 2020-03-20               |
 | 19  | PANAMA                   | 2020-03-10          | 2020-03-20               |
 | 20  | PARAGUAY                 | 2020-03-07          | 2020-03-03               |
