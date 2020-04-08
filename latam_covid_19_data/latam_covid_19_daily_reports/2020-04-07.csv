@@ -32,33 +32,33 @@ BO-N,Bolivia,Pando,2020-04-07T15:10:23,10,0,0
 BO-P,Bolivia,Potosi,2020-04-07T15:10:23,10,1,0
 BO-S,Bolivia,Santa Cruz,2020-04-07T15:10:23,103,5,1
 BO-T,Bolivia,Tarija,2020-04-07T15:10:23,1,0,0
-BR-AC,Brazil,Acre,,0,0,0
-BR-AL,Brazil,Alagoas,,0,0,0
-BR-AP,Brazil,Amapa,,0,0,0
-BR-AM,Brazil,Amazonas,,0,0,0
-BR-BA,Brazil,Bahia,,0,0,0
-BR-CE,Brazil,Ceara,,0,0,0
-BR-DF,Brazil,Distrito Federal,,0,0,0
-BR-ES,Brazil,Espirito Santo,,0,0,0
-BR-GO,Brazil,Goias,,0,0,0
-BR-MA,Brazil,Maranhao,,0,0,0
-BR-MT,Brazil,Mato Grosso,,0,0,0
-BR-MS,Brazil,Mato Grosso do Sul,,0,0,0
-BR-MG,Brazil,Minas Gerais,,0,0,0
-BR-PA,Brazil,Para,,0,0,0
-BR-PB,Brazil,Paraiba,,0,0,0
-BR-PR,Brazil,Parana,,0,0,0
-BR-PE,Brazil,Pernambuco,,0,0,0
-BR-PI,Brazil,Piaui,,0,0,0
-BR-RJ,Brazil,Rio de Janeiro,,0,0,0
-BR-RN,Brazil,Rio Grande do Norte,,0,0,0
-BR-RS,Brazil,Rio Grande do Sul,,0,0,0
-BR-RO,Brazil,Rondonia,,0,0,0
-BR-RR,Brazil,Roraima,,0,0,0
-BR-SC,Brazil,Santa Catarina,,0,0,0
-BR-SP,Brazil,Sao Paulo,,0,0,0
-BR-SE,Brazil,Sergipe,,0,0,0
-BR-TO,Brazil,Tocantins,,0,0,0
+BR-AC,Brazil,Acre,2020-04-07,50,1,0
+BR-AL,Brazil,Alagoas,2020-04-07,32,2,0
+BR-AP,Brazil,Amapa,2020-04-07,48,2,0
+BR-AM,Brazil,Amazonas,2020-04-07,636,23,0
+BR-BA,Brazil,Bahia,2020-04-07,456,12,0
+BR-CE,Brazil,Ceara,2020-04-07,1051,31,0
+BR-DF,Brazil,Distrito Federal,2020-04-07,492,12,0
+BR-ES,Brazil,Espirito Santo,2020-04-07,209,6,0
+BR-GO,Brazil,Goias,2020-04-07,133,5,0
+BR-MA,Brazil,Maranhao,2020-04-07,172,4,0
+BR-MT,Brazil,Mato Grosso,2020-04-07,78,1,0
+BR-MS,Brazil,Mato Grosso do Sul,2020-04-07,80,2,0
+BR-MG,Brazil,Minas Gerais,2020-04-07,559,11,0
+BR-PA,Brazil,Para,2020-04-07,138,5,0
+BR-PB,Brazil,Paraiba,2020-04-07,36,4,0
+BR-PR,Brazil,Parana,2020-04-07,503,15,0
+BR-PE,Brazil,Pernambuco,2020-04-07,352,34,0
+BR-PI,Brazil,Piaui,2020-04-07,28,4,0
+BR-RJ,Brazil,Rio de Janeiro,2020-04-07,1688,89,0
+BR-RN,Brazil,Rio Grande do Norte,2020-04-07,254,8,0
+BR-RS,Brazil,Rio Grande do Sul,2020-04-07,508,8,0
+BR-RO,Brazil,Rondonia,2020-04-07,18,1,0
+BR-RR,Brazil,Roraima,2020-04-07,42,1,0
+BR-SC,Brazil,Santa Catarina,2020-04-07,417,11,0
+BR-SP,Brazil,Sao Paulo,2020-04-07,5682,371,0
+BR-SE,Brazil,Sergipe,2020-04-07,36,4,0
+BR-TO,Brazil,Tocantins,2020-04-07,19,0,0
 CL-AN,Chile,Antofagasta,2020-04-07T15:08:03,69,1,0
 CL-AR,Chile,Araucania,2020-04-07T15:08:03,612,14,0
 CL-AP,Chile,Arica y Parinacota,2020-04-07T15:08:03,53,0,0
