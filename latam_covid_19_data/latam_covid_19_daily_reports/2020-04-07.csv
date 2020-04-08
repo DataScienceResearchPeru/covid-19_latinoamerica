@@ -239,24 +239,24 @@ HT-NO,Haiti,Nord-Ouest,,0,0,0
 HT-OU,Haiti,Ouest,,0,0,0
 HT-SD,Haiti,Sud,,0,0,0
 HT-SE,Haiti,Sud-Est,,0,0,0
-HN-AT,Honduras,Atlantida,,0,0,0
-HN-CH,Honduras,Choluteca,,0,0,0
-HN-CL,Honduras,Colon,,0,0,0
-HN-CM,Honduras,Comayagua,,0,0,0
-HN-CP,Honduras,Copan,,0,0,0
-HN-CR,Honduras,Cortes,,0,0,0
-HN-EP,Honduras,El Paraiso,,0,0,0
-HN-FM,Honduras,Francisco Morazan,,0,0,0
-HN-GD,Honduras,Gracias a Dios,,0,0,0
-HN-IN,Honduras,Intibuca,,0,0,0
-HN-IB,Honduras,Islas de la Bahia,,0,0,0
-HN-LP,Honduras,La Paz,,0,0,0
-HN-LE,Honduras,Lempira,,0,0,0
-HN-OC,Honduras,Ocotepeque,,0,0,0
-HN-OL,Honduras,Olancho,,0,0,0
-HN-SB,Honduras,Santa Barbara,,0,0,0
-HN-VA,Honduras,Valle,,0,0,0
-HN-YO,Honduras,Yoro,,0,0,0
+HN-AT,Honduras,Atlantida,2020-04-08T01:53:57,16,1,1
+HN-CH,Honduras,Choluteca,2020-04-08T01:53:57,2,0,0
+HN-CL,Honduras,Colon,2020-04-08T01:53:57,0,0,0
+HN-CM,Honduras,Comayagua,2020-04-08T01:53:57,2,0,0
+HN-CP,Honduras,Copan,2020-04-08T01:53:57,1,0,0
+HN-CR,Honduras,Cortes,2020-04-08T01:53:57,195,15,0
+HN-EP,Honduras,El Paraiso,2020-04-08T01:53:57,0,0,0
+HN-FM,Honduras,Francisco Morazan,2020-04-08T01:53:57,54,2,5
+HN-GD,Honduras,Gracias a Dios,2020-04-08T01:53:57,0,0,0
+HN-IN,Honduras,Intibuca,2020-04-08T01:53:57,0,0,0
+HN-IB,Honduras,Islas de la Bahia,2020-04-08T01:53:57,0,0,0
+HN-LP,Honduras,La Paz,2020-04-08T01:53:57,1,0,0
+HN-LE,Honduras,Lempira,2020-04-08T01:53:57,4,1,0
+HN-OC,Honduras,Ocotepeque,2020-04-08T01:53:57,0,0,0
+HN-OL,Honduras,Olancho,2020-04-08T01:53:57,0,0,0
+HN-SB,Honduras,Santa Barbara,2020-04-08T01:53:57,8,0,0
+HN-VA,Honduras,Valle,2020-04-08T01:53:57,0,0,0
+HN-YO,Honduras,Yoro,2020-04-08T01:53:57,9,2,0
 MX-AGU,Mexico,Aguascalientes,2020-04-08T01:00:00,53,0,missing
 MX-BCN,Mexico,Baja California,2020-04-08T01:00:00,136,7,missing
 MX-BCS,Mexico,Baja California Sur,2020-04-08T01:00:00,56,2,missing
