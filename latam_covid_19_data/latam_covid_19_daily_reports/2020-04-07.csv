@@ -337,31 +337,31 @@ PY-12,Paraguay,Neembucu,,0,0,0
 PY-9,Paraguay,Paraguari,,0,0,0
 PY-15,Paraguay,Presidente Hayes,,0,0,0
 PY-2,Paraguay,San Pedro,,0,0,0
-PE-AMA,Peru,Amazonas,0,0,0,0
-PE-ANC,Peru,Ancash,36,1,0,0
-PE-APU,Peru,Apurimac,1,0,0,0
-PE-ARE,Peru,Arequipa,66,4,0,0
-PE-AYA,Peru,Ayacucho,5,0,0,0
-PE-CAJ,Peru,Cajamarca,6,0,0,0
-PE-CAL,Peru,Callao,161,10,0,0
-PE-CUS,Peru,Cusco,54,3,0,0
-PE-HUV,Peru,Huancavelica,7,1,0,0
-PE-HUC,Peru,Huanuco,6,0,0,0
-PE-ICA,Peru,Ica,24,2,0,0
-PE-JUN,Peru,Junin,28,1,0,0
-PE-LAL,Peru,La Libertad,58,5,0,0
-PE-LAM,Peru,Lambayeque,108,4,0,0
-PE-LIM,Peru,Lima,2100,65,0,0
-PE-LOR,Peru,Loreto,206,3,0,0
-PE-MDD,Peru,Madre de dios,2,0,0,0
-PE-MOQ,Peru,Moquegua,1,0,0,0
-PE-PAS,Peru,Pasco,5,0,0,0
-PE-PIU,Peru,Piura,35,3,0,0
-PE-PUN,Peru,Puno,1,0,0,0
-PE-SAM,Peru,San Martin,8,1,0,0
-PE-TAC,Peru,Tacna,9,0,0,0
-PE-TUM,Peru,Tumbes,27,4,0,0
-PE-UCA,Peru,Ucayali,0,0,0,0
+PE-AMA,Peru,Amazonas,2020-04-08T02:45:00,0,0,0
+PE-ANC,Peru,Ancash,2020-04-08T02:45:00,36,1,0
+PE-APU,Peru,Apurimac,2020-04-08T02:45:00,1,0,0
+PE-ARE,Peru,Arequipa,2020-04-08T02:45:00,66,4,0
+PE-AYA,Peru,Ayacucho,2020-04-08T02:45:00,5,0,0
+PE-CAJ,Peru,Cajamarca,2020-04-08T02:45:00,6,0,0
+PE-CAL,Peru,Callao,2020-04-08T02:45:00,161,10,0
+PE-CUS,Peru,Cusco,2020-04-08T02:45:00,54,3,0
+PE-HUV,Peru,Huancavelica,2020-04-08T02:45:00,7,1,0
+PE-HUC,Peru,Huanuco,2020-04-08T02:45:00,6,0,0
+PE-ICA,Peru,Ica,2020-04-08T02:45:00,24,2,0
+PE-JUN,Peru,Junin,2020-04-08T02:45:00,28,1,0
+PE-LAL,Peru,La Libertad,2020-04-08T02:45:00,58,5,0
+PE-LAM,Peru,Lambayeque,2020-04-08T02:45:00,108,4,0
+PE-LIM,Peru,Lima,2020-04-08T02:45:00,2100,65,0
+PE-LOR,Peru,Loreto,2020-04-08T02:45:00,206,3,0
+PE-MDD,Peru,Madre de dios,2020-04-08T02:45:00,2,0,0
+PE-MOQ,Peru,Moquegua,2020-04-08T02:45:00,1,0,0
+PE-PAS,Peru,Pasco,2020-04-08T02:45:00,5,0,0
+PE-PIU,Peru,Piura,2020-04-08T02:45:00,35,3,0
+PE-PUN,Peru,Puno,2020-04-08T02:45:00,1,0,0
+PE-SAM,Peru,San Martin,2020-04-08T02:45:00,8,1,0
+PE-TAC,Peru,Tacna,2020-04-08T02:45:00,9,0,0
+PE-TUM,Peru,Tumbes,2020-04-08T02:45:00,27,4,0
+PE-UCA,Peru,Ucayali,2020-04-08T02:45:00,0,0,0
 US-PR,United States,Puerto Rico,,0,0,0
 UY-AR,Uruguay,Artigas,,0,0,0
 UY-CA,Uruguay,Canelones,,0,0,0
