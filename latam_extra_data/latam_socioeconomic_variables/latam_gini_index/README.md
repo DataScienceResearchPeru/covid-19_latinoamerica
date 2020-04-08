@@ -11,7 +11,7 @@
 | #   | Country                  | Data Source                                                     | Last Update |
 | --- | ------------------------ | --------------------------------------------------------------- | ----------- |
 | 1   | ARGENTINA                | [EPH - INDEC](https://bit.ly/2X8SGr9)                           | 2010-2015   |
-| 2   | BOLIVIA                  |                                                                 |             |
+| 2   | BOLIVIA                  | [INE](https://bit.ly/2VeB9v5)                                   | 2014        |
 | 3   | BRAZIL                   | [IBGE](https://bit.ly/2Xc7ipE)                                  | 2013        |
 | 4   | CHILE                    |                                                                 |             |
 | 5   | COLOMBIA                 | [Datos Abiertos - Not all subdivisions](https://bit.ly/349sKgq) | 2010-2017   |
