@@ -91,7 +91,6 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 
 #### Tabla 1. Data resources for each country
 
-
 | #   | Country                  | User                                                                                                   | Data Sources                                                                           |
 | --- | ------------------------ | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | 1   | ARGENTINA                | [martingra](https://bit.ly/2UA5JjF) [pablorea](https://bit.ly/3dHNlwG)                                 | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy)                              |
@@ -103,12 +102,12 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 | 7   | CUBA                     | [yudivian](https://bit.ly/2wVSYqL)                                                                     | [API](https://bit.ly/2JGSA1Z)                                                          |
 | 8   | DOMINICAN REPUBLIC       | [ZurMaD](https://bit.ly/2wZwntr)                                                                       | [D1](https://bit.ly/2UKoUY9) [D2](https://bit.ly/2J2aBHM)                              |
 | 9   | ECUADOR                  | [pablora19](https://bit.ly/2UB6rgl)                                                                    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7)                              |
-| 10  | EL SALVADOR              | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                       | [D1](https://bit.ly/2U7N7Hm) [D2](https://bit.ly/39JhgBn)                              |
+| 10  | EL SALVADOR              | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                           | [D1](https://bit.ly/2U7N7Hm) [D2](https://bit.ly/39JhgBn)                              |
 | 11  | FRENCH GUIANA            | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2UUZsxU)                                                           |
 | 12  | GUADELOUPE               | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2V0aQsj)                                                           |
 | 13  | GUATEMALA                | [ncovgt2020](https://bit.ly/3aHpECQ)                                                                   |                                                                                        |
 | 14  | HAITI                    | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
-| 15  | HONDURAS                 | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
+| 15  | HONDURAS                 | [Automated - ivanMSC](https://bit.ly/2UZBUb6)                                                          | [D1](https://bit.ly/2UQBDs5)                                                           |
 | 16  | MARTINIQUE               | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/34fbNRW)                                                           |
 | 17  | MEXICO                   | [carranco-sga](https://bit.ly/2UAAdSw)                                                                 | [D1](https://bit.ly/3brQ7nY)                                                           |
 | 18  | NICARAGUA                | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2QQNfJB)                                                           |
@@ -128,8 +127,8 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 
 | #   | Country                  | First Confirmed Day | Last Update Daily Report |
 | --- | ------------------------ | ------------------- | ------------------------ |
-| 1   | ARGENTINA                | 2020-03-03          | 2020-04-04               |
-| 2   | BOLIVIA                  | 2020-03-10          | 2020-04-02               |
+| 1   | ARGENTINA                | 2020-03-03          | 2020-04-06               |
+| 2   | BOLIVIA                  | 2020-03-10          | 2020-04-07               |
 | 3   | BRAZIL                   | 2020-02-26          | Automatic each day       |
 | 4   | CHILE                    | 2020-03-06          | 2020-04-07               |
 | 5   | COLOMBIA                 | 2020-03-06          | Automatic each day       |
@@ -142,19 +141,19 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 | 12  | GUADELOUPE               | 2020-03-13          | 2020-03-20               |
 | 13  | GUATEMALA                | 2020-03-13          |                          |
 | 14  | HAITI                    | 2020-03-19          |                          |
-| 15  | HONDURAS                 | 2020-03-10          |                          |
+| 15  | HONDURAS                 | 2020-03-10          | Automatic each day       |
 | 16  | MARTINIQUE               | 2020-03-03          | 2020-03-20               |
 | 17  | MEXICO                   | 2020-02-28          | 2020-04-07               |
 | 18  | NICARAGUA                | 2020-03-16          | 2020-03-20               |
 | 19  | PANAMA                   | 2020-03-10          | 2020-03-20               |
 | 20  | PARAGUAY                 | 2020-03-07          | 2020-03-03               |
-| 21  | PERU                     | 2020-03-06          | 2020-04-05               |
+| 21  | PERU                     | 2020-03-06          | 2020-04-07               |
 | 22  | PUERTO RICO              | 2020-03-19          |                          |
 | 23  | SAIN PIERRE AND MIQUELON | -                   |                          |
 | 24  | SAINT BARTHELEMY         | 2020-03-01          |                          |
 | 25  | SAINT MARTIN             | 2020-03-01          |                          |
 | 26  | URUGUAY                  | 2020-03-13          |                          |
-| 27  | VENEZUELA                | 2020-03-13          | 2020-03-04               |
+| 27  | VENEZUELA                | 2020-03-13          | Error                    |
 
 See in [Google Sheets](https://bit.ly/3aEyAZI)
 
