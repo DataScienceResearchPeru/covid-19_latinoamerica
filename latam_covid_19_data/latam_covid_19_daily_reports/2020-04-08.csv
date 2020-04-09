@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,,0,0,0
-AR-K,Argentina,Catamarca,,0,0,0
-AR-H,Argentina,Chaco,,0,0,0
-AR-U,Argentina,Chubut,,0,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,,0,0,0
-AR-X,Argentina,Cordoba,,0,0,0
-AR-W,Argentina,Corrientes,,0,0,0
-AR-E,Argentina,Entre Rios,,0,0,0
-AR-P,Argentina,Formosa,,0,0,0
-AR-Y,Argentina,Jujuy,,0,0,0
-AR-L,Argentina,La Pampa,,0,0,0
-AR-F,Argentina,La Rioja,,0,0,0
-AR-M,Argentina,Mendoza,,0,0,0
-AR-N,Argentina,Misiones,,0,0,0
-AR-Q,Argentina,Neuquen,,0,0,0
-AR-R,Argentina,Rio Negro,,0,0,0
-AR-A,Argentina,Salta,,0,0,0
-AR-J,Argentina,San Juan,,0,0,0
-AR-D,Argentina,San Luis,,0,0,0
-AR-Z,Argentina,Santa Cruz,,0,0,0
-AR-S,Argentina,Santa Fe,,0,0,0
-AR-G,Argentina,Santiago del Estero,,0,0,0
-AR-V,Argentina,Tierra del Fuego,,0,0,0
-AR-T,Argentina,Tucuman,,0,0,0
+AR-B,Argentina,Buenos Aires,2020-04-09T23:40:00,460,27,40
+AR-K,Argentina,Catamarca,2020-04-09T23:40:00,0,0,0
+AR-H,Argentina,Chaco,2020-04-09T23:40:00,138,7,0
+AR-U,Argentina,Chubut,2020-04-09T23:40:00,0,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-04-09T23:40:00,498,15,117
+AR-X,Argentina,Cordoba,2020-04-09T23:40:00,151,2,1
+AR-W,Argentina,Corrientes,2020-04-09T23:40:00,24,0,2
+AR-E,Argentina,Entre Rios,2020-04-09T23:40:00,0,0,4
+AR-P,Argentina,Formosa,2020-04-09T23:40:00,0,0,0
+AR-Y,Argentina,Jujuy,2020-04-09T23:40:00,5,0,2
+AR-L,Argentina,La Pampa,2020-04-09T23:40:00,4,0,0
+AR-F,Argentina,La Rioja,2020-04-09T23:40:00,9,1,0
+AR-M,Argentina,Mendoza,2020-04-09T23:40:00,38,5,0
+AR-N,Argentina,Misiones,2020-04-09T23:40:00,3,0,0
+AR-Q,Argentina,Neuquen,2020-04-09T23:40:00,70,4,0
+AR-R,Argentina,Rio Negro,2020-04-09T23:40:00,22,0,2
+AR-A,Argentina,Salta,2020-04-09T23:40:00,3,0,0
+AR-J,Argentina,San Juan,2020-04-09T23:40:00,1,0,0
+AR-D,Argentina,San Luis,2020-04-09T23:40:00,11,0,0
+AR-Z,Argentina,Santa Cruz,2020-04-09T23:40:00,31,0,0
+AR-S,Argentina,Santa Fe,2020-04-09T23:40:00,189,1,0
+AR-G,Argentina,Santiago del Estero,2020-04-09T23:40:00,9,0,0
+AR-V,Argentina,Tierra del Fuego,2020-04-09T23:40:00,81,0,0
+AR-T,Argentina,Tucuman,2020-04-09T23:40:00,28,3,0
 BO-B,Bolivia,Beni,,0,0,0
 BO-H,Bolivia,Chuquisaca,,0,0,0
 BO-C,Bolivia,Cochabamba,,0,0,0
@@ -32,33 +32,33 @@ BO-N,Bolivia,Pando,,0,0,0
 BO-P,Bolivia,Potosi,,0,0,0
 BO-S,Bolivia,Santa Cruz,,0,0,0
 BO-T,Bolivia,Tarija,,0,0,0
-BR-AC,Brazil,Acre,2020-04-08,54,2,0
-BR-AL,Brazil,Alagoas,2020-04-08,37,2,0
-BR-AP,Brazil,Amapa,2020-04-08,107,2,0
-BR-AM,Brazil,Amazonas,2020-04-08,804,30,0
-BR-BA,Brazil,Bahia,2020-04-08,497,15,0
-BR-CE,Brazil,Ceara,2020-04-08,1291,43,0
-BR-DF,Brazil,Distrito Federal,2020-04-08,509,12,0
-BR-ES,Brazil,Espirito Santo,2020-04-08,227,6,0
-BR-GO,Brazil,Goias,2020-04-08,158,7,0
-BR-MA,Brazil,Maranhao,2020-04-08,230,11,0
-BR-MT,Brazil,Mato Grosso,2020-04-08,90,1,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-04-08,85,2,0
-BR-MG,Brazil,Minas Gerais,2020-04-08,614,14,0
-BR-PA,Brazil,Para,2020-04-08,167,6,0
-BR-PB,Brazil,Paraiba,2020-04-08,41,4,0
-BR-PR,Brazil,Parana,2020-04-08,539,17,0
-BR-PE,Brazil,Pernambuco,2020-04-08,401,46,0
-BR-PI,Brazil,Piaui,2020-04-08,31,5,0
-BR-RJ,Brazil,Rio de Janeiro,2020-04-08,1938,106,0
-BR-RN,Brazil,Rio Grande do Norte,2020-04-08,261,11,0
-BR-RS,Brazil,Rio Grande do Sul,2020-04-08,555,9,0
-BR-RO,Brazil,Rondonia,2020-04-08,18,1,0
-BR-RR,Brazil,Roraima,2020-04-08,49,1,0
-BR-SC,Brazil,Santa Catarina,2020-04-08,457,15,0
-BR-SP,Brazil,Sao Paulo,2020-04-08,6708,428,0
-BR-SE,Brazil,Sergipe,2020-04-08,36,4,0
-BR-TO,Brazil,Tocantins,2020-04-08,23,0,0
+BR-AC,Brazil,Acre,08/04/2020,54,2,0
+BR-AL,Brazil,Alagoas,08/04/2020,37,2,0
+BR-AP,Brazil,Amapa,08/04/2020,107,2,0
+BR-AM,Brazil,Amazonas,08/04/2020,804,30,0
+BR-BA,Brazil,Bahia,08/04/2020,497,15,0
+BR-CE,Brazil,Ceara,08/04/2020,1291,43,0
+BR-DF,Brazil,Distrito Federal,08/04/2020,509,12,0
+BR-ES,Brazil,Espirito Santo,08/04/2020,227,6,0
+BR-GO,Brazil,Goias,08/04/2020,158,7,0
+BR-MA,Brazil,Maranhao,08/04/2020,230,11,0
+BR-MT,Brazil,Mato Grosso,08/04/2020,90,1,0
+BR-MS,Brazil,Mato Grosso do Sul,08/04/2020,85,2,0
+BR-MG,Brazil,Minas Gerais,08/04/2020,614,14,0
+BR-PA,Brazil,Para,08/04/2020,167,6,0
+BR-PB,Brazil,Paraiba,08/04/2020,41,4,0
+BR-PR,Brazil,Parana,08/04/2020,539,17,0
+BR-PE,Brazil,Pernambuco,08/04/2020,401,46,0
+BR-PI,Brazil,Piaui,08/04/2020,31,5,0
+BR-RJ,Brazil,Rio de Janeiro,08/04/2020,1938,106,0
+BR-RN,Brazil,Rio Grande do Norte,08/04/2020,261,11,0
+BR-RS,Brazil,Rio Grande do Sul,08/04/2020,555,9,0
+BR-RO,Brazil,Rondonia,08/04/2020,18,1,0
+BR-RR,Brazil,Roraima,08/04/2020,49,1,0
+BR-SC,Brazil,Santa Catarina,08/04/2020,457,15,0
+BR-SP,Brazil,Sao Paulo,08/04/2020,6708,428,0
+BR-SE,Brazil,Sergipe,08/04/2020,36,4,0
+BR-TO,Brazil,Tocantins,08/04/2020,23,0,0
 CL-AN,Chile,Antofagasta,2020-04-08T18:18:00,77,1,0
 CL-AR,Chile,Araucania,2020-04-08T18:18:00,669,15,0
 CL-AP,Chile,Arica y Parinacota,2020-04-08T18:18:00,63,0,0
@@ -75,39 +75,39 @@ CL-LI,Chile,O'Higgins,2020-04-08T18:18:00,43,0,0
 CL-RM,Chile,Santiago,2020-04-08T18:18:00,2548,14,0
 CL-TA,Chile,Tarapaca,2020-04-08T18:18:00,26,0,0
 CL-VS,Chile,Valparaiso,2020-04-08T18:18:00,225,2,0
-CO-AMA,Colombia,Amazonas,2020-04-08,0,0,0
-CO-ANT,Colombia,Antioquia,2020-04-08,235,1,12
-CO-ARA,Colombia,Arauca,2020-04-08,0,0,0
-CO-ATL,Colombia,Atlantico,2020-04-08,67,4,5
-CO-DC,Colombia,Bogota,2020-04-08,992,25,66
-CO-BOL,Colombia,Bolivar,2020-04-08,71,3,6
-CO-BOY,Colombia,Boyaca,2020-04-08,19,1,0
-CO-CAL,Colombia,Caldas,2020-04-08,19,0,2
-CO-CAQ,Colombia,Caqueta,2020-04-08,0,0,0
-CO-CAS,Colombia,Casanare,2020-04-08,2,0,1
-CO-CAU,Colombia,Cauca,2020-04-08,14,2,0
-CO-CES,Colombia,Cesar,2020-04-08,17,0,3
-CO-COR,Colombia,Choco,2020-04-08,0,0,0
-CO-CUN,Colombia,Cordoba,2020-04-08,7,2,0
-CO-CHO,Colombia,Cundinamarca,2020-04-08,64,3,4
-CO-GUA,Colombia,Guainia,2020-04-08,0,0,0
-CO-GUV,Colombia,Guaviare,2020-04-08,0,0,0
-CO-HUI,Colombia,Huila,2020-04-08,38,2,5
-CO-LAG,Colombia,La Guajira,2020-04-08,1,0,0
-CO-MAG,Colombia,Magdalena,2020-04-08,26,2,0
-CO-MET,Colombia,Meta,2020-04-08,14,1,1
-CO-NAR,Colombia,Narino,2020-04-08,9,0,0
-CO-NSA,Colombia,Norte de Santander,2020-04-08,27,1,2
-CO-PUT,Colombia,Putumayo,2020-04-08,0,0,0
-CO-QUI,Colombia,Quindio,2020-04-08,40,1,4
-CO-RIS,Colombia,Risaralda,2020-04-08,46,1,2
-CO-SAP,Colombia,San Andres y Providencia,2020-04-08,2,0,0
-CO-SAN,Colombia,Santander,2020-04-08,14,1,0
-CO-SUC,Colombia,Sucre,2020-04-08,1,0,0
-CO-TOL,Colombia,Tolima,2020-04-08,15,0,2
-CO-VAC,Colombia,Valle del Cauca,2020-04-08,314,5,8
-CO-VAU,Colombia,Vaupes,2020-04-08,0,0,0
-CO-VID,Colombia,Vichada,2020-04-08,0,0,0
+CO-AMA,Colombia,Amazonas,08/04/2020,0,0,0
+CO-ANT,Colombia,Antioquia,08/04/2020,235,1,12
+CO-ARA,Colombia,Arauca,08/04/2020,0,0,0
+CO-ATL,Colombia,Atlantico,08/04/2020,67,4,5
+CO-DC,Colombia,Bogota,08/04/2020,992,25,66
+CO-BOL,Colombia,Bolivar,08/04/2020,71,3,6
+CO-BOY,Colombia,Boyaca,08/04/2020,19,1,0
+CO-CAL,Colombia,Caldas,08/04/2020,19,0,2
+CO-CAQ,Colombia,Caqueta,08/04/2020,0,0,0
+CO-CAS,Colombia,Casanare,08/04/2020,2,0,1
+CO-CAU,Colombia,Cauca,08/04/2020,14,2,0
+CO-CES,Colombia,Cesar,08/04/2020,17,0,3
+CO-COR,Colombia,Choco,08/04/2020,0,0,0
+CO-CUN,Colombia,Cordoba,08/04/2020,7,2,0
+CO-CHO,Colombia,Cundinamarca,08/04/2020,64,3,4
+CO-GUA,Colombia,Guainia,08/04/2020,0,0,0
+CO-GUV,Colombia,Guaviare,08/04/2020,0,0,0
+CO-HUI,Colombia,Huila,08/04/2020,38,2,5
+CO-LAG,Colombia,La Guajira,08/04/2020,1,0,0
+CO-MAG,Colombia,Magdalena,08/04/2020,26,2,0
+CO-MET,Colombia,Meta,08/04/2020,14,1,1
+CO-NAR,Colombia,Narino,08/04/2020,9,0,0
+CO-NSA,Colombia,Norte de Santander,08/04/2020,27,1,2
+CO-PUT,Colombia,Putumayo,08/04/2020,0,0,0
+CO-QUI,Colombia,Quindio,08/04/2020,40,1,4
+CO-RIS,Colombia,Risaralda,08/04/2020,46,1,2
+CO-SAP,Colombia,San Andres y Providencia,08/04/2020,2,0,0
+CO-SAN,Colombia,Santander,08/04/2020,14,1,0
+CO-SUC,Colombia,Sucre,08/04/2020,1,0,0
+CO-TOL,Colombia,Tolima,08/04/2020,15,0,2
+CO-VAC,Colombia,Valle del Cauca,08/04/2020,314,5,8
+CO-VAU,Colombia,Vaupes,08/04/2020,0,0,0
+CO-VID,Colombia,Vichada,08/04/2020,0,0,0
 CR-A,Costa Rica,Alajuela,,0,0,0
 CR-C,Costa Rica,Cartago,,0,0,0
 CR-G,Costa Rica,Guanacaste,,0,0,0
