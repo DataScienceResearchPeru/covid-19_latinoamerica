@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,2020-04-10T22:05:00,,,
-CL-AR,Chile,Araucania,2020-04-10T22:05:00,,,
-CL-AP,Chile,Arica y Parinacota,2020-04-10T22:05:00,,,
-CL-AT,Chile,Atacama,2020-04-10T22:05:00,,,
-CL-AI,Chile,Aysen,2020-04-10T22:05:00,,,
-CL-BI,Chile,Biobio,2020-04-10T22:05:00,,,
-CL-CO,Chile,Coquimbo,2020-04-10T22:05:00,,,
-CL-LL,Chile,Los Lagos,2020-04-10T22:05:00,,,
-CL-LR,Chile,Los Rios,2020-04-10T22:05:00,,,
-CL-MA,Chile,Magallanes,2020-04-10T22:05:00,,,
-CL-ML,Chile,Maule,2020-04-10T22:05:00,,,
-CL-NB,Chile,Nuble,2020-04-10T22:05:00,,,
-CL-LI,Chile,O'Higgins,2020-04-10T22:05:00,,,
-CL-RM,Chile,Santiago,2020-04-10T22:05:00,,,
-CL-TA,Chile,Tarapaca,2020-04-10T22:05:00,,,
-CL-VS,Chile,Valparaiso,2020-04-10T22:05:00,,,
+CL-AN,Chile,Antofagasta,2020-04-10T22:05:00,110,1,0
+CL-AR,Chile,Araucania,2020-04-10T22:05:00,712,16,0
+CL-AP,Chile,Arica y Parinacota,2020-04-10T22:05:00,87,0,0
+CL-AT,Chile,Atacama,2020-04-10T22:05:00,13,0,0
+CL-AI,Chile,Aysen,2020-04-10T22:05:00,7,0,0
+CL-BI,Chile,Biobio,2020-04-10T22:05:00,474,2,0
+CL-CO,Chile,Coquimbo,2020-04-10T22:05:00,61,0,0
+CL-LL,Chile,Los Lagos,2020-04-10T22:05:00,349,2,0
+CL-LR,Chile,Los Rios,2020-04-10T22:05:00,124,2,0
+CL-MA,Chile,Magallanes,2020-04-10T22:05:00,331,3,0
+CL-ML,Chile,Maule,2020-04-10T22:05:00,131,2,0
+CL-NB,Chile,Nuble,2020-04-10T22:05:00,589,6,0
+CL-LI,Chile,O'Higgins,2020-04-10T22:05:00,44,0,0
+CL-RM,Chile,Santiago,2020-04-10T22:05:00,3193,29,0
+CL-TA,Chile,Tarapaca,2020-04-10T22:05:00,35,0,0
+CL-VS,Chile,Valparaiso,2020-04-10T22:05:00,241,2,0
 CO-AMA,Colombia,Amazonas,2020-04-10,0,0,0
 CO-ANT,Colombia,Antioquia,2020-04-10,246,1,20
 CO-ARA,Colombia,Arauca,2020-04-10,0,0,0
