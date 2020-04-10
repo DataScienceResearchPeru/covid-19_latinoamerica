@@ -130,7 +130,7 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 | 1   | ARGENTINA                | 2020-03-03          | 2020-04-06               |
 | 2   | BOLIVIA                  | 2020-03-10          | 2020-04-07               |
 | 3   | BRAZIL                   | 2020-02-26          | Automatic each day       |
-| 4   | CHILE                    | 2020-03-06          | 2020-04-09               |
+| 4   | CHILE                    | 2020-03-06          | 2020-04-10               |
 | 5   | COLOMBIA                 | 2020-03-06          | Automatic each day       |
 | 6   | COSTA RICA               | 2020-03-06          | Automatic each day       |
 | 7   | CUBA                     | 2020-02-24          | WORKING                  |
