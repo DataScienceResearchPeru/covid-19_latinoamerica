@@ -23,15 +23,15 @@ AR-S,Argentina,Santa Fe,,,,
 AR-G,Argentina,Santiago del Estero,,,,
 AR-V,Argentina,Tierra del Fuego,,,,
 AR-T,Argentina,Tucuman,,,,
-BO-B,Bolivia,Beni,,,,
-BO-H,Bolivia,Chuquisaca,,,,
-BO-C,Bolivia,Cochabamba,,,,
-BO-L,Bolivia,La Paz,,,,
-BO-O,Bolivia,Oruro,,,,
-BO-N,Bolivia,Pando,,,,
-BO-P,Bolivia,Potosi,,,,
-BO-S,Bolivia,Santa Cruz,,,,
-BO-T,Bolivia,Tarija,,,,
+BO-B,Bolivia,Beni,2020-04-10T22:05:00,0,0,0
+BO-H,Bolivia,Chuquisaca,2020-04-10T22:05:00,1,0,0
+BO-C,Bolivia,Cochabamba,2020-04-10T22:05:00,48,2,0
+BO-L,Bolivia,La Paz,2020-04-10T22:05:00,59,7,0
+BO-O,Bolivia,Oruro,2020-04-10T22:05:00,9,1,1
+BO-N,Bolivia,Pando,2020-04-10T22:05:00,10,0,0
+BO-P,Bolivia,Potosi,2020-04-10T22:05:00,13,1,0
+BO-S,Bolivia,Santa Cruz,2020-04-10T22:05:00,134,9,1
+BO-T,Bolivia,Tarija,2020-04-10T22:05:00,1,0,1
 BR-AC,Brazil,Acre,,,,
 BR-AL,Brazil,Alagoas,,,,
 BR-AP,Brazil,Amapa,,,,
