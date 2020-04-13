@@ -1,14 +1,18 @@
-# LATAM Weather Data Repository per day
+# Country reports
+Filenames with format `CC.csv` where CC is the 2 letter Country Code following ISO_3166-1 alfa-2.
 
-## Max 10000 patients per file
+## Columns
 
-<b>Contact Us: </b><br>
+-   `ISO 3166-2 Code`: Código ISO de cada país. (Revisar este [archivo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/blob/master/utils/iso3312_latinamerica.csv)) Sirve para obtener más data del país como latitud, longitud y proximamente referenciar con otras bases de datos variables climáticas, económicas, demográficas.
+-   `Country`: Ubicación geográfica nivel 1 (país)
+-   `Subdivision`: Ubicación geográfica nivel 2
+-   `Age`
+-   `Gender`
+-   `First Symptoms`
+-   `Date Confirmed`
+-   `Hospital code`
 
-- Email: [Send an e-mail](pablo.diazv@pucp.edu.pe)
-- Cellphone: [Send a Whatsapp msg](https://api.whatsapp.com/send?phone=51938438089&text=Hi,%20I%27m%20comming%20from%20Github)
-  <br><br>
-
-### Table 1. Data per patient per day per country
+## Data per patient per day per country
 
 | #   | Country                  | Data Resources                   | Last Update |
 | --- | ------------------------ | -------------------------------- | ----------- |
@@ -39,5 +43,3 @@
 | 25  | SAINT MARTIN             |                                  |             |
 | 26  | URUGUAY                  |                                  |             |
 | 27  | VENEZUELA                |                                  |             |
-
-This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
