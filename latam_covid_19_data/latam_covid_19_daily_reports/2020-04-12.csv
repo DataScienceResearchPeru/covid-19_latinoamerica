@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,,,,
-CL-AR,Chile,Araucania,,,,
-CL-AP,Chile,Arica y Parinacota,,,,
-CL-AT,Chile,Atacama,,,,
-CL-AI,Chile,Aysen,,,,
-CL-BI,Chile,Biobio,,,,
-CL-CO,Chile,Coquimbo,,,,
-CL-LL,Chile,Los Lagos,,,,
-CL-LR,Chile,Los Rios,,,,
-CL-MA,Chile,Magallanes,,,,
-CL-ML,Chile,Maule,,,,
-CL-NB,Chile,Nuble,,,,
-CL-LI,Chile,O'Higgins,,,,
-CL-RM,Chile,Santiago,,,,
-CL-TA,Chile,Tarapaca,,,,
-CL-VS,Chile,Valparaiso,,,,
+CL-AN,Chile,Antofagasta,2020-04-13T04:07:33,138,1,0
+CL-AR,Chile,Araucania,2020-04-13T04:07:33,775,17,0
+CL-AP,Chile,Arica y Parinacota,2020-04-13T04:07:33,115,1,0
+CL-AT,Chile,Atacama,2020-04-13T04:07:33,13,0,0
+CL-AI,Chile,Aysen,2020-04-13T04:07:33,7,0,0
+CL-BI,Chile,Biobio,2020-04-13T04:07:33,500,2,0
+CL-CO,Chile,Coquimbo,2020-04-13T04:07:33,66,0,0
+CL-LL,Chile,Los Lagos,2020-04-13T04:07:33,372,5,0
+CL-LR,Chile,Los Rios,2020-04-13T04:07:33,135,3,0
+CL-MA,Chile,Magallanes,2020-04-13T04:07:33,396,4,0
+CL-ML,Chile,Maule,2020-04-13T04:07:33,138,3,0
+CL-NB,Chile,Nuble,2020-04-13T04:07:33,613,7,0
+CL-LI,Chile,O'Higgins,2020-04-13T04:07:33,46,0,0
+CL-RM,Chile,Santiago,2020-04-13T04:07:33,3599,35,0
+CL-TA,Chile,Tarapaca,2020-04-13T04:07:33,46,0,0
+CL-VS,Chile,Valparaiso,2020-04-13T04:07:33,254,2,0
 CO-AMA,Colombia,Amazonas,,,,
 CO-ANT,Colombia,Antioquia,,,,
 CO-ARA,Colombia,Arauca,,,,
@@ -239,24 +239,24 @@ HT-NO,Haiti,Nord-Ouest,,,,
 HT-OU,Haiti,Ouest,,,,
 HT-SD,Haiti,Sud,,,,
 HT-SE,Haiti,Sud-Est,,,,
-HN-AT,Honduras,Atlantida,,,,
-HN-CH,Honduras,Choluteca,,,,
-HN-CL,Honduras,Colon,,,,
-HN-CM,Honduras,Comayagua,,,,
-HN-CP,Honduras,Copan,,,,
-HN-CR,Honduras,Cortes,,,,
-HN-EP,Honduras,El Paraiso,,,,
-HN-FM,Honduras,Francisco Morazan,,,,
-HN-GD,Honduras,Gracias a Dios,,,,
-HN-IN,Honduras,Intibuca,,,,
-HN-IB,Honduras,Islas de la Bahia,,,,
-HN-LP,Honduras,La Paz,,,,
-HN-LE,Honduras,Lempira,,,,
-HN-OC,Honduras,Ocotepeque,,,,
-HN-OL,Honduras,Olancho,,,,
-HN-SB,Honduras,Santa Barbara,,,,
-HN-VA,Honduras,Valle,,,,
-HN-YO,Honduras,Yoro,,,,
+HN-AT,Honduras,Atlantida,2020-04-13T04:09:57,16,2,2
+HN-CH,Honduras,Choluteca,2020-04-13T04:09:57,2,0,0
+HN-CL,Honduras,Colon,2020-04-13T04:09:57,28,1,0
+HN-CM,Honduras,Comayagua,2020-04-13T04:09:57,2,0,0
+HN-CP,Honduras,Copan,2020-04-13T04:09:57,1,0,0
+HN-CR,Honduras,Cortes,2020-04-13T04:09:57,268,16,0
+HN-EP,Honduras,El Paraiso,2020-04-13T04:09:57,0,0,0
+HN-FM,Honduras,Francisco Morazan,2020-04-13T04:09:57,56,2,5
+HN-GD,Honduras,Gracias a Dios,2020-04-13T04:09:57,0,0,0
+HN-IN,Honduras,Intibuca,2020-04-13T04:09:57,0,0,0
+HN-IB,Honduras,Islas de la Bahia,2020-04-13T04:09:57,0,0,0
+HN-LP,Honduras,La Paz,2020-04-13T04:09:57,2,0,0
+HN-LE,Honduras,Lempira,2020-04-13T04:09:57,4,1,0
+HN-OC,Honduras,Ocotepeque,2020-04-13T04:09:57,0,0,0
+HN-OL,Honduras,Olancho,2020-04-13T04:09:57,0,0,0
+HN-SB,Honduras,Santa Barbara,2020-04-13T04:09:57,9,0,0
+HN-VA,Honduras,Valle,2020-04-13T04:09:57,0,0,0
+HN-YO,Honduras,Yoro,2020-04-13T04:09:57,9,3,0
 MX-AGU,Mexico,Aguascalientes,2020-04-13T00:30:00,55,1,missing
 MX-BCN,Mexico,Baja California,2020-04-13T00:30:00,335,22,missing
 MX-BCS,Mexico,Baja California Sur,2020-04-13T00:30:00,120,2,missing
