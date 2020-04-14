@@ -176,6 +176,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "scratchmex",
+      "name": "Ivan Gonzalez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4014888?v=4",
+      "profile": "https://github.com/scratchmex",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
