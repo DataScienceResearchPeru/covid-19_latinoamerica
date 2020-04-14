@@ -292,7 +292,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/josetup123"><img src="https://avatars2.githubusercontent.com/u/52168695?v=4" width="100px;" alt=""/><br /><sub><b>josetup123</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=josetup123" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ivanMSC"><img src="https://avatars0.githubusercontent.com/u/35350256?v=4" width="100px;" alt=""/><br /><sub><b>ivang</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ivanMSC" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/diegocl02"><img src="https://avatars1.githubusercontent.com/u/24798804?v=4" width="100px;" alt=""/><br /><sub><b>Diego Cisneros</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=diegocl02" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://bit.ly/3aN3xLc"><img src="https://avatars1.githubusercontent.com/u/28516148?v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernando Uribe</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=dfuribez" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/dfuribez"><img src="https://avatars1.githubusercontent.com/u/28516148?v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernando Uribe</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=dfuribez" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/carranco-sga"><img src="https://avatars2.githubusercontent.com/u/32427033?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Alfonso Carranco-Sapiéns</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=carranco-sga" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ariasbordahugo"><img src="https://avatars0.githubusercontent.com/u/56813329?v=4" width="100px;" alt=""/><br /><sub><b>ariasbordahugo</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ariasbordahugo" title="Documentation">📖</a></td>
   </tr>
@@ -302,12 +302,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://developers.ninja"><img src="https://avatars2.githubusercontent.com/u/5533099?v=4" width="100px;" alt=""/><br /><sub><b>Xavier Araque</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=rendergraf" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ncovgt2020"><img src="https://avatars0.githubusercontent.com/u/62212482?v=4" width="100px;" alt=""/><br /><sub><b>Corona Virus Guatemala</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=ncovgt2020" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Caospierre"><img src="https://avatars2.githubusercontent.com/u/20137969?v=4" width="100px;" alt=""/><br /><sub><b>Jean Pineda</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=Caospierre" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/scratchmex"><img src="https://avatars3.githubusercontent.com/u/4014888?v=4" width="100px;" alt=""/><br /><sub><b>Ivan Gonzalez</b></sub></a><br /><a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/commits?author=scratchmex" title="Documentation">📖</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
