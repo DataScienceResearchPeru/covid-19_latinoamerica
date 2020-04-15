@@ -77,7 +77,7 @@ for column in confirmed_columns:
         print("Skipping:", actual_date)
         continue
 
-    daily_report_path = f"../../latam_covid_19_data/latam_covid_19_daily_reports/{date}.csv"
+    daily_report_path = f"../../../latam_covid_19_data/daily_reports/{date}.csv"
     daily_report = pd.read_csv(daily_report_path)
 
     brazil = daily_report[daily_report.Country=="Brazil"]

@@ -26,7 +26,7 @@ for entry in parsed:
     
     print(confirmed)
     
-    daily_report_file = f"../../latam_covid_19_data/latam_covid_19_daily_reports/{date}.csv"
+    daily_report_file = f"../../../latam_covid_19_data/daily_reports/{date}.csv"
     print(f"Opening {daily_report_file}")
     daily_report = pd.read_csv(daily_report_file)
     cr = daily_report[daily_report.Country=="Costa Rica"]
