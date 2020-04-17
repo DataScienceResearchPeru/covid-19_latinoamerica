@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,,,,
-AR-K,Argentina,Catamarca,,,,
-AR-H,Argentina,Chaco,,,,
-AR-U,Argentina,Chubut,,,,
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,,,,
-AR-X,Argentina,Cordoba,,,,
-AR-W,Argentina,Corrientes,,,,
-AR-E,Argentina,Entre Rios,,,,
-AR-P,Argentina,Formosa,,,,
-AR-Y,Argentina,Jujuy,,,,
-AR-L,Argentina,La Pampa,,,,
-AR-F,Argentina,La Rioja,,,,
-AR-M,Argentina,Mendoza,,,,
-AR-N,Argentina,Misiones,,,,
-AR-Q,Argentina,Neuquen,,,,
-AR-R,Argentina,Rio Negro,,,,
-AR-A,Argentina,Salta,,,,
-AR-J,Argentina,San Juan,,,,
-AR-D,Argentina,San Luis,,,,
-AR-Z,Argentina,Santa Cruz,,,,
-AR-S,Argentina,Santa Fe,,,,
-AR-G,Argentina,Santiago del Estero,,,,
-AR-V,Argentina,Tierra del Fuego,,,,
-AR-T,Argentina,Tucuman,,,,
+AR-B,Argentina,Buenos Aires,2020-04-17T00:05:00,507,35,70
+AR-K,Argentina,Catamarca,2020-04-17T00:05:00,0,0,0
+AR-H,Argentina,Chaco,2020-04-17T00:05:00,149,8,9
+AR-U,Argentina,Chubut,2020-04-17T00:05:00,0,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-04-17T00:05:00,532,21,117
+AR-X,Argentina,Cordoba,2020-04-17T00:05:00,169,2,1
+AR-W,Argentina,Corrientes,2020-04-17T00:05:00,24,0,2
+AR-E,Argentina,Entre Rios,2020-04-17T00:05:00,21,0,4
+AR-P,Argentina,Formosa,2020-04-17T00:05:00,0,0,0
+AR-Y,Argentina,Jujuy,2020-04-17T00:05:00,5,0,3
+AR-L,Argentina,La Pampa,2020-04-17T00:05:00,5,0,0
+AR-F,Argentina,La Rioja,2020-04-17T00:05:00,14,1,0
+AR-M,Argentina,Mendoza,2020-04-17T00:05:00,49,5,2
+AR-N,Argentina,Misiones,2020-04-17T00:05:00,3,0,0
+AR-Q,Argentina,Neuquen,2020-04-17T00:05:00,84,4,1
+AR-R,Argentina,Rio Negro,2020-04-17T00:05:00,42,1,2
+AR-A,Argentina,Salta,2020-04-17T00:05:00,3,0,0
+AR-J,Argentina,San Juan,2020-04-17T00:05:00,1,0,0
+AR-D,Argentina,San Luis,2020-04-17T00:05:00,11,0,0
+AR-Z,Argentina,Santa Cruz,2020-04-17T00:05:00,37,0,0
+AR-S,Argentina,Santa Fe,2020-04-17T00:05:00,197,2,9
+AR-G,Argentina,Santiago del Estero,2020-04-17T00:05:00,9,0,0
+AR-V,Argentina,Tierra del Fuego,2020-04-17T00:05:00,83,0,0
+AR-T,Argentina,Tucuman,2020-04-17T00:05:00,29,3,0
 BO-B,Bolivia,Beni,2020-04-10T22:05:00,0,0,0
 BO-H,Bolivia,Chuquisaca,2020-04-10T22:05:00,1,0,0
 BO-C,Bolivia,Cochabamba,2020-04-10T22:05:00,48,2,0
@@ -75,39 +75,39 @@ CL-LI,Chile,O'Higgins,2020-04-10T22:05:00,44,0,0
 CL-RM,Chile,Santiago,2020-04-10T22:05:00,3193,29,0
 CL-TA,Chile,Tarapaca,2020-04-10T22:05:00,35,0,0
 CL-VS,Chile,Valparaiso,2020-04-10T22:05:00,241,2,0
-CO-AMA,Colombia,Amazonas,2020-04-10,0,0,0
-CO-ANT,Colombia,Antioquia,2020-04-10,246,1,20
-CO-ARA,Colombia,Arauca,2020-04-10,0,0,0
-CO-ATL,Colombia,Atlantico,2020-04-10,79,4,12
-CO-DC,Colombia,Bogota,2020-04-10,1121,34,61
-CO-BOL,Colombia,Bolivar,2020-04-10,109,7,10
-CO-BOY,Colombia,Boyaca,2020-04-10,27,1,2
-CO-CAL,Colombia,Caldas,2020-04-10,25,0,7
-CO-CAQ,Colombia,Caqueta,2020-04-10,0,0,0
-CO-CAS,Colombia,Casanare,2020-04-10,5,0,1
-CO-CAU,Colombia,Cauca,2020-04-10,19,2,4
-CO-CES,Colombia,Cesar,2020-04-10,20,0,8
-CO-COR,Colombia,Choco,2020-04-10,0,0,0
-CO-CUN,Colombia,Cordoba,2020-04-10,7,2,1
-CO-CHO,Colombia,Cundinamarca,2020-04-10,83,3,13
-CO-GUA,Colombia,Guainia,2020-04-10,0,0,0
-CO-GUV,Colombia,Guaviare,2020-04-10,0,0,0
-CO-HUI,Colombia,Huila,2020-04-10,41,2,6
-CO-LAG,Colombia,La Guajira,2020-04-10,1,0,0
-CO-MAG,Colombia,Magdalena,2020-04-10,42,4,0
-CO-MET,Colombia,Meta,2020-04-10,16,2,4
-CO-NAR,Colombia,Narino,2020-04-10,31,2,0
-CO-NSA,Colombia,Norte de Santander,2020-04-10,40,3,5
-CO-PUT,Colombia,Putumayo,2020-04-10,0,0,0
-CO-QUI,Colombia,Quindio,2020-04-10,44,1,5
-CO-RIS,Colombia,Risaralda,2020-04-10,52,2,5
-CO-SAP,Colombia,San Andres y Providencia,2020-04-10,4,0,1
-CO-SAN,Colombia,Santander,2020-04-10,21,1,2
-CO-SUC,Colombia,Sucre,2020-04-10,1,0,1
-CO-TOL,Colombia,Tolima,2020-04-10,21,0,4
-CO-VAC,Colombia,Valle del Cauca,2020-04-10,418,9,17
-CO-VAU,Colombia,Vaupes,2020-04-10,0,0,0
-CO-VID,Colombia,Vichada,2020-04-10,0,0,0
+CO-AMA,Colombia,Amazonas,10/04/2020,0,0,0
+CO-ANT,Colombia,Antioquia,10/04/2020,246,1,20
+CO-ARA,Colombia,Arauca,10/04/2020,0,0,0
+CO-ATL,Colombia,Atlantico,10/04/2020,79,4,12
+CO-DC,Colombia,Bogota,10/04/2020,1121,34,61
+CO-BOL,Colombia,Bolivar,10/04/2020,109,7,10
+CO-BOY,Colombia,Boyaca,10/04/2020,27,1,2
+CO-CAL,Colombia,Caldas,10/04/2020,25,0,7
+CO-CAQ,Colombia,Caqueta,10/04/2020,0,0,0
+CO-CAS,Colombia,Casanare,10/04/2020,5,0,1
+CO-CAU,Colombia,Cauca,10/04/2020,19,2,4
+CO-CES,Colombia,Cesar,10/04/2020,20,0,8
+CO-COR,Colombia,Choco,10/04/2020,0,0,0
+CO-CUN,Colombia,Cordoba,10/04/2020,7,2,1
+CO-CHO,Colombia,Cundinamarca,10/04/2020,83,3,13
+CO-GUA,Colombia,Guainia,10/04/2020,0,0,0
+CO-GUV,Colombia,Guaviare,10/04/2020,0,0,0
+CO-HUI,Colombia,Huila,10/04/2020,41,2,6
+CO-LAG,Colombia,La Guajira,10/04/2020,1,0,0
+CO-MAG,Colombia,Magdalena,10/04/2020,42,4,0
+CO-MET,Colombia,Meta,10/04/2020,16,2,4
+CO-NAR,Colombia,Narino,10/04/2020,31,2,0
+CO-NSA,Colombia,Norte de Santander,10/04/2020,40,3,5
+CO-PUT,Colombia,Putumayo,10/04/2020,0,0,0
+CO-QUI,Colombia,Quindio,10/04/2020,44,1,5
+CO-RIS,Colombia,Risaralda,10/04/2020,52,2,5
+CO-SAP,Colombia,San Andres y Providencia,10/04/2020,4,0,1
+CO-SAN,Colombia,Santander,10/04/2020,21,1,2
+CO-SUC,Colombia,Sucre,10/04/2020,1,0,1
+CO-TOL,Colombia,Tolima,10/04/2020,21,0,4
+CO-VAC,Colombia,Valle del Cauca,10/04/2020,418,9,17
+CO-VAU,Colombia,Vaupes,10/04/2020,0,0,0
+CO-VID,Colombia,Vichada,10/04/2020,0,0,0
 CR-A,Costa Rica,Alajuela,,,,
 CR-C,Costa Rica,Cartago,,,,
 CR-G,Costa Rica,Guanacaste,,,,

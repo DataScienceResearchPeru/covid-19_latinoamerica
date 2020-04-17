@@ -1,37 +1,37 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,,,,
-AR-K,Argentina,Catamarca,,,,
-AR-H,Argentina,Chaco,,,,
-AR-U,Argentina,Chubut,,,,
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,,,,
-AR-X,Argentina,Cordoba,,,,
-AR-W,Argentina,Corrientes,,,,
-AR-E,Argentina,Entre Rios,,,,
-AR-P,Argentina,Formosa,,,,
-AR-Y,Argentina,Jujuy,,,,
-AR-L,Argentina,La Pampa,,,,
-AR-F,Argentina,La Rioja,,,,
-AR-M,Argentina,Mendoza,,,,
-AR-N,Argentina,Misiones,,,,
-AR-Q,Argentina,Neuquen,,,,
-AR-R,Argentina,Rio Negro,,,,
-AR-A,Argentina,Salta,,,,
-AR-J,Argentina,San Juan,,,,
-AR-D,Argentina,San Luis,,,,
-AR-Z,Argentina,Santa Cruz,,,,
-AR-S,Argentina,Santa Fe,,,,
-AR-G,Argentina,Santiago del Estero,,,,
-AR-V,Argentina,Tierra del Fuego,,,,
-AR-T,Argentina,Tucuman,,,,
-BO-B,Bolivia,Beni,04/12/20 01:43 AM,0,0,0
-BO-H,Bolivia,Chuquisaca,04/12/20 01:43 AM,1,0,0
-BO-C,Bolivia,Cochabamba,04/12/20 01:43 AM,49,4,0
-BO-L,Bolivia,La Paz,04/12/20 01:43 AM,65,8,0
-BO-O,Bolivia,Oruro,04/12/20 01:43 AM,11,1,1
-BO-N,Bolivia,Pando,04/12/20 01:43 AM,11,0,0
-BO-P,Bolivia,Potosi,04/12/20 01:43 AM,13,1,0
-BO-S,Bolivia,Santa Cruz,04/12/20 01:43 AM,147,10,1
-BO-T,Bolivia,Tarija,04/12/20 01:43 AM,1,0,0
+AR-B,Argentina,Buenos Aires,2020-04-17T00:05:00,544,39,70
+AR-K,Argentina,Catamarca,2020-04-17T00:05:00,0,0,0
+AR-H,Argentina,Chaco,2020-04-17T00:05:00,149,8,9
+AR-U,Argentina,Chubut,2020-04-17T00:05:00,0,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-04-17T00:05:00,578,24,117
+AR-X,Argentina,Cordoba,2020-04-17T00:05:00,201,2,1
+AR-W,Argentina,Corrientes,2020-04-17T00:05:00,24,0,2
+AR-E,Argentina,Entre Rios,2020-04-17T00:05:00,21,0,4
+AR-P,Argentina,Formosa,2020-04-17T00:05:00,0,0,0
+AR-Y,Argentina,Jujuy,2020-04-17T00:05:00,5,0,3
+AR-L,Argentina,La Pampa,2020-04-17T00:05:00,5,0,0
+AR-F,Argentina,La Rioja,2020-04-17T00:05:00,18,1,0
+AR-M,Argentina,Mendoza,2020-04-17T00:05:00,54,5,2
+AR-N,Argentina,Misiones,2020-04-17T00:05:00,3,0,0
+AR-Q,Argentina,Neuquen,2020-04-17T00:05:00,85,4,1
+AR-R,Argentina,Rio Negro,2020-04-17T00:05:00,65,1,2
+AR-A,Argentina,Salta,2020-04-17T00:05:00,3,0,0
+AR-J,Argentina,San Juan,2020-04-17T00:05:00,2,0,0
+AR-D,Argentina,San Luis,2020-04-17T00:05:00,11,0,0
+AR-Z,Argentina,Santa Cruz,2020-04-17T00:05:00,40,0,0
+AR-S,Argentina,Santa Fe,2020-04-17T00:05:00,200,2,9
+AR-G,Argentina,Santiago del Estero,2020-04-17T00:05:00,12,0,0
+AR-V,Argentina,Tierra del Fuego,2020-04-17T00:05:00,91,0,0
+AR-T,Argentina,Tucuman,2020-04-17T00:05:00,30,3,0
+BO-B,Bolivia,Beni,04/12/2020 01:43,0,0,0
+BO-H,Bolivia,Chuquisaca,04/12/2020 01:43,1,0,0
+BO-C,Bolivia,Cochabamba,04/12/2020 01:43,49,4,0
+BO-L,Bolivia,La Paz,04/12/2020 01:43,65,8,0
+BO-O,Bolivia,Oruro,04/12/2020 01:43,11,1,1
+BO-N,Bolivia,Pando,04/12/2020 01:43,11,0,0
+BO-P,Bolivia,Potosi,04/12/2020 01:43,13,1,0
+BO-S,Bolivia,Santa Cruz,04/12/2020 01:43,147,10,1
+BO-T,Bolivia,Tarija,04/12/2020 01:43,1,0,0
 BR-AC,Brazil,Acre,,,,
 BR-AL,Brazil,Alagoas,,,,
 BR-AP,Brazil,Amapa,,,,
