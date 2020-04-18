@@ -7,6 +7,7 @@ import pandas as pd
 import datetime
 import os
 
+
 # Variables globales
 iso_col_name = "ISO 3166-2 Code"
 path = 'latam_covid_19_data/daily_reports/'
@@ -39,6 +40,7 @@ def load_files(path):
         indice += 1
 
     return (data_x_day)
+
 
 if __name__ == "__main__":
     # .csv files to pandas dataframe
