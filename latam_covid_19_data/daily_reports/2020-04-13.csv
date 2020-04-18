@@ -257,38 +257,38 @@ HN-OL,Honduras,Olancho,2020-04-14T17:20:53,0,0,0
 HN-SB,Honduras,Santa Barbara,2020-04-14T17:20:53,9,0,0
 HN-VA,Honduras,Valle,2020-04-14T17:20:53,0,0,0
 HN-YO,Honduras,Yoro,2020-04-14T17:20:53,9,3,0
-MX-AGU,Mexico,Aguascalientes,2020-04-14T04:05:00,55,1,0
-MX-BCN,Mexico,Baja California,2020-04-14T04:05:00,368,25,0
-MX-BCS,Mexico,Baja California Sur,2020-04-14T04:05:00,153,3,0
-MX-CAM,Mexico,Campeche,2020-04-14T04:05:00,29,2,0
-MX-CHP,Mexico,Chiapas,2020-04-14T04:05:00,43,3,0
-MX-CHH,Mexico,Chihuahua,2020-04-14T04:05:00,67,13,0
-MX-CMX,Mexico,Ciudad de Mexico,2020-04-14T04:05:00,1437,64,0
-MX-COA,Mexico,Coahuila,2020-04-14T04:05:00,176,12,0
-MX-COL,Mexico,Colima,2020-04-14T04:05:00,7,0,0
-MX-DUR,Mexico,Durango,2020-04-14T04:05:00,16,4,0
-MX-GUA,Mexico,Guanajuato,2020-04-14T04:05:00,88,5,0
-MX-GRO,Mexico,Guerrero,2020-04-14T04:05:00,77,6,0
-MX-HID,Mexico,Hidalgo,2020-04-14T04:05:00,58,9,0
-MX-JAL,Mexico,Jalisco,2020-04-14T04:05:00,159,11,0
-MX-MIC,Mexico,Michoacan,2020-04-14T04:05:00,62,9,0
-MX-MOR,Mexico,Morelos,2020-04-14T04:05:00,49,7,0
-MX-MEX,Mexico,Mexico,2020-04-14T04:05:00,558,27,0
-MX-NAY,Mexico,Nayarit,2020-04-14T04:05:00,25,4,0
-MX-NLE,Mexico,Nuevo Leon,2020-04-14T04:05:00,132,5,0
-MX-OAX,Mexico,Oaxaca,2020-04-14T04:05:00,44,4,0
-MX-PUE,Mexico,Puebla,2020-04-14T04:05:00,269,22,0
-MX-QUE,Mexico,Queretaro,2020-04-14T04:05:00,61,3,0
-MX-ROO,Mexico,Quintana Roo,2020-04-14T04:05:00,239,22,0
-MX-SLP,Mexico,San Luis Potosi,2020-04-14T04:05:00,55,4,0
-MX-SIN,Mexico,Sinaloa,2020-04-14T04:05:00,245,28,0
-MX-SON,Mexico,Sonora,2020-04-14T04:05:00,72,9,0
-MX-TAB,Mexico,Tabasco,2020-04-14T04:05:00,156,14,0
-MX-TAM,Mexico,Tamaulipas,2020-04-14T04:05:00,53,3,0
-MX-TLA,Mexico,Tlaxcala,2020-04-14T04:05:00,49,2,0
-MX-VER,Mexico,Veracruz,2020-04-14T04:05:00,82,3,0
-MX-YUC,Mexico,Yucatan,2020-04-14T04:05:00,114,6,0
-MX-ZAC,Mexico,Zacatecas,2020-04-14T04:05:00,16,2,0
+MX-AGU,Mexico,Aguascalientes,2020-04-18T23:05:00,55,1,
+MX-BCN,Mexico,Baja California,2020-04-18T23:05:00,368,25,
+MX-BCS,Mexico,Baja California Sur,2020-04-18T23:05:00,153,3,
+MX-CAM,Mexico,Campeche,2020-04-18T23:05:00,29,2,
+MX-CHP,Mexico,Chiapas,2020-04-18T23:05:00,43,3,
+MX-CHH,Mexico,Chihuahua,2020-04-18T23:05:00,67,13,
+MX-CMX,Mexico,Ciudad de Mexico,2020-04-18T23:05:00,1437,64,
+MX-COA,Mexico,Coahuila,2020-04-18T23:05:00,176,12,
+MX-COL,Mexico,Colima,2020-04-18T23:05:00,7,0,
+MX-DUR,Mexico,Durango,2020-04-18T23:05:00,16,4,
+MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,88,5,
+MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,77,6,
+MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,58,9,
+MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,159,11,
+MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,62,9,
+MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,49,7,
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,558,27,
+MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,25,4,
+MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,132,5,
+MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,44,4,
+MX-PUE,Mexico,Puebla,2020-04-18T23:05:00,269,22,
+MX-QUE,Mexico,Queretaro,2020-04-18T23:05:00,61,3,
+MX-ROO,Mexico,Quintana Roo,2020-04-18T23:05:00,239,22,
+MX-SLP,Mexico,San Luis Potosi,2020-04-18T23:05:00,55,4,
+MX-SIN,Mexico,Sinaloa,2020-04-18T23:05:00,245,28,
+MX-SON,Mexico,Sonora,2020-04-18T23:05:00,72,9,
+MX-TAB,Mexico,Tabasco,2020-04-18T23:05:00,156,14,
+MX-TAM,Mexico,Tamaulipas,2020-04-18T23:05:00,53,3,
+MX-TLA,Mexico,Tlaxcala,2020-04-18T23:05:00,49,2,
+MX-VER,Mexico,Veracruz,2020-04-18T23:05:00,82,3,
+MX-YUC,Mexico,Yucatan,2020-04-18T23:05:00,114,6,
+MX-ZAC,Mexico,Zacatecas,2020-04-18T23:05:00,16,2,
 NI-BO,Nicaragua,Boaco,,,,
 NI-CA,Nicaragua,Carazo,,,,
 NI-CI,Nicaragua,Chinandega,,,,
