@@ -257,38 +257,38 @@ HN-OL,Honduras,Olancho,2020-04-08T01:37:05,0,0,0
 HN-SB,Honduras,Santa Barbara,2020-04-08T01:37:05,0,0,0
 HN-VA,Honduras,Valle,2020-04-08T01:37:05,0,0,0
 HN-YO,Honduras,Yoro,2020-04-08T01:37:05,2,0,0
-MX-AGU,Mexico,Aguascalientes,2020-04-06T01:05:00,12,0,missing
-MX-BCN,Mexico,Baja California,2020-04-06T01:05:00,14,0,missing
-MX-BCS,Mexico,Baja California Sur,2020-04-06T01:05:00,5,0,missing
-MX-CAM,Mexico,Campeche,2020-04-06T01:05:00,2,0,missing
-MX-CHP,Mexico,Chiapas,2020-04-06T01:05:00,4,0,missing
-MX-CHH,Mexico,Chihuahua,2020-04-06T01:05:00,6,0,missing
-MX-CMX,Mexico,Ciudad de Mexico,2020-04-06T01:05:00,82,3,missing
-MX-COA,Mexico,Coahuila,2020-04-06T01:05:00,12,0,missing
-MX-COL,Mexico,Colima,2020-04-06T01:05:00,2,0,missing
-MX-DUR,Mexico,Durango,2020-04-06T01:05:00,5,1,missing
-MX-GUA,Mexico,Guanajuato,2020-04-06T01:05:00,19,0,missing
-MX-GRO,Mexico,Guerrero,2020-04-06T01:05:00,7,0,missing
-MX-HID,Mexico,Hidalgo,2020-04-06T01:05:00,7,0,missing
-MX-JAL,Mexico,Jalisco,2020-04-06T01:05:00,46,1,missing
-MX-MIC,Mexico,Michoacan,2020-04-06T01:05:00,10,0,missing
-MX-MOR,Mexico,Morelos,2020-04-06T01:05:00,2,0,missing
-MX-MEX,Mexico,Mexico,2020-04-06T01:05:00,26,0,missing
-MX-NAY,Mexico,Nayarit,2020-04-06T01:05:00,4,0,missing
-MX-NLE,Mexico,Nuevo Leon,2020-04-06T01:05:00,52,0,missing
-MX-OAX,Mexico,Oaxaca,2020-04-06T01:05:00,7,0,missing
-MX-PUE,Mexico,Puebla,2020-04-06T01:05:00,34,0,missing
-MX-QUE,Mexico,Queretaro,2020-04-06T01:05:00,18,0,missing
-MX-ROO,Mexico,Quintana Roo,2020-04-06T01:05:00,22,0,missing
-MX-SLP,Mexico,San Luis Potosi,2020-04-06T01:05:00,17,1,missing
-MX-SIN,Mexico,Sinaloa,2020-04-06T01:05:00,4,0,missing
-MX-SON,Mexico,Sonora,2020-04-06T01:05:00,4,0,missing
-MX-TAB,Mexico,Tabasco,2020-04-06T01:05:00,6,0,missing
-MX-TAM,Mexico,Tamaulipas,2020-04-06T01:05:00,6,0,missing
-MX-TLA,Mexico,Tlaxcala,2020-04-06T01:05:00,1,0,missing
-MX-VER,Mexico,Veracruz,2020-04-06T01:05:00,7,0,missing
-MX-YUC,Mexico,Yucatan,2020-04-06T01:05:00,29,0,missing
-MX-ZAC,Mexico,Zacatecas,2020-04-06T01:05:00,3,0,missing
+MX-AGU,Mexico,Aguascalientes,2020-04-06T01:05:00,12,0,
+MX-BCN,Mexico,Baja California,2020-04-06T01:05:00,14,0,
+MX-BCS,Mexico,Baja California Sur,2020-04-06T01:05:00,5,0,
+MX-CAM,Mexico,Campeche,2020-04-06T01:05:00,2,0,
+MX-CHP,Mexico,Chiapas,2020-04-06T01:05:00,4,0,
+MX-CHH,Mexico,Chihuahua,2020-04-06T01:05:00,6,0,
+MX-CMX,Mexico,Ciudad de Mexico,2020-04-06T01:05:00,82,3,
+MX-COA,Mexico,Coahuila,2020-04-06T01:05:00,12,0,
+MX-COL,Mexico,Colima,2020-04-06T01:05:00,2,0,
+MX-DUR,Mexico,Durango,2020-04-06T01:05:00,5,1,
+MX-GUA,Mexico,Guanajuato,2020-04-06T01:05:00,19,0,
+MX-GRO,Mexico,Guerrero,2020-04-06T01:05:00,7,0,
+MX-HID,Mexico,Hidalgo,2020-04-06T01:05:00,7,0,
+MX-JAL,Mexico,Jalisco,2020-04-06T01:05:00,46,1,
+MX-MIC,Mexico,Michoacan,2020-04-06T01:05:00,10,0,
+MX-MOR,Mexico,Morelos,2020-04-06T01:05:00,2,0,
+MX-MEX,Mexico,Mexico,2020-04-06T01:05:00,26,0,
+MX-NAY,Mexico,Nayarit,2020-04-06T01:05:00,4,0,
+MX-NLE,Mexico,Nuevo Leon,2020-04-06T01:05:00,52,0,
+MX-OAX,Mexico,Oaxaca,2020-04-06T01:05:00,7,0,
+MX-PUE,Mexico,Puebla,2020-04-06T01:05:00,34,0,
+MX-QUE,Mexico,Queretaro,2020-04-06T01:05:00,18,0,
+MX-ROO,Mexico,Quintana Roo,2020-04-06T01:05:00,22,0,
+MX-SLP,Mexico,San Luis Potosi,2020-04-06T01:05:00,17,1,
+MX-SIN,Mexico,Sinaloa,2020-04-06T01:05:00,4,0,
+MX-SON,Mexico,Sonora,2020-04-06T01:05:00,4,0,
+MX-TAB,Mexico,Tabasco,2020-04-06T01:05:00,6,0,
+MX-TAM,Mexico,Tamaulipas,2020-04-06T01:05:00,6,0,
+MX-TLA,Mexico,Tlaxcala,2020-04-06T01:05:00,1,0,
+MX-VER,Mexico,Veracruz,2020-04-06T01:05:00,7,0,
+MX-YUC,Mexico,Yucatan,2020-04-06T01:05:00,29,0,
+MX-ZAC,Mexico,Zacatecas,2020-04-06T01:05:00,3,0,
 NI-BO,Nicaragua,Boaco,,0,0,0
 NI-CA,Nicaragua,Carazo,,0,0,0
 NI-CI,Nicaragua,Chinandega,,0,0,0
