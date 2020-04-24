@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,,,,
-CL-AR,Chile,Araucania,,,,
-CL-AP,Chile,Arica y Parinacota,,,,
-CL-AT,Chile,Atacama,,,,
-CL-AI,Chile,Aysen,,,,
-CL-BI,Chile,Biobio,,,,
-CL-CO,Chile,Coquimbo,,,,
-CL-LL,Chile,Los Lagos,,,,
-CL-LR,Chile,Los Rios,,,,
-CL-MA,Chile,Magallanes,,,,
-CL-ML,Chile,Maule,,,,
-CL-NB,Chile,Nuble,,,,
-CL-LI,Chile,O'Higgins,,,,
-CL-RM,Chile,Santiago,,,,
-CL-TA,Chile,Tarapaca,,,,
-CL-VS,Chile,Valparaiso,,,,
+CL-AN,Chile,Antofagasta,2020-04-24T15:03:03,366,2,0
+CL-AR,Chile,Araucania,2020-04-24T15:03:03,1184,26,0
+CL-AP,Chile,Arica y Parinacota,2020-04-24T15:03:03,239,3,0
+CL-AT,Chile,Atacama,2020-04-24T15:03:03,21,0,0
+CL-AI,Chile,Aysen,2020-04-24T15:03:03,7,0,0
+CL-BI,Chile,Biobio,2020-04-24T15:03:03,683,5,0
+CL-CO,Chile,Coquimbo,2020-04-24T15:03:03,72,0,0
+CL-LL,Chile,Los Lagos,2020-04-24T15:03:03,460,8,0
+CL-LR,Chile,Los Rios,2020-04-24T15:03:03,174,3,0
+CL-MA,Chile,Magallanes,2020-04-24T15:03:03,624,8,0
+CL-ML,Chile,Maule,2020-04-24T15:03:03,349,10,0
+CL-NB,Chile,Nuble,2020-04-24T15:03:03,715,14,0
+CL-LI,Chile,O'Higgins,2020-04-24T15:03:03,81,1,0
+CL-RM,Chile,Santiago,2020-04-24T15:03:03,6761,86,0
+CL-TA,Chile,Tarapaca,2020-04-24T15:03:03,134,0,0
+CL-VS,Chile,Valparaiso,2020-04-24T15:03:03,436,8,0
 CO-AMA,Colombia,Amazonas,,,,
 CO-ANT,Colombia,Antioquia,,,,
 CO-ARA,Colombia,Arauca,,,,
