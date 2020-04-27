@@ -50,9 +50,9 @@ BR-PB,Brazil,Paraiba,2020-04-10,79,11,0
 BR-PR,Brazil,Parana,2020-04-10,643,25,0
 BR-PE,Brazil,Pernambuco,2020-04-10,684,65,0
 BR-PI,Brazil,Piaui,2020-04-10,40,7,0
-BR-RJ,Brazil,Rio de Janeiro,2020-04-10,2464,147,0
 BR-RN,Brazil,Rio Grande do Norte,2020-04-10,263,11,0
 BR-RS,Brazil,Rio Grande do Sul,2020-04-10,636,14,0
+BR-RJ,Brazil,Rio de Janeiro,2020-04-10,2464,147,0
 BR-RO,Brazil,Rondonia,2020-04-10,32,2,0
 BR-RR,Brazil,Roraima,2020-04-10,63,3,0
 BR-SC,Brazil,Santa Catarina,2020-04-10,693,18,0
@@ -271,9 +271,9 @@ MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,78,1,
 MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,54,6,
 MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,51,7,
 MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,144,9,
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,470,16,
 MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,46,7,
 MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,35,7,
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,470,16,
 MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,19,3,
 MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,110,5,
 MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,41,2,

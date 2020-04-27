@@ -50,9 +50,9 @@ BR-PB,Brazil,Paraiba,06/04/2020,35,4,0
 BR-PR,Brazil,Parana,06/04/2020,458,11,0
 BR-PE,Brazil,Pernambuco,06/04/2020,223,30,0
 BR-PI,Brazil,Piaui,06/04/2020,23,4,0
-BR-RJ,Brazil,Rio de Janeiro,06/04/2020,1461,71,0
 BR-RN,Brazil,Rio Grande do Norte,06/04/2020,246,7,0
 BR-RS,Brazil,Rio Grande do Sul,06/04/2020,481,7,0
+BR-RJ,Brazil,Rio de Janeiro,06/04/2020,1461,71,0
 BR-RO,Brazil,Rondonia,06/04/2020,14,1,0
 BR-RR,Brazil,Roraima,06/04/2020,42,1,0
 BR-SC,Brazil,Santa Catarina,06/04/2020,379,10,0
@@ -115,22 +115,22 @@ CR-H,Costa Rica,Heredia,06/04/2020,40,0,0
 CR-L,Costa Rica,Limon,06/04/2020,1,0,0
 CR-P,Costa Rica,Puntarenas,06/04/2020,24,0,0
 CR-SJ,Costa Rica,San Jose,06/04/2020,214,0,0
-CU-15,Cuba,Artemisa,,0,0,0
-CU-09,Cuba,Camagüey,,0,0,0
-CU-08,Cuba,Ciego de Ávila,,0,0,0
-CU-06,Cuba,Cienfuegos,,0,0,0
-CU-12,Cuba,Granma,,0,0,0
-CU-14,Cuba,Guantánamo,,0,0,0
-CU-11,Cuba,Holguín,,0,0,0
+CU-15,Cuba,Artemisa,2020-04-27T16:20:15,,0,0
+CU-09,Cuba,Camagüey,2020-04-27T16:20:15,,0,0
+CU-08,Cuba,Ciego de Ávila,2020-04-27T16:20:15,,0,0
+CU-06,Cuba,Cienfuegos,2020-04-27T16:21:15,,0,0
+CU-12,Cuba,Granma,2020-04-27T16:21:15,,0,0
+CU-14,Cuba,Guantánamo,2020-04-27T16:21:15,,0,0
+CU-11,Cuba,Holguín,2020-04-27T16:21:15,,0,0
 CU-99,Cuba,Isla de la Juventud,,0,0,0
-CU-03,Cuba,La Habana,,0,0,0
-CU-10,Cuba,Las Tunas,,0,0,0
-CU-04,Cuba,Matanzas,,0,0,0
-CU-16,Cuba,Mayabeque,,0,0,0
-CU-01,Cuba,Pinar del Río,,0,0,0
-CU-07,Cuba,Sancti Spíritus,,0,0,0
-CU-13,Cuba,Santiago de Cuba,,0,0,0
-CU-05,Cuba,Villa Clara,,0,0,0
+CU-03,Cuba,La Habana,2020-04-27T16:21:15,,0,0
+CU-10,Cuba,Las Tunas,2020-04-27T16:21:15,,0,0
+CU-04,Cuba,Matanzas,2020-04-27T16:21:15,,0,0
+CU-16,Cuba,Mayabeque,2020-04-27T16:21:15,,0,0
+CU-01,Cuba,Pinar del Río,2020-04-27T16:21:15,,0,0
+CU-07,Cuba,Sancti Spíritus,2020-04-27T16:21:15,,0,0
+CU-13,Cuba,Santiago de Cuba,2020-04-27T16:21:15,,0,0
+CU-05,Cuba,Villa Clara,2020-04-27T16:21:15,,0,0
 DO-02,Dominican Republic,Azua,,0,0,0
 DO-03,Dominican Republic,Baoruco,,0,0,0
 DO-04,Dominican Republic,Barahona,,0,0,0
@@ -271,9 +271,9 @@ MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,58,0,
 MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,32,3,
 MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,35,5,
 MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,126,7,
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,261,8,
 MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,33,3,
 MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,17,3,
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,261,8,
 MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,10,1,
 MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,93,3,
 MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,27,1,
@@ -355,7 +355,7 @@ PE-LIM,Peru,Lima,2020-04-08T02:45:00,1837,58,0
 PE-LOR,Peru,Loreto,2020-04-08T02:45:00,171,2,0
 PE-MDD,Peru,Madre de dios,2020-04-08T02:45:00,2,0,0
 PE-MOQ,Peru,Moquegua,2020-04-08T02:45:00,1,0,0
-PE-PAS,Peru,Pasco,2020-04-08T02:45:00,5,0,0
+PE-PAS,Peru,Pasco,2020-04-27T16:33:15,5,,0
 PE-PIU,Peru,Piura,2020-04-08T02:45:00,30,1,0
 PE-PUN,Peru,Puno,2020-04-08T02:45:00,0,0,0
 PE-SAM,Peru,San Martin,2020-04-08T02:45:00,8,1,0

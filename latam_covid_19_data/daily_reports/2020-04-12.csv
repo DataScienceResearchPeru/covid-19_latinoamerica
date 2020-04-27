@@ -31,7 +31,7 @@ BO-O,Bolivia,Oruro,2020-04-13T04:08:23,13,2,1
 BO-N,Bolivia,Pando,2020-04-13T04:08:23,11,0,0
 BO-P,Bolivia,Potosi,2020-04-13T04:08:23,13,1,0
 BO-S,Bolivia,Santa Cruz,2020-04-13T04:08:23,163,10,1
-BO-T,Bolivia,Tarija,2020-04-13T04:08:23,2,0,0
+BO-T,Bolivia,Tarija,2020-04-27T16:16:15,2,0,
 BR-AC,Brazil,Acre,2020-04-12,77,2,0
 BR-AL,Brazil,Alagoas,2020-04-12,48,3,0
 BR-AP,Brazil,Amapa,2020-04-12,230,5,0
@@ -50,9 +50,9 @@ BR-PB,Brazil,Paraiba,2020-04-12,101,13,0
 BR-PR,Brazil,Parana,2020-04-12,738,30,0
 BR-PE,Brazil,Pernambuco,2020-04-12,960,85,0
 BR-PI,Brazil,Piaui,2020-04-12,44,7,0
-BR-RJ,Brazil,Rio de Janeiro,2020-04-12,2855,170,0
 BR-RN,Brazil,Rio Grande do Norte,2020-04-12,302,15,0
 BR-RS,Brazil,Rio Grande do Sul,2020-04-12,653,16,0
+BR-RJ,Brazil,Rio de Janeiro,2020-04-12,2855,170,0
 BR-RO,Brazil,Rondonia,2020-04-12,35,2,0
 BR-RR,Brazil,Roraima,2020-04-12,79,3,0
 BR-SC,Brazil,Santa Catarina,2020-04-12,768,24,0
@@ -76,36 +76,36 @@ CL-RM,Chile,Santiago,2020-04-13T04:07:33,3599,35,0
 CL-TA,Chile,Tarapaca,2020-04-13T04:07:33,46,0,0
 CL-VS,Chile,Valparaiso,2020-04-13T04:07:33,254,2,0
 CO-AMA,Colombia,Amazonas,,,,
-CO-ANT,Colombia,Antioquia,,,,
+CO-ANT,Colombia,Antioquia,2020-04-27T16:18:15,,,
 CO-ARA,Colombia,Arauca,,,,
-CO-ATL,Colombia,Atlantico,,,,
-CO-DC,Colombia,Bogota,,,,
-CO-BOL,Colombia,Bolivar,,,,
-CO-BOY,Colombia,Boyaca,,,,
-CO-CAL,Colombia,Caldas,,,,
+CO-ATL,Colombia,Atlantico,2020-04-27T16:18:15,,,
+CO-DC,Colombia,Bogota,2020-04-27T16:19:15,,,
+CO-BOL,Colombia,Bolivar,2020-04-27T16:18:15,,,
+CO-BOY,Colombia,Boyaca,2020-04-27T16:18:15,,,
+CO-CAL,Colombia,Caldas,2020-04-27T16:19:15,,,
 CO-CAQ,Colombia,Caqueta,,,,
-CO-CAS,Colombia,Casanare,,,,
-CO-CAU,Colombia,Cauca,,,,
-CO-CES,Colombia,Cesar,,,,
+CO-CAS,Colombia,Casanare,2020-04-27T16:19:15,,,
+CO-CAU,Colombia,Cauca,2020-04-27T16:19:15,,,
+CO-CES,Colombia,Cesar,2020-04-27T16:19:15,,,
 CO-COR,Colombia,Choco,,,,
-CO-CUN,Colombia,Cordoba,,,,
-CO-CHO,Colombia,Cundinamarca,,,,
+CO-CUN,Colombia,Cordoba,2020-04-27T16:19:15,,,
+CO-CHO,Colombia,Cundinamarca,2020-04-27T16:19:15,,,
 CO-GUA,Colombia,Guainia,,,,
 CO-GUV,Colombia,Guaviare,,,,
-CO-HUI,Colombia,Huila,,,,
-CO-LAG,Colombia,La Guajira,,,,
-CO-MAG,Colombia,Magdalena,,,,
-CO-MET,Colombia,Meta,,,,
-CO-NAR,Colombia,Narino,,,,
-CO-NSA,Colombia,Norte de Santander,,,,
+CO-HUI,Colombia,Huila,2020-04-27T16:19:15,,,
+CO-LAG,Colombia,La Guajira,2020-04-27T16:19:15,,,
+CO-MAG,Colombia,Magdalena,2020-04-27T16:19:15,,,
+CO-MET,Colombia,Meta,2020-04-27T16:19:15,,,
+CO-NAR,Colombia,Narino,2020-04-27T16:19:15,,,
+CO-NSA,Colombia,Norte de Santander,2020-04-27T16:19:15,,,
 CO-PUT,Colombia,Putumayo,,,,
-CO-QUI,Colombia,Quindio,,,,
-CO-RIS,Colombia,Risaralda,,,,
-CO-SAP,Colombia,San Andres y Providencia,,,,
-CO-SAN,Colombia,Santander,,,,
-CO-SUC,Colombia,Sucre,,,,
-CO-TOL,Colombia,Tolima,,,,
-CO-VAC,Colombia,Valle del Cauca,,,,
+CO-QUI,Colombia,Quindio,2020-04-27T16:20:15,,,
+CO-RIS,Colombia,Risaralda,2020-04-27T16:20:15,,,
+CO-SAP,Colombia,San Andres y Providencia,2020-04-27T16:20:15,,,
+CO-SAN,Colombia,Santander,2020-04-27T16:20:15,,,
+CO-SUC,Colombia,Sucre,2020-04-27T16:20:15,,,
+CO-TOL,Colombia,Tolima,2020-04-27T16:20:15,,,
+CO-VAC,Colombia,Valle del Cauca,2020-04-27T16:20:15,,,
 CO-VAU,Colombia,Vaupes,,,,
 CO-VID,Colombia,Vichada,,,,
 CR-A,Costa Rica,Alajuela,,,,
@@ -271,9 +271,9 @@ MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,82,5,
 MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,70,6,
 MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,58,9,
 MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,156,11,
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,523,22,
 MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,61,9,
 MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,44,7,
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,523,22,
 MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,22,4,
 MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,124,5,
 MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,43,3,
@@ -338,29 +338,29 @@ PY-9,Paraguay,Paraguari,,,,
 PY-15,Paraguay,Presidente Hayes,,,,
 PY-2,Paraguay,San Pedro,,,,
 PE-AMA,Peru,Amazonas,2020-04-08T21:22:00,19,0,0
-PE-ANC,Peru,Ancash,2020-04-08T21:22:00,102,0,0
+PE-ANC,Peru,Ancash,2020-04-27T16:32:15,102,,0
 PE-APU,Peru,Apurimac,2020-04-08T21:22:00,5,0,0
-PE-ARE,Peru,Arequipa,2020-04-08T21:22:00,86,0,0
+PE-ARE,Peru,Arequipa,2020-04-27T16:32:15,86,,0
 PE-AYA,Peru,Ayacucho,2020-04-08T21:22:00,11,0,0
 PE-CAJ,Peru,Cajamarca,2020-04-08T21:22:00,11,0,0
-PE-CAL,Peru,Callao,2020-04-08T21:22:00,596,0,0
-PE-CUS,Peru,Cusco,2020-04-08T21:22:00,59,0,0
-PE-HUV,Peru,Huancavelica,2020-04-08T21:22:00,9,0,0
+PE-CAL,Peru,Callao,2020-04-27T16:33:15,596,,0
+PE-CUS,Peru,Cusco,2020-04-27T16:33:15,59,,0
+PE-HUV,Peru,Huancavelica,2020-04-27T16:33:15,9,,0
 PE-HUC,Peru,Huanuco,2020-04-08T21:22:00,10,0,0
-PE-ICA,Peru,Ica,2020-04-08T21:22:00,58,0,0
-PE-JUN,Peru,Junin,2020-04-08T21:22:00,64,0,0
-PE-LAL,Peru,La Libertad,2020-04-08T21:22:00,110,0,0
-PE-LAM,Peru,Lambayeque,2020-04-08T21:22:00,355,0,0
-PE-LIM,Peru,Lima,2020-04-08T21:22:00,5456,0,0
-PE-LOR,Peru,Loreto,2020-04-08T21:22:00,322,0,0
+PE-ICA,Peru,Ica,2020-04-27T16:33:15,58,,0
+PE-JUN,Peru,Junin,2020-04-27T16:33:15,64,,0
+PE-LAL,Peru,La Libertad,2020-04-27T16:33:15,110,,0
+PE-LAM,Peru,Lambayeque,2020-04-27T16:33:15,355,,0
+PE-LIM,Peru,Lima,2020-04-27T16:33:15,5456,,0
+PE-LOR,Peru,Loreto,2020-04-27T16:33:15,322,,0
 PE-MDD,Peru,Madre de dios,2020-04-08T21:22:00,3,0,0
 PE-MOQ,Peru,Moquegua,2020-04-08T21:22:00,10,0,0
 PE-PAS,Peru,Pasco,2020-04-08T21:22:00,11,0,0
-PE-PIU,Peru,Piura,2020-04-08T21:22:00,104,0,0
+PE-PIU,Peru,Piura,2020-04-27T16:33:15,104,,0
 PE-PUN,Peru,Puno,2020-04-08T21:22:00,2,0,0
-PE-SAM,Peru,San Martin,2020-04-08T21:22:00,23,0,0
+PE-SAM,Peru,San Martin,2020-04-27T16:33:15,23,,0
 PE-TAC,Peru,Tacna,2020-04-08T21:22:00,9,0,0
-PE-TUM,Peru,Tumbes,2020-04-08T21:22:00,69,0,0
+PE-TUM,Peru,Tumbes,2020-04-27T16:34:15,69,,0
 PE-UCA,Peru,Ucayali,2020-04-08T21:22:00,15,0,0
 US-PR,United States,Puerto Rico,,,,
 UY-AR,Uruguay,Artigas,,,,

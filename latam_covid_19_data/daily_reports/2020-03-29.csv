@@ -2,7 +2,7 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 AR-B,Argentina,Buenos Aires,2020-03-30T01:29:04,217,8,15
 AR-K,Argentina,Catamarca,2020-03-30T01:29:04,0,0,0
 AR-H,Argentina,Chaco,2020-03-30T01:29:04,69,4,0
-AR-U,Argentina,Chubut,2020-03-30T01:29:04,0,0,0
+AR-U,Argentina,Chubut,2020-04-27T16:14:15,,0,0
 AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-03-30T01:29:04,258,6,53
 AR-X,Argentina,Cordoba,2020-03-30T01:29:04,73,0,1
 AR-W,Argentina,Corrientes,2020-03-30T01:29:04,9,0,0
@@ -50,9 +50,9 @@ BR-PB,Brazil,Paraiba,2020-03-29,14,0,0
 BR-PR,Brazil,Parana,2020-03-29,148,2,0
 BR-PE,Brazil,Pernambuco,2020-03-29,73,5,0
 BR-PI,Brazil,Piaui,2020-03-29,14,1,0
-BR-RJ,Brazil,Rio de Janeiro,2020-03-29,600,17,0
 BR-RN,Brazil,Rio Grande do Norte,2020-03-29,68,1,0
 BR-RS,Brazil,Rio Grande do Sul,2020-03-29,226,1,0
+BR-RJ,Brazil,Rio de Janeiro,2020-03-29,600,17,0
 BR-RO,Brazil,Rondonia,2020-03-29,6,0,0
 BR-RR,Brazil,Roraima,2020-03-29,16,0,0
 BR-SC,Brazil,Santa Catarina,2020-03-29,194,2,0
@@ -271,9 +271,9 @@ MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,37,0,
 MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,13,0,
 MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,17,2,
 MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,83,3,
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,119,0,
 MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,17,1,
 MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,6,1,
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,119,0,
 MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,5,0,
 MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,67,0,
 MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,14,0,

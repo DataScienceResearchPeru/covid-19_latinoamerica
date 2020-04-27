@@ -50,9 +50,9 @@ BR-PB,Brazil,Paraiba,2020-03-27,9,0,0
 BR-PR,Brazil,Parana,2020-03-27,119,2,0
 BR-PE,Brazil,Pernambuco,2020-03-27,56,4,0
 BR-PI,Brazil,Piaui,2020-03-27,9,0,0
-BR-RJ,Brazil,Rio de Janeiro,2020-03-27,493,10,0
 BR-RN,Brazil,Rio Grande do Norte,2020-03-27,28,0,0
 BR-RS,Brazil,Rio Grande do Sul,2020-03-27,195,1,0
+BR-RJ,Brazil,Rio de Janeiro,2020-03-27,493,10,0
 BR-RO,Brazil,Rondonia,2020-03-27,6,0,0
 BR-RR,Brazil,Roraima,2020-03-27,10,0,0
 BR-SC,Brazil,Santa Catarina,2020-03-27,149,2,0
@@ -180,7 +180,7 @@ EC-M,Ecuador,Manabi,2020-03-27T17:00:00,40,1,0
 EC-S,Ecuador,Morona Santiago,2020-03-27T17:00:00,8,0,0
 EC-N,Ecuador,Napo,2020-03-27T17:00:00,0,0,0
 EC-D,Ecuador,Orellana,2020-03-27T17:00:00,0,0,0
-EC-Y,Ecuador,Pastaza,2020-03-27T17:00:00,2,0,0
+EC-Y,Ecuador,Pastaza,2020-04-27T16:24:15,2,,0
 EC-P,Ecuador,Pichincha,2020-03-27T17:00:00,137,4,0
 EC-SE,Ecuador,Santa Elena,2020-03-27T17:00:00,10,2,0
 EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-03-27T17:00:00,0,0,0
@@ -271,9 +271,9 @@ MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,31,0,
 MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,7,0,
 MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,12,0,
 MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,77,3,
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,70,0,
 MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,16,1,
 MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,4,0,
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,70,0,
 MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,5,0,
 MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,64,0,
 MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,11,0,
@@ -383,27 +383,27 @@ UY-SO,Uruguay,Soriano,,0,0,0
 UY-TA,Uruguay,Tacuarembo,,0,0,0
 UY-TT,Uruguay,Treinta y Tres,,0,0,0
 VE-Z,Venezuela,Amazonas,,0,0,0
-VE-B,Venezuela,Anzoategui,,0,0,0
-VE-C,Venezuela,Apure,,0,0,0
-VE-D,Venezuela,Aragua,,0,0,0
-VE-E,Venezuela,Barinas,,0,0,0
-VE-F,Venezuela,Bolivar,,0,0,0
+VE-B,Venezuela,Anzoategui,2020-04-27T16:35:15,,0,0
+VE-C,Venezuela,Apure,2020-04-27T16:35:15,,0,0
+VE-D,Venezuela,Aragua,2020-04-27T16:35:15,,0,0
+VE-E,Venezuela,Barinas,2020-04-27T16:35:15,,0,0
+VE-F,Venezuela,Bolivar,2020-04-27T16:35:15,,0,0
 VE-G,Venezuela,Carabobo,,0,0,0
-VE-A,Venezuela,Caracas Distrito Capital,,0,0,0
-VE-H,Venezuela,Cojedes,,0,0,0
+VE-A,Venezuela,Caracas Distrito Capital,2020-04-27T16:35:15,,0,0
+VE-H,Venezuela,Cojedes,2020-04-27T16:35:15,,0,0
 VE-Y,Venezuela,Delta Amacuro,,0,0,0
-VE-W,Venezuela,Dependencias Federales,,0,0,0
-VE-I,Venezuela,Falcon,,0,0,0
-VE-J,Venezuela,Guarico,,0,0,0
-VE-K,Venezuela,Lara,,0,0,0
-VE-L,Venezuela,Merida,,0,0,0
-VE-M,Venezuela,Miranda,,0,0,0
-VE-N,Venezuela,Monagas,,0,0,0
-VE-O,Venezuela,Nueva Esparta,,0,0,0
-VE-P,Venezuela,Portuguesa,,0,0,0
+VE-W,Venezuela,Dependencias Federales,2020-04-27T16:35:15,,0,0
+VE-I,Venezuela,Falcon,2020-04-27T16:35:15,,0,0
+VE-J,Venezuela,Guarico,2020-04-27T16:35:15,,0,0
+VE-K,Venezuela,Lara,2020-04-27T16:35:15,,0,0
+VE-L,Venezuela,Merida,2020-04-27T16:36:15,,0,0
+VE-M,Venezuela,Miranda,2020-04-27T16:35:15,,0,
+VE-N,Venezuela,Monagas,2020-04-27T16:35:15,,0,0
+VE-O,Venezuela,Nueva Esparta,2020-04-27T16:36:15,,0,0
+VE-P,Venezuela,Portuguesa,2020-04-27T16:36:15,,0,0
 VE-R,Venezuela,Sucre,,0,0,0
-VE-S,Venezuela,Tachira,,0,0,0
+VE-S,Venezuela,Tachira,2020-04-27T16:36:15,,0,0
 VE-T,Venezuela,Trujillo,,0,0,0
-VE-X,Venezuela,Vargas,,0,0,0
+VE-X,Venezuela,Vargas,2020-04-27T16:36:15,,0,0
 VE-U,Venezuela,Yaracuy,,0,0,0
-VE-V,Venezuela,Zulia,,0,0,0
+VE-V,Venezuela,Zulia,2020-04-27T16:36:15,,0,0

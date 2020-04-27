@@ -50,9 +50,9 @@ BR-PB,Brazil,Paraiba,2020-03-21,1,0,0
 BR-PR,Brazil,Parana,2020-03-21,43,0,0
 BR-PE,Brazil,Pernambuco,2020-03-21,30,0,0
 BR-PI,Brazil,Piaui,2020-03-21,4,0,0
-BR-RJ,Brazil,Rio de Janeiro,2020-03-21,119,3,0
 BR-RN,Brazil,Rio Grande do Norte,2020-03-21,6,0,0
 BR-RS,Brazil,Rio Grande do Sul,2020-03-21,60,0,0
+BR-RJ,Brazil,Rio de Janeiro,2020-03-21,119,3,0
 BR-RO,Brazil,Rondonia,2020-03-21,1,0,0
 BR-RR,Brazil,Roraima,2020-03-21,0,0,0
 BR-SC,Brazil,Santa Catarina,2020-03-21,51,0,0
@@ -201,9 +201,9 @@ SV-SV,El Salvador,San Vicente,,0,0,0
 SV-SA,El Salvador,Santa Ana,,0,0,0
 SV-SO,El Salvador,Sonsonate,,0,0,0
 SV-US,El Salvador,Usulutan,,0,0,0
-FR-GP,France,Guadeloupe,,0,0,0
-FR-GF,France,Guyane,,0,0,0
-FR-MQ,France,Martinique,,0,0,0
+FR-GP,France,Guadeloupe,2020-04-27T16:25:15,,0,0
+FR-GF,France,Guyane,2020-04-27T16:25:15,,0,0
+FR-MQ,France,Martinique,2020-04-27T16:25:15,,,0
 FR-BL,France,Saint-Barthélemy,,0,0,0
 FR-MF,France,Saint-Martin,,0,0,0
 FR-PM,France,Saint-Pierre-et-Miquelon,,0,0,0
@@ -271,9 +271,9 @@ MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,4,0,0
 MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,4,0,0
 MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,3,0,0
 MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,32,0,0
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,14,0,1
 MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,0,0,0
 MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,2,0,0
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,14,0,1
 MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,1,0,0
 MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,32,0,0
 MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,2,0,0
@@ -298,7 +298,7 @@ NI-GR,Nicaragua,Granada,,0,0,0
 NI-JI,Nicaragua,Jinotega,,0,0,0
 NI-LE,Nicaragua,León,,0,0,0
 NI-MD,Nicaragua,Madriz,,0,0,0
-NI-MN,Nicaragua,Managua,,0,0,0
+NI-MN,Nicaragua,Managua,2020-04-27T16:30:15,,0,0
 NI-MS,Nicaragua,Masaya,,0,0,0
 NI-MT,Nicaragua,Matagalpa,,0,0,0
 NI-AN,Nicaragua,NCCAR,,0,0,0

@@ -2,7 +2,7 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 AR-B,Argentina,Buenos Aires,2020-03-31T03:01:01,253,10,15
 AR-K,Argentina,Catamarca,2020-03-31T03:01:02,0,0,0
 AR-H,Argentina,Chaco,2020-03-31T03:01:03,81,4,0
-AR-U,Argentina,Chubut,2020-03-31T03:01:04,0,0,0
+AR-U,Argentina,Chubut,2020-04-27T16:14:15,,0,0
 AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-03-31T03:01:00,292,6,53
 AR-X,Argentina,Cordoba,2020-03-31T03:01:05,81,0,1
 AR-W,Argentina,Corrientes,2020-03-31T03:01:06,19,0,0
@@ -50,9 +50,9 @@ BR-PB,Brazil,Paraiba,2020-03-30,15,0,0
 BR-PR,Brazil,Parana,2020-03-30,155,3,0
 BR-PE,Brazil,Pernambuco,2020-03-30,78,6,0
 BR-PI,Brazil,Piaui,2020-03-30,16,3,0
-BR-RJ,Brazil,Rio de Janeiro,2020-03-30,657,18,0
 BR-RN,Brazil,Rio Grande do Norte,2020-03-30,77,1,0
 BR-RS,Brazil,Rio Grande do Sul,2020-03-30,241,3,0
+BR-RJ,Brazil,Rio de Janeiro,2020-03-30,657,18,0
 BR-RO,Brazil,Rondonia,2020-03-30,6,0,0
 BR-RR,Brazil,Roraima,2020-03-30,16,0,0
 BR-SC,Brazil,Santa Catarina,2020-03-30,197,1,0
@@ -80,7 +80,7 @@ CO-ANT,Colombia,Antioquia,2020-03-30,96,0,2
 CO-ARA,Colombia,Arauca,2020-03-30,0,0,0
 CO-ATL,Colombia,Atlantico,2020-03-30,25,0,0
 CO-DC,Colombia,Bogota,2020-03-30,353,5,3
-CO-BOL,Colombia,Bolivar,2020-03-30,40,2,0
+CO-BOL,Colombia,Bolivar,2020-04-27T16:18:15,40,2,
 CO-BOY,Colombia,Boyaca,2020-03-30,4,0,0
 CO-CAL,Colombia,Caldas,2020-03-30,15,0,1
 CO-CAQ,Colombia,Caqueta,2020-03-30,0,0,0
@@ -131,38 +131,38 @@ CU-01,Cuba,Pinar del Río,,0,0,0
 CU-07,Cuba,Sancti Spíritus,,0,0,0
 CU-13,Cuba,Santiago de Cuba,,0,0,0
 CU-05,Cuba,Villa Clara,,0,0,0
-DO-02,Dominican Republic,Azua,,0,0,0
+DO-02,Dominican Republic,Azua,2020-04-27T16:21:15,,0,0
 DO-03,Dominican Republic,Baoruco,,0,0,0
-DO-04,Dominican Republic,Barahona,,0,0,0
+DO-04,Dominican Republic,Barahona,2020-04-27T16:21:15,,0,0
 DO-05,Dominican Republic,Dajabon,,0,0,0
-DO-06,Dominican Republic,Distrito Nacional,,0,0,0
-DO-08,Dominican Republic,Duarte,,0,0,0
+DO-06,Dominican Republic,Distrito Nacional,2020-04-27T16:21:15,,,0
+DO-08,Dominican Republic,Duarte,2020-04-27T16:22:15,,,0
 DO-09,Dominican Republic,El Seibo,,0,0,0
 DO-30,Dominican Republic,Elias Pina,,0,0,0
-DO-10,Dominican Republic,Espaillat,,0,0,0
-DO-11,Dominican Republic,Hato Mayor,,0,0,0
-DO-07,Dominican Republic,Hermanas Mirabal,,0,0,0
-DO-12,Dominican Republic,Independencia,,0,0,0
-DO-13,Dominican Republic,La Altagracia,,0,0,0
-DO-14,Dominican Republic,La Romana,,0,0,0
-DO-28,Dominican Republic,La Vega,,0,0,0
-DO-15,Dominican Republic,Maria Trinidad Sanchez,,0,0,0
-DO-29,Dominican Republic,Monsenor Nouel,,0,0,0
-DO-16,Dominican Republic,Monte Cristi,,0,0,0
-DO-17,Dominican Republic,Monte Plata,,0,0,0
-DO-18,Dominican Republic,Pedernales,,0,0,0
-DO-19,Dominican Republic,Peravia,,0,0,0
-DO-20,Dominican Republic,Puerto Plata,,0,0,0
-DO-21,Dominican Republic,Samana,,0,0,0
-DO-31,Dominican Republic,San Cristobal,,0,0,0
+DO-10,Dominican Republic,Espaillat,2020-04-27T16:22:15,,0,0
+DO-11,Dominican Republic,Hato Mayor,2020-04-27T16:22:15,,0,0
+DO-07,Dominican Republic,Hermanas Mirabal,2020-04-27T16:22:15,,0,0
+DO-12,Dominican Republic,Independencia,2020-04-27T16:22:15,,0,0
+DO-13,Dominican Republic,La Altagracia,2020-04-27T16:22:15,,0,0
+DO-14,Dominican Republic,La Romana,2020-04-27T16:22:15,,0,0
+DO-28,Dominican Republic,La Vega,2020-04-27T16:22:15,,,0
+DO-15,Dominican Republic,Maria Trinidad Sanchez,2020-04-27T16:22:15,,0,0
+DO-29,Dominican Republic,Monsenor Nouel,2020-04-27T16:22:15,,,0
+DO-16,Dominican Republic,Monte Cristi,2020-04-27T16:22:15,,0,0
+DO-17,Dominican Republic,Monte Plata,2020-04-27T16:22:15,,0,0
+DO-18,Dominican Republic,Pedernales,2020-04-27T16:22:15,,0,0
+DO-19,Dominican Republic,Peravia,2020-04-27T16:22:15,,0,0
+DO-20,Dominican Republic,Puerto Plata,2020-04-27T16:22:15,,0,0
+DO-21,Dominican Republic,Samana,2020-04-27T16:22:15,,,0
+DO-31,Dominican Republic,San Cristobal,2020-04-27T16:22:15,,0,0
 DO-22,Dominican Republic,San Jose de Ocoa,,0,0,0
-DO-23,Dominican Republic,San Juan,,0,0,0
-DO-24,Dominican Republic,San Pedro de Macoris,,0,0,0
-DO-25,Dominican Republic,Sanchez Ramirez,,0,0,0
-DO-26,Dominican Republic,Santiago,,0,0,0
-DO-32,Dominican Republic,Santiago Rodriguez,,0,0,0
-DO-01,Dominican Republic,Santo Domingo,,0,0,0
-DO-27,Dominican Republic,Valverde,,0,0,0
+DO-23,Dominican Republic,San Juan,2020-04-27T16:23:15,,,0
+DO-24,Dominican Republic,San Pedro de Macoris,2020-04-27T16:23:15,,,0
+DO-25,Dominican Republic,Sanchez Ramirez,2020-04-27T16:23:15,,,0
+DO-26,Dominican Republic,Santiago,2020-04-27T16:23:15,,,0
+DO-32,Dominican Republic,Santiago Rodriguez,2020-04-27T16:23:15,,0,0
+DO-01,Dominican Republic,Santo Domingo,2020-04-27T16:21:15,,,0
+DO-27,Dominican Republic,Valverde,2020-04-27T16:23:15,,0,0
 EC-A,Ecuador,Azuay,2020-03-30T17:00:00,57,1,0
 EC-B,Ecuador,Bolivar,2020-03-30T17:00:01,14,0,0
 EC-F,Ecuador,Canar,2020-03-30T17:00:02,28,1,0
@@ -271,9 +271,9 @@ MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,43,0,
 MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,13,0,
 MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,17,2,
 MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,90,3,
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,136,1,
 MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,17,1,
 MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,6,1,
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,136,1,
 MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,6,0,
 MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,75,0,
 MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,14,1,

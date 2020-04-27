@@ -50,9 +50,9 @@ BR-PB,Brazil,Paraiba,2020-03-13,0,0,0
 BR-PR,Brazil,Parana,2020-03-13,6,0,0
 BR-PE,Brazil,Pernambuco,2020-03-13,2,0,0
 BR-PI,Brazil,Piaui,2020-03-13,0,0,0
-BR-RJ,Brazil,Rio de Janeiro,2020-03-13,16,0,0
 BR-RN,Brazil,Rio Grande do Norte,2020-03-13,1,0,0
 BR-RS,Brazil,Rio Grande do Sul,2020-03-13,4,0,0
+BR-RJ,Brazil,Rio de Janeiro,2020-03-13,16,0,0
 BR-RO,Brazil,Rondonia,2020-03-13,0,0,0
 BR-RR,Brazil,Roraima,2020-03-13,0,0,0
 BR-SC,Brazil,Santa Catarina,2020-03-13,2,0,0
@@ -187,20 +187,20 @@ EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-03-13T16:00:00,0,0,0
 EC-U,Ecuador,Sucumbios,2020-03-13T16:00:00,1,0,0
 EC-T,Ecuador,Tungurahua,2020-03-13T16:00:00,0,0,0
 EC-Z,Ecuador,Zamora-Chinchipe,2020-03-13T16:00:00,0,0,0
-SV-AH,El Salvador,Ahuachapan,,0,0,0
-SV-CA,El Salvador,Cabanas,,0,0,0
-SV-CH,El Salvador,Chalatenango,,0,0,0
-SV-CU,El Salvador,Cuscatlan,,0,0,0
-SV-LI,El Salvador,La Libertad,,0,0,0
-SV-PA,El Salvador,La Paz,,0,0,0
-SV-UN,El Salvador,La Unión,,0,0,0
-SV-MO,El Salvador,Morazan,,0,0,0
-SV-SM,El Salvador,San Miguel,,0,0,0
-SV-SS,El Salvador,San Salvador,,0,0,0
-SV-SV,El Salvador,San Vicente,,0,0,0
-SV-SA,El Salvador,Santa Ana,,0,0,0
-SV-SO,El Salvador,Sonsonate,,0,0,0
-SV-US,El Salvador,Usulutan,,0,0,0
+SV-AH,El Salvador,Ahuachapan,2020-04-27T16:24:15,0,0,0
+SV-CA,El Salvador,Cabanas,2020-04-27T16:24:15,0,0,0
+SV-CH,El Salvador,Chalatenango,2020-04-27T16:24:15,0,0,0
+SV-CU,El Salvador,Cuscatlan,2020-04-27T16:24:15,0,0,0
+SV-LI,El Salvador,La Libertad,2020-04-27T16:24:15,0,0,0
+SV-PA,El Salvador,La Paz,2020-04-27T16:24:15,0,0,0
+SV-UN,El Salvador,La Unión,2020-04-27T16:25:15,0,0,0
+SV-MO,El Salvador,Morazan,2020-04-27T16:25:15,0,0,0
+SV-SM,El Salvador,San Miguel,2020-04-27T16:25:15,0,0,0
+SV-SS,El Salvador,San Salvador,2020-04-27T16:25:15,0,0,0
+SV-SV,El Salvador,San Vicente,2020-04-27T16:25:15,0,0,0
+SV-SA,El Salvador,Santa Ana,2020-04-27T16:25:15,0,0,0
+SV-SO,El Salvador,Sonsonate,2020-04-27T16:25:15,0,0,0
+SV-US,El Salvador,Usulutan,2020-04-27T16:25:15,0,0,0
 FR-GP,France,Guadeloupe,2020-04-03T17:06:00,1,0,0
 FR-GF,France,Guyane,2020-04-03T16:57:00,5,0,0
 FR-MQ,France,Martinique,2020-04-03T16:57:00,2,0,0
@@ -229,16 +229,16 @@ GT-SO,Guatemala,Sololá,,0,0,0
 GT-SU,Guatemala,Suchitepéquez,,0,0,0
 GT-TO,Guatemala,Totonicapán,,0,0,0
 GT-ZA,Guatemala,Zacapa,,0,0,0
-HT-AR,Haiti,Artibonite,,0,0,0
-HT-CE,Haiti,Centre,,0,0,0
-HT-GA,Haiti,Grande’Anse,,0,0,0
-HT-NI,Haiti,Nippes,,0,0,0
-HT-ND,Haiti,Nord,,0,0,0
-HT-NE,Haiti,Nord-Est,,0,0,0
-HT-NO,Haiti,Nord-Ouest,,0,0,0
-HT-OU,Haiti,Ouest,,0,0,0
-HT-SD,Haiti,Sud,,0,0,0
-HT-SE,Haiti,Sud-Est,,0,0,0
+HT-AR,Haiti,Artibonite,2020-04-27T16:26:15,0,0,0
+HT-CE,Haiti,Centre,2020-04-27T16:26:15,0,0,0
+HT-GA,Haiti,Grande’Anse,2020-04-27T16:27:15,0,0,0
+HT-NI,Haiti,Nippes,2020-04-27T16:27:15,0,0,0
+HT-ND,Haiti,Nord,2020-04-27T16:27:15,0,0,0
+HT-NE,Haiti,Nord-Est,2020-04-27T16:27:15,0,0,0
+HT-NO,Haiti,Nord-Ouest,2020-04-27T16:27:15,0,0,0
+HT-OU,Haiti,Ouest,2020-04-27T16:27:15,0,0,0
+HT-SD,Haiti,Sud,2020-04-27T16:27:15,0,0,0
+HT-SE,Haiti,Sud-Est,2020-04-27T16:27:15,0,0,0
 HN-AT,Honduras,Atlantida,2020-04-08T01:32:59,1,0,0
 HN-CH,Honduras,Choluteca,2020-04-08T01:32:59,0,0,0
 HN-CL,Honduras,Colon,2020-04-08T01:32:59,0,0,0
@@ -271,9 +271,9 @@ MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,0,0,0
 MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,0,0,0
 MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,0,0,0
 MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,0,0,0
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,3,0,0
 MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,0,0,0
 MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,0,0,0
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,3,0,0
 MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,0,0,0
 MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,1,0,0
 MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,0,0,0
@@ -289,23 +289,23 @@ MX-TLA,Mexico,Tlaxcala,2020-04-18T23:05:00,0,0,0
 MX-VER,Mexico,Veracruz,2020-04-18T23:05:00,0,0,0
 MX-YUC,Mexico,Yucatan,2020-04-18T23:05:00,1,0,0
 MX-ZAC,Mexico,Zacatecas,2020-04-18T23:05:00,0,0,0
-NI-BO,Nicaragua,Boaco,,0,0,0
-NI-CA,Nicaragua,Carazo,,0,0,0
-NI-CI,Nicaragua,Chinandega,,0,0,0
-NI-CO,Nicaragua,Chontales,,0,0,0
-NI-ES,Nicaragua,Estelí,,0,0,0
-NI-GR,Nicaragua,Granada,,0,0,0
-NI-JI,Nicaragua,Jinotega,,0,0,0
-NI-LE,Nicaragua,León,,0,0,0
-NI-MD,Nicaragua,Madriz,,0,0,0
-NI-MN,Nicaragua,Managua,,0,0,0
-NI-MS,Nicaragua,Masaya,,0,0,0
-NI-MT,Nicaragua,Matagalpa,,0,0,0
-NI-AN,Nicaragua,NCCAR,,0,0,0
-NI-NS,Nicaragua,Nueva Segovia,,0,0,0
-NI-RI,Nicaragua,Rio San Juan,,0,0,0
-NI-SJ,Nicaragua,Rivas,,0,0,0
-NI-AS,Nicaragua,SCCAR,,0,0,0
+NI-BO,Nicaragua,Boaco,2020-04-27T16:30:15,0,0,0
+NI-CA,Nicaragua,Carazo,2020-04-27T16:30:15,0,0,0
+NI-CI,Nicaragua,Chinandega,2020-04-27T16:30:15,0,0,0
+NI-CO,Nicaragua,Chontales,2020-04-27T16:30:15,0,0,0
+NI-ES,Nicaragua,Estelí,2020-04-27T16:30:15,0,0,0
+NI-GR,Nicaragua,Granada,2020-04-27T16:30:15,0,0,0
+NI-JI,Nicaragua,Jinotega,2020-04-27T16:30:15,0,0,0
+NI-LE,Nicaragua,León,2020-04-27T16:30:15,0,0,0
+NI-MD,Nicaragua,Madriz,2020-04-27T16:30:15,0,0,0
+NI-MN,Nicaragua,Managua,2020-04-27T16:30:15,0,0,0
+NI-MS,Nicaragua,Masaya,2020-04-27T16:30:15,0,0,0
+NI-MT,Nicaragua,Matagalpa,2020-04-27T16:30:15,0,0,0
+NI-AN,Nicaragua,NCCAR,2020-04-27T16:30:15,0,0,0
+NI-NS,Nicaragua,Nueva Segovia,2020-04-27T16:30:15,0,0,0
+NI-RI,Nicaragua,Rio San Juan,2020-04-27T16:30:15,0,0,0
+NI-SJ,Nicaragua,Rivas,2020-04-27T16:31:15,0,0,0
+NI-AS,Nicaragua,SCCAR,2020-04-27T16:30:15,0,0,0
 PA-1,Panama,Bocas del Toro,,0,0,0
 PA-4,Panama,Chiriqui,,0,0,0
 PA-2,Panama,Cocle,,0,0,0
@@ -362,7 +362,7 @@ PE-SAM,Peru,San Martin,,0,0,0
 PE-TAC,Peru,Tacna,,0,0,0
 PE-TUM,Peru,Tumbes,,0,0,0
 PE-UCA,Peru,Ucayali,,0,0,0
-US-PR,United States,Puerto Rico,,0,0,0
+US-PR,United States,Puerto Rico,2020-04-27T16:34:15,0,0,0
 UY-AR,Uruguay,Artigas,,0,0,0
 UY-CA,Uruguay,Canelones,,0,0,0
 UY-CL,Uruguay,Cerro Largo,,0,0,0
