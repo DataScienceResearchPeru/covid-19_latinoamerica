@@ -21,7 +21,7 @@ confirmed = pd.read_csv(confirmed_url)
 deaths = pd.read_csv(deaths_url)
 
 ###
-compare = pd.read_csv("https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/latam_covid_19_daily_reports/2020-03-08.csv")
+compare = pd.read_csv("https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/2020-03-08.csv")
 brazil_compare = compare[compare.Country=="Brazil"]
 ###
 
@@ -77,7 +77,7 @@ for column in confirmed_columns:
         print("Skipping:", actual_date)
         continue
 
-    daily_report_path = f"../../../latam_covid_19_data/daily_reports/{date}.csv"
+    daily_report_path = f"latam_covid_19_data/daily_reports/{date}.csv"
     daily_report = pd.read_csv(daily_report_path)
 
     brazil = daily_report[daily_report.Country=="Brazil"]
@@ -108,7 +108,7 @@ for column in confirmed_columns:
 
 
     print(daily_report[daily_report.Country=="Brazil"])
-    os.system("git pull")
+    # os.system("git pull")
     daily_report.to_csv(daily_report_path, index=False)
-    os.system(f"git add {daily_report_path}")
-    os.system("git commit -m 'Update Brazil'")
+    # os.system(f"git add {daily_report_path}")
+    # os.system("git commit -m 'Update Brazil'")
