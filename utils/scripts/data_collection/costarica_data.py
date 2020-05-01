@@ -26,7 +26,7 @@ for entry in parsed:
     
     print(confirmed)
     
-    daily_report_file = f"../../../latam_covid_19_data/daily_reports/{date}.csv"
+    daily_report_file = f"latam_covid_19_data/daily_reports/{date}.csv"
     print(f"Opening {daily_report_file}")
     daily_report = pd.read_csv(daily_report_file)
     cr = daily_report[daily_report.Country=="Costa Rica"]
@@ -47,7 +47,7 @@ for entry in parsed:
     daily_report.Recovered = daily_report.Recovered.astype("int64")
     
     print(daily_report[daily_report.Country=="Costa Rica"])
-    os.system("git pull")
-    daily_report.to_csv(daily_report_file, index=False)
-    os.system(f"git add {daily_report_file}")
-    os.system("git commit -m 'Update Costa rica'")
+    # os.system("git pull")
+    daily_report.to_csv(f"utils/scripts/data_collection/costarica_temporal/{date}.csv", index=False)
+    # os.system(f"git add {daily_report_file}")
+    # os.system("git commit -m 'Update Costa rica'")

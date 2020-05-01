@@ -108,29 +108,29 @@ CO-TOL,Colombia,Tolima,2020-04-09T20:29:03,16,0,4
 CO-VAC,Colombia,Valle del Cauca,2020-04-09T20:29:03,348,7,12
 CO-VAU,Colombia,Vaupes,2020-04-09T20:29:03,0,0,0
 CO-VID,Colombia,Vichada,2020-04-09T20:29:03,0,0,0
-CR-A,Costa Rica,Alajuela,2020-04-09,147,,
-CR-C,Costa Rica,Cartago,2020-04-09,37,,
-CR-G,Costa Rica,Guanacaste,2020-04-09,13,,
-CR-H,Costa Rica,Heredia,2020-04-09,55,,
-CR-L,Costa Rica,Limon,2020-04-09,2,,
-CR-P,Costa Rica,Puntarenas,2020-04-09,25,,
-CR-SJ,Costa Rica,San Jose,2020-04-09,260,,
-CU-15,Cuba,Artemisa,2020-04-27T16:20:15,,0,0
-CU-09,Cuba,Camagüey,2020-04-27T16:20:15,,0,0
-CU-08,Cuba,Ciego de Ávila,2020-04-27T16:20:15,,0,0
-CU-06,Cuba,Cienfuegos,2020-04-27T16:21:15,,0,0
-CU-12,Cuba,Granma,2020-04-27T16:21:15,,0,0
-CU-14,Cuba,Guantánamo,2020-04-27T16:21:15,,0,0
-CU-11,Cuba,Holguín,2020-04-27T16:21:15,,0,0
-CU-99,Cuba,Isla de la Juventud,2020-04-27T16:21:15,,0,0
-CU-03,Cuba,La Habana,2020-04-27T16:21:15,,0,0
-CU-10,Cuba,Las Tunas,2020-04-27T16:21:15,,0,0
-CU-04,Cuba,Matanzas,2020-04-27T16:21:15,,0,0
-CU-16,Cuba,Mayabeque,2020-04-27T16:21:15,,0,0
-CU-01,Cuba,Pinar del Río,2020-04-27T16:21:15,,0,0
-CU-07,Cuba,Sancti Spíritus,2020-04-27T16:21:15,,0,0
-CU-13,Cuba,Santiago de Cuba,2020-04-27T16:21:15,,0,0
-CU-05,Cuba,Villa Clara,2020-04-27T16:21:15,,0,0
+CR-A,Costa Rica,Alajuela,2020-04-09,147,0,0
+CR-C,Costa Rica,Cartago,2020-04-09,37,0,0
+CR-G,Costa Rica,Guanacaste,2020-04-09,13,0,0
+CR-H,Costa Rica,Heredia,2020-04-09,55,0,0
+CR-L,Costa Rica,Limon,2020-04-09,2,0,0
+CR-P,Costa Rica,Puntarenas,2020-04-09,25,0,0
+CR-SJ,Costa Rica,San Jose,2020-04-09,260,0,0
+CU-15,Cuba,Artemisa,2020-04-27T16:20:15,0,0,0
+CU-09,Cuba,Camagüey,2020-04-27T16:20:15,0,0,0
+CU-08,Cuba,Ciego de Ávila,2020-04-27T16:20:15,0,0,0
+CU-06,Cuba,Cienfuegos,2020-04-27T16:21:15,0,0,0
+CU-12,Cuba,Granma,2020-04-27T16:21:15,0,0,0
+CU-14,Cuba,Guantánamo,2020-04-27T16:21:15,0,0,0
+CU-11,Cuba,Holguín,2020-04-27T16:21:15,0,0,0
+CU-99,Cuba,Isla de la Juventud,2020-04-27T16:21:15,0,0,0
+CU-03,Cuba,La Habana,2020-04-27T16:21:15,0,0,0
+CU-10,Cuba,Las Tunas,2020-04-27T16:21:15,0,0,0
+CU-04,Cuba,Matanzas,2020-04-27T16:21:15,0,0,0
+CU-16,Cuba,Mayabeque,2020-04-27T16:21:15,0,0,0
+CU-01,Cuba,Pinar del Río,2020-04-27T16:21:15,0,0,0
+CU-07,Cuba,Sancti Spíritus,2020-04-27T16:21:15,0,0,0
+CU-13,Cuba,Santiago de Cuba,2020-04-27T16:21:15,0,0,0
+CU-05,Cuba,Villa Clara,2020-04-27T16:21:15,0,0,0
 DO-02,Dominican Republic,Azua,,0,0,0
 DO-03,Dominican Republic,Baoruco,,0,0,0
 DO-04,Dominican Republic,Barahona,,0,0,0
@@ -257,38 +257,38 @@ HN-OL,Honduras,Olancho,2020-04-10T07:35:01,0,0,0
 HN-SB,Honduras,Santa Barbara,2020-04-10T07:35:01,8,0,0
 HN-VA,Honduras,Valle,2020-04-10T07:35:01,0,0,0
 HN-YO,Honduras,Yoro,2020-04-10T07:35:01,9,2,0
-MX-AGU,Mexico,Aguascalientes,2020-04-18T23:05:00,53,0,
-MX-BCN,Mexico,Baja California,2020-04-18T23:05:00,239,16,
-MX-BCS,Mexico,Baja California Sur,2020-04-18T23:05:00,68,2,
-MX-CAM,Mexico,Campeche,2020-04-18T23:05:00,14,1,
-MX-CHP,Mexico,Chiapas,2020-04-18T23:05:00,34,0,
-MX-CHH,Mexico,Chihuahua,2020-04-18T23:05:00,42,1,
-MX-CMX,Mexico,Ciudad de Mexico,2020-04-18T23:05:00,909,43,
-MX-COA,Mexico,Coahuila,2020-04-18T23:05:00,129,7,
-MX-COL,Mexico,Colima,2020-04-18T23:05:00,7,0,
-MX-DUR,Mexico,Durango,2020-04-18T23:05:00,16,4,
-MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,71,1,
-MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,49,5,
-MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,47,7,
-MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,139,8,
-MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,399,11,
-MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,46,5,
-MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,35,7,
-MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,16,3,
-MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,107,5,
-MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,40,1,
-MX-PUE,Mexico,Puebla,2020-04-18T23:05:00,198,10,
-MX-QUE,Mexico,Queretaro,2020-04-18T23:05:00,50,2,
-MX-ROO,Mexico,Quintana Roo,2020-04-18T23:05:00,159,12,
-MX-SLP,Mexico,San Luis Potosi,2020-04-18T23:05:00,47,4,
-MX-SIN,Mexico,Sinaloa,2020-04-18T23:05:00,138,15,
-MX-SON,Mexico,Sonora,2020-04-18T23:05:00,48,4,
-MX-TAB,Mexico,Tabasco,2020-04-18T23:05:00,113,9,
-MX-TAM,Mexico,Tamaulipas,2020-04-18T23:05:00,46,3,
-MX-TLA,Mexico,Tlaxcala,2020-04-18T23:05:00,29,0,
-MX-VER,Mexico,Veracruz,2020-04-18T23:05:00,54,3,
-MX-YUC,Mexico,Yucatan,2020-04-18T23:05:00,88,3,
-MX-ZAC,Mexico,Zacatecas,2020-04-18T23:05:00,11,2,
+MX-AGU,Mexico,Aguascalientes,2020-04-18T23:05:00,53,0,0
+MX-BCN,Mexico,Baja California,2020-04-18T23:05:00,239,16,0
+MX-BCS,Mexico,Baja California Sur,2020-04-18T23:05:00,68,2,0
+MX-CAM,Mexico,Campeche,2020-04-18T23:05:00,14,1,0
+MX-CHP,Mexico,Chiapas,2020-04-18T23:05:00,34,0,0
+MX-CHH,Mexico,Chihuahua,2020-04-18T23:05:00,42,1,0
+MX-CMX,Mexico,Ciudad de Mexico,2020-04-18T23:05:00,909,43,0
+MX-COA,Mexico,Coahuila,2020-04-18T23:05:00,129,7,0
+MX-COL,Mexico,Colima,2020-04-18T23:05:00,7,0,0
+MX-DUR,Mexico,Durango,2020-04-18T23:05:00,16,4,0
+MX-GUA,Mexico,Guanajuato,2020-04-18T23:05:00,71,1,0
+MX-GRO,Mexico,Guerrero,2020-04-18T23:05:00,49,5,0
+MX-HID,Mexico,Hidalgo,2020-04-18T23:05:00,47,7,0
+MX-JAL,Mexico,Jalisco,2020-04-18T23:05:00,139,8,0
+MX-MEX,Mexico,Mexico,2020-04-18T23:05:00,399,11,0
+MX-MIC,Mexico,Michoacan,2020-04-18T23:05:00,46,5,0
+MX-MOR,Mexico,Morelos,2020-04-18T23:05:00,35,7,0
+MX-NAY,Mexico,Nayarit,2020-04-18T23:05:00,16,3,0
+MX-NLE,Mexico,Nuevo Leon,2020-04-18T23:05:00,107,5,0
+MX-OAX,Mexico,Oaxaca,2020-04-18T23:05:00,40,1,0
+MX-PUE,Mexico,Puebla,2020-04-18T23:05:00,198,10,0
+MX-QUE,Mexico,Queretaro,2020-04-18T23:05:00,50,2,0
+MX-ROO,Mexico,Quintana Roo,2020-04-18T23:05:00,159,12,0
+MX-SLP,Mexico,San Luis Potosi,2020-04-18T23:05:00,47,4,0
+MX-SIN,Mexico,Sinaloa,2020-04-18T23:05:00,138,15,0
+MX-SON,Mexico,Sonora,2020-04-18T23:05:00,48,4,0
+MX-TAB,Mexico,Tabasco,2020-04-18T23:05:00,113,9,0
+MX-TAM,Mexico,Tamaulipas,2020-04-18T23:05:00,46,3,0
+MX-TLA,Mexico,Tlaxcala,2020-04-18T23:05:00,29,0,0
+MX-VER,Mexico,Veracruz,2020-04-18T23:05:00,54,3,0
+MX-YUC,Mexico,Yucatan,2020-04-18T23:05:00,88,3,0
+MX-ZAC,Mexico,Zacatecas,2020-04-18T23:05:00,11,2,0
 NI-BO,Nicaragua,Boaco,,0,0,0
 NI-CA,Nicaragua,Carazo,,0,0,0
 NI-CI,Nicaragua,Chinandega,,0,0,0
