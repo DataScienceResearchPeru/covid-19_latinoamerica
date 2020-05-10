@@ -32,49 +32,49 @@ BO-N,Bolivia,Pando,,0,0,0
 BO-P,Bolivia,Potosi,,0,0,0
 BO-S,Bolivia,Santa Cruz,,0,0,0
 BO-T,Bolivia,Tarija,,0,0,0
-BR-AC,Brazil,Acre,,0,0,0
-BR-AL,Brazil,Alagoas,,0,0,0
-BR-AP,Brazil,Amapa,,0,0,0
-BR-AM,Brazil,Amazonas,,0,0,0
-BR-BA,Brazil,Bahia,,0,0,0
-BR-CE,Brazil,Ceara,,0,0,0
-BR-DF,Brazil,Distrito Federal,,0,0,0
-BR-ES,Brazil,Espiritu Santo,,0,0,0
-BR-GO,Brazil,Goias,,0,0,0
-BR-MA,Brazil,Maranhao,,0,0,0
-BR-MT,Brazil,Mato Grosso,,0,0,0
-BR-MS,Brazil,Mato Grosso do Sul,,0,0,0
-BR-MG,Brazil,Minas Gerais,,0,0,0
-BR-PA,Brazil,Para,,0,0,0
-BR-PB,Brazil,Paraiba,,0,0,0
-BR-PR,Brazil,Parana,,0,0,0
-BR-PE,Brazil,Pernambuco,,0,0,0
-BR-PI,Brazil,Piaui,,0,0,0
-BR-RJ,Brazil,Rio de Janeiro,,0,0,0
-BR-RN,Brazil,Rio Grande do Norte,,0,0,0
-BR-RS,Brazil,Rio Grande do Sul,,0,0,0
-BR-RO,Brazil,Rondonia,,0,0,0
-BR-RR,Brazil,Roraima,,0,0,0
-BR-SC,Brazil,Santa Catarina,,0,0,0
-BR-SP,Brazil,Sao Paulo,,0,0,0
-BR-SE,Brazil,Sergipe,,0,0,0
-BR-TO,Brazil,Tocantins,,0,0,0
-CL-AN,Chile,Antofagasta,2020-05-07T14:59:57,855,7,0
-CL-AR,Chile,Araucania,2020-05-07T14:59:57,1362,36,0
-CL-AP,Chile,Arica y Parinacota,2020-05-07T14:59:57,318,5,0
-CL-AT,Chile,Atacama,2020-05-07T14:59:57,80,0,0
-CL-AI,Chile,Aysen,2020-05-07T14:59:57,7,0,0
-CL-BI,Chile,Biobio,2020-05-07T14:59:57,789,8,0
-CL-CO,Chile,Coquimbo,2020-05-07T14:59:57,97,0,0
-CL-LL,Chile,Los Lagos,2020-05-07T14:59:57,541,10,0
-CL-LR,Chile,Los Rios,2020-05-07T14:59:57,200,4,0
-CL-MA,Chile,Magallanes,2020-05-07T14:59:57,818,11,0
-CL-ML,Chile,Maule,2020-05-07T14:59:57,408,13,0
-CL-NB,Chile,Nuble,2020-05-07T14:59:57,791,17,0
-CL-LI,Chile,O'Higgins,2020-05-07T14:59:57,145,3,0
-CL-RM,Chile,Santiago,2020-05-07T14:59:57,15582,150,0
-CL-TA,Chile,Tarapaca,2020-05-07T14:59:57,339,1,0
-CL-VS,Chile,Valparaiso,2020-05-07T14:59:57,716,16,0
+BR-AC,Brazil,Acre,2020-05-06,943,33,0
+BR-AL,Brazil,Alagoas,2020-05-06,1703,89,0
+BR-AP,Brazil,Amapa,2020-05-06,2046,56,0
+BR-AM,Brazil,Amazonas,2020-05-06,9243,751,0
+BR-BA,Brazil,Bahia,2020-05-06,4301,160,0
+BR-CE,Brazil,Ceara,2020-05-06,12304,848,0
+BR-DF,Brazil,Distrito Federal,2020-05-06,1906,34,0
+BR-ES,Brazil,Espiritu Santo,2020-05-06,0,0,0
+BR-GO,Brazil,Goias,2020-05-06,1024,45,0
+BR-MA,Brazil,Maranhao,2020-05-06,5028,291,0
+BR-MT,Brazil,Mato Grosso,2020-05-06,379,13,0
+BR-MS,Brazil,Mato Grosso do Sul,2020-05-06,288,10,0
+BR-MG,Brazil,Minas Gerais,2020-05-06,2605,97,0
+BR-PA,Brazil,Para,2020-05-06,5017,392,0
+BR-PB,Brazil,Paraiba,2020-05-06,1493,92,0
+BR-PR,Brazil,Parana,2020-05-06,1627,101,0
+BR-PE,Brazil,Pernambuco,2020-05-06,9881,803,0
+BR-PI,Brazil,Piaui,2020-05-06,949,30,0
+BR-RJ,Brazil,Rio de Janeiro,2020-05-06,13295,1205,0
+BR-RN,Brazil,Rio Grande do Norte,2020-05-06,1574,72,0
+BR-RS,Brazil,Rio Grande do Sul,2020-05-06,2050,87,0
+BR-RO,Brazil,Rondonia,2020-05-06,943,33,0
+BR-RR,Brazil,Roraima,2020-05-06,932,13,0
+BR-SC,Brazil,Santa Catarina,2020-05-06,2917,59,0
+BR-SP,Brazil,Sao Paulo,2020-05-06,37853,3045,0
+BR-SE,Brazil,Sergipe,2020-05-06,998,23,0
+BR-TO,Brazil,Tocantins,2020-05-06,351,9,0
+CL-AN,Chile,Antofagasta,2020-05-07T20:51:25,855,7,0
+CL-AR,Chile,Araucania,2020-05-07T20:51:25,1362,36,0
+CL-AP,Chile,Arica y Parinacota,2020-05-07T20:51:25,318,5,0
+CL-AT,Chile,Atacama,2020-05-07T20:51:25,80,0,0
+CL-AI,Chile,Aysen,2020-05-07T20:51:25,7,0,0
+CL-BI,Chile,Biobio,2020-05-07T20:51:25,789,8,0
+CL-CO,Chile,Coquimbo,2020-05-07T20:51:25,97,0,0
+CL-LL,Chile,Los Lagos,2020-05-07T20:51:25,541,10,0
+CL-LR,Chile,Los Rios,2020-05-07T20:51:25,200,4,0
+CL-MA,Chile,Magallanes,2020-05-07T20:51:25,818,11,0
+CL-ML,Chile,Maule,2020-05-07T20:51:25,408,13,0
+CL-NB,Chile,Nuble,2020-05-07T20:51:25,791,17,0
+CL-LI,Chile,O'Higgins,2020-05-07T20:51:25,145,3,0
+CL-RM,Chile,Santiago,2020-05-07T20:51:25,15582,150,0
+CL-TA,Chile,Tarapaca,2020-05-07T20:51:25,339,1,0
+CL-VS,Chile,Valparaiso,2020-05-07T20:51:25,716,16,0
 CO-AMA,Colombia,Amazonas,,0,0,0
 CO-ANT,Colombia,Antioquia,,0,0,0
 CO-ARA,Colombia,Arauca,,0,0,0
@@ -239,24 +239,24 @@ HT-NO,Haiti,Nord-Ouest,,0,0,0
 HT-OU,Haiti,Ouest,,0,0,0
 HT-SD,Haiti,Sud,,0,0,0
 HT-SE,Haiti,Sud-Est,,0,0,0
-HN-AT,Honduras,Atlantida,2020-05-07T14:59:59,46,4,14
-HN-CH,Honduras,Choluteca,2020-05-07T14:59:59,8,0,0
-HN-CL,Honduras,Colon,2020-05-07T14:59:59,33,1,7
-HN-CM,Honduras,Comayagua,2020-05-07T14:59:59,8,1,0
-HN-CP,Honduras,Copan,2020-05-07T14:59:59,1,0,0
-HN-CR,Honduras,Cortes,2020-05-07T14:59:59,1047,84,35
-HN-EP,Honduras,El Paraiso,2020-05-07T14:59:59,3,0,0
-HN-FM,Honduras,Francisco Morazan,2020-05-07T14:59:59,229,2,42
-HN-GD,Honduras,Gracias a Dios,2020-05-07T14:59:59,0,0,0
-HN-IN,Honduras,Intibuca,2020-05-07T14:59:59,7,1,0
-HN-IB,Honduras,Islas de la Bahia,2020-05-07T14:59:59,0,0,0
-HN-LP,Honduras,La Paz,2020-05-07T14:59:59,2,0,2
-HN-LE,Honduras,Lempira,2020-05-07T14:59:59,6,1,0
-HN-OC,Honduras,Ocotepeque,2020-05-07T14:59:59,1,0,0
-HN-OL,Honduras,Olancho,2020-05-07T14:59:59,1,0,0
-HN-SB,Honduras,Santa Barbara,2020-05-07T14:59:59,13,2,2
-HN-VA,Honduras,Valle,2020-05-07T14:59:59,9,0,1
-HN-YO,Honduras,Yoro,2020-05-07T14:59:59,47,3,0
+HN-AT,Honduras,Atlantida,2020-05-07T20:58:47,46,4,14
+HN-CH,Honduras,Choluteca,2020-05-07T20:58:47,8,0,0
+HN-CL,Honduras,Colon,2020-05-07T20:58:47,33,1,7
+HN-CM,Honduras,Comayagua,2020-05-07T20:58:47,8,1,0
+HN-CP,Honduras,Copan,2020-05-07T20:58:47,1,0,0
+HN-CR,Honduras,Cortes,2020-05-07T20:58:47,1047,84,35
+HN-EP,Honduras,El Paraiso,2020-05-07T20:58:47,3,0,0
+HN-FM,Honduras,Francisco Morazan,2020-05-07T20:58:47,229,2,42
+HN-GD,Honduras,Gracias a Dios,2020-05-07T20:58:47,0,0,0
+HN-IN,Honduras,Intibuca,2020-05-07T20:58:47,7,1,0
+HN-IB,Honduras,Islas de la Bahia,2020-05-07T20:58:47,0,0,0
+HN-LP,Honduras,La Paz,2020-05-07T20:58:47,2,0,2
+HN-LE,Honduras,Lempira,2020-05-07T20:58:47,6,1,0
+HN-OC,Honduras,Ocotepeque,2020-05-07T20:58:47,1,0,0
+HN-OL,Honduras,Olancho,2020-05-07T20:58:47,1,0,0
+HN-SB,Honduras,Santa Barbara,2020-05-07T20:58:47,13,2,2
+HN-VA,Honduras,Valle,2020-05-07T20:58:47,9,0,1
+HN-YO,Honduras,Yoro,2020-05-07T20:58:47,47,3,0
 MX-AGU,Mexico,Aguascalientes,2020-05-07T03:16:52,296,10,0
 MX-BCN,Mexico,Baja California,2020-05-07T03:16:52,2126,326,0
 MX-BCS,Mexico,Baja California Sur,2020-05-07T03:16:52,358,18,0

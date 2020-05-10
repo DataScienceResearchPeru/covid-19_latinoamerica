@@ -108,13 +108,13 @@ CO-TOL,Colombia,Tolima,,0,0,0
 CO-VAC,Colombia,Valle del Cauca,,0,0,0
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
-CR-A,Costa Rica,Alajuela,,0,0,0
-CR-C,Costa Rica,Cartago,,0,0,0
-CR-G,Costa Rica,Guanacaste,,0,0,0
-CR-H,Costa Rica,Heredia,,0,0,0
-CR-L,Costa Rica,Limon,,0,0,0
-CR-P,Costa Rica,Puntarenas,,0,0,0
-CR-SJ,Costa Rica,San Jose,,0,0,0
+CR-A,Costa Rica,Alajuela,2020-04-26,172,0,0
+CR-C,Costa Rica,Cartago,2020-04-26,49,0,0
+CR-G,Costa Rica,Guanacaste,2020-04-26,13,0,0
+CR-H,Costa Rica,Heredia,2020-04-26,63,0,0
+CR-L,Costa Rica,Limon,2020-04-26,8,0,0
+CR-P,Costa Rica,Puntarenas,2020-04-26,38,0,0
+CR-SJ,Costa Rica,San Jose,2020-04-26,352,0,0
 CU-15,Cuba,Artemisa,,0,0,0
 CU-09,Cuba,Camagüey,,0,0,0
 CU-08,Cuba,Ciego de Ávila,,0,0,0
@@ -337,31 +337,31 @@ PY-12,Paraguay,Neembucu,,0,0,0
 PY-9,Paraguay,Paraguari,,0,0,0
 PY-15,Paraguay,Presidente Hayes,,0,0,0
 PY-2,Paraguay,San Pedro,,0,0,0
-PE-AMA,Peru,Amazonas,2020-04-27T16:32:15,0,0,0
-PE-ANC,Peru,Ancash,2020-04-27T16:32:15,0,0,0
-PE-APU,Peru,Apurimac,2020-04-27T16:32:15,0,0,0
-PE-ARE,Peru,Arequipa,2020-04-27T16:32:15,0,0,0
-PE-AYA,Peru,Ayacucho,2020-04-27T16:33:15,0,0,0
-PE-CAJ,Peru,Cajamarca,2020-04-27T16:33:15,0,0,0
-PE-CAL,Peru,Callao,2020-04-27T16:33:15,0,0,0
-PE-CUS,Peru,Cusco,2020-04-27T16:33:15,0,0,0
-PE-HUV,Peru,Huancavelica,2020-04-27T16:33:15,0,0,0
-PE-HUC,Peru,Huanuco,2020-04-27T16:33:15,0,0,0
-PE-ICA,Peru,Ica,2020-04-27T16:33:15,0,0,0
-PE-JUN,Peru,Junin,2020-04-27T16:33:15,0,0,0
-PE-LAL,Peru,La Libertad,2020-04-27T16:33:15,0,0,0
-PE-LAM,Peru,Lambayeque,2020-04-27T16:33:15,0,0,0
-PE-LIM,Peru,Lima,2020-04-27T16:33:15,0,0,0
-PE-LOR,Peru,Loreto,2020-04-27T16:33:15,0,0,0
-PE-MDD,Peru,Madre de dios,2020-04-27T16:33:15,0,0,0
-PE-MOQ,Peru,Moquegua,2020-04-27T16:33:15,0,0,0
-PE-PAS,Peru,Pasco,2020-04-27T16:33:15,0,0,0
-PE-PIU,Peru,Piura,2020-04-27T16:33:15,0,0,0
-PE-PUN,Peru,Puno,2020-04-27T16:33:15,0,0,0
-PE-SAM,Peru,San Martin,2020-04-27T16:33:15,0,0,0
-PE-TAC,Peru,Tacna,2020-04-27T16:33:15,0,0,0
-PE-TUM,Peru,Tumbes,2020-04-27T16:34:15,0,0,0
-PE-UCA,Peru,Ucayali,2020-04-27T16:34:15,0,0,0
+PE-AMA,Peru,Amazonas,2020-05-01T19:51:25,78,0,0
+PE-ANC,Peru,Ancash,2020-05-01T19:51:25,506,0,0
+PE-APU,Peru,Apurimac,2020-05-01T19:51:25,68,0,0
+PE-ARE,Peru,Arequipa,2020-05-01T19:51:25,396,0,0
+PE-AYA,Peru,Ayacucho,2020-05-01T19:51:25,53,0,0
+PE-CAJ,Peru,Cajamarca,2020-05-01T19:51:25,128,0,0
+PE-CAL,Peru,Callao,2020-05-01T19:51:25,2615,0,0
+PE-CUS,Peru,Cusco,2020-05-01T19:51:25,182,0,0
+PE-HUV,Peru,Huancavelica,2020-05-01T19:51:25,40,0,0
+PE-HUC,Peru,Huanuco,2020-05-01T19:51:25,167,0,0
+PE-ICA,Peru,Ica,2020-05-01T19:51:25,284,0,0
+PE-JUN,Peru,Junin,2020-05-01T19:51:25,284,0,0
+PE-LAL,Peru,La Libertad,2020-05-01T19:51:25,503,0,0
+PE-LAM,Peru,Lambayeque,2020-05-01T19:51:25,1602,0,0
+PE-LIM,Peru,Lima,2020-05-01T19:51:25,17884,0,0
+PE-LOR,Peru,Loreto,2020-05-01T19:51:25,786,0,0
+PE-MDD,Peru,Madre de dios,2020-05-01T19:51:25,94,0,0
+PE-MOQ,Peru,Moquegua,2020-05-01T19:51:25,92,0,0
+PE-PAS,Peru,Pasco,2020-05-01T19:51:25,78,0,0
+PE-PIU,Peru,Piura,2020-05-01T19:51:25,790,0,0
+PE-PUN,Peru,Puno,2020-05-01T19:51:25,69,0,0
+PE-SAM,Peru,San Martin,2020-05-01T19:51:25,151,0,0
+PE-TAC,Peru,Tacna,2020-05-01T19:51:25,68,0,0
+PE-TUM,Peru,Tumbes,2020-05-01T19:51:25,250,0,0
+PE-UCA,Peru,Ucayali,2020-05-01T19:51:25,349,0,0
 US-PR,United States,Puerto Rico,,0,0,0
 UY-AR,Uruguay,Artigas,,0,0,0
 UY-CA,Uruguay,Canelones,,0,0,0
