@@ -32,33 +32,33 @@ BO-N,Bolivia,Pando,,0,0,0
 BO-P,Bolivia,Potosi,,0,0,0
 BO-S,Bolivia,Santa Cruz,,0,0,0
 BO-T,Bolivia,Tarija,,0,0,0
-BR-AC,Brazil,Acre,2020-05-09,1335,39,0
-BR-AL,Brazil,Alagoas,2020-05-09,2172,114,0
-BR-AP,Brazil,Amapa,2020-05-09,2493,69,0
-BR-AM,Brazil,Amazonas,2020-05-09,11925,962,0
-BR-BA,Brazil,Bahia,2020-05-09,5174,196,0
-BR-CE,Brazil,Ceara,2020-05-09,15879,1062,0
-BR-DF,Brazil,Distrito Federal,2020-05-09,2576,39,0
-BR-ES,Brazil,Espiritu Santo,2020-05-09,0,0,0
-BR-GO,Brazil,Goias,2020-05-09,1069,47,0
-BR-MA,Brazil,Maranhao,2020-05-09,6765,355,0
-BR-MT,Brazil,Mato Grosso,2020-05-09,502,16,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-05-09,346,11,0
-BR-MG,Brazil,Minas Gerais,2020-05-09,3123,118,0
-BR-PA,Brazil,Para,2020-05-09,6775,578,0
-BR-PB,Brazil,Paraiba,2020-05-09,2156,124,0
-BR-PR,Brazil,Parana,2020-05-09,1785,107,0
-BR-PE,Brazil,Pernambuco,2020-05-09,12470,972,0
-BR-PI,Brazil,Piaui,2020-05-09,1233,38,0
-BR-RJ,Brazil,Rio de Janeiro,2020-05-09,16929,1653,0
-BR-RN,Brazil,Rio Grande do Norte,2020-05-09,1919,87,0
-BR-RS,Brazil,Rio Grande do Sul,2020-05-09,2493,95,0
-BR-RO,Brazil,Rondonia,2020-05-09,1263,41,0
-BR-RR,Brazil,Roraima,2020-05-09,1202,18,0
-BR-SC,Brazil,Santa Catarina,2020-05-09,3372,64,0
-BR-SP,Brazil,Sao Paulo,2020-05-09,44411,3608,0
-BR-SE,Brazil,Sergipe,2020-05-09,1588,33,0
-BR-TO,Brazil,Tocantins,2020-05-09,572,9,0
+BR-AC,Brazil,Acre,,0,0,0
+BR-AL,Brazil,Alagoas,,0,0,0
+BR-AP,Brazil,Amapa,,0,0,0
+BR-AM,Brazil,Amazonas,,0,0,0
+BR-BA,Brazil,Bahia,,0,0,0
+BR-CE,Brazil,Ceara,,0,0,0
+BR-DF,Brazil,Distrito Federal,,0,0,0
+BR-ES,Brazil,Espiritu Santo,,0,0,0
+BR-GO,Brazil,Goias,,0,0,0
+BR-MA,Brazil,Maranhao,,0,0,0
+BR-MT,Brazil,Mato Grosso,,0,0,0
+BR-MS,Brazil,Mato Grosso do Sul,,0,0,0
+BR-MG,Brazil,Minas Gerais,,0,0,0
+BR-PA,Brazil,Para,,0,0,0
+BR-PB,Brazil,Paraiba,,0,0,0
+BR-PR,Brazil,Parana,,0,0,0
+BR-PE,Brazil,Pernambuco,,0,0,0
+BR-PI,Brazil,Piaui,,0,0,0
+BR-RJ,Brazil,Rio de Janeiro,,0,0,0
+BR-RN,Brazil,Rio Grande do Norte,,0,0,0
+BR-RS,Brazil,Rio Grande do Sul,,0,0,0
+BR-RO,Brazil,Rondonia,,0,0,0
+BR-RR,Brazil,Roraima,,0,0,0
+BR-SC,Brazil,Santa Catarina,,0,0,0
+BR-SP,Brazil,Sao Paulo,,0,0,0
+BR-SE,Brazil,Sergipe,,0,0,0
+BR-TO,Brazil,Tocantins,,0,0,0
 CL-AN,Chile,Antofagasta,2020-05-09T16:52:13,947,10,0
 CL-AR,Chile,Araucania,2020-05-09T16:52:13,1418,36,0
 CL-AP,Chile,Arica y Parinacota,2020-05-09T16:52:13,337,6,0
@@ -108,13 +108,13 @@ CO-TOL,Colombia,Tolima,,0,0,0
 CO-VAC,Colombia,Valle del Cauca,,0,0,0
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
-CR-A,Costa Rica,Alajuela,,0,0,0
-CR-C,Costa Rica,Cartago,,0,0,0
-CR-G,Costa Rica,Guanacaste,,0,0,0
-CR-H,Costa Rica,Heredia,,0,0,0
-CR-L,Costa Rica,Limon,,0,0,0
-CR-P,Costa Rica,Puntarenas,,0,0,0
-CR-SJ,Costa Rica,San Jose,,0,0,0
+CR-A,Costa Rica,Alajuela,2020-05-09,52,0,0
+CR-C,Costa Rica,Cartago,2020-05-09,22,0,0
+CR-G,Costa Rica,Guanacaste,2020-05-09,13,0,0
+CR-H,Costa Rica,Heredia,2020-05-09,31,0,0
+CR-L,Costa Rica,Limon,2020-05-09,6,0,0
+CR-P,Costa Rica,Puntarenas,2020-05-09,16,0,0
+CR-SJ,Costa Rica,San Jose,2020-05-09,154,0,0
 CU-15,Cuba,Artemisa,,0,0,0
 CU-09,Cuba,Camagüey,,0,0,0
 CU-08,Cuba,Ciego de Ávila,,0,0,0

@@ -32,49 +32,49 @@ BO-N,Bolivia,Pando,,0,0,0
 BO-P,Bolivia,Potosi,,0,0,0
 BO-S,Bolivia,Santa Cruz,,0,0,0
 BO-T,Bolivia,Tarija,,0,0,0
-BR-AC,Brazil,Acre,2020-05-09,1335,39,0
-BR-AL,Brazil,Alagoas,2020-05-09,2172,114,0
-BR-AP,Brazil,Amapa,2020-05-09,2493,69,0
-BR-AM,Brazil,Amazonas,2020-05-09,11925,962,0
-BR-BA,Brazil,Bahia,2020-05-09,5174,196,0
-BR-CE,Brazil,Ceara,2020-05-09,15879,1062,0
-BR-DF,Brazil,Distrito Federal,2020-05-09,2576,39,0
-BR-ES,Brazil,Espiritu Santo,2020-05-09,0,0,0
-BR-GO,Brazil,Goias,2020-05-09,1069,47,0
-BR-MA,Brazil,Maranhao,2020-05-09,6765,355,0
-BR-MT,Brazil,Mato Grosso,2020-05-09,502,16,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-05-09,346,11,0
-BR-MG,Brazil,Minas Gerais,2020-05-09,3123,118,0
-BR-PA,Brazil,Para,2020-05-09,6775,578,0
-BR-PB,Brazil,Paraiba,2020-05-09,2156,124,0
-BR-PR,Brazil,Parana,2020-05-09,1785,107,0
-BR-PE,Brazil,Pernambuco,2020-05-09,12470,972,0
-BR-PI,Brazil,Piaui,2020-05-09,1233,38,0
-BR-RJ,Brazil,Rio de Janeiro,2020-05-09,16929,1653,0
-BR-RN,Brazil,Rio Grande do Norte,2020-05-09,1919,87,0
-BR-RS,Brazil,Rio Grande do Sul,2020-05-09,2493,95,0
-BR-RO,Brazil,Rondonia,2020-05-09,1263,41,0
-BR-RR,Brazil,Roraima,2020-05-09,1202,18,0
-BR-SC,Brazil,Santa Catarina,2020-05-09,3372,64,0
-BR-SP,Brazil,Sao Paulo,2020-05-09,44411,3608,0
-BR-SE,Brazil,Sergipe,2020-05-09,1588,33,0
-BR-TO,Brazil,Tocantins,2020-05-09,572,9,0
-CL-AN,Chile,Antofagasta,2020-05-09T16:52:13,947,10,0
-CL-AR,Chile,Araucania,2020-05-09T16:52:13,1418,36,0
-CL-AP,Chile,Arica y Parinacota,2020-05-09T16:52:13,337,6,0
-CL-AT,Chile,Atacama,2020-05-09T16:52:13,117,0,0
-CL-AI,Chile,Aysen,2020-05-09T16:52:13,8,0,0
-CL-BI,Chile,Biobio,2020-05-09T16:52:13,882,8,0
-CL-CO,Chile,Coquimbo,2020-05-09T16:52:13,129,0,0
-CL-LL,Chile,Los Lagos,2020-05-09T16:52:13,559,10,0
-CL-LR,Chile,Los Rios,2020-05-09T16:52:13,206,5,0
-CL-MA,Chile,Magallanes,2020-05-09T16:52:13,881,11,0
-CL-ML,Chile,Maule,2020-05-09T16:52:13,432,14,0
-CL-NB,Chile,Nuble,2020-05-09T16:52:13,801,18,0
-CL-LI,Chile,O'Higgins,2020-05-09T16:52:13,182,3,0
-CL-RM,Chile,Santiago,2020-05-09T16:52:13,18957,163,0
-CL-TA,Chile,Tarapaca,2020-05-09T16:52:13,485,1,0
-CL-VS,Chile,Valparaiso,2020-05-09T16:52:13,878,19,0
+BR-AC,Brazil,Acre,,0,0,0
+BR-AL,Brazil,Alagoas,,0,0,0
+BR-AP,Brazil,Amapa,,0,0,0
+BR-AM,Brazil,Amazonas,,0,0,0
+BR-BA,Brazil,Bahia,,0,0,0
+BR-CE,Brazil,Ceara,,0,0,0
+BR-DF,Brazil,Distrito Federal,,0,0,0
+BR-ES,Brazil,Espiritu Santo,,0,0,0
+BR-GO,Brazil,Goias,,0,0,0
+BR-MA,Brazil,Maranhao,,0,0,0
+BR-MT,Brazil,Mato Grosso,,0,0,0
+BR-MS,Brazil,Mato Grosso do Sul,,0,0,0
+BR-MG,Brazil,Minas Gerais,,0,0,0
+BR-PA,Brazil,Para,,0,0,0
+BR-PB,Brazil,Paraiba,,0,0,0
+BR-PR,Brazil,Parana,,0,0,0
+BR-PE,Brazil,Pernambuco,,0,0,0
+BR-PI,Brazil,Piaui,,0,0,0
+BR-RJ,Brazil,Rio de Janeiro,,0,0,0
+BR-RN,Brazil,Rio Grande do Norte,,0,0,0
+BR-RS,Brazil,Rio Grande do Sul,,0,0,0
+BR-RO,Brazil,Rondonia,,0,0,0
+BR-RR,Brazil,Roraima,,0,0,0
+BR-SC,Brazil,Santa Catarina,,0,0,0
+BR-SP,Brazil,Sao Paulo,,0,0,0
+BR-SE,Brazil,Sergipe,,0,0,0
+BR-TO,Brazil,Tocantins,,0,0,0
+CL-AN,Chile,Antofagasta,2020-05-08T15:06:38,923,9,0
+CL-AR,Chile,Araucania,2020-05-08T15:06:38,1403,36,0
+CL-AP,Chile,Arica y Parinacota,2020-05-08T15:06:38,327,6,0
+CL-AT,Chile,Atacama,2020-05-08T15:06:38,88,0,0
+CL-AI,Chile,Aysen,2020-05-08T15:06:38,8,0,0
+CL-BI,Chile,Biobio,2020-05-08T15:06:38,842,8,0
+CL-CO,Chile,Coquimbo,2020-05-08T15:06:38,111,0,0
+CL-LL,Chile,Los Lagos,2020-05-08T15:06:38,548,10,0
+CL-LR,Chile,Los Rios,2020-05-08T15:06:38,203,4,0
+CL-MA,Chile,Magallanes,2020-05-08T15:06:38,867,11,0
+CL-ML,Chile,Maule,2020-05-08T15:06:38,425,13,0
+CL-NB,Chile,Nuble,2020-05-08T15:06:38,794,18,0
+CL-LI,Chile,O'Higgins,2020-05-08T15:06:38,167,3,0
+CL-RM,Chile,Santiago,2020-05-08T15:06:38,17979,157,0
+CL-TA,Chile,Tarapaca,2020-05-08T15:06:38,459,1,0
+CL-VS,Chile,Valparaiso,2020-05-08T15:06:38,828,18,0
 CO-AMA,Colombia,Amazonas,,0,0,0
 CO-ANT,Colombia,Antioquia,,0,0,0
 CO-ARA,Colombia,Arauca,,0,0,0
@@ -108,13 +108,13 @@ CO-TOL,Colombia,Tolima,,0,0,0
 CO-VAC,Colombia,Valle del Cauca,,0,0,0
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
-CR-A,Costa Rica,Alajuela,,0,0,0
-CR-C,Costa Rica,Cartago,,0,0,0
-CR-G,Costa Rica,Guanacaste,,0,0,0
-CR-H,Costa Rica,Heredia,,0,0,0
-CR-L,Costa Rica,Limon,,0,0,0
-CR-P,Costa Rica,Puntarenas,,0,0,0
-CR-SJ,Costa Rica,San Jose,,0,0,0
+CR-A,Costa Rica,Alajuela,2020-05-08,56,0,0
+CR-C,Costa Rica,Cartago,2020-05-08,23,0,0
+CR-G,Costa Rica,Guanacaste,2020-05-08,10,0,0
+CR-H,Costa Rica,Heredia,2020-05-08,31,0,0
+CR-L,Costa Rica,Limon,2020-05-08,6,0,0
+CR-P,Costa Rica,Puntarenas,2020-05-08,15,0,0
+CR-SJ,Costa Rica,San Jose,2020-05-08,165,0,0
 CU-15,Cuba,Artemisa,,0,0,0
 CU-09,Cuba,Camagüey,,0,0,0
 CU-08,Cuba,Ciego de Ávila,,0,0,0
@@ -239,56 +239,56 @@ HT-NO,Haiti,Nord-Ouest,,0,0,0
 HT-OU,Haiti,Ouest,,0,0,0
 HT-SD,Haiti,Sud,,0,0,0
 HT-SE,Haiti,Sud-Est,,0,0,0
-HN-AT,Honduras,Atlantida,2020-05-10T16:32:37,51,4,15
-HN-CH,Honduras,Choluteca,2020-05-10T16:32:37,16,0,1
-HN-CL,Honduras,Colon,2020-05-10T16:32:37,42,1,12
-HN-CM,Honduras,Comayagua,2020-05-10T16:32:37,10,1,1
-HN-CP,Honduras,Copan,2020-05-10T16:32:37,4,0,0
-HN-CR,Honduras,Cortes,2020-05-10T16:32:37,1309,91,74
-HN-EP,Honduras,El Paraiso,2020-05-10T16:32:37,5,0,0
-HN-FM,Honduras,Francisco Morazan,2020-05-10T16:32:37,280,4,54
-HN-GD,Honduras,Gracias a Dios,2020-05-10T16:32:37,0,0,0
-HN-IN,Honduras,Intibuca,2020-05-10T16:32:37,9,1,0
-HN-IB,Honduras,Islas de la Bahia,2020-05-10T16:32:37,0,0,0
-HN-LP,Honduras,La Paz,2020-05-10T16:32:37,2,0,2
-HN-LE,Honduras,Lempira,2020-05-10T16:32:37,6,1,0
-HN-OC,Honduras,Ocotepeque,2020-05-10T16:32:37,1,0,1
-HN-OL,Honduras,Olancho,2020-05-10T16:32:37,1,0,0
-HN-SB,Honduras,Santa Barbara,2020-05-10T16:32:37,13,2,2
-HN-VA,Honduras,Valle,2020-05-10T16:32:37,16,0,1
-HN-YO,Honduras,Yoro,2020-05-10T16:32:37,65,3,2
-MX-AGU,Mexico,Aguascalientes,2020-05-11T21:07:28,307,14,0
-MX-BCN,Mexico,Baja California,2020-05-11T21:07:28,2392,402,0
-MX-BCS,Mexico,Baja California Sur,2020-05-11T21:07:28,377,22,0
-MX-CAM,Mexico,Campeche,2020-05-11T21:07:28,250,27,0
-MX-CHP,Mexico,Chiapas,2020-05-11T21:07:28,355,19,0
-MX-CHH,Mexico,Chihuahua,2020-05-11T21:07:28,657,135,0
-MX-CMX,Mexico,Ciudad de Mexico,2020-05-11T21:07:28,10911,774,0
-MX-COA,Mexico,Coahuila,2020-05-11T21:07:28,553,52,0
-MX-COL,Mexico,Colima,2020-05-11T21:07:28,36,6,0
-MX-DUR,Mexico,Durango,2020-05-11T21:07:28,107,11,0
-MX-GUA,Mexico,Guanajuato,2020-05-11T21:07:28,445,46,0
-MX-GRO,Mexico,Guerrero,2020-05-11T21:07:28,453,64,0
-MX-HID,Mexico,Hidalgo,2020-05-11T21:07:28,489,75,0
-MX-JAL,Mexico,Jalisco,2020-05-11T21:07:28,595,48,0
-MX-MIC,Mexico,Michoacan,2020-05-11T21:07:28,574,62,0
-MX-MOR,Mexico,Morelos,2020-05-11T21:07:28,760,99,0
-MX-MEX,Mexico,Mexico,2020-05-11T21:07:28,4025,321,0
-MX-NAY,Mexico,Nayarit,2020-05-11T21:07:28,199,22,0
-MX-NLE,Mexico,Nuevo Leon,2020-05-11T21:07:28,616,33,0
-MX-OAX,Mexico,Oaxaca,2020-05-11T21:07:28,221,40,0
-MX-PUE,Mexico,Puebla,2020-05-11T21:07:28,1076,145,0
-MX-QUE,Mexico,Queretaro,2020-05-11T21:07:28,230,21,0
-MX-ROO,Mexico,Quintana Roo,2020-05-11T21:07:28,1062,182,0
-MX-SLP,Mexico,San Luis Potosi,2020-05-11T21:07:28,237,12,0
-MX-SIN,Mexico,Sinaloa,2020-05-11T21:07:28,1401,207,0
-MX-SON,Mexico,Sonora,2020-05-11T21:07:28,440,26,0
-MX-TAB,Mexico,Tabasco,2020-05-11T21:07:28,1584,211,0
-MX-TAM,Mexico,Tamaulipas,2020-05-11T21:07:28,710,37,0
-MX-TLA,Mexico,Tlaxcala,2020-05-11T21:07:28,364,53,0
-MX-VER,Mexico,Veracruz,2020-05-11T21:07:28,1114,121,0
-MX-YUC,Mexico,Yucatan,2020-05-11T21:07:28,784,48,0
-MX-ZAC,Mexico,Zacatecas,2020-05-11T21:07:28,136,18,0
+HN-AT,Honduras,Atlantida,2020-05-09T16:52:14,47,4,15
+HN-CH,Honduras,Choluteca,2020-05-09T16:52:14,16,0,1
+HN-CL,Honduras,Colon,2020-05-09T16:52:14,42,1,12
+HN-CM,Honduras,Comayagua,2020-05-09T16:52:14,9,1,1
+HN-CP,Honduras,Copan,2020-05-09T16:52:14,4,0,0
+HN-CR,Honduras,Cortes,2020-05-09T16:52:14,1264,90,71
+HN-EP,Honduras,El Paraiso,2020-05-09T16:52:14,5,0,0
+HN-FM,Honduras,Francisco Morazan,2020-05-09T16:52:14,276,4,54
+HN-GD,Honduras,Gracias a Dios,2020-05-09T16:52:14,0,0,0
+HN-IN,Honduras,Intibuca,2020-05-09T16:52:14,7,1,0
+HN-IB,Honduras,Islas de la Bahia,2020-05-09T16:52:14,0,0,0
+HN-LP,Honduras,La Paz,2020-05-09T16:52:14,2,0,2
+HN-LE,Honduras,Lempira,2020-05-09T16:52:14,6,1,0
+HN-OC,Honduras,Ocotepeque,2020-05-09T16:52:14,1,0,1
+HN-OL,Honduras,Olancho,2020-05-09T16:52:14,1,0,0
+HN-SB,Honduras,Santa Barbara,2020-05-09T16:52:14,13,2,2
+HN-VA,Honduras,Valle,2020-05-09T16:52:14,13,0,1
+HN-YO,Honduras,Yoro,2020-05-09T16:52:14,65,3,2
+MX-AGU,Mexico,Aguascalientes,2020-05-09T01:41:31,304,12,0
+MX-BCN,Mexico,Baja California,2020-05-09T01:41:31,2304,365,0
+MX-BCS,Mexico,Baja California Sur,2020-05-09T01:41:31,372,22,0
+MX-CAM,Mexico,Campeche,2020-05-09T01:41:31,230,27,0
+MX-CHP,Mexico,Chiapas,2020-05-09T01:41:31,320,17,0
+MX-CHH,Mexico,Chihuahua,2020-05-09T01:41:31,632,126,0
+MX-CMX,Mexico,Ciudad de Mexico,2020-05-09T01:41:31,10276,729,0
+MX-COA,Mexico,Coahuila,2020-05-09T01:41:31,537,51,0
+MX-COL,Mexico,Colima,2020-05-09T01:41:31,36,6,0
+MX-DUR,Mexico,Durango,2020-05-09T01:41:31,105,11,0
+MX-GUA,Mexico,Guanajuato,2020-05-09T01:41:31,415,46,0
+MX-GRO,Mexico,Guerrero,2020-05-09T01:41:31,432,61,0
+MX-HID,Mexico,Hidalgo,2020-05-09T01:41:31,470,72,0
+MX-JAL,Mexico,Jalisco,2020-05-09T01:41:31,559,47,0
+MX-MIC,Mexico,Michoacan,2020-05-09T01:41:31,519,59,0
+MX-MOR,Mexico,Morelos,2020-05-09T01:41:31,697,93,0
+MX-MEX,Mexico,Mexico,2020-05-09T01:41:31,3863,300,0
+MX-NAY,Mexico,Nayarit,2020-05-09T01:41:31,193,21,0
+MX-NLE,Mexico,Nuevo Leon,2020-05-09T01:41:31,609,33,0
+MX-OAX,Mexico,Oaxaca,2020-05-09T01:41:31,213,37,0
+MX-PUE,Mexico,Puebla,2020-05-09T01:41:31,1030,129,0
+MX-QUE,Mexico,Queretaro,2020-05-09T01:41:31,220,21,0
+MX-ROO,Mexico,Quintana Roo,2020-05-09T01:41:31,1022,175,0
+MX-SLP,Mexico,San Luis Potosi,2020-05-09T01:41:31,227,11,0
+MX-SIN,Mexico,Sinaloa,2020-05-09T01:41:31,1380,204,0
+MX-SON,Mexico,Sonora,2020-05-09T01:41:31,378,25,0
+MX-TAB,Mexico,Tabasco,2020-05-09T01:41:31,1516,201,0
+MX-TAM,Mexico,Tamaulipas,2020-05-09T01:41:31,441,31,0
+MX-TLA,Mexico,Tlaxcala,2020-05-09T01:41:31,331,50,0
+MX-VER,Mexico,Veracruz,2020-05-09T01:41:31,1013,112,0
+MX-YUC,Mexico,Yucatan,2020-05-09T01:41:31,747,48,0
+MX-ZAC,Mexico,Zacatecas,2020-05-09T01:41:31,131,18,0
 NI-BO,Nicaragua,Boaco,,0,0,0
 NI-CA,Nicaragua,Carazo,,0,0,0
 NI-CI,Nicaragua,Chinandega,,0,0,0
@@ -337,31 +337,31 @@ PY-12,Paraguay,Neembucu,,0,0,0
 PY-9,Paraguay,Paraguari,,0,0,0
 PY-15,Paraguay,Presidente Hayes,,0,0,0
 PY-2,Paraguay,San Pedro,,0,0,0
-PE-AMA,Peru,Amazonas,2020-05-12T05:07:28,221,7,0
-PE-ANC,Peru,Ancash,2020-05-12T05:07:28,1472,106,0
-PE-APU,Peru,Apurimac,2020-05-12T05:07:28,92,0,0
-PE-ARE,Peru,Arequipa,2020-05-12T05:07:28,904,20,0
-PE-AYA,Peru,Ayacucho,2020-05-12T05:07:28,222,0,0
-PE-CAJ,Peru,Cajamarca,2020-05-12T05:07:28,351,3,0
-PE-CAL,Peru,Callao,2020-05-12T05:07:28,5217,119,0
-PE-CUS,Peru,Cusco,2020-05-12T05:07:28,366,3,0
-PE-HUV,Peru,Huancavelica,2020-05-12T05:07:28,331,7,0
-PE-HUC,Peru,Huanuco,2020-05-12T05:07:28,185,1,0
-PE-ICA,Peru,Ica,2020-05-12T05:07:28,930,41,0
-PE-JUN,Peru,Junin,2020-05-12T05:07:28,764,14,0
-PE-LAL,Peru,La Libertad,2020-05-12T05:07:28,1394,66,0
-PE-LAM,Peru,Lambayeque,2020-05-12T05:07:28,3628,365,0
-PE-LIM,Peru,Lima,2020-05-12T05:07:28,41844,662,0
-PE-LOR,Peru,Loreto,2020-05-12T05:07:28,1735,67,0
-PE-MDD,Peru,Madre de dios,2020-05-12T05:07:28,150,1,0
-PE-MOQ,Peru,Moquegua,2020-05-12T05:07:28,163,0,0
-PE-PAS,Peru,Pasco,2020-05-12T05:07:28,162,1,0
-PE-PIU,Peru,Piura,2020-05-12T05:07:28,2388,240,0
-PE-PUN,Peru,Puno,2020-05-12T05:07:28,164,1,0
-PE-SAM,Peru,San Martin,2020-05-12T05:07:28,428,2,0
-PE-TAC,Peru,Tacna,2020-05-12T05:07:28,171,2,0
-PE-TUM,Peru,Tumbes,2020-05-12T05:07:28,478,19,0
-PE-UCA,Peru,Ucayali,2020-05-12T05:07:28,1255,67,0
+PE-AMA,Peru,Amazonas,2020-05-08,207,7,0
+PE-ANC,Peru,Ancash,2020-05-08,1390,106,0
+PE-APU,Peru,Apurimac,2020-05-08,92,0,0
+PE-ARE,Peru,Arequipa,2020-05-08,854,20,0
+PE-AYA,Peru,Ayacucho,2020-05-08,203,0,0
+PE-CAJ,Peru,Cajamarca,2020-05-08,328,3,0
+PE-CAL,Peru,Callao,2020-05-08,4968,82,0
+PE-CUS,Peru,Cusco,2020-05-08,328,3,0
+PE-HUV,Peru,Huancavelica,2020-05-08,178,1,0
+PE-HUC,Peru,Huanuco,2020-05-08,323,7,0
+PE-ICA,Peru,Ica,2020-05-08,884,41,0
+PE-JUN,Peru,Junin,2020-05-08,689,14,0
+PE-LAL,Peru,La Libertad,2020-05-08,1275,66,0
+PE-LAM,Peru,Lambayeque,2020-05-08,3479,347,0
+PE-LIM,Peru,Lima,2020-05-08,39837,653,0
+PE-LOR,Peru,Loreto,2020-05-08,1704,67,0
+PE-MDD,Peru,Madre de dios,2020-05-08,139,1,0
+PE-MOQ,Peru,Moquegua,2020-05-08,160,0,0
+PE-PAS,Peru,Pasco,2020-05-08,158,1,0
+PE-PIU,Peru,Piura,2020-05-08,2258,233,0
+PE-PUN,Peru,Puno,2020-05-08,164,1,0
+PE-SAM,Peru,San Martin,2020-05-08,394,2,0
+PE-TAC,Peru,Tacna,2020-05-08,166,2,0
+PE-TUM,Peru,Tumbes,2020-05-08,461,19,0
+PE-UCA,Peru,Ucayali,2020-05-08,1208,38,0
 US-PR,United States,Puerto Rico,,0,0,0
 UY-AR,Uruguay,Artigas,,0,0,0
 UY-CA,Uruguay,Canelones,,0,0,0
