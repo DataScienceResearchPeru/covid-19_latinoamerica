@@ -58,7 +58,7 @@ daily_report.Recovered = daily_report.Recovered.astype("int64")
 
 print(daily_report[daily_report.Country=="Cuba"])
 
-os.system("git pull")
+# os.system("git pull")
 daily_report.to_csv(daily_report_file, index=False)
-os.system(f"git add {daily_report_file}")
-os.system("git commit -m 'Update Cuba'")
+# os.system(f"git add {daily_report_file}")
+# os.system("git commit -m 'Update Cuba'")
