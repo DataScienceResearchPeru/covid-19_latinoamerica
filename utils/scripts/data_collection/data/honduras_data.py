@@ -46,4 +46,4 @@ if __name__ == "__main__":
     WARNING: TO_CSV TEMPORAL
     """
     dataset.to_csv(
-        "utils/scripts/data_collection/honduras_temporal/{}.csv".format(date.today()), sep=',', index=False)
+        "utils/scripts/data_collection/data/honduras_temporal/{}.csv".format(date.today()), sep=',', index=False)

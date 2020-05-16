@@ -48,6 +48,6 @@ for entry in parsed:
     
     print(daily_report[daily_report.Country=="Costa Rica"])
     # os.system("git pull")
-    daily_report.to_csv(f"utils/scripts/data_collection/costarica_temporal/{date}.csv", index=False)
+    daily_report.to_csv(f"utils/scripts/data_collection/data/costarica_temporal/{date}.csv", index=False)
     # os.system(f"git add {daily_report_file}")
     # os.system("git commit -m 'Update Costa rica'")

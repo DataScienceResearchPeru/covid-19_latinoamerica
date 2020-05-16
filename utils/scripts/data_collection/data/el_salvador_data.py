@@ -78,4 +78,4 @@ if __name__ == "__main__":
     CHANGE REPOSITORY FAILS
     WARNING: TO_CSV TEMPORAL
     """
-    dataset.to_csv("utils/scripts/data_collection/el_salvador_temporal/{}.csv".format(date.today()), sep=',', index=False)
+    dataset.to_csv("utils/scripts/data_collection/data/el_salvador_temporal/{}.csv".format(date.today()), sep=',', index=False)
