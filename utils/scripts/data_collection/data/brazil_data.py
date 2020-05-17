@@ -2,29 +2,18 @@ import pandas as pd
 import sys
 import os
 
-if 1 < len(sys.argv) < 3:
-    init_date = sys.argv[1]
-    try:
-        init_date = pd.to_datetime(init_date, format="%Y/%m/%d")
-    except ValueError:
-        print("incorrect date format")
-        sys.exit(0)
-else:
-    print("Usage brazil_data.py <initial_date>\n date format: %Y/%m/%d example: 2020/03/25")
-    sys.exit(0)
-
+init_date = pd.to_datetime("2020/03/25", format="%Y/%m/%d")
 
 confirmed_url = "https://raw.githubusercontent.com/elhenrico/covid19-Brazil-timeseries/master/confirmed-cases.csv"
 deaths_url = "https://raw.githubusercontent.com/elhenrico/covid19-Brazil-timeseries/master/deaths.csv"
+dsrp_github="https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/2020-03-08.csv"
+
 
 confirmed = pd.read_csv(confirmed_url)
 deaths = pd.read_csv(deaths_url)
+compare = pd.read_csv(dsrp_github)
 
-###
-compare = pd.read_csv("https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/2020-03-08.csv")
-brazil_compare = compare[compare.Country=="Brazil"]
-###
-
+brazil_compare = compare[compare['Country']=="Brazil"]
 
 string_a = "áéíóúäëïöüâêîôûã"  # character to be replaced
 string_b = "aeiouaeiouaeioua"  # character to replace with
@@ -40,18 +29,11 @@ deaths.iloc[:,0] = deaths.iloc[:,0].apply(remove_tildes)
 
 confirmed = confirmed.rename(columns={"Unnamed: 0": "Subdivision", "Unnamed: 1": "Code"})
 deaths = deaths.rename(columns={"Unnamed: 0": "Subdivision", "Unnamed: 1": "Code"})
-#print(confirmed)
 
 sub_brazil = sorted(brazil_compare.Subdivision.unique())
 sub_repo = sorted(confirmed.iloc[:,0].unique())
 
-#print(sub_brazil)
-
-#print("Subdivision brazil:", len(sub_brazil))
-#print("Subdivisions:", len(sub_repo))
-
 other_subdivisions = list(set(sub_repo) - (set(sub_brazil)))  # Subdivisiones other than those listed in the main repo
-#print(other_subdivisions)
 
 confirmed = confirmed[~confirmed.Subdivision.isin(other_subdivisions)].sort_values("Subdivision")
 deaths = deaths[~deaths.Subdivision.isin(other_subdivisions)].sort_values("Subdivision")
@@ -61,9 +43,6 @@ del deaths["Code"]
 
 confirmed_columns = confirmed.columns[1:]
 deaths_columns = deaths.columns[1:]
-
-#print(" ".join(confirmed_columns))
-#print(" ".join(deaths_columns))
 
 columns_order = ["ISO 3166-2 Code", "Country", "Subdivision", "Last Update", "Confirmed", "Deaths", "Recovered"]
 
@@ -106,9 +85,6 @@ for column in confirmed_columns:
     daily_report.Confirmed = daily_report.Confirmed.astype("int64")
     daily_report.Recovered = daily_report.Recovered.astype("int64")
 
-
+    path_data=f"utils/scripts/data_collection/data/brazil_temporal/{date}.csv"
     print(daily_report[daily_report.Country=="Brazil"])
-    # os.system("git pull")
-    daily_report.to_csv(f"utils/scripts/data_collection/data/brazil_temporal/{date}.csv", index=False)
-    # os.system(f"git add {daily_report_path}")
-    # os.system("git commit -m 'Update Brazil'")
+    daily_report.to_csv(path_data, index=False)
