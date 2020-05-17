@@ -4,7 +4,6 @@ import datetime
 import sys
 import os
 
-
 def load_iso(path):
     # ISO 3166-2
     iso = pd.read_csv(path_iso, sep=',')
@@ -72,9 +71,9 @@ def fix_format(df):
     return df
 
 
-def execute_peru(path_peru, path_dsrp, d, isocode, today):
+def execute_country(path_country, path_dsrp, d, isocode, today):
 
-    data_peru = load_filter_dataframe(path_peru+d+'.csv', isocode)
+    data_peru = load_filter_dataframe(path_country+d+'.csv', isocode)
     data_peru = data_peru.fillna('')
     data_dsrp_day = load_dataframe(path_dsrp+d+'.csv')
     data_dsrp_day = fix_format(data_dsrp_day)
@@ -106,8 +105,8 @@ if __name__ == "__main__":
     # Path
     path_brazil = 'utils/scripts/data_collection/data/brazil_temporal/'
     path_costarica = 'utils/scripts/data_collection/data/costarica_temporal/'
-    path_el_salvador = 'utils/scripts/data_collection/data/el_salvador_temporal/'
-    path_honduras = 'utils/scripts/data_collection/data/honduras_temporal/'
+    # path_el_salvador = 'utils/scripts/data_collection/data/el_salvador_temporal/' #BROKEN
+    # path_honduras = 'utils/scripts/data_collection/data/honduras_temporal/' #HONDURAS ALREADY UPDATED
     path_peru = 'utils/scripts/data_collection/data/peru_temporal/'
 
     path_dsrp = 'latam_covid_19_data/daily_reports/'
@@ -117,16 +116,19 @@ if __name__ == "__main__":
     array_isocode = load_iso(path_iso)
     today = datetime.datetime.today()
     date_list_csv, date_list = generate_list_dates(path_dsrp)
-    list_date_list = date_list[:-50]
-    
+    # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
+    list_date_list = date_list[1:-50]
+
+    print('List of dates to be modified:', end='')
     for d in list_date_list:  # date_list
 
         #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-')
         #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-')
         #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-')
-        #data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
+        # data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
 
-        execute_peru(path_peru, path_dsrp, d, 'PE-', today)
+        execute_country(path_brazil, path_dsrp, d, 'BR-', today)
+        execute_country(path_costarica, path_dsrp, d, 'CR-', today)
+        execute_country(path_peru, path_dsrp, d, 'PE-', today)
 
-        print('List of dates to be modified:',end='')
         print(d, end=' - ')
