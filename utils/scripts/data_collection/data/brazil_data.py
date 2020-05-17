@@ -87,4 +87,5 @@ for column in confirmed_columns:
 
     path_data=f"utils/scripts/data_collection/data/brazil_temporal/{date}.csv"
     print(daily_report[daily_report.Country=="Brazil"])
+    daily_report=daily_report[daily_report.Country=="Brazil"]
     daily_report.to_csv(path_data, index=False)
