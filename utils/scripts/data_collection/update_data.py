@@ -40,6 +40,38 @@ def load_filter_dataframe(path, isocode):
     return df2
 
 
+def load_dataframe(path):
+    df = pd.read_csv(path)
+    return df
+
+
+def fix_format(df):
+    df = df.fillna('')
+
+    for m in range(len(df)):
+
+        if df.loc[m]['Confirmed'] != '':
+            a = int(float(df.loc[m]['Confirmed']))
+        else:
+            a = ''
+
+        if df.loc[m]['Deaths'] != '':
+            b = int(float(df.loc[m]['Deaths']))
+        else:
+            b = ''
+
+        if df.loc[m]['Recovered'] != '':
+            c = int(float(df.loc[m]['Recovered']))
+        else:
+            c = ''
+
+        df.loc[m, ['Confirmed']] = str(a)
+        df.loc[m, ['Deaths']] = str(b)
+        df.loc[m, ['Recovered']] = str(c)
+
+    return df
+
+
 if __name__ == "__main__":
     # Path
     path_brazil = 'utils/scripts/data_collection/data/brazil_temporal/'
@@ -55,10 +87,38 @@ if __name__ == "__main__":
     array_isocode = load_iso(path_iso)
     date_list_csv, date_list = generate_list_dates(path_dsrp)
 
-    d = '2020-05-15.csv'
+    today = datetime.datetime.today()
+    list_date_list=date_list[:-50]
+    for d in list_date_list:  # date_list
 
-    data_brazil = load_filter_dataframe(path_brazil+d, 'BR')
-    data_costarica = load_filter_dataframe(path_costarica+d, 'CR')
-    #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV')
-    #data_honduras = load_filter_dataframe(path_honduras+d, 'HN')
-    data_peru = load_filter_dataframe(path_peru+d, 'PE')
+        #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-')
+        #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-')
+        #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-')
+        #data_honduras = load_filter_dataframe(path_honduras+d, 'HN-')
+        data_peru = load_filter_dataframe(path_peru+d+'.csv', 'PE-')
+        data_peru = data_peru.fillna('')
+        data_dsrp_day = load_dataframe(path_dsrp+d+'.csv')
+        data_dsrp_day = fix_format(data_dsrp_day)
+
+        for l in range(len(data_peru)):
+            a = data_dsrp_day[data_dsrp_day['ISO 3166-2 Code']
+                              == data_peru.loc[l]['ISO 3166-2 Code']]
+
+            if data_peru.loc[l]['Confirmed'] != '':
+                number_confirmed = int(float(data_peru.loc[l]['Confirmed']))
+            else:
+                number_confirmed = ''
+
+            if data_peru.loc[l]['Deaths'] != '':
+                number_deaths = int(float(data_peru.loc[l]['Deaths']))
+            else:
+                number_deaths = ''
+
+            data_dsrp_day.loc[a.index.values[0], [
+                'Confirmed']] = str(number_confirmed)
+            data_dsrp_day.loc[a.index.values[0],
+                              ['Deaths']] = str(number_deaths)
+            data_dsrp_day.loc[a.index.values[0], ['Last Update']] = str(today)
+
+        #print(data_dsrp_day[data_dsrp_day['ISO 3166-2 Code'].str.contains('PE-')])
+        data_dsrp_day.to_csv(path_dsrp+d+'.csv', index=False)

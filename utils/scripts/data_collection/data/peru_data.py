@@ -7,12 +7,83 @@ import os
 
 def get_iso_by_country_name(country_name, mode):
 
-    array_iso = np.array(['PE-AMA', 'PE-ANC', 'PE-APU', 'PE-ARE', 'PE-AYA', 'PE-CAJ', 'PE-CAL', 'PE-CUS', 'PE-HUV', 'PE-HUC', 'PE-ICA', 'PE-JUN',
-                          'PE-LAL', 'PE-LAM', 'PE-LIM', 'PE-LOR', 'PE-MDD', 'PE-MOQ', 'PE-PAS', 'PE-PIU', 'PE-PUN', 'PE-SAM', 'PE-TAC', 'PE-TUM', 'PE-UCA'])
-    array_peru_csv = np.array(['Amazonas', 'Ancash', 'Apurimac', 'Arequipa', 'Ayacucho', 'Cajamarca', 'Callao', 'Cusco', 'Huancavelica', 'Huánuco', 'Ica', 'Junín',
-                               'La Libertad', 'Lambayeque', 'Lima', 'Loreto', 'Madre de Dios', 'Moquegua', 'Pasco', 'Piura', 'Puno', 'San Martín', 'Tacna', 'Tumbes', 'Ucayali'])
-    array_peru_fixed = np.array(['Amazonas', 'Ancash', 'Apurimac', 'Arequipa', 'Ayacucho', 'Cajamarca', 'Callao', 'Cusco', 'Huancavelica', 'Huanuco', 'Ica', 'Junin',
-                                 'La Libertad', 'Lambayeque', 'Lima', 'Loreto', 'Madre de dios', 'Moquegua', 'Pasco', 'Piura', 'Puno', 'San Martin', 'Tacna', 'Tumbes', 'Ucayali'])
+    array_iso = np.array(['PE-AMA',
+                          'PE-ANC',
+                          'PE-APU',
+                          'PE-ARE',
+                          'PE-AYA',
+                          'PE-CAJ',
+                          'PE-CAL',
+                          'PE-CUS',
+                          'PE-HUV',
+                          'PE-HUC',
+                          'PE-ICA',
+                          'PE-JUN',
+                          'PE-LAL',
+                          'PE-LAM',
+                          'PE-LIM',
+                          'PE-LOR',
+                          'PE-MDD',
+                          'PE-MOQ',
+                          'PE-PAS',
+                          'PE-PIU',
+                          'PE-PUN',
+                          'PE-SAM',
+                          'PE-TAC',
+                          'PE-TUM',
+                          'PE-UCA'])
+
+    array_peru_csv = np.array(['Amazonas',
+                               'Ancash',
+                               'Apurimac',
+                               'Arequipa',
+                               'Ayacucho',
+                               'Cajamarca',
+                               'Callao',
+                               'Cusco',
+                               'Huancavelica',
+                               'Huánuco',
+                               'Ica',
+                               'Junín',
+                               'La Libertad',
+                               'Lambayeque',
+                               'Lima',
+                               'Loreto',
+                               'Madre de Dios',
+                               'Moquegua',
+                               'Pasco',
+                               'Piura',
+                               'Puno',
+                               'San Martín',
+                               'Tacna',
+                               'Tumbes',
+                               'Ucayali'])
+
+    array_peru_fixed = np.array(['Amazonas',
+                                 'Ancash',
+                                 'Apurimac',
+                                 'Arequipa',
+                                 'Ayacucho',
+                                 'Cajamarca',
+                                 'Callao',
+                                 'Cusco',
+                                 'Huancavelica',
+                                 'Huanuco',
+                                 'Ica',
+                                 'Junin',
+                                 'La Libertad',
+                                 'Lambayeque',
+                                 'Lima',
+                                 'Loreto',
+                                 'Madre de dios',
+                                 'Moquegua',
+                                 'Pasco',
+                                 'Piura',
+                                 'Puno',
+                                 'San Martin',
+                                 'Tacna',
+                                 'Tumbes',
+                                 'Ucayali'])
 
     df = pd.DataFrame({'ISO 3166-2 Code': array_iso,
                        'Remote': array_peru_csv, 'Local': array_peru_fixed})
@@ -56,41 +127,58 @@ def load_and_generatecsv():
     path_dsrp_daily_reports = 'latam_covid_19_data/daily_reports/'
     path_peru_csv = "https://raw.githubusercontent.com/jmcastagnetto/covid-19-peru-data/master/datos/covid-19-peru-data.csv"
     path_dsrp = "https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/2020-03-08.csv"
-    path_csv="utils/scripts/data_collection/data/peru_temporal/"
+    path_csv = "utils/scripts/data_collection/data/peru_temporal/"
 
     data_peru = pd.read_csv(path_peru_csv)
     data_dsrp = pd.read_csv(path_dsrp)
 
     array_dates_csv, array_dates = generate_list_dates(path_dsrp_daily_reports)
 
-    for d in array_dates:
+    for d in array_dates:  # array_dates
 
-        temp_dsrp = data_dsrp[data_dsrp['ISO 3166-2 Code'].str.contains('PE-')]
+        temp_dsrp = data_dsrp[data_dsrp['ISO 3166-2 Code'].str.contains('PE-')].copy()
 
         temp_dsrp['Confirmed'] = 0
         temp_dsrp['Deaths'] = 0
         temp_dsrp['Recovered'] = 0
+
         # data_peru
-        data_peru = data_peru[data_peru['date'] == d]
-        data_peru = data_peru.fillna('')
-        data_peru = data_peru[data_peru['region'] != '']
+        data = data_peru[data_peru['date'] == d]
+        data = data.fillna('')
+        data=data[data['region']!='']
+        data.reset_index(drop=True)
 
-        for row in range(len(data_peru)):
-            numero_confirmed = data_peru.iloc[row]['confirmed']
+        for r in np.array(data.index):
 
-            string_iso = get_iso_by_country_name(
-                data_peru.iloc[row]['region'], 'remote')
-            f = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == string_iso]
-            # print(f.index.values[0])
-            temp_dsrp.loc[f.index.values[0], ['Confirmed']] = numero_confirmed
-            temp_dsrp.loc[f.index.values[0], ['Last Update']] = today
+            if data['confirmed'][r] != '':
+                numero_confirmed = int(float(data['confirmed'][r]))
+            else:
+                numero_confirmed = ''
+            if data['deaths'][r] != '':
+                numero_deaths = int(float(data['deaths'][r]))
+            else:
+                numero_deaths = ''
 
-        temp_dsrp = temp_dsrp.fillna('')
+            try:
+                string_iso = get_iso_by_country_name(
+                    data_peru["region"][r], 'remote')
+                f = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == string_iso]
+                # print(f.index.values[0])
+                temp_dsrp.loc[f.index.values[0], ['Confirmed']] = numero_confirmed
+                temp_dsrp.loc[f.index.values[0], ['Deaths']] = numero_deaths
+                temp_dsrp.loc[f.index.values[0], ['Last Update']] = today
+            except Exception as e:
+                print('ERROR:[{}]:{}'.format(r,e))
+
+            numero_confirmed = data['confirmed'][r]
 
         print(d, end=' - ')
 
-        temp_dsrp.to_csv(path_csv+d+'.csv',index=False)
+        print(temp_dsrp)
+        temp_dsrp = temp_dsrp.fillna('')
+
+        temp_dsrp.to_csv(path_csv+d+'.csv', index=False)
 
 
 if __name__ == "__main__":
-    load_and_generatecsv()
+    load_and_generatecsv() 
