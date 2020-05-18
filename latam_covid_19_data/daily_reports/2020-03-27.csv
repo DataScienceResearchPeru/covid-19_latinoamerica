@@ -75,39 +75,39 @@ CL-LI,Chile,O'Higgins,2020-03-28T02:39:32,16,0,0
 CL-RM,Chile,Santiago,2020-03-28T02:39:32,938,3,0
 CL-TA,Chile,Tarapaca,2020-03-28T02:39:32,5,0,0
 CL-VS,Chile,Valparaiso,2020-03-28T02:39:32,49,0,0
-CO-AMA,Colombia,Amazonas,2020-03-27,0,0,0
-CO-ANT,Colombia,Antioquia,2020-03-27,60,0,2
-CO-ARA,Colombia,Arauca,2020-03-27,0,0,0
-CO-ATL,Colombia,Atlantico,2020-03-27,16,0,0
-CO-DC,Colombia,Bogota,2020-03-27,223,3,3
-CO-BOL,Colombia,Bolivar,2020-03-27,26,1,1
-CO-BOY,Colombia,Boyaca,2020-03-27,2,0,0
-CO-CAL,Colombia,Caldas,2020-03-27,12,0,1
-CO-CAQ,Colombia,Caqueta,2020-03-27,0,0,0
-CO-CAS,Colombia,Casanare,2020-03-27,1,0,0
-CO-CAU,Colombia,Cauca,2020-03-27,9,0,0
-CO-CES,Colombia,Cesar,2020-03-27,2,0,1
-CO-COR,Colombia,Choco,2020-03-27,0,0,0
-CO-CUN,Colombia,Cordoba,2020-03-27,0,0,0
-CO-CHO,Colombia,Cundinamarca,2020-03-27,22,0,0
-CO-GUA,Colombia,Guainia,2020-03-27,0,0,0
-CO-GUV,Colombia,Guaviare,2020-03-27,0,0,0
-CO-HUI,Colombia,Huila,2020-03-27,14,0,1
-CO-LAG,Colombia,La Guajira,2020-03-27,0,0,0
-CO-MAG,Colombia,Magdalena,2020-03-27,7,1,0
-CO-MET,Colombia,Meta,2020-03-27,8,0,0
-CO-NAR,Colombia,Narino,2020-03-27,1,0,0
-CO-NSA,Colombia,Norte de Santander,2020-03-27,0,0,0
-CO-PUT,Colombia,Putumayo,2020-03-27,0,0,0
-CO-QUI,Colombia,Quindio,2020-03-27,15,0,0
-CO-RIS,Colombia,Risaralda,2020-03-27,19,0,0
-CO-SAP,Colombia,San Andres y Providencia,2020-03-27,1,0,0
-CO-SAN,Colombia,Santander,2020-03-27,4,0,0
-CO-SUC,Colombia,Sucre,2020-03-27,0,0,0
-CO-TOL,Colombia,Tolima,2020-03-27,9,0,0
-CO-VAC,Colombia,Valle del Cauca,2020-03-27,73,1,1
-CO-VAU,Colombia,Vaupes,2020-03-27,0,0,0
-CO-VID,Colombia,Vichada,2020-03-27,0,0,0
+CO-AMA,Colombia,Amazonas,2020-05-18 00:03:35.887078,0,0,0
+CO-ANT,Colombia,Antioquia,2020-05-18 00:03:35.887078,0,0,2
+CO-ARA,Colombia,Arauca,2020-05-18 00:03:35.887078,0,0,0
+CO-ATL,Colombia,Atlantico,2020-05-18 00:03:35.887078,16,1,0
+CO-DC,Colombia,Bogota,2020-05-18 00:03:35.887078,217,0,3
+CO-BOL,Colombia,Bolivar,2020-05-18 00:03:35.887078,0,2,1
+CO-BOY,Colombia,Boyaca,2020-05-18 00:03:35.887078,0,0,0
+CO-CAL,Colombia,Caldas,2020-05-18 00:03:35.887078,12,0,1
+CO-CAQ,Colombia,Caqueta,2020-05-18 00:03:35.887078,0,0,0
+CO-CAS,Colombia,Casanare,2020-05-18 00:03:35.887078,0,0,0
+CO-CAU,Colombia,Cauca,2020-05-18 00:03:35.887078,0,0,0
+CO-CES,Colombia,Cesar,2020-05-18 00:03:35.887078,0,0,1
+CO-COR,Colombia,Choco,2020-05-18 00:03:35.887078,0,0,0
+CO-CUN,Colombia,Cordoba,2020-05-18 00:03:35.887078,0,0,0
+CO-CHO,Colombia,Cundinamarca,2020-05-18 00:03:35.887078,28,0,0
+CO-GUA,Colombia,Guainia,2020-05-18 00:03:35.887078,0,0,0
+CO-GUV,Colombia,Guaviare,2020-05-18 00:03:35.887078,0,0,0
+CO-HUI,Colombia,Huila,2020-05-18 00:03:35.887078,0,0,1
+CO-LAG,Colombia,La Guajira,2020-05-18 00:03:35.887078,0,0,0
+CO-MAG,Colombia,Magdalena,2020-05-18 00:03:35.887078,7,0,0
+CO-MET,Colombia,Meta,2020-05-18 00:03:35.887078,0,0,0
+CO-NAR,Colombia,Narino,2020-05-18 00:03:35.887078,0,0,0
+CO-NSA,Colombia,Norte de Santander,2020-05-18 00:03:35.887078,0,1,0
+CO-PUT,Colombia,Putumayo,2020-05-18 00:03:35.887078,0,0,0
+CO-QUI,Colombia,Quindio,2020-05-18 00:03:35.887078,15,0,0
+CO-RIS,Colombia,Risaralda,2020-05-18 00:03:35.887078,0,0,0
+CO-SAP,Colombia,San Andres y Providencia,2020-05-18 00:03:35.887078,0,0,0
+CO-SAN,Colombia,Santander,2020-05-18 00:03:35.887078,0,0,0
+CO-SUC,Colombia,Sucre,2020-05-18 00:03:35.887078,0,0,0
+CO-TOL,Colombia,Tolima,2020-05-18 00:03:35.887078,0,0,0
+CO-VAC,Colombia,Valle del Cauca,2020-05-18 00:03:35.887078,0,0,1
+CO-VAU,Colombia,Vaupes,2020-05-18 00:03:35.887078,0,0,0
+CO-VID,Colombia,Vichada,2020-05-18 00:03:35.887078,0,0,0
 CR-A,Costa Rica,Alajuela,2020-03-27,83,0,0
 CR-C,Costa Rica,Cartago,2020-03-27,19,0,0
 CR-G,Costa Rica,Guanacaste,2020-03-27,8,0,0
