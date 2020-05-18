@@ -4,6 +4,7 @@ import datetime
 import sys
 import os
 
+
 def load_iso(path):
     # ISO 3166-2
     iso = pd.read_csv(path_iso, sep=',')
@@ -102,8 +103,10 @@ def execute_country(path_country, path_dsrp, d, isocode, today):
 
 
 if __name__ == "__main__":
+
     # Path
     path_brazil = 'utils/scripts/data_collection/data/brazil_temporal/'
+    path_colombia = 'utils/scripts/data_collection/data/colombia_temporal/'
     path_costarica = 'utils/scripts/data_collection/data/costarica_temporal/'
     # path_el_salvador = 'utils/scripts/data_collection/data/el_salvador_temporal/' #BROKEN
     # path_honduras = 'utils/scripts/data_collection/data/honduras_temporal/' #HONDURAS ALREADY UPDATED
@@ -117,7 +120,7 @@ if __name__ == "__main__":
     today = datetime.datetime.today()
     date_list_csv, date_list = generate_list_dates(path_dsrp)
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
-    list_date_list = date_list[1:-50]
+    list_date_list = date_list[1:-65]
 
     print('List of dates to be modified:', end='')
     for d in list_date_list:  # date_list
@@ -128,6 +131,7 @@ if __name__ == "__main__":
         # data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
 
         execute_country(path_brazil, path_dsrp, d, 'BR-', today)
+        execute_country(path_colombia, path_dsrp, d, 'CO-', today)
         execute_country(path_costarica, path_dsrp, d, 'CR-', today)
         execute_country(path_peru, path_dsrp, d, 'PE-', today)
 

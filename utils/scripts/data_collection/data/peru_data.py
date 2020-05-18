@@ -170,7 +170,7 @@ def load_and_generatecsv():
             except Exception as e:
                 print('ERROR:[{}]:{}'.format(r,e))
 
-            numero_confirmed = data['confirmed'][r]
+            #numero_confirmed = data['confirmed'][r]
 
         print(d, end=' - ')
 
