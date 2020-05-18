@@ -147,7 +147,7 @@ def generate_list_dates(path):
     return date_list_csv, date_list
 
 
-def load_and_generatecsv():
+def load_and_generatecsv(list_date_list):
 
     today = datetime.datetime.now().strftime('%Y-%m-%d')
 
@@ -168,7 +168,7 @@ def load_and_generatecsv():
     total_death=[0]*800
     total_recover=[0]*800
 
-    for d in list(np.flip(array_dates)):  # array_dates
+    for d in list(np.flip(list_date_list)):  # array_dates
 
         temp_dsrp = data_dsrp[data_dsrp['ISO 3166-2 Code']
                               .str.contains('CO-')].copy()
@@ -240,4 +240,4 @@ def load_and_generatecsv():
         temp_dsrp.to_csv(path_csv+d+'.csv', index=False)
 
 if __name__ == "__main__":
-    load_and_generatecsv()
+    load_and_generatecsv('2020-05-13')

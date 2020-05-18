@@ -4,6 +4,11 @@ import datetime
 import sys
 import os
 
+import data.brazil_data as brazil_data
+import data.colombia_data as colombia_data
+import data.costarica_data as costarica_data
+import data.peru_data as peru_data
+
 
 def load_iso(path):
     # ISO 3166-2
@@ -101,6 +106,13 @@ def execute_country(path_country, path_dsrp, d, isocode, today):
 
     data_dsrp_day.to_csv(path_dsrp+d+'.csv', index=False)
 
+def load_all_data_temporal(list_date_list):
+    brazil_data.load_and_generatecsv(list_date_list)
+    colombia_data.load_and_generatecsv(list_date_list)
+    costarica_data.load_and_generatecsv(list_date_list)
+    peru_data.load_and_generatecsv(list_date_list)
+    print("ALL TEMPORALS CREATED")
+
 
 if __name__ == "__main__":
 
@@ -122,7 +134,10 @@ if __name__ == "__main__":
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
     list_date_list = date_list[1:-65]
 
+    load_all_data_temporal(list_date_list)
+
     print('List of dates to be modified:', end='')
+
     for d in list_date_list:  # date_list
 
         #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-')
