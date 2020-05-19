@@ -8,6 +8,7 @@ import data.brazil_data as brazil_data
 import data.colombia_data as colombia_data
 import data.costarica_data as costarica_data
 import data.peru_data as peru_data
+import time_series_generator.time_series_generator as time_series_generator
 
 
 def load_iso(path):
@@ -151,3 +152,6 @@ if __name__ == "__main__":
         execute_country(path_peru, path_dsrp, d, 'PE-', today)
 
         print(d, end=' - ')
+
+
+    time_series_generator.generate() #Generate time series
