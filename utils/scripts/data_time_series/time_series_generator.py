@@ -5,7 +5,6 @@ import datetime
 import os
 import time
 
-
 def generate():
 
     path = 'latam_covid_19_data/daily_reports/'

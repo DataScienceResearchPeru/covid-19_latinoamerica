@@ -153,7 +153,7 @@ def load_and_generatecsv(list_date_list):
 
     path_dsrp_daily_reports = 'latam_covid_19_data/daily_reports/'
     path_colombia_csv = "https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true"
-    path_dsrp = "https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/2020-03-08.csv"
+    path_dsrp = "latam_covid_19_data/templates/daily_reports.csv"
     path_csv = "utils/scripts/data_collection/data/colombia_temporal/"
     path_per_patient_csv = 'latam_covid_19_data/per_patient/CO.csv'
     data_colombia = pd.read_csv(path_colombia_csv)

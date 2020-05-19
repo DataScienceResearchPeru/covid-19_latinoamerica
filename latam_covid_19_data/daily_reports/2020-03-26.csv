@@ -163,30 +163,30 @@ DO-26,Dominican Republic,Santiago,2020-04-05T23:13:00,66,2,0
 DO-32,Dominican Republic,Santiago Rodriguez,2020-04-05T23:13:00,0,0,0
 DO-01,Dominican Republic,Santo Domingo,2020-04-05T23:13:00,66,0,0
 DO-27,Dominican Republic,Valverde,2020-04-05T23:13:00,2,0,0
-EC-A,Ecuador,Azuay,2020-03-26T17:00:00,37,0,0
-EC-B,Ecuador,Bolivar,2020-03-26T17:00:01,11,0,0
-EC-F,Ecuador,Canar,2020-03-26T17:00:02,15,0,0
-EC-C,Ecuador,Carchi,2020-03-26T17:00:03,3,0,0
-EC-H,Ecuador,Chimborazo,2020-03-26T17:00:04,11,0,0
-EC-X,Ecuador,Cotopaxi,2020-03-26T17:00:05,2,1,0
-EC-O,Ecuador,El Oro,2020-03-26T17:00:06,20,3,0
-EC-E,Ecuador,Esmeraldas,2020-03-26T17:00:07,4,0,0
-EC-W,Ecuador,Galapagos,2020-03-26T17:00:08,4,0,0
-EC-G,Ecuador,Guayas,2020-03-26T17:00:09,1021,21,0
-EC-I,Ecuador,Imbabura,2020-03-26T17:00:10,8,1,0
-EC-L,Ecuador,Loja,2020-03-26T17:00:11,9,0,0
-EC-R,Ecuador,Los Rios,2020-03-26T17:00:12,52,3,0
-EC-M,Ecuador,Manabi,2020-03-26T17:00:13,38,0,0
-EC-S,Ecuador,Morona Santiago,2020-03-26T17:00:14,8,0,0
-EC-N,Ecuador,Napo,2020-03-26T17:00:15,0,0,0
-EC-D,Ecuador,Orellana,2020-03-26T17:00:16,0,0,0
-EC-Y,Ecuador,Pastaza,2020-03-26T17:00:17,2,2,0
-EC-P,Ecuador,Pichincha,2020-03-26T17:00:18,121,3,0
-EC-SE,Ecuador,Santa Elena,2020-03-26T17:00:19,7,0,0
-EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-03-26T17:00:20,0,0,0
-EC-U,Ecuador,Sucumbios,2020-03-26T17:00:21,18,0,0
-EC-T,Ecuador,Tungurahua,2020-03-26T17:00:22,3,0,0
-EC-Z,Ecuador,Zamora Chinchipe,2020-03-26T17:00:23,1,0,0
+EC-A,Ecuador,Azuay,2020-05-19 13:24:09.144926,37,0,0
+EC-B,Ecuador,Bolivar,2020-05-19 13:24:09.144926,11,0,0
+EC-F,Ecuador,Canar,2020-05-19 13:24:09.144926,15,0,0
+EC-C,Ecuador,Carchi,2020-05-19 13:24:09.144926,0,0,0
+EC-H,Ecuador,Chimborazo,2020-05-19 13:24:09.144926,4,0,0
+EC-X,Ecuador,Cotopaxi,2020-05-19 13:24:09.144926,3,0,0
+EC-O,Ecuador,El Oro,2020-05-19 13:24:09.144926,1021,21,0
+EC-E,Ecuador,Esmeraldas,2020-05-19 13:24:09.144926,11,0,0
+EC-W,Ecuador,Galapagos,2020-05-19 13:24:09.144926,8,1,0
+EC-G,Ecuador,Guayas,2020-05-19 13:24:09.144926,9,0,0
+EC-I,Ecuador,Imbabura,2020-05-19 13:24:09.144926,38,0,0
+EC-L,Ecuador,Loja,2020-05-19 13:24:09.144926,0,0,0
+EC-R,Ecuador,Los Rios,2020-05-19 13:24:09.144926,20,3,0
+EC-M,Ecuador,Manabi,2020-05-19 13:24:09.144926,121,3,0
+EC-S,Ecuador,Morona Santiago,2020-05-19 13:24:09.144926,52,3,0
+EC-N,Ecuador,Napo,2020-05-19 13:24:09.144926,8,0,0
+EC-D,Ecuador,Orellana,2020-05-19 13:24:09.144926,8,0,0
+EC-Y,Ecuador,Pastaza,2020-05-19 13:24:09.144926,7,2,0
+EC-P,Ecuador,Pichincha,2020-05-19 13:24:09.144926,3,0,0
+EC-SE,Ecuador,Santa Elena,2020-05-19 13:24:09.144926,18,0,0
+EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-05-19 13:24:09.144926,4,0,0
+EC-U,Ecuador,Sucumbios,2020-05-19 13:24:09.144926,2,1,0
+EC-T,Ecuador,Tungurahua,2020-05-19 13:24:09.144926,2,0,0
+EC-Z,Ecuador,Zamora Chinchipe,2020-05-19 13:24:09.144926,1,0,0
 SV-AH,El Salvador,Ahuachapan,,0,0,0
 SV-CA,El Salvador,Cabanas,,0,0,0
 SV-CH,El Salvador,Chalatenango,,0,0,0

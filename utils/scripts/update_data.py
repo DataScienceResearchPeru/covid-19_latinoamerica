@@ -4,11 +4,12 @@ import datetime
 import sys
 import os
 
-import data.brazil_data as brazil_data
-import data.colombia_data as colombia_data
-import data.costarica_data as costarica_data
-import data.peru_data as peru_data
-import time_series_generator.time_series_generator as time_series_generator
+import data_collection.data.brazil_data as brazil_data
+import data_collection.data.colombia_data as colombia_data
+import data_collection.data.costarica_data as costarica_data
+import data_collection.data.ecuador_data as ecuador_data
+import data_collection.data.peru_data as peru_data
+import data_time_series.time_series_generator as time_series_generator
 
 
 def load_iso(path):
@@ -112,6 +113,7 @@ def load_all_data_temporal(list_date_list):
     colombia_data.load_and_generatecsv(list_date_list)
     costarica_data.load_and_generatecsv(list_date_list)
     peru_data.load_and_generatecsv(list_date_list)
+    ecuador_data.load_and_generatecsv(list_date_list)
     print("ALL TEMPORALS CREATED")
 
 
@@ -121,9 +123,11 @@ if __name__ == "__main__":
     path_brazil = 'utils/scripts/data_collection/data/brazil_temporal/'
     path_colombia = 'utils/scripts/data_collection/data/colombia_temporal/'
     path_costarica = 'utils/scripts/data_collection/data/costarica_temporal/'
+    path_ecuador = 'utils/scripts/data_collection/data/ecuador_temporal/'
     # path_el_salvador = 'utils/scripts/data_collection/data/el_salvador_temporal/' #BROKEN
     # path_honduras = 'utils/scripts/data_collection/data/honduras_temporal/' #HONDURAS ALREADY UPDATED
     path_peru = 'utils/scripts/data_collection/data/peru_temporal/'
+    
 
     path_dsrp = 'latam_covid_19_data/daily_reports/'
     path_iso = 'https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/utils/iso3166-2.csv'
@@ -141,14 +145,15 @@ if __name__ == "__main__":
 
     for d in list_date_list:  # date_list
 
-        #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-')
-        #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-')
-        #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-')
-        # data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
+        #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-') DEPRECATED
+        #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-') DEPRECATED
+        #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-') DEPRECATED
+        #data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
 
         execute_country(path_brazil, path_dsrp, d, 'BR-', today)
         execute_country(path_colombia, path_dsrp, d, 'CO-', today)
         execute_country(path_costarica, path_dsrp, d, 'CR-', today)
+        execute_country(path_ecuador, path_dsrp, d, 'EC-', today)
         execute_country(path_peru, path_dsrp, d, 'PE-', today)
 
         print(d, end=' - ')

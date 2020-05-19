@@ -126,7 +126,7 @@ def load_and_generatecsv(list_date_list):
 
     path_dsrp_daily_reports = 'latam_covid_19_data/daily_reports/'
     path_peru_csv = "https://raw.githubusercontent.com/jmcastagnetto/covid-19-peru-data/master/datos/covid-19-peru-data.csv"
-    path_dsrp = "https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/2020-03-08.csv"
+    path_dsrp = "latam_covid_19_data/templates/daily_reports.csv"
     path_csv = "utils/scripts/data_collection/data/peru_temporal/"
 
     data_peru = pd.read_csv(path_peru_csv)

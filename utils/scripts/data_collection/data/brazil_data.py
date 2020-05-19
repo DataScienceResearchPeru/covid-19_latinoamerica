@@ -16,7 +16,7 @@ def load_and_generatecsv(list_date_list):
 
     confirmed_url = "https://raw.githubusercontent.com/elhenrico/covid19-Brazil-timeseries/master/confirmed-cases.csv"
     deaths_url = "https://raw.githubusercontent.com/elhenrico/covid19-Brazil-timeseries/master/deaths.csv"
-    dsrp_github = "https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/2020-03-08.csv"
+    dsrp_github = "latam_covid_19_data/templates/daily_reports.csv"
 
 
     confirmed = pd.read_csv(confirmed_url)
