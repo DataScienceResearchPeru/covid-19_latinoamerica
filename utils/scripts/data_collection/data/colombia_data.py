@@ -168,7 +168,7 @@ def load_and_generatecsv(list_date_list):
     total_death=[0]*800
     total_recover=[0]*800
 
-    for d in list(np.flip(list_date_list)):  # array_dates
+    for d in list(np.flip(array_dates)):  # array_dates
 
         temp_dsrp = data_dsrp[data_dsrp['ISO 3166-2 Code']
                               .str.contains('CO-')].copy()
