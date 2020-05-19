@@ -132,7 +132,7 @@ if __name__ == "__main__":
     today = datetime.datetime.today()
     date_list_csv, date_list = generate_list_dates(path_dsrp)
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
-    list_date_list = date_list[1:-65]
+    list_date_list = date_list[1:-75]
 
     load_all_data_temporal(list_date_list)
 
