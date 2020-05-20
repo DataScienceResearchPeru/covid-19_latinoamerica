@@ -143,7 +143,7 @@ def load_and_generatecsv(list_date_list):
         'fecha_diagnostico', 'provincia_residencia', 'numero_de_caso', 'fecha_fallecimiento']]
     data_argentina = data_argentina.fillna('')
 
-    for d in list(np.flip(list_date_list)):  # array_dates
+    for d in list(np.flip(array_dates)):  # array_dates
 
         temp_dsrp = data_dsrp[data_dsrp['ISO 3166-2 Code']
                               .str.contains('AR-')].copy()

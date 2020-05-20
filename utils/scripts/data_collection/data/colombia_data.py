@@ -190,6 +190,7 @@ def load_and_generatecsv(list_date_list):
         data_death = data_death.fillna('')
         data_death = data_death.groupby(['Departamento o Distrito ']).size().reset_index(name='Deaths')
 
+        data_colombia=data_colombia.fillna('')
         data_recovered = data_colombia[data_colombia['Fecha recuperado'].str.contains(d)]
         data_recovered = data_recovered[data_recovered['Fecha recuperado'] != '-   -']
         data_recovered = data_recovered.fillna('')
