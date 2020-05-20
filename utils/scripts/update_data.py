@@ -4,6 +4,7 @@ import datetime
 import sys
 import os
 
+import data_collection.data.argentina_data as argentina_data
 import data_collection.data.brazil_data as brazil_data
 import data_collection.data.colombia_data as colombia_data
 import data_collection.data.costarica_data as costarica_data
@@ -114,12 +115,14 @@ def load_all_data_temporal(list_date_list):
     costarica_data.load_and_generatecsv(list_date_list)
     peru_data.load_and_generatecsv(list_date_list)
     ecuador_data.load_and_generatecsv(list_date_list)
-    print("ALL TEMPORALS CREATED")
+    argentina_data.load_and_generatecsv(list_date_list)
+    print("------------------------ALL TEMPORALS CREATED----------------------------")
 
 
 if __name__ == "__main__":
 
     # Path
+    path_argentina='utils/scripts/data_collection/data/argentina_temporal/'
     path_brazil = 'utils/scripts/data_collection/data/brazil_temporal/'
     path_colombia = 'utils/scripts/data_collection/data/colombia_temporal/'
     path_costarica = 'utils/scripts/data_collection/data/costarica_temporal/'
@@ -150,6 +153,7 @@ if __name__ == "__main__":
         #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-') DEPRECATED
         #data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
 
+        execute_country(path_argentina, path_dsrp, d, 'AR-', today)
         execute_country(path_brazil, path_dsrp, d, 'BR-', today)
         execute_country(path_colombia, path_dsrp, d, 'CO-', today)
         execute_country(path_costarica, path_dsrp, d, 'CR-', today)

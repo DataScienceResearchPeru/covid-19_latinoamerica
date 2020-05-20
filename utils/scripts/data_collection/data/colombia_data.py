@@ -42,7 +42,7 @@ def get_iso_by_country_name(country_name, mode):
                           'CO-VAC',
                           'CO-VAU'])
 
-    array_brazil_csv = np.array(['Amazonas',
+    array_colombia_csv = np.array(['Amazonas',
                                  'Antioquia',
                                  'Arauca',
                                  'Archipiélago de San Andrés Providencia y Santa Catalina',
@@ -77,7 +77,7 @@ def get_iso_by_country_name(country_name, mode):
                                  'Valle del Cauca',
                                  'Vaupés'])
 
-    array_brazil_fixed = np.array(['Amazonas',
+    array_colombia_fixed = np.array(['Amazonas',
                                    'Antioquia',
                                    'Arauca',
                                    'San Andres y Providencia',
@@ -113,7 +113,7 @@ def get_iso_by_country_name(country_name, mode):
                                    'Vaupes'])
 
     df = pd.DataFrame({'ISO 3166-2 Code': array_iso,
-                       'Remote': array_brazil_csv, 'Local': array_brazil_fixed})
+                       'Remote': array_colombia_csv, 'Local': array_colombia_fixed})
 
     string_iso = ''
 

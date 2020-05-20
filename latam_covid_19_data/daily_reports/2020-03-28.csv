@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-03-30T01:29:01,201,7,15
-AR-K,Argentina,Catamarca,2020-03-30T01:29:02,0,0,0
-AR-H,Argentina,Chaco,2020-03-30T01:29:03,62,4,0
-AR-U,Argentina,Chubut,2020-03-30T01:29:04,3,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-03-30T01:29:00,245,6,53
-AR-X,Argentina,Cordoba,2020-03-30T01:29:05,55,0,1
-AR-W,Argentina,Corrientes,2020-03-30T01:29:06,5,0,0
-AR-E,Argentina,Entre Rios,2020-03-30T01:29:07,10,0,0
-AR-P,Argentina,Formosa,2020-03-30T01:29:08,0,0,0
-AR-Y,Argentina,Jujuy,2020-03-30T01:29:09,3,0,0
-AR-L,Argentina,La Pampa,2020-03-30T01:29:10,1,0,0
-AR-F,Argentina,La Rioja,2020-03-30T01:29:11,0,0,0
-AR-M,Argentina,Mendoza,2020-03-30T01:29:12,9,1,0
-AR-N,Argentina,Misiones,2020-03-30T01:29:13,1,0,0
-AR-Q,Argentina,Neuquen,2020-03-30T01:29:14,12,1,0
-AR-R,Argentina,Rio Negro,2020-03-30T01:29:15,8,0,1
-AR-A,Argentina,Salta,2020-03-30T01:29:16,1,0,0
-AR-J,Argentina,San Juan,2020-03-30T01:29:17,0,0,0
-AR-D,Argentina,San Luis,2020-03-30T01:29:18,6,0,0
-AR-Z,Argentina,Santa Cruz,2020-03-30T01:29:19,9,0,0
-AR-S,Argentina,Santa Fe,2020-03-30T01:29:20,77,0,0
-AR-G,Argentina,Santiago del Estero,2020-03-30T01:29:21,2,0,0
-AR-V,Argentina,Tierra del Fuego,2020-03-30T01:29:21,17,0,0
-AR-T,Argentina,Tucuman,2020-03-30T01:29:22,15,0,0
+AR-B,Argentina,Buenos Aires,2020-05-19 23:00:44.395298,985,39,15
+AR-K,Argentina,Catamarca,2020-05-19 23:00:44.395298,0,0,0
+AR-H,Argentina,Chaco,2020-05-19 23:00:44.395298,367,8,0
+AR-U,Argentina,Chubut,2020-05-19 23:00:44.395298,23,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-05-19 23:00:44.395298,1003,28,53
+AR-X,Argentina,Cordoba,2020-05-19 23:00:44.395298,527,0,1
+AR-W,Argentina,Corrientes,2020-05-19 23:00:44.395298,103,0,0
+AR-E,Argentina,Entre Rios,2020-05-19 23:00:44.395298,62,0,0
+AR-P,Argentina,Formosa,2020-05-19 23:00:44.395298,0,0,0
+AR-Y,Argentina,Jujuy,2020-05-19 23:00:44.395298,21,0,0
+AR-L,Argentina,La Pampa,2020-05-19 23:00:44.395298,0,0,0
+AR-F,Argentina,La Rioja,2020-05-19 23:00:44.395298,0,0,0
+AR-M,Argentina,Mendoza,2020-05-19 23:00:44.395298,68,0,0
+AR-N,Argentina,Misiones,2020-05-19 23:00:44.395298,0,0,0
+AR-Q,Argentina,Neuquen,2020-05-19 23:00:44.395298,80,0,0
+AR-R,Argentina,Rio Negro,2020-05-19 23:00:44.395298,34,0,1
+AR-A,Argentina,Salta,2020-05-19 23:00:44.395298,29,0,0
+AR-J,Argentina,San Juan,2020-05-19 23:00:44.395298,11,0,0
+AR-D,Argentina,San Luis,2020-05-19 23:00:44.395298,35,0,0
+AR-Z,Argentina,Santa Cruz,2020-05-19 23:00:44.395298,31,0,0
+AR-S,Argentina,Santa Fe,2020-05-19 23:00:44.395298,367,0,0
+AR-G,Argentina,Santiago del Estero,2020-05-19 23:00:44.395298,0,1,0
+AR-V,Argentina,Tierra del Fuego,2020-05-19 23:00:44.395298,68,0,0
+AR-T,Argentina,Tucuman,2020-05-19 23:00:44.395298,133,0,0
 BO-B,Bolivia,Beni,2020-03-28T17:55:10,0,0,0
 BO-H,Bolivia,Chuquisaca,2020-03-28T17:55:10,1,0,0
 BO-C,Bolivia,Cochabamba,2020-03-28T17:55:10,14,0,0

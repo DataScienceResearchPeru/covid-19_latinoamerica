@@ -1,34 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,,0,0,0
-CO-ANT,Colombia,Antioquia,2020-05-19,22,0,0
-CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,,0,0,0
-CO-DC,Colombia,Bogota,2020-05-19,79,0,3
-CO-BOL,Colombia,Bolivar,2020-05-19,11,0,0
-CO-BOY,Colombia,Boyaca,,0,0,0
-CO-CAL,Colombia,Caldas,,0,0,0
-CO-CAQ,Colombia,Caqueta,,0,0,0
-CO-CAS,Colombia,Casanare,,0,0,0
-CO-CAU,Colombia,Cauca,,0,0,0
-CO-CES,Colombia,Cesar,,0,0,0
-CO-COR,Colombia,Choco,,0,0,0
-CO-CUN,Colombia,Cordoba,,0,0,0
-CO-CHO,Colombia,Cundinamarca,2020-05-19,10,0,0
-CO-GUA,Colombia,Guainia,,0,0,0
-CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,,0,0,0
-CO-LAG,Colombia,La Guajira,,0,0,0
-CO-MAG,Colombia,Magdalena,2020-05-19,2,0,0
-CO-MET,Colombia,Meta,,0,0,0
-CO-NAR,Colombia,Narino,,0,0,0
-CO-NSA,Colombia,Norte de Santander,,0,0,0
-CO-PUT,Colombia,Putumayo,,0,0,0
-CO-QUI,Colombia,Quindio,,0,0,0
-CO-RIS,Colombia,Risaralda,2020-05-19,6,0,0
-CO-SAP,Colombia,San Andres y Providencia,,0,0,0
-CO-SAN,Colombia,Santander,,0,0,0
-CO-SUC,Colombia,Sucre,,0,0,0
-CO-TOL,Colombia,Tolima,,0,0,0
-CO-VAC,Colombia,Valle del Cauca,2020-05-19,15,0,0
-CO-VAU,Colombia,Vaupes,,0,0,0
-CO-VID,Colombia,Vichada,,0,0,0
+AR-B,Argentina,Buenos Aires,,0,0,0
+AR-K,Argentina,Catamarca,,0,0,0
+AR-H,Argentina,Chaco,,0,0,0
+AR-U,Argentina,Chubut,,0,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,,0,0,0
+AR-X,Argentina,Cordoba,,0,0,0
+AR-W,Argentina,Corrientes,,0,0,0
+AR-E,Argentina,Entre Rios,,0,0,0
+AR-P,Argentina,Formosa,,0,0,0
+AR-Y,Argentina,Jujuy,,0,0,0
+AR-L,Argentina,La Pampa,,0,0,0
+AR-F,Argentina,La Rioja,,0,0,0
+AR-M,Argentina,Mendoza,,0,0,0
+AR-N,Argentina,Misiones,,0,0,0
+AR-Q,Argentina,Neuquen,,0,0,0
+AR-R,Argentina,Rio Negro,,0,0,0
+AR-A,Argentina,Salta,,0,0,0
+AR-J,Argentina,San Juan,,0,0,0
+AR-D,Argentina,San Luis,,0,0,0
+AR-Z,Argentina,Santa Cruz,,0,0,0
+AR-S,Argentina,Santa Fe,,0,0,0
+AR-G,Argentina,Santiago del Estero,,0,0,0
+AR-V,Argentina,Tierra del Fuego,,0,0,0
+AR-T,Argentina,Tucuman,,0,0,0
