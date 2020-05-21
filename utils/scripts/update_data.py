@@ -1,10 +1,12 @@
-import pandas as pd
-import numpy as np
 import datetime
-import sys
 import os
+import sys
+
+import numpy as np
+import pandas as pd
 
 import data_collection.data.argentina_data as argentina_data
+import data_collection.data.bolivia_data as bolivia_data
 import data_collection.data.brazil_data as brazil_data
 import data_collection.data.colombia_data as colombia_data
 import data_collection.data.costarica_data as costarica_data
@@ -118,6 +120,7 @@ def load_all_data_temporal(list_date_list):
     cuba_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     peru_data.load_and_generatecsv(list_date_list)
     ecuador_data.load_and_generatecsv(list_date_list)
+    bolivia_data.load_and_generatecsv(list_date_list)
     
     print("------------------------ALL TEMPORALS CREATED----------------------------")
 
@@ -126,6 +129,7 @@ if __name__ == "__main__":
 
     # Path
     path_argentina='utils/scripts/data_collection/data/argentina_temporal/'
+    path_bolivia='utils/scripts/data_collection/data/bolivia_temporal/'
     path_brazil = 'utils/scripts/data_collection/data/brazil_temporal/'
     path_colombia = 'utils/scripts/data_collection/data/colombia_temporal/'
     path_costarica = 'utils/scripts/data_collection/data/costarica_temporal/'
@@ -146,18 +150,19 @@ if __name__ == "__main__":
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
     list_date_list = date_list[1:5]
 
-    load_all_data_temporal(list_date_list)
+    #load_all_data_temporal(list_date_list)
 
     print('List of dates to be modified:', end='')
 
-    for d in date_list:  # date_list
+    for d in date_list[1:]:  # date_list
 
         #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-') DEPRECATED
         #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-') DEPRECATED
         #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-') DEPRECATED
         #data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
 
-        execute_country(path_argentina, path_dsrp, d, 'AR-', today)
+        #execute_country(path_argentina, path_dsrp, d, 'AR-', today)
+        execute_country(path_bolivia,path_dsrp,d,'BO-',today)
         execute_country(path_brazil, path_dsrp, d, 'BR-', today)
         execute_country(path_colombia, path_dsrp, d, 'CO-', today)
         execute_country(path_costarica, path_dsrp, d, 'CR-', today)

@@ -129,7 +129,7 @@ def load_and_generatecsv(list_date_list):
     path_csv = "utils/scripts/data_collection/data/ecuador_temporal/"
 
     data_ecuador_confirmed = pd.read_csv(path_ecuador_confirmed_csv)
-    path_ecuador_deaths = pd.read_csv(path_ecuador_deaths_csv)
+    data_ecuador_deaths = pd.read_csv(path_ecuador_deaths_csv)
 
     data_dsrp = pd.read_csv(path_dsrp)
 
@@ -158,7 +158,7 @@ def load_and_generatecsv(list_date_list):
         except Exception as e:
             print(e)
         try:
-            data_deaths = path_ecuador_deaths[['provincia', str(d_fix)]]
+            data_deaths = data_ecuador_deaths[['provincia', str(d_fix)]]
             data_deaths = data_deaths.fillna('')
             data_deaths['ISO 3166-2 Code'] = np.array(array_iso_fixed)
             data_deaths=data_deaths.sort_values(by=['ISO 3166-2 Code'])
