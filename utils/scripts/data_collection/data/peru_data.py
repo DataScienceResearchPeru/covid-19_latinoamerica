@@ -1,8 +1,11 @@
-import pandas as pd
-import numpy as np
 import datetime
-import sys
 import os
+import sys
+import zipfile
+
+import numpy as np
+import pandas as pd
+from six.moves import urllib
 
 
 def get_iso_by_country_name(country_name, mode):
@@ -120,12 +123,22 @@ def generate_list_dates(path):
     return date_list_csv, date_list
 
 
+def get_data_per_patient_oficial():
+    urllib.request.urlretrieve("https://www.datosabiertos.gob.pe/sites/default/files/DATOSABIERTOS_SISCOVID.zip", "utils/scripts/data_collection/data/peru_temporal/PE.zip")
+    
+    zip_ref = zipfile.ZipFile("utils/scripts/data_collection/data/peru_temporal/PE.zip", 'r')
+    zip_ref.extractall("latam_covid_19_data/per_patient/")
+    zip_ref.close()
+    
+    os.rename('latam_covid_19_data/per_patient/DATOSABIERTOS_SISCOVID.csv', 'latam_covid_19_data/per_patient/PE.csv')
+
 def load_and_generatecsv(list_date_list):
 
     today = datetime.datetime.now().strftime('%Y-%m-%d')
 
     path_dsrp_daily_reports = 'latam_covid_19_data/daily_reports/'
     path_peru_csv = "https://raw.githubusercontent.com/jmcastagnetto/covid-19-peru-data/master/datos/covid-19-peru-data.csv"
+    
     path_dsrp = "latam_covid_19_data/templates/daily_reports.csv"
     path_csv = "utils/scripts/data_collection/data/peru_temporal/"
 
@@ -133,6 +146,8 @@ def load_and_generatecsv(list_date_list):
     data_dsrp = pd.read_csv(path_dsrp)
 
     array_dates_csv, array_dates = generate_list_dates(path_dsrp_daily_reports)
+
+    get_data_per_patient_oficial()
 
     for d in array_dates:  # array_dates
 
@@ -181,4 +196,4 @@ def load_and_generatecsv(list_date_list):
 
 
 if __name__ == "__main__":
-    load_and_generatecsv('2020-05-15') 
+    load_and_generatecsv(['2020-05-15']) 

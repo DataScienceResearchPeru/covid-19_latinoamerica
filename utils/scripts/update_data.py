@@ -84,32 +84,35 @@ def fix_format(df):
 
 
 def execute_country(path_country, path_dsrp, d, isocode, today):
+    try:
+        data_peru = load_filter_dataframe(path_country+d+'.csv', isocode)
+        data_peru = data_peru.fillna('')
+        data_dsrp_day = load_dataframe(path_dsrp+d+'.csv')
+        data_dsrp_day = fix_format(data_dsrp_day)
 
-    data_peru = load_filter_dataframe(path_country+d+'.csv', isocode)
-    data_peru = data_peru.fillna('')
-    data_dsrp_day = load_dataframe(path_dsrp+d+'.csv')
-    data_dsrp_day = fix_format(data_dsrp_day)
+        for l in range(len(data_peru)):
+            a = data_dsrp_day[data_dsrp_day['ISO 3166-2 Code']
+                            == data_peru.loc[l]['ISO 3166-2 Code']]
 
-    for l in range(len(data_peru)):
-        a = data_dsrp_day[data_dsrp_day['ISO 3166-2 Code']
-                          == data_peru.loc[l]['ISO 3166-2 Code']]
+            if data_peru.loc[l]['Confirmed'] != '':
+                number_confirmed = int(float(data_peru.loc[l]['Confirmed']))
+            else:
+                number_confirmed = ''
 
-        if data_peru.loc[l]['Confirmed'] != '':
-            number_confirmed = int(float(data_peru.loc[l]['Confirmed']))
-        else:
-            number_confirmed = ''
+            if data_peru.loc[l]['Deaths'] != '':
+                number_deaths = int(float(data_peru.loc[l]['Deaths']))
+            else:
+                number_deaths = ''
 
-        if data_peru.loc[l]['Deaths'] != '':
-            number_deaths = int(float(data_peru.loc[l]['Deaths']))
-        else:
-            number_deaths = ''
+            data_dsrp_day.loc[a.index.values[0], [
+                'Confirmed']] = str(number_confirmed)
+            data_dsrp_day.loc[a.index.values[0], ['Deaths']] = str(number_deaths)
+            data_dsrp_day.loc[a.index.values[0], ['Last Update']] = str(today)
 
-        data_dsrp_day.loc[a.index.values[0], [
-            'Confirmed']] = str(number_confirmed)
-        data_dsrp_day.loc[a.index.values[0], ['Deaths']] = str(number_deaths)
-        data_dsrp_day.loc[a.index.values[0], ['Last Update']] = str(today)
+        data_dsrp_day.to_csv(path_dsrp+d+'.csv', index=False)
+    except:
+        print('ERROR {},{}'.format(isocode,d))
 
-    data_dsrp_day.to_csv(path_dsrp+d+'.csv', index=False)
 
 def load_all_data_temporal(list_date_list):
     #argentina_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
@@ -153,7 +156,7 @@ if __name__ == "__main__":
 
     print('List of dates to be modified:', end='')
 
-    for d in date_list[1:]:  # date_list
+    for d in list_date_list:  # date_list
 
         #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-') DEPRECATED
         #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-') DEPRECATED

@@ -15,7 +15,7 @@ def load_and_generatecsv(list_date_list):
         date = entry["date"]
         
         locations = entry["byLocation"]
-        print(date)
+        print(date,end=' - ')
         confirmed = pd.DataFrame(
                     zip(locations.keys(), locations.values()),
                     columns=["Subdivision", "Confirmed"]
@@ -26,10 +26,10 @@ def load_and_generatecsv(list_date_list):
         confirmed = confirmed[confirmed.Subdivision!="Unknown"]
         confirmed = confirmed.sort_values("Subdivision")
         
-        print(confirmed)
+        #print(confirmed)
         
         daily_report_file = f"latam_covid_19_data/daily_reports/{date}.csv"
-        print(f"Opening {daily_report_file}")
+        #print(f"Opening {daily_report_file}")
         daily_report = pd.read_csv(daily_report_file)
         cr = daily_report[daily_report.Country=="Costa Rica"]
         cr_index = cr.index
@@ -48,7 +48,7 @@ def load_and_generatecsv(list_date_list):
         daily_report.Confirmed = daily_report.Confirmed.astype("int64")
         daily_report.Recovered = daily_report.Recovered.astype("int64")
         
-        print(daily_report[daily_report.Country=="Costa Rica"])
+        #print(daily_report[daily_report.Country=="Costa Rica"])
         # os.system("git pull")
         daily_report=daily_report[daily_report.Country=="Costa Rica"]
         
@@ -58,5 +58,5 @@ def load_and_generatecsv(list_date_list):
 
         
 if __name__ == "__main__":
-    load_and_generatecsv('2020-05-17')
+    load_and_generatecsv(['2020-05-17'])
     

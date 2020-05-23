@@ -127,7 +127,7 @@ def load_and_generatecsv(list_date_list):
     df_recovered['ISO 3166-2 Code'] = df_recovered['index'].apply(
         lambda x: get_iso_by_country_name(x, 'remote'))
 
-    for d in list_date_list:  # array_dates
+    for d in array_dates:  # array_dates
 
         temp_dsrp = data_dsrp[data_dsrp['ISO 3166-2 Code']
                               .str.contains('BO-')].copy()
@@ -144,40 +144,46 @@ def load_and_generatecsv(list_date_list):
 
             df_per_iso = df_confirmed[df_confirmed['ISO 3166-2 Code'] == iso]
 
-            if df_per_iso[d].values[0] != '':
-                number_confirmed = int(float(df_per_iso[d].values[0]))
-            else:
-                number_confirmed = ''
+            try:
+                if df_per_iso[d].values[0] != '':
+                    number_confirmed = int(float(df_per_iso[d].values[0]))
+                else:
+                    number_confirmed = ''
 
-            a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
-            temp_dsrp.loc[a.index.values[0], 'Confirmed'] = number_confirmed
+                a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
+                temp_dsrp.loc[a.index.values[0], 'Confirmed'] = number_confirmed
+            except Exception as e:
+                print (e)
+            try:
+                """
+                DEATHS
+                """
+                df_per_iso = df_deaths[df_deaths['ISO 3166-2 Code'] == iso]
 
-            """
-            DEATHS
-            """
-            df_per_iso = df_deaths[df_deaths['ISO 3166-2 Code'] == iso]
+                if df_per_iso[d].values[0] != '':
+                    number_deaths = int(float(df_per_iso[d].values[0]))
+                else:
+                    number_deaths = ''
 
-            if df_per_iso[d].values[0] != '':
-                number_deaths = int(float(df_per_iso[d].values[0]))
-            else:
-                number_deaths = ''
+                a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
+                temp_dsrp.loc[a.index.values[0], 'Deaths'] = number_deaths
+            except Exception as e:
+                print (e)
+            try:
+                """
+                RECOVERED
+                """
+                df_per_iso = df_recovered[df_recovered['ISO 3166-2 Code'] == iso]
 
-            a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
-            temp_dsrp.loc[a.index.values[0], 'Deaths'] = number_deaths
+                if df_per_iso[d].values[0] != '':
+                    number_recovered = int(float(df_per_iso[d].values[0]))
+                else:
+                    number_recovered = ''
 
-            """
-            RECOVERED
-            """
-            df_per_iso = df_recovered[df_recovered['ISO 3166-2 Code'] == iso]
-
-            if df_per_iso[d].values[0] != '':
-                number_recovered = int(float(df_per_iso[d].values[0]))
-            else:
-                number_recovered = ''
-
-            a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
-            temp_dsrp.loc[a.index.values[0], 'Recovered'] = number_recovered
-
+                a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
+                temp_dsrp.loc[a.index.values[0], 'Recovered'] = number_recovered
+            except Exception as e:
+                print (e)
         print(d, end=' - ')
         # print(temp_dsrp)
         temp_dsrp = temp_dsrp.fillna('')
@@ -186,10 +192,4 @@ def load_and_generatecsv(list_date_list):
 
 
 if __name__ == "__main__":
-    load_and_generatecsv(['2020-05-22', '2020-05-21', '2020-05-20', '2020-05-19', '2020-05-18', 
-    '2020-05-17', '2020-05-16', '2020-05-15', '2020-05-14', '2020-05-13', '2020-05-12', '2020-05-11',
-     '2020-05-10', '2020-05-09', '2020-05-08', '2020-05-07', '2020-05-06', '2020-05-05', '2020-05-04', 
-     '2020-05-03', '2020-05-02', '2020-05-01', '2020-04-30', '2020-04-29', '2020-04-28', '2020-04-27', '2020-04-26', 
-     '2020-04-25', '2020-04-24', '2020-04-23', '2020-04-22', '2020-04-21', '2020-04-20', '2020-04-19', '2020-04-18',
-      '2020-04-17', '2020-04-16', '2020-04-15', '2020-04-14', '2020-04-13', '2020-04-12', '2020-04-11', '2020-04-10',
-       '2020-04-09', '2020-04-08', '2020-04-07', '2020-04-06', '2020-04-05', '2020-04-04', '2020-04-03'])
+    load_and_generatecsv(['2020-04-03'])

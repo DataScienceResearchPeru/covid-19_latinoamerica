@@ -138,7 +138,7 @@ def load_and_generatecsv(list_date_list):
     array_iso_fixed = ['EC-A', 'EC-B', 'EC-F', 'EC-C', 'EC-H', 'EC-X', 'EC-O', 'EC-E', 'EC-W', 'EC-G',
                        'EC-I', 'EC-L', 'EC-R', 'EC-M', 'EC-S', 'EC-N', 'EC-D', 'EC-Y', 'EC-P', 'EC-SE', 'EC-SD', 'EC-U', 'EC-T', 'EC-Z']
 
-    for d in list_date_list:  # array_dates
+    for d in array_dates:  # array_dates
 
         d_fix = datetime.datetime.strptime(d, '%Y-%m-%d')
         d_fix = d_fix.strftime('%d/%m/%Y')
@@ -173,7 +173,7 @@ def load_and_generatecsv(list_date_list):
             print(e)
 
         print(d, end=' - ')
-        print(temp_dsrp)
+        # print(temp_dsrp)
         temp_dsrp = temp_dsrp.fillna('')
 
         temp_dsrp.to_csv(path_csv+d+'.csv', index=False)
