@@ -134,7 +134,7 @@ def load_and_generatecsv(list_date_list):
 
     array_dates_csv, array_dates = generate_list_dates(path_dsrp_daily_reports)
 
-    for d in list_date_list:  # array_dates
+    for d in array_dates:  # array_dates
 
         temp_dsrp = data_dsrp[data_dsrp['ISO 3166-2 Code'].str.contains('PE-')].copy()
 

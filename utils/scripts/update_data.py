@@ -106,14 +106,13 @@ def execute_country(path_country, path_dsrp, d, isocode, today):
 
         data_dsrp_day.loc[a.index.values[0], [
             'Confirmed']] = str(number_confirmed)
-        data_dsrp_day.loc[a.index.values[0],
-                          ['Deaths']] = str(number_deaths)
+        data_dsrp_day.loc[a.index.values[0], ['Deaths']] = str(number_deaths)
         data_dsrp_day.loc[a.index.values[0], ['Last Update']] = str(today)
 
     data_dsrp_day.to_csv(path_dsrp+d+'.csv', index=False)
 
 def load_all_data_temporal(list_date_list):
-    # BROKEN argentina_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
+    #argentina_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     brazil_data.load_and_generatecsv(list_date_list)
     colombia_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     costarica_data.load_and_generatecsv(list_date_list)
@@ -150,7 +149,7 @@ if __name__ == "__main__":
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
     list_date_list = date_list[1:5]
 
-    #load_all_data_temporal(list_date_list)
+    # load_all_data_temporal(list_date_list)
 
     print('List of dates to be modified:', end='')
 
@@ -161,7 +160,7 @@ if __name__ == "__main__":
         #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-') DEPRECATED
         #data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
 
-        #execute_country(path_argentina, path_dsrp, d, 'AR-', today)
+        execute_country(path_argentina, path_dsrp, d, 'AR-', today)
         execute_country(path_bolivia,path_dsrp,d,'BO-',today)
         execute_country(path_brazil, path_dsrp, d, 'BR-', today)
         execute_country(path_colombia, path_dsrp, d, 'CO-', today)

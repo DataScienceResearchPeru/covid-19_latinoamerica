@@ -1,37 +1,37 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-05-19 23:00:44.395298,567,15,1
-AR-K,Argentina,Catamarca,2020-05-19 23:00:44.395298,4,0,0
-AR-H,Argentina,Chaco,2020-05-19 23:00:44.395298,249,2,0
-AR-U,Argentina,Chubut,2020-05-19 23:00:44.395298,14,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-05-19 23:00:44.395298,637,14,43
-AR-X,Argentina,Cordoba,2020-05-19 23:00:44.395298,373,0,0
-AR-W,Argentina,Corrientes,2020-05-19 23:00:44.395298,43,0,0
-AR-E,Argentina,Entre Rios,2020-05-19 23:00:44.395298,33,0,0
-AR-P,Argentina,Formosa,2020-05-19 23:00:44.395298,0,0,0
-AR-Y,Argentina,Jujuy,2020-05-19 23:00:44.395298,12,0,0
-AR-L,Argentina,La Pampa,2020-05-19 23:00:44.395298,6,0,0
-AR-F,Argentina,La Rioja,2020-05-19 23:00:44.395298,0,3,0
-AR-M,Argentina,Mendoza,2020-05-19 23:00:44.395298,32,0,0
-AR-N,Argentina,Misiones,2020-05-19 23:00:44.395298,7,0,0
-AR-Q,Argentina,Neuquen,2020-05-19 23:00:44.395298,43,0,0
-AR-R,Argentina,Rio Negro,2020-05-19 23:00:44.395298,21,0,0
-AR-A,Argentina,Salta,2020-05-19 23:00:44.395298,18,0,0
-AR-J,Argentina,San Juan,2020-05-19 23:00:44.395298,7,0,0
-AR-D,Argentina,San Luis,2020-05-19 23:00:44.395298,11,0,0
-AR-Z,Argentina,Santa Cruz,2020-05-19 23:00:44.395298,13,0,0
-AR-S,Argentina,Santa Fe,2020-05-19 23:00:44.395298,147,0,0
-AR-G,Argentina,Santiago del Estero,2020-05-19 23:00:44.395298,0,0,0
-AR-V,Argentina,Tierra del Fuego,2020-05-19 23:00:44.395298,29,0,0
-AR-T,Argentina,Tucuman,2020-05-19 23:00:44.395298,54,0,0
-BO-B,Bolivia,Beni,2020-05-21 15:13:06.654966,0,0,0
-BO-H,Bolivia,Chuquisaca,2020-05-21 15:13:06.654966,0,0,0
-BO-C,Bolivia,Cochabamba,2020-05-21 15:13:06.654966,3,0,0
-BO-L,Bolivia,La Paz,2020-05-21 15:13:06.654966,3,0,0
-BO-O,Bolivia,Oruro,2020-05-21 15:13:06.654966,8,0,0
-BO-N,Bolivia,Pando,2020-05-21 15:13:06.654966,0,0,0
-BO-P,Bolivia,Potosi,2020-05-21 15:13:06.654966,0,0,0
-BO-S,Bolivia,Santa Cruz,2020-05-21 15:13:06.654966,18,0,0
-BO-T,Bolivia,Tarija,2020-05-21 15:13:06.654966,0,0,0
+AR-B,Argentina,Buenos Aires,2020-05-22 19:25:32.459671,561,15,1
+AR-K,Argentina,Catamarca,2020-05-22 19:25:32.459671,4,0,0
+AR-H,Argentina,Chaco,2020-05-22 19:25:32.459671,248,2,0
+AR-U,Argentina,Chubut,2020-05-22 19:25:32.459671,14,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-05-22 19:25:32.459671,631,14,43
+AR-X,Argentina,Cordoba,2020-05-22 19:25:32.459671,361,0,0
+AR-W,Argentina,Corrientes,2020-05-22 19:25:32.459671,42,0,0
+AR-E,Argentina,Entre Rios,2020-05-22 19:25:32.459671,33,0,0
+AR-P,Argentina,Formosa,2020-05-22 19:25:32.459671,0,0,0
+AR-Y,Argentina,Jujuy,2020-05-22 19:25:32.459671,11,0,0
+AR-L,Argentina,La Pampa,2020-05-22 19:25:32.459671,5,0,0
+AR-F,Argentina,La Rioja,2020-05-22 19:25:32.459671,0,3,0
+AR-M,Argentina,Mendoza,2020-05-22 19:25:32.459671,32,0,0
+AR-N,Argentina,Misiones,2020-05-22 19:25:32.459671,6,0,0
+AR-Q,Argentina,Neuquen,2020-05-22 19:25:32.459671,41,0,0
+AR-R,Argentina,Rio Negro,2020-05-22 19:25:32.459671,21,0,0
+AR-A,Argentina,Salta,2020-05-22 19:25:32.459671,17,0,0
+AR-J,Argentina,San Juan,2020-05-22 19:25:32.459671,7,0,0
+AR-D,Argentina,San Luis,2020-05-22 19:25:32.459671,11,0,0
+AR-Z,Argentina,Santa Cruz,2020-05-22 19:25:32.459671,13,0,0
+AR-S,Argentina,Santa Fe,2020-05-22 19:25:32.459671,147,0,0
+AR-G,Argentina,Santiago del Estero,2020-05-22 19:25:32.459671,0,0,0
+AR-V,Argentina,Tierra del Fuego,2020-05-22 19:25:32.459671,29,0,0
+AR-T,Argentina,Tucuman,2020-05-22 19:25:32.459671,53,0,0
+BO-B,Bolivia,Beni,2020-05-22 19:25:32.459671,0,0,0
+BO-H,Bolivia,Chuquisaca,2020-05-22 19:25:32.459671,0,0,0
+BO-C,Bolivia,Cochabamba,2020-05-22 19:25:32.459671,3,0,0
+BO-L,Bolivia,La Paz,2020-05-22 19:25:32.459671,3,0,0
+BO-O,Bolivia,Oruro,2020-05-22 19:25:32.459671,8,0,0
+BO-N,Bolivia,Pando,2020-05-22 19:25:32.459671,0,0,0
+BO-P,Bolivia,Potosi,2020-05-22 19:25:32.459671,0,0,0
+BO-S,Bolivia,Santa Cruz,2020-05-22 19:25:32.459671,18,0,0
+BO-T,Bolivia,Tarija,2020-05-22 19:25:32.459671,0,0,0
 BR-AC,Brazil,Acre,2020-03-24,17,0,0
 BR-AL,Brazil,Alagoas,2020-03-24,9,0,0
 BR-AP,Brazil,Amapa,2020-03-24,1,0,0

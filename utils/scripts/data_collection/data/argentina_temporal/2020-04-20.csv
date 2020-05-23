@@ -1,25 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-05-19,11003,312,0
+AR-B,Argentina,Buenos Aires,2020-05-22,10711,312,0
 AR-K,Argentina,Catamarca,,0,0,0
-AR-H,Argentina,Chaco,2020-05-19,1838,26,0
-AR-U,Argentina,Chubut,2020-05-19,110,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-05-19,6228,170,0
-AR-X,Argentina,Cordoba,2020-05-19,4956,18,0
-AR-W,Argentina,Corrientes,2020-05-19,906,0,0
-AR-E,Argentina,Entre Rios,2020-05-19,414,25,0
-AR-P,Argentina,Formosa,2020-05-19,78,0,0
-AR-Y,Argentina,Jujuy,2020-05-19,692,0,0
-AR-L,Argentina,La Pampa,2020-05-19,97,6,0
-AR-F,Argentina,La Rioja,2020-05-19,265,0,0
-AR-M,Argentina,Mendoza,2020-05-19,840,0,0
-AR-N,Argentina,Misiones,2020-05-19,157,0,0
-AR-Q,Argentina,Neuquen,2020-05-19,661,6,0
-AR-R,Argentina,Rio Negro,2020-05-19,639,9,0
-AR-A,Argentina,Salta,2020-05-19,133,0,0
-AR-J,Argentina,San Juan,2020-05-19,204,0,0
-AR-D,Argentina,San Luis,2020-05-19,120,0,0
-AR-Z,Argentina,Santa Cruz,2020-05-19,226,0,0
-AR-S,Argentina,Santa Fe,2020-05-19,3098,0,0
-AR-G,Argentina,Santiago del Estero,2020-05-19,121,0,0
-AR-V,Argentina,Tierra del Fuego,2020-05-19,764,0,0
-AR-T,Argentina,Tucuman,2020-05-19,718,0,0
+AR-H,Argentina,Chaco,2020-05-22,1836,26,0
+AR-U,Argentina,Chubut,2020-05-22,103,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-05-22,6165,169,0
+AR-X,Argentina,Cordoba,2020-05-22,4321,18,0
+AR-W,Argentina,Corrientes,2020-05-22,902,0,0
+AR-E,Argentina,Entre Rios,2020-05-22,413,25,0
+AR-P,Argentina,Formosa,2020-05-22,75,0,0
+AR-Y,Argentina,Jujuy,2020-05-22,692,0,0
+AR-L,Argentina,La Pampa,2020-05-22,96,6,0
+AR-F,Argentina,La Rioja,2020-05-22,265,0,0
+AR-M,Argentina,Mendoza,2020-05-22,820,0,0
+AR-N,Argentina,Misiones,2020-05-22,146,0,0
+AR-Q,Argentina,Neuquen,2020-05-22,542,6,0
+AR-R,Argentina,Rio Negro,2020-05-22,592,10,0
+AR-A,Argentina,Salta,2020-05-22,129,0,0
+AR-J,Argentina,San Juan,2020-05-22,204,0,0
+AR-D,Argentina,San Luis,2020-05-22,119,0,0
+AR-Z,Argentina,Santa Cruz,2020-05-22,208,0,0
+AR-S,Argentina,Santa Fe,2020-05-22,3097,0,0
+AR-G,Argentina,Santiago del Estero,2020-05-22,114,0,0
+AR-V,Argentina,Tierra del Fuego,2020-05-22,763,0,0
+AR-T,Argentina,Tucuman,2020-05-22,717,0,0
