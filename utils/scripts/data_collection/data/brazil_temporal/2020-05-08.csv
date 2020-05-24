@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-BR-AC,Brazil,Acre,2020-05-08,1177,38,0
-BR-AL,Brazil,Alagoas,2020-05-08,2033,108,0
-BR-AP,Brazil,Amapa,2020-05-08,2322,66,0
-BR-AM,Brazil,Amazonas,2020-05-08,10727,874,0
-BR-BA,Brazil,Bahia,2020-05-08,4818,183,0
-BR-CE,Brazil,Ceara,2020-05-08,14956,966,0
-BR-DF,Brazil,Distrito Federal,2020-05-08,2442,37,0
-BR-ES,Brazil,Espiritu Santo,2020-05-08,0,0,0
-BR-GO,Brazil,Goias,2020-05-08,1053,49,0
-BR-MA,Brazil,Maranhao,2020-05-08,5909,330,0
-BR-MT,Brazil,Mato Grosso,2020-05-08,457,14,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-05-08,326,11,0
-BR-MG,Brazil,Minas Gerais,2020-05-08,2943,111,0
-BR-PA,Brazil,Para,2020-05-08,6141,515,0
-BR-PB,Brazil,Paraiba,2020-05-08,2031,114,0
-BR-PR,Brazil,Parana,2020-05-08,1711,106,0
-BR-PE,Brazil,Pernambuco,2020-05-08,11587,927,0
-BR-PI,Brazil,Piaui,2020-05-08,1131,37,0
-BR-RJ,Brazil,Rio de Janeiro,2020-05-08,15741,1503,0
-BR-RN,Brazil,Rio Grande do Norte,2020-05-08,1821,81,0
-BR-RS,Brazil,Rio Grande do Sul,2020-05-08,2447,91,0
-BR-RO,Brazil,Rondonia,2020-05-08,1222,39,0
-BR-RR,Brazil,Roraima,2020-05-08,1124,16,0
-BR-SC,Brazil,Santa Catarina,2020-05-08,3205,63,0
-BR-SP,Brazil,Sao Paulo,2020-05-08,41830,3416,0
-BR-SE,Brazil,Sergipe,2020-05-08,1438,28,0
-BR-TO,Brazil,Tocantins,2020-05-08,494,9,0
+BR-AC,Brazil,Acre,2020-05-08,1177,38,
+BR-AL,Brazil,Alagoas,2020-05-08,2033,108,
+BR-AP,Brazil,Amapa,2020-05-08,2322,66,
+BR-AM,Brazil,Amazonas,2020-05-08,10727,874,
+BR-BA,Brazil,Bahia,2020-05-08,4818,183,
+BR-CE,Brazil,Ceara,2020-05-08,14956,966,
+BR-DF,Brazil,Distrito Federal,2020-05-08,2442,37,
+BR-ES,Brazil,Espiritu Santo,2020-05-08,4242,165,
+BR-GO,Brazil,Goias,2020-05-08,1053,49,
+BR-MA,Brazil,Maranhao,2020-05-08,5909,330,
+BR-MT,Brazil,Mato Grosso,2020-05-08,457,14,
+BR-MS,Brazil,Mato Grosso do Sul,2020-05-08,326,11,
+BR-MG,Brazil,Minas Gerais,2020-05-08,2943,111,
+BR-PA,Brazil,Para,2020-05-08,6141,515,
+BR-PB,Brazil,Paraiba,2020-05-08,2031,114,
+BR-PR,Brazil,Parana,2020-05-08,1711,106,
+BR-PE,Brazil,Pernambuco,2020-05-08,11587,927,
+BR-PI,Brazil,Piaui,2020-05-08,1131,37,
+BR-RJ,Brazil,Rio de Janeiro,2020-05-08,15741,1503,
+BR-RN,Brazil,Rio Grande do Norte,2020-05-08,1821,81,
+BR-RS,Brazil,Rio Grande do Sul,2020-05-08,2447,91,
+BR-RO,Brazil,Rondonia,2020-05-08,1222,39,
+BR-RR,Brazil,Roraima,2020-05-08,1124,16,
+BR-SC,Brazil,Santa Catarina,2020-05-08,3205,63,
+BR-SP,Brazil,Sao Paulo,2020-05-08,41830,3416,
+BR-SE,Brazil,Sergipe,2020-05-08,1438,28,
+BR-TO,Brazil,Tocantins,2020-05-08,494,9,

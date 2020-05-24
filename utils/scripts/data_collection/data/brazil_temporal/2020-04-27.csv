@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-BR-AC,Brazil,Acre,2020-04-27,279,14,0
-BR-AL,Brazil,Alagoas,2020-04-27,643,34,0
-BR-AP,Brazil,Amapa,2020-04-27,842,26,0
-BR-AM,Brazil,Amazonas,2020-04-27,3928,320,0
-BR-BA,Brazil,Bahia,2020-04-27,2354,76,0
-BR-CE,Brazil,Ceara,2020-04-27,6726,390,0
-BR-DF,Brazil,Distrito Federal,2020-04-27,1146,27,0
-BR-ES,Brazil,Espiritu Santo,2020-04-27,0,0,0
-BR-GO,Brazil,Goias,2020-04-27,616,26,0
-BR-MA,Brazil,Maranhao,2020-04-27,2410,125,0
-BR-MT,Brazil,Mato Grosso,2020-04-27,257,10,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-04-27,238,9,0
-BR-MG,Brazil,Minas Gerais,2020-04-27,1586,62,0
-BR-PA,Brazil,Para,2020-04-27,2128,114,0
-BR-PB,Brazil,Paraiba,2020-04-27,543,50,0
-BR-PR,Brazil,Parana,2020-04-27,1186,75,0
-BR-PE,Brazil,Pernambuco,2020-04-27,5358,450,0
-BR-PI,Brazil,Piaui,2020-04-27,364,20,0
-BR-RN,Brazil,Rio Grande do Norte,2020-04-27,832,45,0
-BR-RS,Brazil,Rio Grande do Sul,2020-04-27,1228,42,0
-BR-RJ,Brazil,Rio de Janeiro,2020-04-27,7944,677,0
-BR-RO,Brazil,Rondonia,2020-04-27,393,10,0
-BR-RR,Brazil,Roraima,2020-04-27,407,4,0
-BR-SC,Brazil,Santa Catarina,2020-04-27,1337,43,0
-BR-SP,Brazil,Sao Paulo,2020-04-27,21696,1825,0
-BR-SE,Brazil,Sergipe,2020-04-27,197,10,0
-BR-TO,Brazil,Tocantins,2020-04-27,67,2,0
+BR-AC,Brazil,Acre,2020-04-27,279,14,
+BR-AL,Brazil,Alagoas,2020-04-27,643,34,
+BR-AP,Brazil,Amapa,2020-04-27,842,26,
+BR-AM,Brazil,Amazonas,2020-04-27,3928,320,
+BR-BA,Brazil,Bahia,2020-04-27,2354,76,
+BR-CE,Brazil,Ceara,2020-04-27,6726,390,
+BR-DF,Brazil,Distrito Federal,2020-04-27,1146,27,
+BR-ES,Brazil,Espiritu Santo,2020-04-27,1796,57,
+BR-GO,Brazil,Goias,2020-04-27,616,26,
+BR-MA,Brazil,Maranhao,2020-04-27,2410,125,
+BR-MT,Brazil,Mato Grosso,2020-04-27,257,10,
+BR-MS,Brazil,Mato Grosso do Sul,2020-04-27,238,9,
+BR-MG,Brazil,Minas Gerais,2020-04-27,1586,62,
+BR-PA,Brazil,Para,2020-04-27,2128,114,
+BR-PB,Brazil,Paraiba,2020-04-27,543,50,
+BR-PR,Brazil,Parana,2020-04-27,1186,75,
+BR-PE,Brazil,Pernambuco,2020-04-27,5358,450,
+BR-PI,Brazil,Piaui,2020-04-27,364,20,
+BR-RJ,Brazil,Rio de Janeiro,2020-04-27,7944,677,
+BR-RN,Brazil,Rio Grande do Norte,2020-04-27,832,45,
+BR-RS,Brazil,Rio Grande do Sul,2020-04-27,1228,42,
+BR-RO,Brazil,Rondonia,2020-04-27,393,10,
+BR-RR,Brazil,Roraima,2020-04-27,407,4,
+BR-SC,Brazil,Santa Catarina,2020-04-27,1337,43,
+BR-SP,Brazil,Sao Paulo,2020-04-27,21696,1825,
+BR-SE,Brazil,Sergipe,2020-04-27,197,10,
+BR-TO,Brazil,Tocantins,2020-04-27,67,2,

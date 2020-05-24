@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-BR-AC,Brazil,Acre,2020-03-31,42,0,0
-BR-AL,Brazil,Alagoas,2020-03-31,18,1,0
-BR-AP,Brazil,Amapa,2020-03-31,10,0,0
-BR-AM,Brazil,Amazonas,2020-03-31,175,3,0
-BR-BA,Brazil,Bahia,2020-03-31,213,2,0
-BR-CE,Brazil,Ceara,2020-03-31,390,7,0
-BR-DF,Brazil,Distrito Federal,2020-03-31,332,3,0
-BR-ES,Brazil,Espirito Santo,2020-03-31,0,0,0
-BR-GO,Brazil,Goias,2020-03-31,65,1,0
-BR-MA,Brazil,Maranhao,2020-03-31,31,1,0
-BR-MT,Brazil,Mato Grosso,2020-03-31,25,0,0
-BR-MS,Brazil,Mato Grosso do Sul,2020-03-31,48,1,0
-BR-MG,Brazil,Minas Gerais,2020-03-31,275,2,0
-BR-PA,Brazil,Para,2020-03-31,32,0,0
-BR-PB,Brazil,Paraiba,2020-03-31,17,0,0
-BR-PR,Brazil,Parana,2020-03-31,179,3,0
-BR-PE,Brazil,Pernambuco,2020-03-31,87,6,0
-BR-PI,Brazil,Piaui,2020-03-31,18,4,0
-BR-RN,Brazil,Rio Grande do Norte,2020-03-31,82,1,0
-BR-RS,Brazil,Rio Grande do Sul,2020-03-31,274,4,0
-BR-RJ,Brazil,Rio de Janeiro,2020-03-31,708,23,0
-BR-RO,Brazil,Rondonia,2020-03-31,8,1,0
-BR-RR,Brazil,Roraima,2020-03-31,16,0,0
-BR-SC,Brazil,Santa Catarina,2020-03-31,219,2,0
-BR-SP,Brazil,Sao Paulo,2020-03-31,2339,136,0
-BR-SE,Brazil,Sergipe,2020-03-31,19,0,0
-BR-TO,Brazil,Tocantins,2020-03-31,11,0,0
+BR-AC,Brazil,Acre,2020-03-31,42,0,
+BR-AL,Brazil,Alagoas,2020-03-31,18,1,
+BR-AP,Brazil,Amapa,2020-03-31,10,0,
+BR-AM,Brazil,Amazonas,2020-03-31,175,3,
+BR-BA,Brazil,Bahia,2020-03-31,213,2,
+BR-CE,Brazil,Ceara,2020-03-31,390,7,
+BR-DF,Brazil,Distrito Federal,2020-03-31,332,3,
+BR-ES,Brazil,Espiritu Santo,2020-03-31,84,0,
+BR-GO,Brazil,Goias,2020-03-31,65,1,
+BR-MA,Brazil,Maranhao,2020-03-31,31,1,
+BR-MT,Brazil,Mato Grosso,2020-03-31,25,0,
+BR-MS,Brazil,Mato Grosso do Sul,2020-03-31,48,1,
+BR-MG,Brazil,Minas Gerais,2020-03-31,275,2,
+BR-PA,Brazil,Para,2020-03-31,32,0,
+BR-PB,Brazil,Paraiba,2020-03-31,17,0,
+BR-PR,Brazil,Parana,2020-03-31,179,3,
+BR-PE,Brazil,Pernambuco,2020-03-31,87,6,
+BR-PI,Brazil,Piaui,2020-03-31,18,4,
+BR-RJ,Brazil,Rio de Janeiro,2020-03-31,708,23,
+BR-RN,Brazil,Rio Grande do Norte,2020-03-31,82,1,
+BR-RS,Brazil,Rio Grande do Sul,2020-03-31,274,4,
+BR-RO,Brazil,Rondonia,2020-03-31,8,1,
+BR-RR,Brazil,Roraima,2020-03-31,16,0,
+BR-SC,Brazil,Santa Catarina,2020-03-31,219,2,
+BR-SP,Brazil,Sao Paulo,2020-03-31,2339,136,
+BR-SE,Brazil,Sergipe,2020-03-31,19,0,
+BR-TO,Brazil,Tocantins,2020-03-31,11,0,
