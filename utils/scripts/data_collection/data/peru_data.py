@@ -129,8 +129,16 @@ def get_data_per_patient_oficial():
     zip_ref = zipfile.ZipFile("utils/scripts/data_collection/data/peru_temporal/PE.zip", 'r')
     zip_ref.extractall("latam_covid_19_data/per_patient/")
     zip_ref.close()
-    
-    os.rename('latam_covid_19_data/per_patient/DATOSABIERTOS_SISCOVID.csv', 'latam_covid_19_data/per_patient/PE.csv')
+    # try:
+    #     os.remove('latam_covid_19_data/per_patient/PE.csv')
+    # except Exception as e:
+    #     print(e)
+
+    # try:
+    #     os.remove('latam_covid_19_data/per_patient/DATOSABIERTOS_SISCOVID.csv')
+    # except Exception as e:
+    #     print(e)   
+    #os.rename('latam_covid_19_data/per_patient/DATOSABIERTOS_SISCOVID.csv', 'latam_covid_19_data/per_patient/PE.csv')
 
 def load_and_generatecsv(list_date_list):
 

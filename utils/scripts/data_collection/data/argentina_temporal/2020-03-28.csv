@@ -1,25 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-05-23,979,39,0
+AR-B,Argentina,Buenos Aires,2020-05-25,979,39,0
 AR-K,Argentina,Catamarca,,0,0,0
-AR-H,Argentina,Chaco,2020-05-23,366,8,0
-AR-U,Argentina,Chubut,2020-05-23,23,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-05-23,996,28,0
-AR-X,Argentina,Cordoba,2020-05-23,508,0,0
-AR-W,Argentina,Corrientes,2020-05-23,100,0,0
-AR-E,Argentina,Entre Rios,2020-05-23,62,0,0
+AR-H,Argentina,Chaco,2020-05-25,366,8,0
+AR-U,Argentina,Chubut,2020-05-25,23,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-05-25,996,28,0
+AR-X,Argentina,Cordoba,2020-05-25,508,0,0
+AR-W,Argentina,Corrientes,2020-05-25,100,0,0
+AR-E,Argentina,Entre Rios,2020-05-25,62,0,0
 AR-P,Argentina,Formosa,,0,0,0
-AR-Y,Argentina,Jujuy,2020-05-23,20,0,0
+AR-Y,Argentina,Jujuy,2020-05-25,20,0,0
 AR-L,Argentina,La Pampa,,0,0,0
 AR-F,Argentina,La Rioja,,0,0,0
-AR-M,Argentina,Mendoza,2020-05-23,68,0,0
+AR-M,Argentina,Mendoza,2020-05-25,68,0,0
 AR-N,Argentina,Misiones,,0,0,0
-AR-Q,Argentina,Neuquen,2020-05-23,78,0,0
-AR-R,Argentina,Rio Negro,2020-05-23,34,0,0
-AR-A,Argentina,Salta,2020-05-23,28,0,0
-AR-J,Argentina,San Juan,2020-05-23,11,0,0
-AR-D,Argentina,San Luis,2020-05-23,35,0,0
-AR-Z,Argentina,Santa Cruz,2020-05-23,31,0,0
-AR-S,Argentina,Santa Fe,2020-05-23,367,0,0
-AR-G,Argentina,Santiago del Estero,2020-05-23,0,1,0
-AR-V,Argentina,Tierra del Fuego,2020-05-23,68,0,0
-AR-T,Argentina,Tucuman,2020-05-23,132,0,0
+AR-Q,Argentina,Neuquen,2020-05-25,78,0,0
+AR-R,Argentina,Rio Negro,2020-05-25,34,0,0
+AR-A,Argentina,Salta,2020-05-25,28,0,0
+AR-J,Argentina,San Juan,2020-05-25,11,0,0
+AR-D,Argentina,San Luis,2020-05-25,35,0,0
+AR-Z,Argentina,Santa Cruz,2020-05-25,31,0,0
+AR-S,Argentina,Santa Fe,2020-05-25,367,0,0
+AR-G,Argentina,Santiago del Estero,2020-05-25,0,1,0
+AR-V,Argentina,Tierra del Fuego,2020-05-25,68,0,0
+AR-T,Argentina,Tucuman,2020-05-25,132,0,0

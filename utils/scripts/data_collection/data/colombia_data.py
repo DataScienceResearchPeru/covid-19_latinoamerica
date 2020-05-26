@@ -185,6 +185,8 @@ def load_and_generatecsv(list_date_list):
         data_confirmed = data[data['fecha reporte web'] != '-   -']
         data_confirmed = data_confirmed.groupby(['Departamento o Distrito ']).size().reset_index(name='Confirmed')
 
+        data_colombia=data_colombia.fillna('')
+
         data_death = data_colombia[data_colombia['Fecha de muerte'].str.contains(d)]
         data_death = data_death[data_death['Fecha de muerte'] != '-   -']
         data_death = data_death.fillna('')
