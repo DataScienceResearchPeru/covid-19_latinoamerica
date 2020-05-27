@@ -111,7 +111,7 @@ def load_and_generatecsv(list_date_list):
         daily_report = daily_report[daily_report['ISO 3166-2 Code'].str.contains('BR-')]
         daily_report.to_csv(path_data, index=False)
 
-
+        print(column,end=' - ')
 
 if __name__ == "__main__":
     load_and_generatecsv(['2020-04-04','2020-04-03'])
