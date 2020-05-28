@@ -197,7 +197,7 @@ def load_and_generatecsv(list_date_list):
 
         print(d, end=' - ')
 
-        print(temp_dsrp)
+        #print(temp_dsrp)
         temp_dsrp = temp_dsrp.fillna('')
 
         temp_dsrp.to_csv(path_csv+d+'.csv', index=False)
