@@ -2,9 +2,9 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 CO-AMA,Colombia,Amazonas,2020-05-28,1183,50,78
 CO-ANT,Colombia,Antioquia,2020-05-28,543,0,361
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-05-28,1825,63,197
-CO-DC,Colombia,Bogota,2020-05-28,5721,192,2213
-CO-BOL,Colombia,Bolivar,2020-05-28,1498,95,257
+CO-ATL,Colombia,Atlantico,2020-05-28,1826,63,221
+CO-DC,Colombia,Bogota,2020-05-28,5721,192,2277
+CO-BOL,Colombia,Bolivar,2020-05-28,1498,98,257
 CO-BOY,Colombia,Boyaca,2020-05-28,108,8,0
 CO-CAL,Colombia,Caldas,,0,0,0
 CO-CAQ,Colombia,Caqueta,2020-05-28,21,0,0
@@ -16,19 +16,19 @@ CO-CUN,Colombia,Cordoba,,0,0,0
 CO-CHO,Colombia,Cundinamarca,2020-05-28,367,14,188
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-05-28,212,0,115
+CO-HUI,Colombia,Huila,2020-05-28,212,0,118
 CO-LAG,Colombia,La Guajira,2020-05-28,0,0,10
-CO-MAG,Colombia,Magdalena,2020-05-28,437,0,142
+CO-MAG,Colombia,Magdalena,2020-05-28,436,0,142
 CO-MET,Colombia,Meta,2020-05-28,951,0,86
 CO-NAR,Colombia,Narino,2020-05-28,499,35,0
-CO-NSA,Colombia,Norte de Santander,2020-05-28,164,0,113
+CO-NSA,Colombia,Norte de Santander,2020-05-28,164,0,115
 CO-PUT,Colombia,Putumayo,,0,0,0
 CO-QUI,Colombia,Quindio,2020-05-28,81,0,0
-CO-RIS,Colombia,Risaralda,2020-05-28,0,0,184
+CO-RIS,Colombia,Risaralda,2020-05-28,0,0,181
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,2020-05-28,0,0,2
-CO-TOL,Colombia,Tolima,2020-05-28,164,0,88
+CO-TOL,Colombia,Tolima,2020-05-28,164,0,96
 CO-VAC,Colombia,Valle del Cauca,2020-05-28,1670,95,637
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

@@ -2,15 +2,15 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 CO-AMA,Colombia,Amazonas,2020-05-28,1003,44,51
 CO-ANT,Colombia,Antioquia,2020-05-28,509,0,346
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-05-28,1493,59,150
-CO-DC,Colombia,Bogota,2020-05-28,5007,180,2023
-CO-BOL,Colombia,Bolivar,2020-05-28,1153,80,210
+CO-ATL,Colombia,Atlantico,2020-05-28,1493,59,167
+CO-DC,Colombia,Bogota,2020-05-28,5007,180,2084
+CO-BOL,Colombia,Bolivar,2020-05-28,1153,81,210
 CO-BOY,Colombia,Boyaca,2020-05-28,0,0,43
 CO-CAL,Colombia,Caldas,2020-05-28,109,0,68
 CO-CAQ,Colombia,Caqueta,2020-05-28,0,0,5
 CO-CAS,Colombia,Casanare,,0,0,0
 CO-CAU,Colombia,Cauca,2020-05-28,153,0,40
-CO-CES,Colombia,Cesar,,0,0,0
+CO-CES,Colombia,Cesar,2020-05-28,0,0,54
 CO-COR,Colombia,Choco,2020-05-28,42,0,0
 CO-CUN,Colombia,Cordoba,2020-05-28,62,4,16
 CO-CHO,Colombia,Cundinamarca,2020-05-28,337,0,182
@@ -24,11 +24,11 @@ CO-NAR,Colombia,Narino,2020-05-28,425,32,0
 CO-NSA,Colombia,Norte de Santander,2020-05-28,149,14,111
 CO-PUT,Colombia,Putumayo,2020-05-28,3,0,0
 CO-QUI,Colombia,Quindio,2020-05-28,78,0,63
-CO-RIS,Colombia,Risaralda,2020-05-28,0,0,180
+CO-RIS,Colombia,Risaralda,2020-05-28,0,0,177
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,,0,0,0
-CO-TOL,Colombia,Tolima,2020-05-28,154,0,73
+CO-TOL,Colombia,Tolima,2020-05-28,154,0,79
 CO-VAC,Colombia,Valle del Cauca,2020-05-28,1507,90,579
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

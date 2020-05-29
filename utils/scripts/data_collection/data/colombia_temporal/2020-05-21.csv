@@ -1,10 +1,10 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-05-28,1385,53,0
-CO-ANT,Colombia,Antioquia,2020-05-28,587,0,368
+CO-AMA,Colombia,Amazonas,2020-05-28,1385,53,102
+CO-ANT,Colombia,Antioquia,2020-05-28,587,0,369
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-05-28,2187,71,267
-CO-DC,Colombia,Bogota,2020-05-28,6312,211,2398
-CO-BOL,Colombia,Bolivar,2020-05-28,1801,108,330
+CO-ATL,Colombia,Atlantico,2020-05-28,2188,71,294
+CO-DC,Colombia,Bogota,2020-05-28,6312,211,2498
+CO-BOL,Colombia,Bolivar,2020-05-28,1801,113,330
 CO-BOY,Colombia,Boyaca,2020-05-28,136,9,56
 CO-CAL,Colombia,Caldas,,0,0,0
 CO-CAQ,Colombia,Caqueta,,0,0,0
@@ -12,23 +12,23 @@ CO-CAS,Colombia,Casanare,2020-05-28,0,0,16
 CO-CAU,Colombia,Cauca,2020-05-28,221,18,60
 CO-CES,Colombia,Cesar,2020-05-28,80,0,0
 CO-COR,Colombia,Choco,,0,0,0
-CO-CUN,Colombia,Cordoba,2020-05-28,0,0,22
+CO-CUN,Colombia,Cordoba,2020-05-28,0,0,23
 CO-CHO,Colombia,Cundinamarca,2020-05-28,392,0,190
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-05-28,227,0,135
+CO-HUI,Colombia,Huila,2020-05-28,227,0,141
 CO-LAG,Colombia,La Guajira,2020-05-28,0,0,14
-CO-MAG,Colombia,Magdalena,2020-05-28,468,0,0
+CO-MAG,Colombia,Magdalena,2020-05-28,467,0,0
 CO-MET,Colombia,Meta,2020-05-28,964,0,96
-CO-NAR,Colombia,Narino,2020-05-28,594,0,0
+CO-NAR,Colombia,Narino,2020-05-28,594,0,108
 CO-NSA,Colombia,Norte de Santander,2020-05-28,167,15,0
 CO-PUT,Colombia,Putumayo,,0,0,0
-CO-QUI,Colombia,Quindio,2020-05-28,0,0,66
-CO-RIS,Colombia,Risaralda,2020-05-28,239,0,202
+CO-QUI,Colombia,Quindio,2020-05-28,0,0,69
+CO-RIS,Colombia,Risaralda,2020-05-28,239,0,199
 CO-SAP,Colombia,San Andres y Providencia,2020-05-28,0,0,8
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,,0,0,0
-CO-TOL,Colombia,Tolima,2020-05-28,177,0,0
-CO-VAC,Colombia,Valle del Cauca,2020-05-28,1888,103,680
+CO-TOL,Colombia,Tolima,2020-05-28,177,0,108
+CO-VAC,Colombia,Valle del Cauca,2020-05-28,1888,104,684
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

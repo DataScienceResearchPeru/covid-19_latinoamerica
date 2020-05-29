@@ -2,9 +2,9 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 CO-AMA,Colombia,Amazonas,2020-05-28,527,0,0
 CO-ANT,Colombia,Antioquia,2020-05-28,468,0,303
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-05-28,970,49,103
-CO-DC,Colombia,Bogota,2020-05-28,4154,162,1694
-CO-BOL,Colombia,Bolivar,2020-05-28,679,58,169
+CO-ATL,Colombia,Atlantico,2020-05-28,970,49,110
+CO-DC,Colombia,Bogota,2020-05-28,4154,162,1745
+CO-BOL,Colombia,Bolivar,2020-05-28,679,59,169
 CO-BOY,Colombia,Boyaca,2020-05-28,67,0,25
 CO-CAL,Colombia,Caldas,2020-05-28,0,0,53
 CO-CAQ,Colombia,Caqueta,2020-05-28,16,0,0
@@ -24,11 +24,11 @@ CO-NAR,Colombia,Narino,2020-05-28,296,24,59
 CO-NSA,Colombia,Norte de Santander,2020-05-28,141,0,99
 CO-PUT,Colombia,Putumayo,2020-05-28,1,0,0
 CO-QUI,Colombia,Quindio,2020-05-28,67,0,59
-CO-RIS,Colombia,Risaralda,2020-05-28,0,0,154
+CO-RIS,Colombia,Risaralda,2020-05-28,0,0,151
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,2020-05-28,4,0,0
-CO-TOL,Colombia,Tolima,2020-05-28,130,0,0
+CO-TOL,Colombia,Tolima,2020-05-28,130,0,54
 CO-VAC,Colombia,Valle del Cauca,2020-05-28,1275,77,463
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

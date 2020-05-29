@@ -2,8 +2,8 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 CO-AMA,Colombia,Amazonas,2020-05-28,77,7,0
 CO-ANT,Colombia,Antioquia,2020-05-28,423,0,207
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-05-28,236,0,63
-CO-DC,Colombia,Bogota,2020-05-28,2390,110,787
+CO-ATL,Colombia,Atlantico,2020-05-28,236,0,65
+CO-DC,Colombia,Bogota,2020-05-28,2390,110,820
 CO-BOL,Colombia,Bolivar,2020-05-28,257,0,109
 CO-BOY,Colombia,Boyaca,2020-05-28,37,0,0
 CO-CAL,Colombia,Caldas,2020-05-28,56,0,0
@@ -24,11 +24,11 @@ CO-NAR,Colombia,Narino,2020-05-28,113,8,22
 CO-NSA,Colombia,Norte de Santander,2020-05-28,109,0,73
 CO-PUT,Colombia,Putumayo,,0,0,0
 CO-QUI,Colombia,Quindio,2020-05-28,59,0,0
-CO-RIS,Colombia,Risaralda,2020-05-28,191,0,74
+CO-RIS,Colombia,Risaralda,2020-05-28,191,0,71
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,,0,0,0
-CO-TOL,Colombia,Tolima,2020-05-28,62,0,0
+CO-TOL,Colombia,Tolima,2020-05-28,62,0,26
 CO-VAC,Colombia,Valle del Cauca,2020-05-28,857,56,245
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

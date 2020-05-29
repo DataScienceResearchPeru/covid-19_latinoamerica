@@ -2,33 +2,33 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 CO-AMA,Colombia,Amazonas,2020-05-28,1312,0,101
 CO-ANT,Colombia,Antioquia,2020-05-28,573,0,365
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-05-28,2045,69,241
-CO-DC,Colombia,Bogota,2020-05-28,6190,202,2328
-CO-BOL,Colombia,Bolivar,2020-05-28,1673,106,307
+CO-ATL,Colombia,Atlantico,2020-05-28,2046,69,268
+CO-DC,Colombia,Bogota,2020-05-28,6190,202,2407
+CO-BOL,Colombia,Bolivar,2020-05-28,1673,111,307
 CO-BOY,Colombia,Boyaca,2020-05-28,126,0,53
 CO-CAL,Colombia,Caldas,2020-05-28,126,0,0
 CO-CAQ,Colombia,Caqueta,2020-05-28,0,0,6
 CO-CAS,Colombia,Casanare,2020-05-28,26,0,0
 CO-CAU,Colombia,Cauca,2020-05-28,210,0,55
 CO-CES,Colombia,Cesar,2020-05-28,79,0,0
-CO-COR,Colombia,Choco,2020-05-28,80,0,0
+CO-COR,Colombia,Choco,2020-05-28,80,0,15
 CO-CUN,Colombia,Cordoba,2020-05-28,86,5,0
 CO-CHO,Colombia,Cundinamarca,2020-05-28,385,0,0
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-05-28,219,0,132
+CO-HUI,Colombia,Huila,2020-05-28,219,0,135
 CO-LAG,Colombia,La Guajira,2020-05-28,0,0,13
-CO-MAG,Colombia,Magdalena,2020-05-28,449,36,149
+CO-MAG,Colombia,Magdalena,2020-05-28,448,36,149
 CO-MET,Colombia,Meta,2020-05-28,963,0,92
 CO-NAR,Colombia,Narino,2020-05-28,549,0,75
 CO-NSA,Colombia,Norte de Santander,2020-05-28,166,0,0
 CO-PUT,Colombia,Putumayo,,0,0,0
-CO-QUI,Colombia,Quindio,2020-05-28,84,0,0
-CO-RIS,Colombia,Risaralda,2020-05-28,0,0,191
+CO-QUI,Colombia,Quindio,2020-05-28,84,0,66
+CO-RIS,Colombia,Risaralda,2020-05-28,0,0,188
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,2020-05-28,5,0,3
-CO-TOL,Colombia,Tolima,2020-05-28,176,0,96
-CO-VAC,Colombia,Valle del Cauca,2020-05-28,1829,102,664
+CO-TOL,Colombia,Tolima,2020-05-28,176,0,105
+CO-VAC,Colombia,Valle del Cauca,2020-05-28,1829,103,667
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
