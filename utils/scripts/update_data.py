@@ -153,7 +153,7 @@ if __name__ == "__main__":
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
     list_date_list = date_list[1:3]
 
-    load_all_data_temporal(list_date_list)
+    #load_all_data_temporal(list_date_list)
 
     print('List of dates to be modified:', end='')
 
