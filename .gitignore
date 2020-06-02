@@ -1,0 +1,34 @@
+coverage
+.noseids
+*.so
+*.pyd
+*.pyc
+*.pyo
+*.py#
+*~
+*.swp
+*.DS_Store
+*.kpf
+
+build/*
+
+MANIFEST
+
+# PyDev
+.project
+.pydevproject
+.settings/
+
+# Virtualenv
+venv
+
+### JupyterNotebooks ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+### VisualStudioCode ###
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json

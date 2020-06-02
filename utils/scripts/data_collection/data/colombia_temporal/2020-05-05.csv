@@ -1,0 +1,34 @@
+ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
+CO-AMA,Colombia,Amazonas,2020-06-01,230,19,12
+CO-ANT,Colombia,Antioquia,2020-06-01,451,0,267
+CO-ARA,Colombia,Arauca,,0,0,0
+CO-ATL,Colombia,Atlantico,2020-06-01,640,39,81
+CO-DC,Colombia,Bogota,2020-06-01,3262,137,1329
+CO-BOL,Colombia,Bolivar,2020-06-01,406,41,142
+CO-BOY,Colombia,Boyaca,2020-06-01,60,0,20
+CO-CAL,Colombia,Caldas,2020-06-01,91,0,42
+CO-CAQ,Colombia,Caqueta,2020-06-01,15,0,0
+CO-CAS,Colombia,Casanare,2020-06-01,0,0,9
+CO-CAU,Colombia,Cauca,2020-06-01,87,0,22
+CO-CES,Colombia,Cesar,2020-06-01,70,10,42
+CO-COR,Colombia,Choco,2020-06-01,24,0,0
+CO-CUN,Colombia,Cordoba,,0,0,0
+CO-CHO,Colombia,Cundinamarca,2020-06-01,267,0,141
+CO-GUA,Colombia,Guainia,,0,0,0
+CO-GUV,Colombia,Guaviare,,0,0,0
+CO-HUI,Colombia,Huila,2020-06-01,137,0,69
+CO-LAG,Colombia,La Guajira,2020-06-01,14,0,4
+CO-MAG,Colombia,Magdalena,2020-06-01,256,25,69
+CO-MET,Colombia,Meta,2020-06-01,718,0,33
+CO-NAR,Colombia,Narino,2020-06-01,247,13,34
+CO-NSA,Colombia,Norte de Santander,2020-06-01,125,0,81
+CO-PUT,Colombia,Putumayo,,0,0,0
+CO-QUI,Colombia,Quindio,2020-06-01,63,0,55
+CO-RIS,Colombia,Risaralda,2020-06-01,0,0,130
+CO-SAP,Colombia,San Andres y Providencia,,0,0,0
+CO-SAN,Colombia,Santander,,0,0,0
+CO-SUC,Colombia,Sucre,,0,0,0
+CO-TOL,Colombia,Tolima,2020-06-01,0,6,31
+CO-VAC,Colombia,Valle del Cauca,2020-06-01,1088,0,350
+CO-VAU,Colombia,Vaupes,,0,0,0
+CO-VID,Colombia,Vichada,,0,0,0

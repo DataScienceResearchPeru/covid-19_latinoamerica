@@ -1,0 +1,5 @@
+﻿gource -1920x1080 --stop-position 1.0 --highlight-all-users --seconds-per-day 3 --output-framerate 30 --output-ppm-stream output.ppm --highlight-all-users -e 0.01 --max-files 999 --bloom-multiplier 0.1
+
+ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i output.ppm  -vcodec wmv1 -r 60 -qscale 0 out.wmv                               
+
+ffmpeg -i out.wmv -c:v libx264 -crf 23 -c:a libfaac -q:a 100 output.mp4 

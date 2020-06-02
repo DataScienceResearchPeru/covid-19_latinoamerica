@@ -1,0 +1,196 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ZurMaD",
+      "name": "ZurMaD",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/28235457?v=4",
+      "profile": "https://github.com/ZurMaD",
+      "contributions": [
+        "design",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "carranco-sga",
+      "name": "Gabriel Alfonso Carranco-Sapiéns",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32427033?v=4",
+      "profile": "https://github.com/carranco-sga",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rafnixg",
+      "name": "Rafnix Guzman",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10915285?v=4",
+      "profile": "http://rafnixg.xyz",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "RcrdPhysics",
+      "name": "RcrdPhysics",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43417707?v=4",
+      "profile": "https://github.com/RcrdPhysics",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "pablora19",
+      "name": "Pablo Reyes A",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/62561297?v=4",
+      "profile": "https://github.com/pablora19",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "martingra",
+      "name": "Martin",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7132263?v=4",
+      "profile": "http://martingramatica.me",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mamanipatricia",
+      "name": "patty",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19600504?v=4",
+      "profile": "http://patriciamq.xyz",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "leytzher",
+      "name": "Leytzher",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/830054?v=4",
+      "profile": "https://cdn-images-1.medium.com/max/1200/0*JNGqpfzJUETMz9gE.",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "josetup123",
+      "name": "josetup123",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/52168695?v=4",
+      "profile": "https://github.com/josetup123",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ivanMSC",
+      "name": "ivang",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35350256?v=4",
+      "profile": "https://github.com/ivanMSC",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "diegocl02",
+      "name": "Diego Cisneros",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/24798804?v=4",
+      "profile": "https://github.com/diegocl02",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "dfuribez",
+      "name": "Diego Fernando Uribe",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28516148?v=4",
+      "profile": "https://github.com/dfuribez",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "carranco-sga",
+      "name": "Gabriel Alfonso Carranco-Sapiéns",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32427033?v=4",
+      "profile": "https://github.com/carranco-sga",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ariasbordahugo",
+      "name": "ariasbordahugo",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/56813329?v=4",
+      "profile": "https://github.com/ariasbordahugo",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "adtor97",
+      "name": "adtor97",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/53233704?v=4",
+      "profile": "https://github.com/adtor97",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "pablorea",
+      "name": "Pablo Leandro Rea",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25037383?v=4",
+      "profile": "https://pablorea.github.io/me/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rendergraf",
+      "name": "Xavier Araque",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5533099?v=4",
+      "profile": "https://developers.ninja",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ncovgt2020",
+      "name": "Corona Virus Guatemala",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/62212482?v=4",
+      "profile": "https://github.com/ncovgt2020",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Caospierre",
+      "name": "Jean Pineda",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20137969?v=4",
+      "profile": "https://github.com/Caospierre",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "scratchmex",
+      "name": "Ivan Gonzalez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4014888?v=4",
+      "profile": "https://github.com/scratchmex",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "covid-19_latinoamerica",
+  "projectOwner": "DataScienceResearchPeru",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
