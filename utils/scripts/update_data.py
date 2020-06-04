@@ -116,7 +116,7 @@ def execute_country(path_country, path_dsrp, d, isocode, today):
 
 def load_all_data_temporal(list_date_list):
     
-    argentina_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
+    #argentina_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     brazil_data.load_and_generatecsv(list_date_list)
     colombia_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     costarica_data.load_and_generatecsv(list_date_list)

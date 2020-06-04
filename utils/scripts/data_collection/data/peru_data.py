@@ -140,6 +140,14 @@ def get_data_per_patient_oficial():
     #     print(e)   
     #os.rename('latam_covid_19_data/per_patient/DATOSABIERTOS_SISCOVID.csv', 'latam_covid_19_data/per_patient/PE.csv')
 
+def get_data_per_patient_oficial_v2():
+
+    url='https://cloud.minsa.gob.pe/s/Y8w3wHsEdYQSZRp/download'
+
+    df=pd.read_csv(url, encoding='latin-1',sep=',')
+    df.to_csv('latam_covid_19_data/per_patient/PE.csv',index=False)
+
+
 def load_and_generatecsv(list_date_list):
 
     today = datetime.datetime.now().strftime('%Y-%m-%d')
@@ -155,7 +163,9 @@ def load_and_generatecsv(list_date_list):
 
     array_dates_csv, array_dates = generate_list_dates(path_dsrp_daily_reports)
 
-    get_data_per_patient_oficial()
+    # DEPRECATED BUT STILL WORKING get_data_per_patient_oficial()
+
+    get_data_per_patient_oficial_v2()
 
     for d in array_dates:  # array_dates
 

@@ -1,34 +1,34 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-06-03,182,0,0
-CO-ANT,Colombia,Antioquia,2020-06-03,443,0,251
+CO-AMA,Colombia,Amazonas,2020-06-04,182,0,0
+CO-ANT,Colombia,Antioquia,2020-06-04,443,0,251
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-06-03,491,33,72
-CO-DC,Colombia,Bogota,2020-06-03,2942,131,1115
-CO-BOL,Colombia,Bolivar,2020-06-03,353,36,135
+CO-ATL,Colombia,Atlantico,2020-06-04,491,33,72
+CO-DC,Colombia,Bogota,2020-06-04,2942,131,1114
+CO-BOL,Colombia,Bolivar,2020-06-04,353,36,135
 CO-BOY,Colombia,Boyaca,,0,0,0
-CO-CAL,Colombia,Caldas,2020-06-03,0,3,37
+CO-CAL,Colombia,Caldas,2020-06-04,0,3,37
 CO-CAQ,Colombia,Caqueta,,0,0,0
-CO-CAS,Colombia,Casanare,2020-06-03,19,0,0
-CO-CAU,Colombia,Cauca,2020-06-03,0,7,20
-CO-CES,Colombia,Cesar,2020-06-03,62,9,0
+CO-CAS,Colombia,Casanare,2020-06-04,19,0,0
+CO-CAU,Colombia,Cauca,2020-06-04,0,7,20
+CO-CES,Colombia,Cesar,2020-06-04,62,9,0
 CO-COR,Colombia,Choco,,0,0,0
-CO-CUN,Colombia,Cordoba,2020-06-03,0,0,11
-CO-CHO,Colombia,Cundinamarca,2020-06-03,259,12,125
+CO-CUN,Colombia,Cordoba,2020-06-04,0,0,11
+CO-CHO,Colombia,Cundinamarca,2020-06-04,259,12,124
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-06-03,0,0,62
-CO-LAG,Colombia,La Guajira,2020-06-03,10,2,0
-CO-MAG,Colombia,Magdalena,2020-06-03,236,22,56
-CO-MET,Colombia,Meta,2020-06-03,564,0,0
-CO-NAR,Colombia,Narino,2020-06-03,201,0,31
-CO-NSA,Colombia,Norte de Santander,2020-06-03,0,12,80
+CO-HUI,Colombia,Huila,2020-06-04,0,0,62
+CO-LAG,Colombia,La Guajira,2020-06-04,10,2,0
+CO-MAG,Colombia,Magdalena,2020-06-04,236,22,55
+CO-MET,Colombia,Meta,2020-06-04,564,0,0
+CO-NAR,Colombia,Narino,2020-06-04,201,0,31
+CO-NSA,Colombia,Norte de Santander,2020-06-04,0,12,80
 CO-PUT,Colombia,Putumayo,,0,0,0
 CO-QUI,Colombia,Quindio,,0,0,0
-CO-RIS,Colombia,Risaralda,2020-06-03,211,0,102
+CO-RIS,Colombia,Risaralda,2020-06-04,211,0,102
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,,0,0,0
-CO-TOL,Colombia,Tolima,2020-06-03,93,0,0
-CO-VAC,Colombia,Valle del Cauca,2020-06-03,1024,0,316
+CO-TOL,Colombia,Tolima,2020-06-04,93,0,0
+CO-VAC,Colombia,Valle del Cauca,2020-06-04,1024,0,317
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
