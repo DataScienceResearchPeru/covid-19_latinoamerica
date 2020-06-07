@@ -56,62 +56,65 @@ def load_and_generatecsv(list_date_list):
     # print(confirmed)
 
     # print(deaths)
-
+    
     for column in confirmed_columns:
-        day, month = map(int, column.split("/"))
-        date = f"{2020}-{month:02}-{day:02}"
+        try:
+            day, month = map(int, column.split("/"))
+            date = f"{2020}-{month:02}-{day:02}"
 
-        actual_date = pd.to_datetime(date, format="%Y/%m/%d")
+            actual_date = pd.to_datetime(date, format="%Y/%m/%d")
 
-        if actual_date < init_date:
-            print("Skipping:", actual_date)
-            continue
+            if actual_date < init_date:
+                print("Skipping:", actual_date)
+                continue
 
-        daily_report_path = "latam_covid_19_data/templates/daily_reports.csv"
-        daily_report = pd.read_csv(daily_report_path)
+            daily_report_path = "latam_covid_19_data/templates/daily_reports.csv"
+            daily_report = pd.read_csv(daily_report_path)
 
-        brazil = daily_report[daily_report['ISO 3166-2 Code'].str.contains('BR-')]
-        brazil_index = daily_report[daily_report['ISO 3166-2 Code'].str.contains('BR-')].index
+            brazil = daily_report[daily_report['ISO 3166-2 Code'].str.contains('BR-')]
+            brazil_index = daily_report[daily_report['ISO 3166-2 Code'].str.contains('BR-')].index
 
-        del brazil["Deaths"]
-        del brazil["Confirmed"]
+            del brazil["Deaths"]
+            del brazil["Confirmed"]
 
-        confirmed_subset = confirmed.loc[:, ['ISO 3166-2 Code', column]]
-        deaths_subset = deaths.loc[:, ["ISO 3166-2 Code", column]]
-        confirmed_subset = confirmed_subset.rename(columns={column: "Confirmed"})
-        deaths_subset = deaths_subset.rename(columns={column: "Deaths"})
-        dc = pd.merge(confirmed_subset, deaths_subset, how="left", on="ISO 3166-2 Code")  # Deaths confirmed
-        final = pd.merge(brazil, dc, how="left", on="ISO 3166-2 Code").fillna('')
-        final = final[columns_order].set_index(brazil_index)
+            confirmed_subset = confirmed.loc[:, ['ISO 3166-2 Code', column]]
+            deaths_subset = deaths.loc[:, ["ISO 3166-2 Code", column]]
+            confirmed_subset = confirmed_subset.rename(columns={column: "Confirmed"})
+            deaths_subset = deaths_subset.rename(columns={column: "Deaths"})
+            dc = pd.merge(confirmed_subset, deaths_subset, how="left", on="ISO 3166-2 Code")  # Deaths confirmed
+            final = pd.merge(brazil, dc, how="left", on="ISO 3166-2 Code").fillna('')
+            final = final[columns_order].set_index(brazil_index)
 
-        final["Last Update"] = date
+            final["Last Update"] = date
 
-        daily_report.update(final)
+            daily_report.update(final)
 
-        daily_report.Deaths = daily_report.Deaths.fillna(0)
-        daily_report.Confirmed = daily_report.Confirmed.fillna(0)
-        daily_report.Recovered = daily_report.Recovered.fillna(0)
-
-
-        daily_report.Deaths = daily_report.Deaths.astype(str)
-        daily_report.Confirmed = daily_report.Confirmed.astype(str)
-        daily_report.Recovered = daily_report.Recovered.astype(str)
-
-        daily_report.Deaths = daily_report.Deaths.astype(float,errors='ignore')
-        daily_report.Confirmed = daily_report.Confirmed.astype(float,errors='ignore')
-        daily_report.Recovered = daily_report.Recovered.astype(float,errors='ignore')
-
-        daily_report.Deaths = daily_report.Deaths.astype(int,errors='ignore')
-        daily_report.Confirmed = daily_report.Confirmed.astype(int,errors='ignore')
-        daily_report.Recovered = daily_report.Recovered.astype(int,errors='ignore')
+            daily_report.Deaths = daily_report.Deaths.fillna(0)
+            daily_report.Confirmed = daily_report.Confirmed.fillna(0)
+            daily_report.Recovered = daily_report.Recovered.fillna(0)
 
 
-        path_data = f"utils/scripts/data_collection/data/brazil_temporal/{date}.csv"
-        #print(daily_report[daily_report.Country=="Brazil"])
-        daily_report = daily_report[daily_report['ISO 3166-2 Code'].str.contains('BR-')]
-        daily_report.to_csv(path_data, index=False)
+            daily_report.Deaths = daily_report.Deaths.astype(str)
+            daily_report.Confirmed = daily_report.Confirmed.astype(str)
+            daily_report.Recovered = daily_report.Recovered.astype(str)
 
-        print(column,end=' - ')
+            daily_report.Deaths = daily_report.Deaths.astype(float,errors='ignore')
+            daily_report.Confirmed = daily_report.Confirmed.astype(float,errors='ignore')
+            daily_report.Recovered = daily_report.Recovered.astype(float,errors='ignore')
+
+            daily_report.Deaths = daily_report.Deaths.astype(int,errors='ignore')
+            daily_report.Confirmed = daily_report.Confirmed.astype(int,errors='ignore')
+            daily_report.Recovered = daily_report.Recovered.astype(int,errors='ignore')
+
+
+            path_data = f"utils/scripts/data_collection/data/brazil_temporal/{date}.csv"
+            #print(daily_report[daily_report.Country=="Brazil"])
+            daily_report = daily_report[daily_report['ISO 3166-2 Code'].str.contains('BR-')]
+            daily_report.to_csv(path_data, index=False)
+
+            print(column,end=' - ')
+        except Exception as e:
+            print(e)
 
 if __name__ == "__main__":
     load_and_generatecsv(['2020-04-04','2020-04-03'])
