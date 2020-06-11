@@ -101,6 +101,7 @@ def generate():
     recovered.to_csv(
         'latam_covid_19_data/time_series/time_series_recovered.csv', sep=',', index=False)
 
+    return True
 
 if __name__ == "__main__":
     generate()
