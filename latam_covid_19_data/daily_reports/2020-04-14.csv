@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-05-22 19:25:32.459671,6798,220,70
-AR-K,Argentina,Catamarca,2020-05-22 19:25:32.459671,72,0,0
-AR-H,Argentina,Chaco,2020-05-22 19:25:32.459671,1208,19,9
-AR-U,Argentina,Chubut,2020-05-22 19:25:32.459671,85,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-05-22 19:25:32.459671,4519,124,117
-AR-X,Argentina,Cordoba,2020-05-22 19:25:32.459671,3295,0,1
-AR-W,Argentina,Corrientes,2020-05-22 19:25:32.459671,725,0,2
-AR-E,Argentina,Entre Rios,2020-05-22 19:25:32.459671,328,16,4
-AR-P,Argentina,Formosa,2020-05-22 19:25:32.459671,0,0,0
-AR-Y,Argentina,Jujuy,2020-05-22 19:25:32.459671,601,0,3
-AR-L,Argentina,La Pampa,2020-05-22 19:25:32.459671,80,0,0
-AR-F,Argentina,La Rioja,2020-05-22 19:25:32.459671,182,0,0
-AR-M,Argentina,Mendoza,2020-05-22 19:25:32.459671,587,14,2
-AR-N,Argentina,Misiones,2020-05-22 19:25:32.459671,49,0,0
-AR-Q,Argentina,Neuquen,2020-05-22 19:25:32.459671,413,0,1
-AR-R,Argentina,Rio Negro,2020-05-22 19:25:32.459671,381,0,2
-AR-A,Argentina,Salta,2020-05-22 19:25:32.459671,101,3,0
-AR-J,Argentina,San Juan,2020-05-22 19:25:32.459671,136,0,0
-AR-D,Argentina,San Luis,2020-05-22 19:25:32.459671,0,0,0
-AR-Z,Argentina,Santa Cruz,2020-05-22 19:25:32.459671,163,0,0
-AR-S,Argentina,Santa Fe,2020-05-22 19:25:32.459671,2337,0,9
-AR-G,Argentina,Santiago del Estero,2020-05-22 19:25:32.459671,93,0,0
-AR-V,Argentina,Tierra del Fuego,2020-05-22 19:25:32.459671,526,0,0
-AR-T,Argentina,Tucuman,2020-05-22 19:25:32.459671,482,0,0
+AR-B,Argentina,Buenos Aires,2020-06-11 19:30:34.375700,6849,223,70
+AR-K,Argentina,Catamarca,2020-06-11 19:30:34.375700,72,0,0
+AR-H,Argentina,Chaco,2020-06-11 19:30:34.375700,1206,20,9
+AR-U,Argentina,Chubut,2020-06-11 19:30:34.375700,84,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-11 19:30:34.375700,4666,125,117
+AR-X,Argentina,Cordoba,2020-06-11 19:30:34.375700,3305,0,1
+AR-W,Argentina,Corrientes,2020-06-11 19:30:34.375700,726,0,2
+AR-E,Argentina,Entre Rios,2020-06-11 19:30:34.375700,329,17,4
+AR-P,Argentina,Formosa,2020-06-11 19:30:34.375700,0,0,0
+AR-Y,Argentina,Jujuy,2020-06-11 19:30:34.375700,601,0,3
+AR-L,Argentina,La Pampa,2020-06-11 19:30:34.375700,80,0,0
+AR-F,Argentina,La Rioja,2020-06-11 19:30:34.375700,182,0,0
+AR-M,Argentina,Mendoza,2020-06-11 19:30:34.375700,586,15,2
+AR-N,Argentina,Misiones,2020-06-11 19:30:34.375700,49,0,0
+AR-Q,Argentina,Neuquen,2020-06-11 19:30:34.375700,411,0,1
+AR-R,Argentina,Rio Negro,2020-06-11 19:30:34.375700,380,0,2
+AR-A,Argentina,Salta,2020-06-11 19:30:34.375700,101,3,0
+AR-J,Argentina,San Juan,2020-06-11 19:30:34.375700,136,0,0
+AR-D,Argentina,San Luis,2020-06-11 19:30:34.375700,0,0,0
+AR-Z,Argentina,Santa Cruz,2020-06-11 19:30:34.375700,163,0,0
+AR-S,Argentina,Santa Fe,2020-06-11 19:30:34.375700,2339,0,9
+AR-G,Argentina,Santiago del Estero,2020-06-11 19:30:34.375700,92,0,0
+AR-V,Argentina,Tierra del Fuego,2020-06-11 19:30:34.375700,526,0,0
+AR-T,Argentina,Tucuman,2020-06-11 19:30:34.375700,481,0,0
 BO-B,Bolivia,Beni,2020-05-22 19:25:32.459671,0,0,
 BO-H,Bolivia,Chuquisaca,2020-05-22 19:25:32.459671,1,0,
 BO-C,Bolivia,Cochabamba,2020-05-22 19:25:32.459671,57,4,

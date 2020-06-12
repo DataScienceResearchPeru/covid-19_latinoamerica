@@ -1,25 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,,0,0,0
-AR-K,Argentina,Catamarca,,0,0,0
-AR-H,Argentina,Chaco,,0,0,0
-AR-U,Argentina,Chubut,,0,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,,0,0,0
-AR-X,Argentina,Cordoba,,0,0,0
-AR-W,Argentina,Corrientes,,0,0,0
-AR-E,Argentina,Entre Rios,,0,0,0
-AR-P,Argentina,Formosa,,0,0,0
-AR-Y,Argentina,Jujuy,,0,0,0
-AR-L,Argentina,La Pampa,,0,0,0
-AR-F,Argentina,La Rioja,,0,0,0
-AR-M,Argentina,Mendoza,,0,0,0
-AR-N,Argentina,Misiones,,0,0,0
-AR-Q,Argentina,Neuquen,,0,0,0
-AR-R,Argentina,Rio Negro,,0,0,0
-AR-A,Argentina,Salta,,0,0,0
-AR-J,Argentina,San Juan,,0,0,0
+AR-B,Argentina,Buenos Aires,2020-06-11,53210,927,0
+AR-K,Argentina,Catamarca,2020-06-11,317,0,0
+AR-H,Argentina,Chaco,2020-06-11,6127,114,0
+AR-U,Argentina,Chubut,2020-06-11,359,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-11,31581,507,0
+AR-X,Argentina,Cordoba,2020-06-11,13328,0,0
+AR-W,Argentina,Corrientes,2020-06-11,2379,0,0
+AR-E,Argentina,Entre Rios,2020-06-11,1135,60,0
+AR-P,Argentina,Formosa,2020-06-11,617,0,0
+AR-Y,Argentina,Jujuy,2020-06-11,1943,0,0
+AR-L,Argentina,La Pampa,2020-06-11,228,0,0
+AR-F,Argentina,La Rioja,2020-06-11,1240,0,0
+AR-M,Argentina,Mendoza,2020-06-11,1778,0,0
+AR-N,Argentina,Misiones,2020-06-11,979,0,0
+AR-Q,Argentina,Neuquen,2020-06-11,1396,0,0
+AR-R,Argentina,Rio Negro,2020-06-11,2167,0,0
+AR-A,Argentina,Salta,2020-06-11,582,0,0
+AR-J,Argentina,San Juan,2020-06-11,582,0,0
 AR-D,Argentina,San Luis,,0,0,0
-AR-Z,Argentina,Santa Cruz,,0,0,0
-AR-S,Argentina,Santa Fe,,0,0,0
-AR-G,Argentina,Santiago del Estero,,0,0,0
-AR-V,Argentina,Tierra del Fuego,,0,0,0
-AR-T,Argentina,Tucuman,,0,0,0
+AR-Z,Argentina,Santa Cruz,2020-06-11,440,0,0
+AR-S,Argentina,Santa Fe,2020-06-11,8832,0,0
+AR-G,Argentina,Santiago del Estero,2020-06-11,1345,0,0
+AR-V,Argentina,Tierra del Fuego,2020-06-11,1438,0,0
+AR-T,Argentina,Tucuman,2020-06-11,4449,12,0

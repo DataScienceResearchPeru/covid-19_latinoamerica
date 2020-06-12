@@ -1,25 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-06-03,832,23,0
-AR-K,Argentina,Catamarca,2020-06-03,8,0,0
-AR-H,Argentina,Chaco,2020-06-03,288,7,0
-AR-U,Argentina,Chubut,2020-06-03,20,2,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-03,842,18,0
-AR-X,Argentina,Cordoba,2020-06-03,483,0,0
-AR-W,Argentina,Corrientes,,0,0,0
-AR-E,Argentina,Entre Rios,2020-06-03,55,0,0
-AR-P,Argentina,Formosa,2020-06-03,5,0,0
-AR-Y,Argentina,Jujuy,2020-06-03,16,0,0
-AR-L,Argentina,La Pampa,2020-06-03,10,0,0
-AR-F,Argentina,La Rioja,2020-06-03,12,0,0
-AR-M,Argentina,Mendoza,2020-06-03,51,1,0
+AR-B,Argentina,Buenos Aires,2020-06-11,838,24,0
+AR-K,Argentina,Catamarca,2020-06-11,8,0,0
+AR-H,Argentina,Chaco,2020-06-11,287,7,0
+AR-U,Argentina,Chubut,2020-06-11,20,2,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-11,856,18,0
+AR-X,Argentina,Cordoba,2020-06-11,483,0,0
+AR-W,Argentina,Corrientes,2020-06-11,44,0,0
+AR-E,Argentina,Entre Rios,2020-06-11,55,0,0
+AR-P,Argentina,Formosa,2020-06-11,5,0,0
+AR-Y,Argentina,Jujuy,2020-06-11,16,0,0
+AR-L,Argentina,La Pampa,2020-06-11,10,0,0
+AR-F,Argentina,La Rioja,2020-06-11,12,0,0
+AR-M,Argentina,Mendoza,2020-06-11,51,1,0
 AR-N,Argentina,Misiones,,0,0,0
-AR-Q,Argentina,Neuquen,2020-06-03,51,1,0
-AR-R,Argentina,Rio Negro,2020-06-03,25,1,0
-AR-A,Argentina,Salta,2020-06-03,21,0,0
-AR-J,Argentina,San Juan,2020-06-03,9,0,0
-AR-D,Argentina,San Luis,2020-06-03,25,0,0
-AR-Z,Argentina,Santa Cruz,2020-06-03,24,0,0
-AR-S,Argentina,Santa Fe,2020-06-03,246,4,0
+AR-Q,Argentina,Neuquen,2020-06-11,51,1,0
+AR-R,Argentina,Rio Negro,2020-06-11,25,1,0
+AR-A,Argentina,Salta,2020-06-11,21,0,0
+AR-J,Argentina,San Juan,2020-06-11,9,0,0
+AR-D,Argentina,San Luis,2020-06-11,25,0,0
+AR-Z,Argentina,Santa Cruz,2020-06-11,24,0,0
+AR-S,Argentina,Santa Fe,2020-06-11,246,4,0
 AR-G,Argentina,Santiago del Estero,,0,0,0
-AR-V,Argentina,Tierra del Fuego,2020-06-03,45,0,0
-AR-T,Argentina,Tucuman,2020-06-03,86,0,0
+AR-V,Argentina,Tierra del Fuego,2020-06-11,45,0,0
+AR-T,Argentina,Tucuman,2020-06-11,86,0,0

@@ -122,12 +122,12 @@ def load_and_generatecsv(list_date_list):
     today = datetime.datetime.now().strftime('%Y-%m-%d')
 
     path_dsrp_daily_reports = 'latam_covid_19_data/daily_reports/'
-    path_argentina_csv = "http://170.150.153.128/covid/covid_19_casos.csv"
+    path_argentina_csv = "https://sisa.msal.gov.ar/datos/descargas/covid-19/files/Covid19Casos.csv"
     path_dsrp = "latam_covid_19_data/templates/daily_reports.csv"
     path_csv = "utils/scripts/data_collection/data/argentina_temporal/"
     path_per_patient_csv = 'latam_covid_19_data/per_patient/AR.csv'
 
-    data_argentina = pd.read_csv(path_argentina_csv,encoding='utf-8',delimiter=';')
+    data_argentina = pd.read_csv(path_argentina_csv,encoding='utf-16',delimiter=',')
     # SAVE FILE
     data_argentina.to_csv(path_per_patient_csv, index=False)
 
@@ -139,7 +139,7 @@ def load_and_generatecsv(list_date_list):
     total_death = [0]*800
     total_recover = [0]*800
 
-    data_argentina = data_argentina[['fecha_diagnostico', 'provincia_residencia', 'sexo', 'fecha_fallecimiento']]
+    data_argentina = data_argentina[['fecha_diagnostico', 'residencia_provincia_nombre', 'sexo', 'fecha_fallecimiento']]
     data_argentina = data_argentina.fillna('')
 
     for d in list(np.flip(array_dates)):  # array_dates
@@ -159,25 +159,25 @@ def load_and_generatecsv(list_date_list):
 
         data_confirmed = data[data['fecha_diagnostico'] != ' ']
         data_confirmed = data_confirmed.groupby(
-            ['provincia_residencia']).size().reset_index(name='Confirmed')
+            ['residencia_provincia_nombre']).size().reset_index(name='Confirmed')
 
         data_death = data_argentina[data_argentina['fecha_fallecimiento'].str.contains(
             d)]
         data_death = data_death[data_death['fecha_fallecimiento'] != ' ']
         data_death = data_death.fillna('')
         data_death = data_death.groupby(
-            ['provincia_residencia']).size().reset_index(name='Deaths')
+            ['residencia_provincia_nombre']).size().reset_index(name='Deaths')
 
         # DATA RECOVERED NOT FOUND
         # data_recovered = data_colombia[data_colombia['Fecha recuperado'].str.contains(d)]
         # data_recovered = data_recovered[data_recovered['Fecha recuperado'] != ' ']
         # data_recovered = data_recovered.fillna('')
-        # data_recovered = data_recovered.groupby(['provincia_residencia']).size().reset_index(name='Recovered')
+        # data_recovered = data_recovered.groupby(['residencia_provincia_nombre']).size().reset_index(name='Recovered')
 
         for r in range(len(data_confirmed)):
             try:
                 country_name_confirmed = get_iso_by_country_name(
-                    data_confirmed['provincia_residencia'][r], 'remote')
+                    data_confirmed['residencia_provincia_nombre'][r], 'remote')
                 numero_confirmed = data_confirmed.loc[r]['Confirmed']
                 f = temp_dsrp[temp_dsrp['ISO 3166-2 Code']
                               == country_name_confirmed]
@@ -194,7 +194,7 @@ def load_and_generatecsv(list_date_list):
         for r in range(len(data_death)):
             try:
                 country_name_deaths = get_iso_by_country_name(
-                    data_death['provincia_residencia'][r], 'remote')
+                    data_death['residencia_provincia_nombre'][r], 'remote')
                 numero_deaths = data_death.loc[r]['Deaths']
                 f = temp_dsrp[temp_dsrp['ISO 3166-2 Code']
                               == country_name_deaths]
@@ -210,7 +210,7 @@ def load_and_generatecsv(list_date_list):
         # for r in range(len(data_recovered)):
         #     try:
         #         country_name_recovered = get_iso_by_country_name(
-        #             data_recovered['provincia_residencia'][r], 'remote')
+        #             data_recovered['residencia_provincia_nombre'][r], 'remote')
         #         numero_recovered = data_recovered.loc[r]['Recovered']
         #         f = temp_dsrp[temp_dsrp['ISO 3166-2 Code']
         #                       == country_name_recovered]

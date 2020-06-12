@@ -1,25 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-06-03,26679,577,0
-AR-K,Argentina,Catamarca,2020-06-03,178,0,0
-AR-H,Argentina,Chaco,2020-06-03,3357,58,0
+AR-B,Argentina,Buenos Aires,2020-06-11,26849,603,0
+AR-K,Argentina,Catamarca,2020-06-11,180,0,0
+AR-H,Argentina,Chaco,2020-06-11,3363,63,0
 AR-U,Argentina,Chubut,,0,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-03,13657,317,0
-AR-X,Argentina,Cordoba,2020-06-03,7933,0,0
-AR-W,Argentina,Corrientes,2020-06-03,1292,0,0
-AR-E,Argentina,Entre Rios,2020-06-03,718,41,0
-AR-P,Argentina,Formosa,2020-06-03,327,0,0
-AR-Y,Argentina,Jujuy,2020-06-03,1206,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-11,13898,331,0
+AR-X,Argentina,Cordoba,2020-06-11,8281,0,0
+AR-W,Argentina,Corrientes,2020-06-11,1319,0,0
+AR-E,Argentina,Entre Rios,2020-06-11,721,44,0
+AR-P,Argentina,Formosa,2020-06-11,327,0,0
+AR-Y,Argentina,Jujuy,2020-06-11,1208,0,0
 AR-L,Argentina,La Pampa,,0,0,0
-AR-F,Argentina,La Rioja,2020-06-03,788,0,0
-AR-M,Argentina,Mendoza,2020-06-03,1249,0,0
-AR-N,Argentina,Misiones,2020-06-03,558,0,0
-AR-Q,Argentina,Neuquen,2020-06-03,960,0,0
-AR-R,Argentina,Rio Negro,2020-06-03,1338,19,0
-AR-A,Argentina,Salta,2020-06-03,339,0,0
-AR-J,Argentina,San Juan,2020-06-03,366,0,0
+AR-F,Argentina,La Rioja,2020-06-11,791,0,0
+AR-M,Argentina,Mendoza,2020-06-11,1249,0,0
+AR-N,Argentina,Misiones,2020-06-11,555,0,0
+AR-Q,Argentina,Neuquen,2020-06-11,959,0,0
+AR-R,Argentina,Rio Negro,2020-06-11,1339,19,0
+AR-A,Argentina,Salta,2020-06-11,340,0,0
+AR-J,Argentina,San Juan,2020-06-11,367,0,0
 AR-D,Argentina,San Luis,,0,0,0
-AR-Z,Argentina,Santa Cruz,2020-06-03,327,0,0
-AR-S,Argentina,Santa Fe,2020-06-03,5686,0,0
-AR-G,Argentina,Santiago del Estero,2020-06-03,287,0,0
-AR-V,Argentina,Tierra del Fuego,2020-06-03,1163,0,0
-AR-T,Argentina,Tucuman,2020-06-03,2209,0,0
+AR-Z,Argentina,Santa Cruz,2020-06-11,328,0,0
+AR-S,Argentina,Santa Fe,2020-06-11,5689,0,0
+AR-G,Argentina,Santiago del Estero,2020-06-11,287,0,0
+AR-V,Argentina,Tierra del Fuego,2020-06-11,1166,0,0
+AR-T,Argentina,Tucuman,2020-06-11,2217,0,0

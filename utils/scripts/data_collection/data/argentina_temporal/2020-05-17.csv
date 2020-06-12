@@ -1,25 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-06-03,33691,676,0
-AR-K,Argentina,Catamarca,2020-06-03,214,0,0
-AR-H,Argentina,Chaco,2020-06-03,4234,78,0
-AR-U,Argentina,Chubut,2020-06-03,248,11,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-03,18104,366,0
-AR-X,Argentina,Cordoba,2020-06-03,9809,41,0
-AR-W,Argentina,Corrientes,2020-06-03,1651,0,0
-AR-E,Argentina,Entre Rios,2020-06-03,861,44,0
-AR-P,Argentina,Formosa,2020-06-03,472,0,0
-AR-Y,Argentina,Jujuy,2020-06-03,1408,0,0
-AR-L,Argentina,La Pampa,2020-06-03,173,0,0
-AR-F,Argentina,La Rioja,2020-06-03,895,14,0
-AR-M,Argentina,Mendoza,2020-06-03,1462,0,0
-AR-N,Argentina,Misiones,2020-06-03,736,0,0
-AR-Q,Argentina,Neuquen,2020-06-03,1133,0,0
-AR-R,Argentina,Rio Negro,2020-06-03,1652,0,0
-AR-A,Argentina,Salta,2020-06-03,427,0,0
-AR-J,Argentina,San Juan,2020-06-03,431,0,0
+AR-B,Argentina,Buenos Aires,2020-06-11,34007,724,0
+AR-K,Argentina,Catamarca,2020-06-11,216,0,0
+AR-H,Argentina,Chaco,2020-06-11,4235,84,0
+AR-U,Argentina,Chubut,2020-06-11,246,10,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-11,18510,395,0
+AR-X,Argentina,Cordoba,2020-06-11,10317,41,0
+AR-W,Argentina,Corrientes,2020-06-11,1671,0,0
+AR-E,Argentina,Entre Rios,2020-06-11,868,49,0
+AR-P,Argentina,Formosa,2020-06-11,473,0,0
+AR-Y,Argentina,Jujuy,2020-06-11,1427,0,0
+AR-L,Argentina,La Pampa,2020-06-11,175,0,0
+AR-F,Argentina,La Rioja,2020-06-11,897,14,0
+AR-M,Argentina,Mendoza,2020-06-11,1463,0,0
+AR-N,Argentina,Misiones,2020-06-11,733,0,0
+AR-Q,Argentina,Neuquen,2020-06-11,1132,0,0
+AR-R,Argentina,Rio Negro,2020-06-11,1660,0,0
+AR-A,Argentina,Salta,2020-06-11,432,0,0
+AR-J,Argentina,San Juan,2020-06-11,433,0,0
 AR-D,Argentina,San Luis,,0,0,0
-AR-Z,Argentina,Santa Cruz,2020-06-03,352,0,0
-AR-S,Argentina,Santa Fe,2020-06-03,6630,0,0
+AR-Z,Argentina,Santa Cruz,2020-06-11,352,0,0
+AR-S,Argentina,Santa Fe,2020-06-11,6641,0,0
 AR-G,Argentina,Santiago del Estero,,0,0,0
-AR-V,Argentina,Tierra del Fuego,2020-06-03,1243,0,0
-AR-T,Argentina,Tucuman,2020-06-03,2832,0,0
+AR-V,Argentina,Tierra del Fuego,2020-06-11,1247,0,0
+AR-T,Argentina,Tucuman,2020-06-11,2853,0,0
