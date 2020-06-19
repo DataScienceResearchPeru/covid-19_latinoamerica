@@ -153,7 +153,7 @@ def load_and_generatecsv(list_date_list):
     today = datetime.datetime.now().strftime('%Y-%m-%d')
 
     path_dsrp_daily_reports = 'latam_covid_19_data/daily_reports/'
-    path_peru_csv = "https://raw.githubusercontent.com/jmcastagnetto/covid-19-peru-data/master/datos/covid-19-peru-data.csv"
+    path_peru_csv = "https://raw.githubusercontent.com/jmcastagnetto/covid-19-peru-data/main/datos/covid-19-peru-data.csv"
     
     path_dsrp = "latam_covid_19_data/templates/daily_reports.csv"
     path_csv = "utils/scripts/data_collection/data/peru_temporal/"
