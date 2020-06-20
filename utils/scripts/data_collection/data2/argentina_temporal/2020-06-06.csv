@@ -1,0 +1,25 @@
+ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
+AR-B,Argentina,Buenos Aires,2020-06-16,66050,1077,0
+AR-K,Argentina,Catamarca,2020-06-16,389,0,0
+AR-H,Argentina,Chaco,2020-06-16,7122,133,0
+AR-U,Argentina,Chubut,2020-06-16,490,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-16,39552,590,0
+AR-X,Argentina,Cordoba,2020-06-16,14712,0,0
+AR-W,Argentina,Corrientes,2020-06-16,2802,0,0
+AR-E,Argentina,Entre Rios,2020-06-16,1320,72,0
+AR-P,Argentina,Formosa,,0,0,0
+AR-Y,Argentina,Jujuy,2020-06-16,2164,0,0
+AR-L,Argentina,La Pampa,2020-06-16,253,0,0
+AR-F,Argentina,La Rioja,2020-06-16,1310,20,0
+AR-M,Argentina,Mendoza,2020-06-16,2015,0,0
+AR-N,Argentina,Misiones,2020-06-16,1107,18,0
+AR-Q,Argentina,Neuquen,2020-06-16,1539,0,0
+AR-R,Argentina,Rio Negro,2020-06-16,2466,34,0
+AR-A,Argentina,Salta,2020-06-16,673,0,0
+AR-J,Argentina,San Juan,2020-06-16,642,0,0
+AR-D,Argentina,San Luis,2020-06-16,352,0,0
+AR-Z,Argentina,Santa Cruz,2020-06-16,500,0,0
+AR-S,Argentina,Santa Fe,2020-06-16,9886,0,0
+AR-G,Argentina,Santiago del Estero,2020-06-16,1632,0,0
+AR-V,Argentina,Tierra del Fuego,2020-06-16,1504,0,0
+AR-T,Argentina,Tucuman,2020-06-16,5180,0,0
