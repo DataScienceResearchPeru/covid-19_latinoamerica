@@ -150,7 +150,7 @@ def get_data_per_patient_oficial_v2():
     url='https://cloud.minsa.gob.pe/s/Y8w3wHsEdYQSZRp/download'
 
     df=pd.read_csv(url, encoding='latin-1',sep=',', engine='python')
-    df.to_csv(root_relative+'latam_covid_19_data/per_patient/PE.csv',index=False)
+    df.to_csv(root_relative+'latam_covid_19_data/per_patient/PE.csv', index=False,encoding='utf-8')
 
 
 

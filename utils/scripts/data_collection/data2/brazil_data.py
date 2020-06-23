@@ -113,7 +113,7 @@ def load_and_generatecsv(list_date_list):
             path_data = os.path.abspath(root_relative+f"utils/scripts/data_collection/data2/brazil_temporal/{date}.csv")
             #print(daily_report[daily_report.Country=="Brazil"])
             daily_report = daily_report[daily_report['ISO 3166-2 Code'].str.contains('BR-')]
-            daily_report.to_csv(path_data, index=False)
+            daily_report.to_csv(path_data, index=False,encoding='utf-8')
 
             print(date,end=' - ')
         except Exception as e:

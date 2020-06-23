@@ -55,7 +55,7 @@ def load_and_generatecsv(list_date_list):
         # os.system("git pull")
         daily_report=daily_report[daily_report.Country=="Costa Rica"]
         
-        daily_report.to_csv(os.path.abspath(root_relative+f"utils/scripts/data_collection/data2/costarica_temporal/{date}.csv"), index=False)
+        daily_report.to_csv(os.path.abspath(root_relative+f"utils/scripts/data_collection/data2/costarica_temporal/{date}.csv"), index=False,encoding='utf-8')
         # os.system(f"git add {daily_report_file}")
         # os.system("git commit -m 'Update Costa rica'")
 

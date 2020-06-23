@@ -1,26 +1,26 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-PE-AMA,Peru,Amazonas,2020-06-20,279,12,0
-PE-ANC,Peru,Ancash,2020-06-20,1971,142,0
-PE-APU,Peru,Apurimac,2020-06-20,104,,0
-PE-ARE,Peru,Arequipa,2020-06-20,1709,20,0
-PE-AYA,Peru,Ayacucho,2020-06-20,367,3,0
-PE-CAJ,Peru,Cajamarca,2020-06-20,424,3,0
-PE-CAL,Peru,Callao,2020-06-20,6513,155,0
-PE-CUS,Peru,Cusco,2020-06-20,609,3,0
-PE-HUV,Peru,Huancavelica,2020-06-20,229,1,0
-PE-HUC,Peru,Huanuco,,0,0,0
-PE-ICA,Peru,Ica,2020-06-20,1412,95,0
-PE-JUN,Peru,Junin,,0,0,0
-PE-LAL,Peru,La Libertad,2020-06-20,2015,66,0
-PE-LAM,Peru,Lambayeque,2020-06-20,4596,455,0
-PE-LIM,Peru,Lima,2020-06-20,57473,857,0
-PE-LOR,Peru,Loreto,2020-06-20,2444,209,0
-PE-MDD,Peru,Madre de dios,2020-06-20,201,3,0
-PE-MOQ,Peru,Moquegua,2020-06-20,190,,0
-PE-PAS,Peru,Pasco,2020-06-20,189,4,0
-PE-PIU,Peru,Piura,2020-06-20,3032,313,0
-PE-PUN,Peru,Puno,2020-06-20,201,1,0
-PE-SAM,Peru,San Martin,,0,0,0
-PE-TAC,Peru,Tacna,2020-06-20,208,2,0
-PE-TUM,Peru,Tumbes,2020-06-20,603,59,0
-PE-UCA,Peru,Ucayali,2020-06-20,1658,91,0
+PE-AMA,Peru,Amazonas,2020-06-22,279,12,0
+PE-ANC,Peru,Ancash,2020-06-22,1971,142,0
+PE-APU,Peru,Apurimac,2020-06-22,104,,0
+PE-ARE,Peru,Arequipa,2020-06-22,1709,20,0
+PE-AYA,Peru,Ayacucho,2020-06-22,367,3,0
+PE-CAJ,Peru,Cajamarca,2020-06-22,424,3,0
+PE-CAL,Peru,Callao,2020-06-22,6513,155,0
+PE-CUS,Peru,Cusco,2020-06-22,609,3,0
+PE-HUV,Peru,Huancavelica,2020-06-22,229,1,0
+PE-HUC,Peru,Huanuco,2020-06-22,470,7,0
+PE-ICA,Peru,Ica,2020-06-22,1412,95,0
+PE-JUN,Peru,Junin,2020-06-22,1046,14,0
+PE-LAL,Peru,La Libertad,2020-06-22,2015,66,0
+PE-LAM,Peru,Lambayeque,2020-06-22,4596,455,0
+PE-LIM,Peru,Lima,2020-06-22,57473,857,0
+PE-LOR,Peru,Loreto,2020-06-22,2444,209,0
+PE-MDD,Peru,Madre de dios,2020-06-22,201,3,0
+PE-MOQ,Peru,Moquegua,2020-06-22,190,,0
+PE-PAS,Peru,Pasco,2020-06-22,189,4,0
+PE-PIU,Peru,Piura,2020-06-22,3032,313,0
+PE-PUN,Peru,Puno,2020-06-22,201,1,0
+PE-SAM,Peru,San Martin,2020-06-22,598,8,0
+PE-TAC,Peru,Tacna,2020-06-22,208,2,0
+PE-TUM,Peru,Tumbes,2020-06-22,603,59,0
+PE-UCA,Peru,Ucayali,2020-06-22,1658,91,0

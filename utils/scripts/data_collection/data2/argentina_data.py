@@ -132,7 +132,7 @@ def load_and_generatecsv(list_date_list):
 
     data_argentina = pd.read_csv(path_argentina_csv,encoding='utf-16',delimiter=',', engine='python')
     # SAVE FILE
-    data_argentina.to_csv(path_per_patient_csv, index=False)
+    data_argentina.to_csv(path_per_patient_csv, index=False,encoding='utf-8')
 
     data_dsrp = pd.read_csv(path_dsrp, engine='python')
 
@@ -228,7 +228,7 @@ def load_and_generatecsv(list_date_list):
 
         print(d, end=' - ')
         temp_dsrp = temp_dsrp.fillna('')
-        temp_dsrp.to_csv(path_csv+'/'+d+'.csv', index=False)
+        temp_dsrp.to_csv(path_csv+'/'+d+'.csv',index=False,encoding='utf-8')
 
 
 if __name__ == "__main__":

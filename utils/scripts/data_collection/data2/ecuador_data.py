@@ -179,7 +179,7 @@ def load_and_generatecsv(list_date_list):
         # print(temp_dsrp)
         temp_dsrp = temp_dsrp.fillna('')
 
-        temp_dsrp.to_csv(path_csv+'/'+d+'.csv', index=False)
+        temp_dsrp.to_csv(path_csv+'/'+d+'.csv', index=False,encoding='utf-8')
 
 
 if __name__ == "__main__":

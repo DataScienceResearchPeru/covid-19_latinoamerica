@@ -101,7 +101,7 @@ def execute_country(path_country, path_dsrp, d, isocode, today):
                               ['Deaths']] = str(number_deaths)
             data_dsrp_day.loc[a.index.values[0], ['Last Update']] = str(today)
 
-        data_dsrp_day.to_csv(path_dsrp+'/'+d+'.csv', index=False)
+        data_dsrp_day.to_csv(path_dsrp+'/'+d+'.csv',index=False,encoding='utf-8')
     except:
         print('ERROR {},{}'.format(isocode, d))
 

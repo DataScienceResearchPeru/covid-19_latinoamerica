@@ -243,7 +243,7 @@ def load_and_generatecsv(list_date_list):
             
         print(d, end=' - ')
         temp_dsrp = temp_dsrp.fillna('')
-        temp_dsrp.to_csv(path_csv+'/'+d+'.csv', index=False)
+        temp_dsrp.to_csv(path_csv+'/'+d+'.csv',index=False,encoding='utf-8')
 
 if __name__ == "__main__":
     load_and_generatecsv(['2020-04-03','2020-04-02'])
