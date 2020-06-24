@@ -1,34 +1,34 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-06-22,136,17,2
-CO-ANT,Colombia,Antioquia,2020-06-22,436,6,247
+CO-AMA,Colombia,Amazonas,2020-06-24,136,17,2
+CO-ANT,Colombia,Antioquia,2020-06-24,436,6,247
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-06-22,196,17,48
+CO-ATL,Colombia,Atlantico,2020-06-24,196,17,48
 CO-DC,Colombia,Bogota,,0,0,0
-CO-BOL,Colombia,Bolivar,2020-06-22,309,29,121
+CO-BOL,Colombia,Bolivar,2020-06-24,309,29,121
 CO-BOY,Colombia,Boyaca,,0,0,0
-CO-CAL,Colombia,Caldas,2020-06-22,79,0,36
+CO-CAL,Colombia,Caldas,2020-06-24,79,0,36
 CO-CAQ,Colombia,Caqueta,,0,0,0
 CO-CAS,Colombia,Casanare,,0,0,0
-CO-CAU,Colombia,Cauca,2020-06-22,72,0,0
-CO-CES,Colombia,Cesar,2020-06-22,59,0,39
+CO-CAU,Colombia,Cauca,2020-06-24,72,0,0
+CO-CES,Colombia,Cesar,2020-06-24,59,0,39
 CO-COR,Colombia,Choco,,0,0,0
 CO-CUN,Colombia,Cordoba,,0,0,0
-CO-CHO,Colombia,Cundinamarca,2020-06-22,248,0,120
+CO-CHO,Colombia,Cundinamarca,2020-06-24,248,0,120
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-06-22,0,0,59
+CO-HUI,Colombia,Huila,2020-06-24,0,0,59
 CO-LAG,Colombia,La Guajira,,0,0,0
-CO-MAG,Colombia,Magdalena,2020-06-22,230,20,54
-CO-MET,Colombia,Meta,2020-06-22,478,0,0
+CO-MAG,Colombia,Magdalena,2020-06-24,230,20,54
+CO-MET,Colombia,Meta,2020-06-24,478,0,0
 CO-NAR,Colombia,Narino,,0,0,0
-CO-NSA,Colombia,Norte de Santander,2020-06-22,124,0,77
+CO-NSA,Colombia,Norte de Santander,2020-06-24,124,0,77
 CO-PUT,Colombia,Putumayo,,0,0,0
 CO-QUI,Colombia,Quindio,,0,0,0
-CO-RIS,Colombia,Risaralda,2020-06-22,208,8,88
+CO-RIS,Colombia,Risaralda,2020-06-24,208,8,88
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,,0,0,0
-CO-TOL,Colombia,Tolima,2020-06-22,88,5,0
-CO-VAC,Colombia,Valle del Cauca,2020-06-22,1021,64,299
+CO-TOL,Colombia,Tolima,2020-06-24,88,5,0
+CO-VAC,Colombia,Valle del Cauca,2020-06-24,1021,64,299
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
