@@ -1,34 +1,34 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 CO-AMA,Colombia,Amazonas,,0,0,0
-CO-ANT,Colombia,Antioquia,2020-06-22,0,0,5
+CO-ANT,Colombia,Antioquia,2020-06-25,0,0,5
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-06-22,9,0,2
-CO-DC,Colombia,Bogota,2020-06-22,158,0,15
-CO-BOL,Colombia,Bolivar,2020-06-22,21,0,0
+CO-ATL,Colombia,Atlantico,2020-06-25,9,0,2
+CO-DC,Colombia,Bogota,2020-06-25,158,0,15
+CO-BOL,Colombia,Bolivar,2020-06-25,21,0,0
 CO-BOY,Colombia,Boyaca,,0,0,0
-CO-CAL,Colombia,Caldas,2020-06-22,9,0,0
+CO-CAL,Colombia,Caldas,2020-06-25,9,0,0
 CO-CAQ,Colombia,Caqueta,,0,0,0
 CO-CAS,Colombia,Casanare,,0,0,0
-CO-CAU,Colombia,Cauca,2020-06-22,3,1,0
-CO-CES,Colombia,Cesar,2020-06-22,2,0,0
+CO-CAU,Colombia,Cauca,2020-06-25,3,1,0
+CO-CES,Colombia,Cesar,2020-06-25,2,0,0
 CO-COR,Colombia,Choco,,0,0,0
 CO-CUN,Colombia,Cordoba,,0,0,0
-CO-CHO,Colombia,Cundinamarca,2020-06-22,24,0,0
+CO-CHO,Colombia,Cundinamarca,2020-06-25,24,0,0
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-06-22,14,0,3
+CO-HUI,Colombia,Huila,2020-06-25,14,0,3
 CO-LAG,Colombia,La Guajira,,0,0,0
 CO-MAG,Colombia,Magdalena,,0,0,0
-CO-MET,Colombia,Meta,2020-06-22,7,0,0
-CO-NAR,Colombia,Narino,2020-06-22,1,0,0
-CO-NSA,Colombia,Norte de Santander,2020-06-22,15,0,0
+CO-MET,Colombia,Meta,2020-06-25,7,0,0
+CO-NAR,Colombia,Narino,2020-06-25,1,0,0
+CO-NSA,Colombia,Norte de Santander,2020-06-25,15,0,0
 CO-PUT,Colombia,Putumayo,,0,0,0
-CO-QUI,Colombia,Quindio,2020-06-22,8,0,0
-CO-RIS,Colombia,Risaralda,2020-06-22,16,0,1
+CO-QUI,Colombia,Quindio,2020-06-25,8,0,0
+CO-RIS,Colombia,Risaralda,2020-06-25,16,0,1
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,,0,0,0
-CO-TOL,Colombia,Tolima,2020-06-22,8,0,0
-CO-VAC,Colombia,Valle del Cauca,2020-06-22,67,0,0
+CO-TOL,Colombia,Tolima,2020-06-25,8,0,0
+CO-VAC,Colombia,Valle del Cauca,2020-06-25,67,0,0
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
