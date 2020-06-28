@@ -1,34 +1,34 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-06-27,2228,0,1839
-CO-ANT,Colombia,Antioquia,2020-06-27,3463,0,1389
+CO-AMA,Colombia,Amazonas,2020-06-28,2228,0,1839
+CO-ANT,Colombia,Antioquia,2020-06-28,3463,0,1389
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-06-27,18591,992,5500
-CO-DC,Colombia,Bogota,2020-06-27,24639,614,11057
-CO-BOL,Colombia,Bolivar,2020-06-27,7851,319,3608
-CO-BOY,Colombia,Boyaca,2020-06-27,332,0,0
-CO-CAL,Colombia,Caldas,2020-06-27,240,0,156
+CO-ATL,Colombia,Atlantico,2020-06-28,18591,992,5500
+CO-DC,Colombia,Bogota,2020-06-28,24639,614,11057
+CO-BOL,Colombia,Bolivar,2020-06-28,7851,319,3608
+CO-BOY,Colombia,Boyaca,2020-06-28,332,0,0
+CO-CAL,Colombia,Caldas,2020-06-28,240,0,156
 CO-CAQ,Colombia,Caqueta,,0,0,0
-CO-CAS,Colombia,Casanare,2020-06-27,64,0,0
-CO-CAU,Colombia,Cauca,2020-06-27,1650,0,681
-CO-CES,Colombia,Cesar,2020-06-27,790,0,326
-CO-COR,Colombia,Choco,2020-06-27,1234,0,355
-CO-CUN,Colombia,Cordoba,2020-06-27,520,0,155
-CO-CHO,Colombia,Cundinamarca,2020-06-27,2275,56,1178
+CO-CAS,Colombia,Casanare,2020-06-28,64,0,0
+CO-CAU,Colombia,Cauca,2020-06-28,1650,0,681
+CO-CES,Colombia,Cesar,2020-06-28,790,0,326
+CO-COR,Colombia,Choco,2020-06-28,1234,0,355
+CO-CUN,Colombia,Cordoba,2020-06-28,520,0,155
+CO-CHO,Colombia,Cundinamarca,2020-06-28,2275,56,1178
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-06-27,317,0,0
-CO-LAG,Colombia,La Guajira,2020-06-27,256,0,64
-CO-MAG,Colombia,Magdalena,2020-06-27,1482,106,652
-CO-MET,Colombia,Meta,2020-06-27,1170,0,0
-CO-NAR,Colombia,Narino,2020-06-27,2885,107,1518
-CO-NSA,Colombia,Norte de Santander,2020-06-27,825,34,292
+CO-HUI,Colombia,Huila,2020-06-28,317,0,0
+CO-LAG,Colombia,La Guajira,2020-06-28,256,0,64
+CO-MAG,Colombia,Magdalena,2020-06-28,1482,106,652
+CO-MET,Colombia,Meta,2020-06-28,1170,0,0
+CO-NAR,Colombia,Narino,2020-06-28,2885,107,1518
+CO-NSA,Colombia,Norte de Santander,2020-06-28,825,34,292
 CO-PUT,Colombia,Putumayo,,0,0,0
-CO-QUI,Colombia,Quindio,2020-06-27,156,0,114
-CO-RIS,Colombia,Risaralda,2020-06-27,473,0,265
+CO-QUI,Colombia,Quindio,2020-06-28,156,0,114
+CO-RIS,Colombia,Risaralda,2020-06-28,473,0,265
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
-CO-SUC,Colombia,Sucre,2020-06-27,847,43,0
-CO-TOL,Colombia,Tolima,2020-06-27,737,0,291
-CO-VAC,Colombia,Valle del Cauca,2020-06-27,7350,302,3166
+CO-SUC,Colombia,Sucre,2020-06-28,847,43,0
+CO-TOL,Colombia,Tolima,2020-06-28,737,0,291
+CO-VAC,Colombia,Valle del Cauca,2020-06-28,7350,302,3166
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
