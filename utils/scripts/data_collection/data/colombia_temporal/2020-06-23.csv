@@ -1,15 +1,15 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-07-07,2212,96,1771
+CO-AMA,Colombia,Amazonas,2020-07-07,2212,96,1770
 CO-ANT,Colombia,Antioquia,2020-07-07,3099,21,1249
 CO-ARA,Colombia,Arauca,2020-07-07,72,0,0
-CO-ATL,Colombia,Atlantico,2020-07-07,16879,1170,4922
+CO-ATL,Colombia,Atlantico,2020-07-07,16879,1182,4926
 CO-DC,Colombia,Bogota,2020-07-07,22410,612,10513
-CO-BOL,Colombia,Bolivar,2020-07-07,7215,340,3239
+CO-BOL,Colombia,Bolivar,2020-07-07,7215,341,3239
 CO-BOY,Colombia,Boyaca,2020-07-07,311,0,200
 CO-CAL,Colombia,Caldas,2020-07-07,237,0,160
 CO-CAQ,Colombia,Caqueta,,0,0,0
 CO-CAS,Colombia,Casanare,2020-07-07,58,0,0
-CO-CAU,Colombia,Cauca,2020-07-07,1556,100,584
+CO-CAU,Colombia,Cauca,2020-07-07,1556,101,583
 CO-CES,Colombia,Cesar,2020-07-07,730,0,268
 CO-COR,Colombia,Choco,2020-07-07,1030,45,327
 CO-CUN,Colombia,Cordoba,2020-07-07,465,36,164
@@ -18,7 +18,7 @@ CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
 CO-HUI,Colombia,Huila,2020-07-07,313,0,244
 CO-LAG,Colombia,La Guajira,2020-07-07,227,0,64
-CO-MAG,Colombia,Magdalena,2020-07-07,1320,120,622
+CO-MAG,Colombia,Magdalena,2020-07-07,1320,123,622
 CO-MET,Colombia,Meta,2020-07-07,1134,0,953
 CO-NAR,Colombia,Narino,2020-07-07,2715,113,1322
 CO-NSA,Colombia,Norte de Santander,2020-07-07,764,33,281
@@ -29,6 +29,6 @@ CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,2020-07-07,649,50,90
 CO-TOL,Colombia,Tolima,2020-07-07,690,21,284
-CO-VAC,Colombia,Valle del Cauca,2020-07-07,6633,291,2911
+CO-VAC,Colombia,Valle del Cauca,2020-07-07,6633,292,2911
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

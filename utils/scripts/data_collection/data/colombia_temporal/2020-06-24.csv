@@ -1,16 +1,16 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-07-07,2221,0,1803
+CO-AMA,Colombia,Amazonas,2020-07-07,2221,0,1802
 CO-ANT,Colombia,Antioquia,2020-07-07,3241,27,1357
 CO-ARA,Colombia,Arauca,2020-07-07,76,0,0
-CO-ATL,Colombia,Atlantico,2020-07-07,17970,1222,5250
-CO-DC,Colombia,Bogota,2020-07-07,23370,636,10863
-CO-BOL,Colombia,Bolivar,2020-07-07,7456,351,3374
+CO-ATL,Colombia,Atlantico,2020-07-07,17970,1237,5255
+CO-DC,Colombia,Bogota,2020-07-07,23370,636,10864
+CO-BOL,Colombia,Bolivar,2020-07-07,7456,352,3374
 CO-BOY,Colombia,Boyaca,2020-07-07,327,0,203
 CO-CAL,Colombia,Caldas,2020-07-07,238,0,164
 CO-CAQ,Colombia,Caqueta,,0,0,0
 CO-CAS,Colombia,Casanare,2020-07-07,61,0,0
-CO-CAU,Colombia,Cauca,2020-07-07,1619,101,613
-CO-CES,Colombia,Cesar,2020-07-07,782,24,320
+CO-CAU,Colombia,Cauca,2020-07-07,1619,102,612
+CO-CES,Colombia,Cesar,2020-07-07,782,25,320
 CO-COR,Colombia,Choco,2020-07-07,1148,48,370
 CO-CUN,Colombia,Cordoba,2020-07-07,483,40,175
 CO-CHO,Colombia,Cundinamarca,2020-07-07,2176,56,1152
@@ -18,7 +18,7 @@ CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
 CO-HUI,Colombia,Huila,2020-07-07,314,0,245
 CO-LAG,Colombia,La Guajira,2020-07-07,247,0,98
-CO-MAG,Colombia,Magdalena,2020-07-07,1385,126,652
+CO-MAG,Colombia,Magdalena,2020-07-07,1385,129,652
 CO-MET,Colombia,Meta,2020-07-07,1156,0,954
 CO-NAR,Colombia,Narino,2020-07-07,2814,0,1500
 CO-NSA,Colombia,Norte de Santander,2020-07-07,791,34,303
@@ -29,6 +29,6 @@ CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,2020-07-07,734,56,94
 CO-TOL,Colombia,Tolima,2020-07-07,725,22,295
-CO-VAC,Colombia,Valle del Cauca,2020-07-07,7017,300,3025
+CO-VAC,Colombia,Valle del Cauca,2020-07-07,7017,301,3025
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

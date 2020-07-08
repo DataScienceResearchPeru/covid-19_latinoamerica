@@ -1,15 +1,15 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-07-07,2253,0,1887
-CO-ANT,Colombia,Antioquia,2020-07-07,3861,30,1616
+CO-AMA,Colombia,Amazonas,2020-07-07,2253,0,1886
+CO-ANT,Colombia,Antioquia,2020-07-07,3861,30,1618
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-07-07,21193,1367,6736
-CO-DC,Colombia,Bogota,2020-07-07,27119,706,12091
-CO-BOL,Colombia,Bolivar,2020-07-07,8561,375,4075
+CO-ATL,Colombia,Atlantico,2020-07-07,21193,1386,6746
+CO-DC,Colombia,Bogota,2020-07-07,27119,706,12119
+CO-BOL,Colombia,Bolivar,2020-07-07,8561,377,4075
 CO-BOY,Colombia,Boyaca,2020-07-07,351,0,224
 CO-CAL,Colombia,Caldas,2020-07-07,244,0,182
 CO-CAQ,Colombia,Caqueta,2020-07-07,31,0,0
 CO-CAS,Colombia,Casanare,2020-07-07,65,0,46
-CO-CAU,Colombia,Cauca,2020-07-07,1704,0,755
+CO-CAU,Colombia,Cauca,2020-07-07,1704,0,754
 CO-CES,Colombia,Cesar,2020-07-07,881,0,395
 CO-COR,Colombia,Choco,2020-07-07,1392,50,482
 CO-CUN,Colombia,Cordoba,2020-07-07,581,49,219
@@ -17,9 +17,9 @@ CO-CHO,Colombia,Cundinamarca,2020-07-07,2432,59,1286
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
 CO-HUI,Colombia,Huila,2020-07-07,322,0,0
-CO-LAG,Colombia,La Guajira,2020-07-07,298,21,109
-CO-MAG,Colombia,Magdalena,2020-07-07,1626,141,709
-CO-MET,Colombia,Meta,2020-07-07,1199,0,961
+CO-LAG,Colombia,La Guajira,2020-07-07,298,21,112
+CO-MAG,Colombia,Magdalena,2020-07-07,1626,144,711
+CO-MET,Colombia,Meta,2020-07-07,1199,0,962
 CO-NAR,Colombia,Narino,2020-07-07,3041,117,1752
 CO-NSA,Colombia,Norte de Santander,2020-07-07,934,37,352
 CO-PUT,Colombia,Putumayo,,0,0,0
@@ -27,8 +27,8 @@ CO-QUI,Colombia,Quindio,2020-07-07,160,0,0
 CO-RIS,Colombia,Risaralda,2020-07-07,502,14,282
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
-CO-SUC,Colombia,Sucre,2020-07-07,976,84,130
+CO-SUC,Colombia,Sucre,2020-07-07,976,85,132
 CO-TOL,Colombia,Tolima,2020-07-07,762,0,329
-CO-VAC,Colombia,Valle del Cauca,2020-07-07,7905,321,3459
+CO-VAC,Colombia,Valle del Cauca,2020-07-07,7905,323,3461
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

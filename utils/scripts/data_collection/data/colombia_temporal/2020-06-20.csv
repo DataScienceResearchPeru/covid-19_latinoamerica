@@ -1,16 +1,16 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-07-07,0,0,1591
+CO-AMA,Colombia,Amazonas,2020-07-07,0,0,1590
 CO-ANT,Colombia,Antioquia,2020-07-07,2751,16,1088
 CO-ARA,Colombia,Arauca,2020-07-07,55,0,0
-CO-ATL,Colombia,Atlantico,2020-07-07,14765,1008,3885
+CO-ATL,Colombia,Atlantico,2020-07-07,14765,1018,3889
 CO-DC,Colombia,Bogota,2020-07-07,19768,545,9276
-CO-BOL,Colombia,Bolivar,2020-07-07,6469,312,2600
+CO-BOL,Colombia,Bolivar,2020-07-07,6469,313,2600
 CO-BOY,Colombia,Boyaca,2020-07-07,294,0,197
 CO-CAL,Colombia,Caldas,2020-07-07,216,0,147
 CO-CAQ,Colombia,Caqueta,,0,0,0
 CO-CAS,Colombia,Casanare,2020-07-07,52,0,36
-CO-CAU,Colombia,Cauca,2020-07-07,1424,0,427
-CO-CES,Colombia,Cesar,2020-07-07,690,23,195
+CO-CAU,Colombia,Cauca,2020-07-07,1424,0,426
+CO-CES,Colombia,Cesar,2020-07-07,690,24,195
 CO-COR,Colombia,Choco,2020-07-07,972,38,247
 CO-CUN,Colombia,Cordoba,2020-07-07,422,27,150
 CO-CHO,Colombia,Cundinamarca,2020-07-07,1953,51,958
@@ -18,7 +18,7 @@ CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
 CO-HUI,Colombia,Huila,2020-07-07,293,0,242
 CO-LAG,Colombia,La Guajira,2020-07-07,186,12,58
-CO-MAG,Colombia,Magdalena,2020-07-07,1193,103,568
+CO-MAG,Colombia,Magdalena,2020-07-07,1193,105,568
 CO-MET,Colombia,Meta,2020-07-07,1066,0,951
 CO-NAR,Colombia,Narino,2020-07-07,2495,104,1005
 CO-NSA,Colombia,Norte de Santander,2020-07-07,602,0,245

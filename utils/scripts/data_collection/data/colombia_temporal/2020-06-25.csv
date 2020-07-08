@@ -1,16 +1,16 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-07-07,2229,0,1830
-CO-ANT,Colombia,Antioquia,2020-07-07,3463,28,1447
+CO-AMA,Colombia,Amazonas,2020-07-07,2229,0,1829
+CO-ANT,Colombia,Antioquia,2020-07-07,3463,28,1448
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-07-07,18591,1276,5721
-CO-DC,Colombia,Bogota,2020-07-07,24641,655,11441
-CO-BOL,Colombia,Bolivar,2020-07-07,7851,357,3671
+CO-ATL,Colombia,Atlantico,2020-07-07,18591,1291,5727
+CO-DC,Colombia,Bogota,2020-07-07,24641,655,11443
+CO-BOL,Colombia,Bolivar,2020-07-07,7851,359,3671
 CO-BOY,Colombia,Boyaca,2020-07-07,332,0,209
 CO-CAL,Colombia,Caldas,2020-07-07,240,0,168
 CO-CAQ,Colombia,Caqueta,,0,0,0
 CO-CAS,Colombia,Casanare,2020-07-07,64,0,40
-CO-CAU,Colombia,Cauca,2020-07-07,1650,0,663
-CO-CES,Colombia,Cesar,2020-07-07,788,26,347
+CO-CAU,Colombia,Cauca,2020-07-07,1650,0,662
+CO-CES,Colombia,Cesar,2020-07-07,788,27,347
 CO-COR,Colombia,Choco,2020-07-07,1235,0,397
 CO-CUN,Colombia,Cordoba,2020-07-07,520,44,186
 CO-CHO,Colombia,Cundinamarca,2020-07-07,2271,57,1206
@@ -18,7 +18,7 @@ CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
 CO-HUI,Colombia,Huila,2020-07-07,317,0,254
 CO-LAG,Colombia,La Guajira,2020-07-07,258,16,102
-CO-MAG,Colombia,Magdalena,2020-07-07,1484,135,672
+CO-MAG,Colombia,Magdalena,2020-07-07,1484,138,672
 CO-MET,Colombia,Meta,2020-07-07,1170,15,959
 CO-NAR,Colombia,Narino,2020-07-07,2886,114,1625
 CO-NSA,Colombia,Norte de Santander,2020-07-07,826,35,314
@@ -27,8 +27,8 @@ CO-QUI,Colombia,Quindio,2020-07-07,156,0,118
 CO-RIS,Colombia,Risaralda,2020-07-07,473,13,266
 CO-SAP,Colombia,San Andres y Providencia,2020-07-07,0,0,18
 CO-SAN,Colombia,Santander,,0,0,0
-CO-SUC,Colombia,Sucre,2020-07-07,847,66,108
+CO-SUC,Colombia,Sucre,2020-07-07,847,67,110
 CO-TOL,Colombia,Tolima,2020-07-07,733,0,302
-CO-VAC,Colombia,Valle del Cauca,2020-07-07,7350,309,3194
+CO-VAC,Colombia,Valle del Cauca,2020-07-07,7350,310,3194
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
