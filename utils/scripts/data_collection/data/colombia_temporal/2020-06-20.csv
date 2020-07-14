@@ -2,9 +2,9 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 CO-AMA,Colombia,Amazonas,2020-07-13,0,0,1590
 CO-ANT,Colombia,Antioquia,2020-07-13,2753,16,1089
 CO-ARA,Colombia,Arauca,2020-07-13,55,0,0
-CO-ATL,Colombia,Atlantico,2020-07-13,14765,1030,3889
-CO-DC,Colombia,Bogota,2020-07-13,19772,545,9277
-CO-BOL,Colombia,Bolivar,2020-07-13,6469,313,2599
+CO-ATL,Colombia,Atlantico,2020-07-13,14765,1031,3892
+CO-DC,Colombia,Bogota,2020-07-13,19773,545,9277
+CO-BOL,Colombia,Bolivar,2020-07-13,6469,313,2597
 CO-BOY,Colombia,Boyaca,2020-07-13,294,0,197
 CO-CAL,Colombia,Caldas,2020-07-13,216,0,147
 CO-CAQ,Colombia,Caqueta,,0,0,0
@@ -13,7 +13,7 @@ CO-CAU,Colombia,Cauca,2020-07-13,1426,0,426
 CO-CES,Colombia,Cesar,2020-07-13,691,25,195
 CO-COR,Colombia,Choco,2020-07-13,972,40,247
 CO-CUN,Colombia,Cordoba,2020-07-13,422,28,150
-CO-CHO,Colombia,Cundinamarca,2020-07-13,1949,51,957
+CO-CHO,Colombia,Cundinamarca,2020-07-13,1948,51,957
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
 CO-HUI,Colombia,Huila,2020-07-13,293,0,242
@@ -29,6 +29,6 @@ CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,2020-07-13,497,35,76
 CO-TOL,Colombia,Tolima,2020-07-13,528,18,261
-CO-VAC,Colombia,Valle del Cauca,2020-07-13,6052,264,2569
+CO-VAC,Colombia,Valle del Cauca,2020-07-13,6052,264,2566
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

@@ -2,8 +2,8 @@ ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
 CO-AMA,Colombia,Amazonas,2020-07-13,2112,0,1327
 CO-ANT,Colombia,Antioquia,2020-07-13,1883,0,871
 CO-ARA,Colombia,Arauca,2020-07-13,4,0,0
-CO-ATL,Colombia,Atlantico,2020-07-13,9079,635,2911
-CO-DC,Colombia,Bogota,2020-07-13,15466,432,7211
+CO-ATL,Colombia,Atlantico,2020-07-13,9079,635,2912
+CO-DC,Colombia,Bogota,2020-07-13,15467,432,7211
 CO-BOL,Colombia,Bolivar,2020-07-13,4903,257,1845
 CO-BOY,Colombia,Boyaca,2020-07-13,240,0,179
 CO-CAL,Colombia,Caldas,2020-07-13,0,0,133
@@ -13,7 +13,7 @@ CO-CAU,Colombia,Cauca,2020-07-13,1125,76,317
 CO-CES,Colombia,Cesar,2020-07-13,527,21,153
 CO-COR,Colombia,Choco,2020-07-13,681,29,172
 CO-CUN,Colombia,Cordoba,2020-07-13,254,18,104
-CO-CHO,Colombia,Cundinamarca,2020-07-13,1648,0,588
+CO-CHO,Colombia,Cundinamarca,2020-07-13,1647,0,588
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
 CO-HUI,Colombia,Huila,2020-07-13,269,0,237
@@ -29,6 +29,6 @@ CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,2020-07-13,213,15,38
 CO-TOL,Colombia,Tolima,2020-07-13,381,0,229
-CO-VAC,Colombia,Valle del Cauca,2020-07-13,4689,215,2007
+CO-VAC,Colombia,Valle del Cauca,2020-07-13,4689,215,2006
 CO-VAU,Colombia,Vaupes,2020-07-13,27,0,0
 CO-VID,Colombia,Vichada,,0,0,0
