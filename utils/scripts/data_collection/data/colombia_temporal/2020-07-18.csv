@@ -1,0 +1,34 @@
+ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
+CO-AMA,Colombia,Amazonas,2020-07-18,2454,0,2265
+CO-ANT,Colombia,Antioquia,2020-07-18,14686,188,3865
+CO-ARA,Colombia,Arauca,2020-07-18,0,0,81
+CO-ATL,Colombia,Atlantico,2020-07-18,43160,2191,22240
+CO-DC,Colombia,Bogota,2020-07-18,60394,1548,23318
+CO-BOL,Colombia,Bolivar,2020-07-18,14754,0,8952
+CO-BOY,Colombia,Boyaca,2020-07-18,624,0,317
+CO-CAL,Colombia,Caldas,2020-07-18,360,0,243
+CO-CAQ,Colombia,Caqueta,2020-07-18,220,0,36
+CO-CAS,Colombia,Casanare,2020-07-18,148,0,69
+CO-CAU,Colombia,Cauca,2020-07-18,2896,0,1558
+CO-CES,Colombia,Cesar,2020-07-18,1893,0,1054
+CO-COR,Colombia,Choco,2020-07-18,2471,0,1387
+CO-CUN,Colombia,Cordoba,2020-07-18,2584,288,573
+CO-CHO,Colombia,Cundinamarca,2020-07-18,5649,0,2495
+CO-GUA,Colombia,Guainia,,0,0,0
+CO-GUV,Colombia,Guaviare,,0,0,0
+CO-HUI,Colombia,Huila,2020-07-18,520,0,348
+CO-LAG,Colombia,La Guajira,2020-07-18,1420,0,386
+CO-MAG,Colombia,Magdalena,2020-07-18,3947,247,1512
+CO-MET,Colombia,Meta,2020-07-18,1895,0,1212
+CO-NAR,Colombia,Narino,2020-07-18,5194,0,3084
+CO-NSA,Colombia,Norte de Santander,2020-07-18,2653,0,905
+CO-PUT,Colombia,Putumayo,2020-07-18,199,0,15
+CO-QUI,Colombia,Quindio,2020-07-18,0,0,159
+CO-RIS,Colombia,Risaralda,2020-07-18,970,0,491
+CO-SAP,Colombia,San Andres y Providencia,2020-07-18,30,0,0
+CO-SAN,Colombia,Santander,,0,0,0
+CO-SUC,Colombia,Sucre,2020-07-18,3933,0,1035
+CO-TOL,Colombia,Tolima,2020-07-18,1757,0,869
+CO-VAC,Colombia,Valle del Cauca,2020-07-18,15395,550,7267
+CO-VAU,Colombia,Vaupes,,0,0,0
+CO-VID,Colombia,Vichada,,0,0,0

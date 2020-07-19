@@ -151,7 +151,7 @@ if __name__ == "__main__":
     today = datetime.datetime.today()
     date_list_csv, date_list = generate_list_dates(path_dsrp)
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
-    list_date_list = date_list[0:10]
+    list_date_list = date_list[0:4]
 
     load_all_data_temporal(list_date_list)
 
@@ -163,7 +163,6 @@ if __name__ == "__main__":
         #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-') DEPRECATED
         #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-') DEPRECATED
         #data_honduras = load_filter_dataframe(path_honduras+d, 'HN-') #HONDURAS ALREADY UPDATED
-
         execute_country(path_argentina, path_dsrp, d, 'AR-', today)
         execute_country(path_bolivia,path_dsrp,d,'BO-',today)
         execute_country(path_brazil, path_dsrp, d, 'BR-', today)

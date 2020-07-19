@@ -1,34 +1,34 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-07-17,2391,0,2035
-CO-ANT,Colombia,Antioquia,2020-07-17,6772,74,1884
-CO-ARA,Colombia,Arauca,2020-07-17,129,0,0
-CO-ATL,Colombia,Atlantico,2020-07-17,28733,1894,8116
-CO-DC,Colombia,Bogota,2020-07-17,39266,1035,14357
-CO-BOL,Colombia,Bolivar,2020-07-17,10938,448,4663
-CO-BOY,Colombia,Boyaca,2020-07-17,441,0,0
-CO-CAL,Colombia,Caldas,2020-07-17,278,0,0
-CO-CAQ,Colombia,Caqueta,2020-07-17,67,0,23
+CO-AMA,Colombia,Amazonas,2020-07-18,2391,0,2106
+CO-ANT,Colombia,Antioquia,2020-07-18,6772,75,2516
+CO-ARA,Colombia,Arauca,2020-07-18,129,0,13
+CO-ATL,Colombia,Atlantico,2020-07-18,28735,1923,11488
+CO-DC,Colombia,Bogota,2020-07-18,39247,1047,16321
+CO-BOL,Colombia,Bolivar,2020-07-18,10956,453,6118
+CO-BOY,Colombia,Boyaca,2020-07-18,441,0,268
+CO-CAL,Colombia,Caldas,2020-07-18,278,0,214
+CO-CAQ,Colombia,Caqueta,2020-07-18,67,0,23
 CO-CAS,Colombia,Casanare,,0,0,0
-CO-CAU,Colombia,Cauca,2020-07-17,2206,140,977
-CO-CES,Colombia,Cesar,2020-07-17,1338,38,512
-CO-COR,Colombia,Choco,2020-07-17,2004,71,589
-CO-CUN,Colombia,Cordoba,2020-07-17,1188,175,231
-CO-CHO,Colombia,Cundinamarca,2020-07-17,3316,83,1500
+CO-CAU,Colombia,Cauca,2020-07-18,2206,140,1191
+CO-CES,Colombia,Cesar,2020-07-18,1339,38,704
+CO-COR,Colombia,Choco,2020-07-18,2004,72,809
+CO-CUN,Colombia,Cordoba,2020-07-18,1188,179,323
+CO-CHO,Colombia,Cundinamarca,2020-07-18,3316,82,1811
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-07-17,388,0,0
-CO-LAG,Colombia,La Guajira,2020-07-17,730,53,0
-CO-MAG,Colombia,Magdalena,2020-07-17,2307,210,791
-CO-MET,Colombia,Meta,2020-07-17,1386,0,0
-CO-NAR,Colombia,Narino,2020-07-17,4077,137,1979
-CO-NSA,Colombia,Norte de Santander,2020-07-17,1477,56,356
-CO-PUT,Colombia,Putumayo,2020-07-17,0,9,0
-CO-QUI,Colombia,Quindio,,0,0,0
-CO-RIS,Colombia,Risaralda,2020-07-17,637,0,312
+CO-HUI,Colombia,Huila,2020-07-18,388,0,297
+CO-LAG,Colombia,La Guajira,2020-07-18,730,55,177
+CO-MAG,Colombia,Magdalena,2020-07-18,2308,218,950
+CO-MET,Colombia,Meta,2020-07-18,1387,0,1064
+CO-NAR,Colombia,Narino,2020-07-18,4077,138,2455
+CO-NSA,Colombia,Norte de Santander,2020-07-18,1474,56,554
+CO-PUT,Colombia,Putumayo,2020-07-18,0,9,0
+CO-QUI,Colombia,Quindio,2020-07-18,0,0,136
+CO-RIS,Colombia,Risaralda,2020-07-18,637,0,383
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
-CO-SUC,Colombia,Sucre,2020-07-17,2002,153,164
-CO-TOL,Colombia,Tolima,2020-07-17,1173,0,343
-CO-VAC,Colombia,Valle del Cauca,2020-07-17,10837,429,4118
+CO-SUC,Colombia,Sucre,2020-07-18,2002,169,334
+CO-TOL,Colombia,Tolima,2020-07-18,1172,0,418
+CO-VAC,Colombia,Valle del Cauca,2020-07-18,10837,433,4947
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
