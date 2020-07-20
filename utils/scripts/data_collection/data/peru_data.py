@@ -181,6 +181,10 @@ def load_and_generatecsv(list_date_list):
         data=data[data['region']!='']
         data.reset_index(drop=True)
 
+        # CHANGES FROM 2020-07-05
+        cantidad_lima_confirmed=0
+        cantidad_lima_deaths=0
+        # END CHANGES
         for r in np.array(data.index):
 
             if data['confirmed'][r] != '':
@@ -193,8 +197,7 @@ def load_and_generatecsv(list_date_list):
                 numero_deaths = ''
 
             try:
-                string_iso = get_iso_by_country_name(
-                    data_peru["region"][r], 'remote')
+                string_iso = get_iso_by_country_name(data_peru["region"][r], 'remote')
                 f = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == string_iso]
                 # print(f.index.values[0])
                 temp_dsrp.loc[f.index.values[0], ['Confirmed']] = numero_confirmed
@@ -204,6 +207,31 @@ def load_and_generatecsv(list_date_list):
                 print('ERROR:[{}]:{}'.format(r,e))
 
             #numero_confirmed = data['confirmed'][r]
+
+
+            # CHANGES FROM 2020-07-05
+            # Lima = Lima Metropolitana + Lima región
+            # cantidad_lima=cantidad_lima_metr+cant_lima_reg
+            try:
+                if data_peru["region"][r]=="Lima Metropolitana":
+                    cantidad_lima_confirmed+=numero_confirmed
+                    cantidad_lima_deaths+=numero_deaths
+
+                if data_peru["region"][r]=="Lima Región":
+                    cantidad_lima_confirmed+=numero_confirmed
+                    cantidad_lima_deaths+=numero_deaths
+
+                    string_iso = "PE-LIM"
+                    f = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == string_iso]  
+                    # ALREADY LOOPED TWO LIMA RG+MTR
+                    temp_dsrp.loc[f.index.values[0], ['Confirmed']] = cantidad_lima_confirmed
+                    temp_dsrp.loc[f.index.values[0], ['Deaths']] = cantidad_lima_deaths
+                    temp_dsrp.loc[f.index.values[0], ['Last Update']] = today
+
+            
+            except Exceptcion as e:
+                print('ERROR:[{}]:{}'.format(r,e))
+            # END CHANGES
 
         print(d, end=' - ')
 
