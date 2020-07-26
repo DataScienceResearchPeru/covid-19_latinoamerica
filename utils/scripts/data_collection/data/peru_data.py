@@ -229,7 +229,7 @@ def load_and_generatecsv(list_date_list):
                     temp_dsrp.loc[f.index.values[0], ['Last Update']] = today
 
             
-            except Exceptcion as e:
+            except Exception as e:
                 print('ERROR:[{}]:{}'.format(r,e))
             # END CHANGES
 
