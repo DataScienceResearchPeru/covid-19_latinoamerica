@@ -31,7 +31,7 @@ def generate():
     date_list = [str(base - datetime.timedelta(days=x))+str('.csv')
                  for x in range(numdays)]
     print('Agregamos {} nombres de archivo al arreglo'.format(len(date_list)))
-    str(date_list)
+    print(str(date_list))
 
     # Convertimos a data frame cada archivo.
     array_dataframes = []
