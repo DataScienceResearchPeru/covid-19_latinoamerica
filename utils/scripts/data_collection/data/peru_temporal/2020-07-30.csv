@@ -1,26 +1,26 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-PE-AMA,Peru,Amazonas,,0,0,0
-PE-ANC,Peru,Ancash,,0,0,0
-PE-APU,Peru,Apurimac,,0,0,0
-PE-ARE,Peru,Arequipa,,0,0,0
-PE-AYA,Peru,Ayacucho,,0,0,0
-PE-CAJ,Peru,Cajamarca,,0,0,0
-PE-CAL,Peru,Callao,,0,0,0
-PE-CUS,Peru,Cusco,,0,0,0
-PE-HUV,Peru,Huancavelica,,0,0,0
-PE-HUC,Peru,Huanuco,,0,0,0
-PE-ICA,Peru,Ica,,0,0,0
-PE-JUN,Peru,Junin,,0,0,0
-PE-LAL,Peru,La Libertad,,0,0,0
-PE-LAM,Peru,Lambayeque,,0,0,0
+PE-AMA,Peru,Amazonas,2020-07-31,5507,,0
+PE-ANC,Peru,Ancash,2020-07-31,11796,,0
+PE-APU,Peru,Apurimac,2020-07-31,880,,0
+PE-ARE,Peru,Arequipa,2020-07-31,13480,,0
+PE-AYA,Peru,Ayacucho,2020-07-31,3726,,0
+PE-CAJ,Peru,Cajamarca,2020-07-31,5877,,0
+PE-CAL,Peru,Callao,2020-07-31,21045,,0
+PE-CUS,Peru,Cusco,2020-07-31,4157,,0
+PE-HUV,Peru,Huancavelica,2020-07-31,1618,,0
+PE-HUC,Peru,Huanuco,2020-07-31,6092,,0
+PE-ICA,Peru,Ica,2020-07-31,12213,,0
+PE-JUN,Peru,Junin,2020-07-31,7526,,0
+PE-LAL,Peru,La Libertad,2020-07-31,14936,,0
+PE-LAM,Peru,Lambayeque,2020-07-31,17111,,0
 PE-LIM,Peru,Lima,,0,0,0
-PE-LOR,Peru,Loreto,,0,0,0
-PE-MDD,Peru,Madre de dios,,0,0,0
-PE-MOQ,Peru,Moquegua,,0,0,0
-PE-PAS,Peru,Pasco,,0,0,0
-PE-PIU,Peru,Piura,,0,0,0
-PE-PUN,Peru,Puno,,0,0,0
-PE-SAM,Peru,San Martin,,0,0,0
-PE-TAC,Peru,Tacna,,0,0,0
-PE-TUM,Peru,Tumbes,,0,0,0
-PE-UCA,Peru,Ucayali,,0,0,0
+PE-LOR,Peru,Loreto,2020-07-31,11292,,0
+PE-MDD,Peru,Madre de dios,2020-07-31,3274,,0
+PE-MOQ,Peru,Moquegua,2020-07-31,2829,,0
+PE-PAS,Peru,Pasco,2020-07-31,1855,,0
+PE-PIU,Peru,Piura,2020-07-31,21069,,0
+PE-PUN,Peru,Puno,2020-07-31,2178,,0
+PE-SAM,Peru,San Martin,2020-07-31,8565,,0
+PE-TAC,Peru,Tacna,2020-07-31,2733,,0
+PE-TUM,Peru,Tumbes,2020-07-31,4133,,0
+PE-UCA,Peru,Ucayali,2020-07-31,9941,,0
