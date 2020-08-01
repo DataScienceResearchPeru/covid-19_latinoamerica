@@ -1,34 +1,34 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-07-31,2253,0,1838
-CO-ANT,Colombia,Antioquia,2020-07-31,3862,30,1655
+CO-AMA,Colombia,Amazonas,2020-07-31,2253,0,1833
+CO-ANT,Colombia,Antioquia,2020-07-31,3863,30,1654
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-07-31,21193,1478,6784
-CO-DC,Colombia,Bogota,2020-07-31,27108,711,12062
-CO-BOL,Colombia,Bolivar,2020-07-31,8579,394,4135
+CO-ATL,Colombia,Atlantico,2020-07-31,21193,1478,6771
+CO-DC,Colombia,Bogota,2020-07-31,27108,712,12022
+CO-BOL,Colombia,Bolivar,2020-07-31,8579,395,4121
 CO-BOY,Colombia,Boyaca,2020-07-31,351,0,227
 CO-CAL,Colombia,Caldas,2020-07-31,244,0,184
 CO-CAQ,Colombia,Caqueta,2020-07-31,31,0,0
 CO-CAS,Colombia,Casanare,2020-07-31,65,0,49
-CO-CAU,Colombia,Cauca,2020-07-31,1707,0,713
-CO-CES,Colombia,Cesar,2020-07-31,882,0,422
+CO-CAU,Colombia,Cauca,2020-07-31,1707,0,710
+CO-CES,Colombia,Cesar,2020-07-31,882,0,421
 CO-COR,Colombia,Choco,2020-07-31,1393,61,474
-CO-CUN,Colombia,Cordoba,2020-07-31,581,55,245
-CO-CHO,Colombia,Cundinamarca,2020-07-31,2425,57,1310
+CO-CUN,Colombia,Cordoba,2020-07-31,580,55,245
+CO-CHO,Colombia,Cundinamarca,2020-07-31,2425,57,1306
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
 CO-HUI,Colombia,Huila,2020-07-31,322,0,263
 CO-LAG,Colombia,La Guajira,2020-07-31,298,26,115
 CO-MAG,Colombia,Magdalena,2020-07-31,1626,164,747
 CO-MET,Colombia,Meta,2020-07-31,1200,0,976
-CO-NAR,Colombia,Narino,2020-07-31,3041,123,1777
+CO-NAR,Colombia,Narino,2020-07-31,3041,123,1776
 CO-NSA,Colombia,Norte de Santander,2020-07-31,932,39,368
 CO-PUT,Colombia,Putumayo,,0,0,0
 CO-QUI,Colombia,Quindio,2020-07-31,160,0,0
 CO-RIS,Colombia,Risaralda,2020-07-31,502,15,282
 CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
-CO-SUC,Colombia,Sucre,2020-07-31,976,92,150
+CO-SUC,Colombia,Sucre,2020-07-31,976,93,150
 CO-TOL,Colombia,Tolima,2020-07-31,761,0,331
-CO-VAC,Colombia,Valle del Cauca,2020-07-31,7901,324,3483
+CO-VAC,Colombia,Valle del Cauca,2020-07-31,7901,324,3470
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0

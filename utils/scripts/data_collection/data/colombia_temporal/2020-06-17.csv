@@ -1,18 +1,18 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-07-31,2180,0,1440
-CO-ANT,Colombia,Antioquia,2020-07-31,2368,14,960
+CO-AMA,Colombia,Amazonas,2020-07-31,2180,0,1435
+CO-ANT,Colombia,Antioquia,2020-07-31,2369,14,960
 CO-ARA,Colombia,Arauca,,0,0,0
-CO-ATL,Colombia,Atlantico,2020-07-31,12230,876,3271
-CO-DC,Colombia,Bogota,2020-07-31,17402,509,7931
-CO-BOL,Colombia,Bolivar,2020-07-31,5533,287,2180
+CO-ATL,Colombia,Atlantico,2020-07-31,12230,876,3268
+CO-DC,Colombia,Bogota,2020-07-31,17402,510,7919
+CO-BOL,Colombia,Bolivar,2020-07-31,5533,288,2176
 CO-BOY,Colombia,Boyaca,2020-07-31,261,15,188
 CO-CAL,Colombia,Caldas,2020-07-31,0,0,145
 CO-CAQ,Colombia,Caqueta,,0,0,0
 CO-CAS,Colombia,Casanare,2020-07-31,39,0,35
-CO-CAU,Colombia,Cauca,2020-07-31,1309,95,340
-CO-CES,Colombia,Cesar,2020-07-31,588,0,197
+CO-CAU,Colombia,Cauca,2020-07-31,1309,95,338
+CO-CES,Colombia,Cesar,2020-07-31,588,0,196
 CO-COR,Colombia,Choco,2020-07-31,841,40,202
-CO-CUN,Colombia,Cordoba,2020-07-31,310,22,127
+CO-CUN,Colombia,Cordoba,2020-07-31,309,22,127
 CO-CHO,Colombia,Cundinamarca,2020-07-31,1773,0,772
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
@@ -20,7 +20,7 @@ CO-HUI,Colombia,Huila,2020-07-31,281,0,0
 CO-LAG,Colombia,La Guajira,2020-07-31,159,12,0
 CO-MAG,Colombia,Magdalena,2020-07-31,1019,97,549
 CO-MET,Colombia,Meta,2020-07-31,1030,13,946
-CO-NAR,Colombia,Narino,2020-07-31,2222,0,915
+CO-NAR,Colombia,Narino,2020-07-31,2222,0,914
 CO-NSA,Colombia,Norte de Santander,2020-07-31,474,0,229
 CO-PUT,Colombia,Putumayo,2020-07-31,15,0,0
 CO-QUI,Colombia,Quindio,2020-07-31,131,0,0
@@ -29,6 +29,6 @@ CO-SAP,Colombia,San Andres y Providencia,,0,0,0
 CO-SAN,Colombia,Santander,,0,0,0
 CO-SUC,Colombia,Sucre,2020-07-31,300,26,54
 CO-TOL,Colombia,Tolima,2020-07-31,471,0,234
-CO-VAC,Colombia,Valle del Cauca,2020-07-31,5415,242,2240
+CO-VAC,Colombia,Valle del Cauca,2020-07-31,5415,242,2236
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
