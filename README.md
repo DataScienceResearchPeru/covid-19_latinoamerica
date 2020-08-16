@@ -221,7 +221,7 @@ Other [scripts here](utils\scripts)
 
 <!-- CONTACT -->
 
-## Contact
+## Extra
 
 
 [Extra data with orther important variables](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica_extra)
