@@ -1,26 +1,26 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-PE-AMA,Peru,Amazonas,,0,0,0
-PE-ANC,Peru,Ancash,,0,0,0
-PE-APU,Peru,Apurimac,,0,0,0
-PE-ARE,Peru,Arequipa,,0,0,0
-PE-AYA,Peru,Ayacucho,,0,0,0
-PE-CAJ,Peru,Cajamarca,,0,0,0
-PE-CAL,Peru,Callao,,0,0,0
-PE-CUS,Peru,Cusco,,0,0,0
-PE-HUV,Peru,Huancavelica,,0,0,0
-PE-HUC,Peru,Huanuco,,0,0,0
-PE-ICA,Peru,Ica,,0,0,0
-PE-JUN,Peru,Junin,,0,0,0
-PE-LAL,Peru,La Libertad,,0,0,0
-PE-LAM,Peru,Lambayeque,,0,0,0
-PE-LIM,Peru,Lima,,0,0,0
-PE-LOR,Peru,Loreto,,0,0,0
-PE-MDD,Peru,Madre de dios,,0,0,0
-PE-MOQ,Peru,Moquegua,,0,0,0
-PE-PAS,Peru,Pasco,,0,0,0
-PE-PIU,Peru,Piura,,0,0,0
-PE-PUN,Peru,Puno,,0,0,0
-PE-SAM,Peru,San Martin,,0,0,0
-PE-TAC,Peru,Tacna,,0,0,0
-PE-TUM,Peru,Tumbes,,0,0,0
-PE-UCA,Peru,Ucayali,,0,0,0
+PE-AMA,Peru,Amazonas,2020-08-18,8216,186,0
+PE-ANC,Peru,Ancash,2020-08-18,15327,1092,0
+PE-APU,Peru,Apurimac,2020-08-18,1777,53,0
+PE-ARE,Peru,Arequipa,2020-08-18,23934,992,0
+PE-AYA,Peru,Ayacucho,2020-08-18,5982,173,0
+PE-CAJ,Peru,Cajamarca,2020-08-18,10795,350,0
+PE-CAL,Peru,Callao,2020-08-18,24629,1469,0
+PE-CUS,Peru,Cusco,2020-08-18,8949,207,0
+PE-HUV,Peru,Huancavelica,2020-08-18,3171,59,0
+PE-HUC,Peru,Huanuco,2020-08-18,9343,294,0
+PE-ICA,Peru,Ica,2020-08-18,16734,1358,0
+PE-JUN,Peru,Junin,2020-08-18,11501,556,0
+PE-LAL,Peru,La Libertad,2020-08-18,19178,1941,0
+PE-LAM,Peru,Lambayeque,2020-08-18,19884,1546,0
+PE-LIM,Peru,Lima,2020-08-18,265634,11625,0
+PE-LOR,Peru,Loreto,2020-08-18,13186,815,0
+PE-MDD,Peru,Madre de dios,2020-08-18,4755,127,0
+PE-MOQ,Peru,Moquegua,2020-08-18,6280,184,0
+PE-PAS,Peru,Pasco,2020-08-18,3036,75,0
+PE-PIU,Peru,Piura,2020-08-18,24322,1743,0
+PE-PUN,Peru,Puno,2020-08-18,5566,152,0
+PE-SAM,Peru,San Martin,2020-08-18,11240,635,0
+PE-TAC,Peru,Tacna,2020-08-18,5546,101,0
+PE-TUM,Peru,Tumbes,2020-08-18,5101,267,0
+PE-UCA,Peru,Ucayali,2020-08-18,11860,281,0
