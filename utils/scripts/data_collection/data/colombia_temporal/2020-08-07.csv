@@ -1,34 +1,34 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-CO-AMA,Colombia,Amazonas,2020-08-21,2564,0,2368
-CO-ANT,Colombia,Antioquia,2020-08-21,46836,993,18446
-CO-ARA,Colombia,Arauca,2020-08-21,332,9,169
-CO-ATL,Colombia,Atlantico,2020-08-21,56788,2841,43731
-CO-DC,Colombia,Bogota,2020-08-21,126773,3992,60320
-CO-BOL,Colombia,Bolivar,2020-08-21,19903,0,15403
-CO-BOY,Colombia,Boyaca,2020-08-21,1433,0,614
-CO-CAL,Colombia,Caldas,2020-08-21,1191,0,422
-CO-CAQ,Colombia,Caqueta,2020-08-21,2045,69,495
-CO-CAS,Colombia,Casanare,2020-08-21,429,0,176
-CO-CAU,Colombia,Cauca,2020-08-21,4709,267,2946
-CO-CES,Colombia,Cesar,2020-08-21,4200,114,1952
-CO-COR,Colombia,Choco,2020-08-21,3148,131,2447
-CO-CUN,Colombia,Cordoba,2020-08-21,8253,1022,3255
-CO-CHO,Colombia,Cundinamarca,2020-08-21,11005,384,5966
+CO-AMA,Colombia,Amazonas,2020-08-22,2564,0,2368
+CO-ANT,Colombia,Antioquia,2020-08-22,46836,997,18448
+CO-ARA,Colombia,Arauca,2020-08-22,332,9,169
+CO-ATL,Colombia,Atlantico,2020-08-22,56788,2842,43742
+CO-DC,Colombia,Bogota,2020-08-22,126773,3994,60324
+CO-BOL,Colombia,Bolivar,2020-08-22,19903,0,15404
+CO-BOY,Colombia,Boyaca,2020-08-22,1433,0,614
+CO-CAL,Colombia,Caldas,2020-08-22,1191,0,422
+CO-CAQ,Colombia,Caqueta,2020-08-22,2045,70,495
+CO-CAS,Colombia,Casanare,2020-08-22,429,0,176
+CO-CAU,Colombia,Cauca,2020-08-22,4709,267,2946
+CO-CES,Colombia,Cesar,2020-08-22,4200,114,1952
+CO-COR,Colombia,Choco,2020-08-22,3148,131,2448
+CO-CUN,Colombia,Cordoba,2020-08-22,8253,1026,3254
+CO-CHO,Colombia,Cundinamarca,2020-08-22,11005,388,5966
 CO-GUA,Colombia,Guainia,,0,0,0
 CO-GUV,Colombia,Guaviare,,0,0,0
-CO-HUI,Colombia,Huila,2020-08-21,1348,51,562
-CO-LAG,Colombia,La Guajira,2020-08-21,2587,167,1547
-CO-MAG,Colombia,Magdalena,2020-08-21,7979,527,4490
-CO-MET,Colombia,Meta,2020-08-21,3600,75,2112
-CO-NAR,Colombia,Narino,2020-08-21,9138,364,5584
-CO-NSA,Colombia,Norte de Santander,2020-08-21,9803,617,3223
-CO-PUT,Colombia,Putumayo,2020-08-21,1366,0,402
-CO-QUI,Colombia,Quindio,2020-08-21,478,16,231
-CO-RIS,Colombia,Risaralda,2020-08-21,2393,55,967
-CO-SAP,Colombia,San Andres y Providencia,2020-08-21,48,0,0
+CO-HUI,Colombia,Huila,2020-08-22,1348,51,562
+CO-LAG,Colombia,La Guajira,2020-08-22,2587,167,1547
+CO-MAG,Colombia,Magdalena,2020-08-22,7979,529,4490
+CO-MET,Colombia,Meta,2020-08-22,3600,75,2112
+CO-NAR,Colombia,Narino,2020-08-22,9138,364,5585
+CO-NSA,Colombia,Norte de Santander,2020-08-22,9803,619,3224
+CO-PUT,Colombia,Putumayo,2020-08-22,1366,0,402
+CO-QUI,Colombia,Quindio,2020-08-22,478,16,231
+CO-RIS,Colombia,Risaralda,2020-08-22,2393,55,967
+CO-SAP,Colombia,San Andres y Providencia,2020-08-22,48,0,0
 CO-SAN,Colombia,Santander,,0,0,0
-CO-SUC,Colombia,Sucre,2020-08-21,7122,420,4221
-CO-TOL,Colombia,Tolima,2020-08-21,3353,97,1855
-CO-VAC,Colombia,Valle del Cauca,2020-08-21,28152,1160,15915
+CO-SUC,Colombia,Sucre,2020-08-22,7122,420,4222
+CO-TOL,Colombia,Tolima,2020-08-22,3353,97,1854
+CO-VAC,Colombia,Valle del Cauca,2020-08-22,28152,1166,15916
 CO-VAU,Colombia,Vaupes,,0,0,0
 CO-VID,Colombia,Vichada,,0,0,0
