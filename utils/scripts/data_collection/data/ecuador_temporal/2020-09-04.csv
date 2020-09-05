@@ -1,25 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-EC-A,Ecuador,Azuay,,0,0,0
-EC-B,Ecuador,Bolivar,,0,0,0
-EC-F,Ecuador,Canar,,0,0,0
-EC-C,Ecuador,Carchi,,0,0,0
-EC-H,Ecuador,Chimborazo,,0,0,0
-EC-X,Ecuador,Cotopaxi,,0,0,0
-EC-O,Ecuador,El Oro,,0,0,0
-EC-E,Ecuador,Esmeraldas,,0,0,0
-EC-W,Ecuador,Galapagos,,0,0,0
-EC-G,Ecuador,Guayas,,0,0,0
-EC-I,Ecuador,Imbabura,,0,0,0
-EC-L,Ecuador,Loja,,0,0,0
-EC-R,Ecuador,Los Rios,,0,0,0
-EC-M,Ecuador,Manabi,,0,0,0
-EC-S,Ecuador,Morona Santiago,,0,0,0
-EC-N,Ecuador,Napo,,0,0,0
-EC-D,Ecuador,Orellana,,0,0,0
-EC-Y,Ecuador,Pastaza,,0,0,0
-EC-P,Ecuador,Pichincha,,0,0,0
-EC-SE,Ecuador,Santa Elena,,0,0,0
-EC-SD,Ecuador,Santo Domingo de los Tsachilas,,0,0,0
-EC-U,Ecuador,Sucumbios,,0,0,0
-EC-T,Ecuador,Tungurahua,,0,0,0
-EC-Z,Ecuador,Zamora-Chinchipe,,0,0,0
+EC-A,Ecuador,Azuay,2020-09-05,6121,124,0
+EC-B,Ecuador,Bolivar,2020-09-05,1482,58,0
+EC-F,Ecuador,Canar,2020-09-05,1409,62,0
+EC-C,Ecuador,Carchi,2020-09-05,1647,38,0
+EC-H,Ecuador,Chimborazo,2020-09-05,3573,201,0
+EC-X,Ecuador,Cotopaxi,2020-09-05,2032,61,0
+EC-O,Ecuador,El Oro,2020-09-05,18983,1685,0
+EC-E,Ecuador,Esmeraldas,2020-09-05,2079,269,0
+EC-W,Ecuador,Galapagos,2020-09-05,3006,96,0
+EC-G,Ecuador,Guayas,2020-09-05,4580,172,0
+EC-I,Ecuador,Imbabura,2020-09-05,8729,896,0
+EC-L,Ecuador,Loja,2020-09-05,1174,62,0
+EC-R,Ecuador,Los Rios,2020-09-05,4560,365,0
+EC-M,Ecuador,Manabi,2020-09-05,24705,947,0
+EC-S,Ecuador,Morona Santiago,2020-09-05,3298,324,0
+EC-N,Ecuador,Napo,2020-09-05,2498,19,0
+EC-D,Ecuador,Orellana,2020-09-05,4560,328,0
+EC-Y,Ecuador,Pastaza,2020-09-05,1317,355,0
+EC-P,Ecuador,Pichincha,2020-09-05,3552,232,0
+EC-SE,Ecuador,Santa Elena,2020-09-05,2339,84,0
+EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-09-05,109,1,0
+EC-U,Ecuador,Sucumbios,2020-09-05,3156,204,0
+EC-T,Ecuador,Tungurahua,2020-09-05,1959,48,0
+EC-Z,Ecuador,Zamora-Chinchipe,2020-09-05,1351,43,0
