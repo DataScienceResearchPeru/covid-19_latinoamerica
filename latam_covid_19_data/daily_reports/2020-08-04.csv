@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,,,,
-CL-AR,Chile,Araucania,,,,
-CL-AP,Chile,Arica y Parinacota,,,,
-CL-AT,Chile,Atacama,,,,
-CL-AI,Chile,Aysen,,,,
-CL-BI,Chile,Biobio,,,,
-CL-CO,Chile,Coquimbo,,,,
-CL-LL,Chile,Los Lagos,,,,
-CL-LR,Chile,Los Rios,,,,
-CL-MA,Chile,Magallanes,,,,
-CL-ML,Chile,Maule,,,,
-CL-NB,Chile,Nuble,,,,
-CL-LI,Chile,O'Higgins,,,,
-CL-RM,Chile,Santiago,,,,
-CL-TA,Chile,Tarapaca,,,,
-CL-VS,Chile,Valparaiso,,,,
+CL-AN,Chile,Antofagasta,2020-09-17T20:22:58,15279,358,13831
+CL-AR,Chile,Araucania,2020-09-17T20:22:58,4235,79,3845
+CL-AP,Chile,Arica y Parinacota,2020-09-17T20:22:58,4662,68,3829
+CL-AT,Chile,Atacama,2020-09-17T20:22:58,3058,14,2286
+CL-AI,Chile,Aysen,2020-09-17T20:22:58,83,1,70
+CL-BI,Chile,Biobio,2020-09-17T20:22:58,11942,125,10363
+CL-CO,Chile,Coquimbo,2020-09-17T20:22:58,6742,75,5679
+CL-LL,Chile,Los Lagos,2020-09-17T20:22:58,4364,43,3304
+CL-LR,Chile,Los Rios,2020-09-17T20:22:58,923,14,850
+CL-MA,Chile,Magallanes,2020-09-17T20:22:58,1865,29,1649
+CL-ML,Chile,Maule,2020-09-17T20:22:58,9367,193,8297
+CL-NB,Chile,Nuble,2020-09-17T20:22:58,3616,63,3322
+CL-LI,Chile,O'Higgins,2020-09-17T20:22:58,10918,252,9961
+CL-RM,Chile,Santiago,2020-09-17T20:22:58,258579,7735,244520
+CL-TA,Chile,Tarapaca,2020-09-17T20:22:58,9045,173,8078
+CL-VS,Chile,Valparaiso,2020-09-17T20:22:58,18222,522,16386
 CO-AMA,Colombia,Amazonas,2020-08-07 19:19:15.787685,0,0,
 CO-ANT,Colombia,Antioquia,2020-08-07 19:19:15.787685,41981,760,
 CO-ARA,Colombia,Arauca,2020-08-07 19:19:15.787685,248,0,
