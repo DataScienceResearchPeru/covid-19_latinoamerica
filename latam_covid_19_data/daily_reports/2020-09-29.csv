@@ -239,24 +239,24 @@ HT-NO,Haiti,Nord-Ouest,,,,
 HT-OU,Haiti,Ouest,,,,
 HT-SD,Haiti,Sud,,,,
 HT-SE,Haiti,Sud-Est,,,,
-HN-AT,Honduras,Atlantida,,,,
-HN-CH,Honduras,Choluteca,,,,
-HN-CL,Honduras,Colon,,,,
-HN-CM,Honduras,Comayagua,,,,
-HN-CP,Honduras,Copan,,,,
-HN-CR,Honduras,Cortes,,,,
-HN-EP,Honduras,El Paraiso,,,,
-HN-FM,Honduras,Francisco Morazan,,,,
-HN-GD,Honduras,Gracias a Dios,,,,
-HN-IN,Honduras,Intibuca,,,,
-HN-IB,Honduras,Islas de la Bahia,,,,
-HN-LP,Honduras,La Paz,,,,
-HN-LE,Honduras,Lempira,,,,
-HN-OC,Honduras,Ocotepeque,,,,
-HN-OL,Honduras,Olancho,,,,
-HN-SB,Honduras,Santa Barbara,,,,
-HN-VA,Honduras,Valle,,,,
-HN-YO,Honduras,Yoro,,,,
+HN-AT,Honduras,Atlantida,2020-09-30T14:00:18,5163,152,1674
+HN-CH,Honduras,Choluteca,2020-09-30T14:00:18,2342,58,1164
+HN-CL,Honduras,Colon,2020-09-30T14:00:18,2998,84,776
+HN-CM,Honduras,Comayagua,2020-09-30T14:00:18,1934,89,973
+HN-CP,Honduras,Copan,2020-09-30T14:00:18,1272,58,889
+HN-CR,Honduras,Cortes,2020-09-30T14:00:18,23071,761,8953
+HN-EP,Honduras,El Paraiso,2020-09-30T14:00:18,2663,88,2040
+HN-FM,Honduras,Francisco Morazan,2020-09-30T14:00:18,20019,624,3796
+HN-GD,Honduras,Gracias a Dios,2020-09-30T14:00:18,759,21,303
+HN-IN,Honduras,Intibuca,2020-09-30T14:00:18,993,21,482
+HN-IB,Honduras,Islas de la Bahia,2020-09-30T14:00:18,1437,26,286
+HN-LP,Honduras,La Paz,2020-09-30T14:00:18,1416,39,1149
+HN-LE,Honduras,Lempira,2020-09-30T14:00:18,448,22,281
+HN-OC,Honduras,Ocotepeque,2020-09-30T14:00:18,744,16,497
+HN-OL,Honduras,Olancho,2020-09-30T14:00:18,1753,86,719
+HN-SB,Honduras,Santa Barbara,2020-09-30T14:00:18,2095,60,1070
+HN-VA,Honduras,Valle,2020-09-30T14:00:18,1854,38,403
+HN-YO,Honduras,Yoro,2020-09-30T14:00:18,5137,80,1869
 MX-AGU,Mexico,Aguascalientes,2020-09-30T01:51:48,7324,640,
 MX-BCN,Mexico,Baja California,2020-09-30T01:51:48,19119,3510,
 MX-BCS,Mexico,Baja California Sur,2020-09-30T01:51:48,10172,456,
