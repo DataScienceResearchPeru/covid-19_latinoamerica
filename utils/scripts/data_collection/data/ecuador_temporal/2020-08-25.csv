@@ -1,25 +1,25 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-EC-A,Ecuador,Azuay,2020-10-03,4891,102,0
-EC-B,Ecuador,Bolivar,2020-10-03,1407,54,0
-EC-F,Ecuador,Canar,2020-10-03,1154,60,0
-EC-C,Ecuador,Carchi,2020-10-03,1553,37,0
-EC-H,Ecuador,Chimborazo,2020-10-03,3502,197,0
-EC-X,Ecuador,Cotopaxi,2020-10-03,1787,45,0
-EC-O,Ecuador,El Oro,2020-10-03,18563,1671,0
-EC-E,Ecuador,Esmeraldas,2020-10-03,1949,251,0
-EC-W,Ecuador,Galapagos,2020-10-03,2683,87,0
-EC-G,Ecuador,Guayas,2020-10-03,4140,147,0
-EC-I,Ecuador,Imbabura,2020-10-03,8085,870,0
-EC-L,Ecuador,Loja,2020-10-03,1123,58,0
-EC-R,Ecuador,Los Rios,2020-10-03,4215,360,0
-EC-M,Ecuador,Manabi,2020-10-03,22683,894,0
-EC-S,Ecuador,Morona Santiago,2020-10-03,3091,321,0
-EC-N,Ecuador,Napo,2020-10-03,2404,18,0
-EC-D,Ecuador,Orellana,2020-10-03,4408,298,0
-EC-Y,Ecuador,Pastaza,2020-10-03,1242,339,0
-EC-P,Ecuador,Pichincha,2020-10-03,3236,205,0
-EC-SE,Ecuador,Santa Elena,2020-10-03,1980,71,0
-EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-10-03,109,1,0
-EC-U,Ecuador,Sucumbios,2020-10-03,2880,196,0
-EC-T,Ecuador,Tungurahua,2020-10-03,1820,46,0
-EC-Z,Ecuador,Zamora-Chinchipe,2020-10-03,1169,40,0
+EC-A,Ecuador,Azuay,2020-10-05,65,0,0
+EC-B,Ecuador,Bolivar,2020-10-05,5,0,0
+EC-F,Ecuador,Canar,2020-10-05,22,1,0
+EC-C,Ecuador,Carchi,2020-10-05,0,0,0
+EC-H,Ecuador,Chimborazo,2020-10-05,3,1,0
+EC-X,Ecuador,Cotopaxi,2020-10-05,22,3,0
+EC-O,Ecuador,El Oro,2020-10-05,53,1,0
+EC-E,Ecuador,Esmeraldas,2020-10-05,15,1,0
+EC-W,Ecuador,Galapagos,2020-10-05,26,0,0
+EC-G,Ecuador,Guayas,2020-10-05,87,2,0
+EC-I,Ecuador,Imbabura,2020-10-05,53,2,0
+EC-L,Ecuador,Loja,2020-10-05,1,2,0
+EC-R,Ecuador,Los Rios,2020-10-05,56,2,0
+EC-M,Ecuador,Manabi,2020-10-05,182,10,0
+EC-S,Ecuador,Morona Santiago,2020-10-05,12,0,0
+EC-N,Ecuador,Napo,2020-10-05,5,0,0
+EC-D,Ecuador,Orellana,2020-10-05,23,2,0
+EC-Y,Ecuador,Pastaza,2020-10-05,7,0,0
+EC-P,Ecuador,Pichincha,2020-10-05,30,17,0
+EC-SE,Ecuador,Santa Elena,2020-10-05,39,0,0
+EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-10-05,0,0,0
+EC-U,Ecuador,Sucumbios,2020-10-05,17,2,0
+EC-T,Ecuador,Tungurahua,2020-10-05,15,0,0
+EC-Z,Ecuador,Zamora-Chinchipe,2020-10-05,3,0,0
