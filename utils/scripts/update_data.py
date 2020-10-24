@@ -119,7 +119,7 @@ def load_all_data_temporal(list_date_list):
     #argentina_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     brazil_data.load_and_generatecsv(list_date_list)
     colombia_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
-    costarica_data.load_and_generatecsv(list_date_list)
+    #costarica_data.load_and_generatecsv(list_date_list) BROKEN
     cuba_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     peru_data.load_and_generatecsv(list_date_list)
     ecuador_data.load_and_generatecsv(list_date_list)
@@ -167,7 +167,7 @@ if __name__ == "__main__":
         execute_country(path_bolivia,path_dsrp,d,'BO-',today)
         execute_country(path_brazil, path_dsrp, d, 'BR-', today)
         execute_country(path_colombia, path_dsrp, d, 'CO-', today)
-        execute_country(path_costarica, path_dsrp, d, 'CR-', today)
+        #execute_country(path_costarica, path_dsrp, d, 'CR-', today) DEPRECATED
         execute_country(path_cuba, path_dsrp, d, 'CU-', today)
         execute_country(path_ecuador, path_dsrp, d, 'EC-', today)
         execute_country(path_peru, path_dsrp, d, 'PE-', today)
