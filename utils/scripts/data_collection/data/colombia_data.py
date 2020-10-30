@@ -4,6 +4,7 @@ import datetime
 import sys
 import os
 
+# V2.3
 
 def get_iso_by_country_name(country_name, mode):
 
@@ -183,24 +184,24 @@ def load_and_generatecsv(list_date_list):
         data.reset_index(drop=True)
 
         data_confirmed = data[data['fecha reporte web'] != '-   -']
-        data_confirmed = data_confirmed.groupby(['Departamento o Distrito ']).size().reset_index(name='Confirmed')
+        data_confirmed = data_confirmed.groupby(['Nombre departamento']).size().reset_index(name='Confirmed')
 
         data_colombia=data_colombia.fillna('')
 
         data_death = data_colombia[data_colombia['Fecha de muerte'].str.contains(d)]
         data_death = data_death[data_death['Fecha de muerte'] != '-   -']
         data_death = data_death.fillna('')
-        data_death = data_death.groupby(['Departamento o Distrito ']).size().reset_index(name='Deaths')
+        data_death = data_death.groupby(['Nombre departamento']).size().reset_index(name='Deaths')
 
         data_colombia=data_colombia.fillna('')
-        data_recovered = data_colombia[data_colombia['Fecha recuperado'].str.contains(d)]
-        data_recovered = data_recovered[data_recovered['Fecha recuperado'] != '-   -']
+        data_recovered = data_colombia[data_colombia['Fecha de recuperación'].str.contains(d)]
+        data_recovered = data_recovered[data_recovered['Fecha de recuperación'] != '-   -']
         data_recovered = data_recovered.fillna('')
-        data_recovered = data_recovered.groupby(['Departamento o Distrito ']).size().reset_index(name='Recovered')
+        data_recovered = data_recovered.groupby(['Nombre departamento']).size().reset_index(name='Recovered')
 
         for r in range(len(data_confirmed)):
             try:
-                country_name_confirmed = get_iso_by_country_name(data_confirmed['Departamento o Distrito '][r], 'remote')
+                country_name_confirmed = get_iso_by_country_name(data_confirmed['Nombre departamento'][r], 'remote')
                 numero_confirmed = data_confirmed.loc[r]['Confirmed']
                 f = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == country_name_confirmed]
                 # print(f.index.values[0])
@@ -214,7 +215,7 @@ def load_and_generatecsv(list_date_list):
 
         for r in range(len(data_death)):
             try:
-                country_name_deaths = get_iso_by_country_name(data_death['Departamento o Distrito '][r], 'remote')
+                country_name_deaths = get_iso_by_country_name(data_death['Nombre departamento'][r], 'remote')
                 numero_deaths = data_death.loc[r]['Deaths']
                 f = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == country_name_deaths]
                 # print(f.index.values[0])
@@ -227,7 +228,7 @@ def load_and_generatecsv(list_date_list):
 
         for r in range(len(data_recovered)):
             try:
-                country_name_recovered = get_iso_by_country_name(data_recovered['Departamento o Distrito '][r], 'remote')
+                country_name_recovered = get_iso_by_country_name(data_recovered['Nombre departamento'][r], 'remote')
                 numero_recovered = data_recovered.loc[r]['Recovered']
                 f = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == country_name_recovered]
                 # print(f.index.values[0])
