@@ -179,7 +179,7 @@ def load_and_generatecsv(list_date_list):
         temp_dsrp['Recovered'] = 0
 
         # Colombia
-        data = data_colombia[data_colombia['fecha reporte web'].str.contains(d)]
+        data = data_colombia[data_colombia['fecha reporte web'].str.contains(d), na=False]
         data = data.fillna('')
         data.reset_index(drop=True)
 
