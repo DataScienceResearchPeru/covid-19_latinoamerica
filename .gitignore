@@ -36,3 +36,4 @@ venv
 
 ### Temporal files
 utils/scripts/data_collection/data/*temporal/*
+latam_covid_19_data/per_patient/*
