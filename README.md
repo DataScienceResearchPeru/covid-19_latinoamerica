@@ -21,7 +21,7 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Latin America Covid-19 Data Repository by DSRP </h3>
+  <h3 align="center">Latin America Covid-19 Data Repository by DSRP (*General error by now*) </h3>
 
   <p align="center">
     Repository with daily updates related to Covid-19 of Latin America (South America)<br />
