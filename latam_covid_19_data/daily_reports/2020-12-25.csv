@@ -32,49 +32,49 @@ BO-N,Bolivia,Pando,2020-12-25 12:19:51.993515,2394,165,
 BO-P,Bolivia,Potosi,2020-12-25 12:19:51.993515,9350,267,
 BO-S,Bolivia,Santa Cruz,2020-12-25 12:19:51.993515,44661,4378,
 BO-T,Bolivia,Tarija,2020-12-25 12:19:51.993515,16575,401,
-BR-AC,Brazil,Acre,2020-12-25 12:19:51.993515,40638,779,
-BR-AL,Brazil,Alagoas,2020-12-25 12:19:51.993515,102569,2440,
-BR-AP,Brazil,Amapa,2020-12-25 12:19:51.993515,66132,897,
-BR-AM,Brazil,Amazonas,2020-12-25 12:19:51.993515,195405,5151,
-BR-BA,Brazil,Bahia,2020-12-25 12:19:51.993515,479553,8924,
-BR-CE,Brazil,Ceara,2020-12-25 12:19:51.993515,327140,9952,
-BR-DF,Brazil,Distrito Federal,2020-12-25 12:19:51.993515,246949,4188,
-BR-ES,Brazil,Espiritu Santo,2020-12-25 12:19:51.993515,234382,4866,
-BR-GO,Brazil,Goias,2020-12-25 12:19:51.993515,304009,6740,
-BR-MA,Brazil,Maranhao,2020-12-25 12:19:51.993515,199906,4451,
-BR-MT,Brazil,Mato Grosso,2020-12-25 12:19:51.993515,174866,4362,
-BR-MS,Brazil,Mato Grosso do Sul,2020-12-25 12:19:51.993515,126583,2160,
-BR-MG,Brazil,Minas Gerais,2020-12-25 12:19:51.993515,516188,11475,
-BR-PA,Brazil,Para,2020-12-25 12:19:51.993515,289348,7095,
-BR-PB,Brazil,Paraiba,2020-12-25 12:19:51.993515,162149,3582,
-BR-PR,Brazil,Parana,2020-12-25 12:19:51.993515,397479,7600,
-BR-PE,Brazil,Pernambuco,2020-12-25 12:19:51.993515,213453,9523,
-BR-PI,Brazil,Piaui,2020-12-25 12:19:51.993515,139713,2792,
-BR-RJ,Brazil,Rio de Janeiro,2020-12-25 12:19:51.993515,418543,24827,
-BR-RN,Brazil,Rio Grande do Norte,2020-12-25 12:19:51.993515,112877,2918,
-BR-RS,Brazil,Rio Grande do Sul,2020-12-25 12:19:51.993515,426531,8403,
-BR-RO,Brazil,Rondonia,2020-12-25 12:19:51.993515,92099,1732,
-BR-RR,Brazil,Roraima,2020-12-25 12:19:51.993515,68107,773,
-BR-SC,Brazil,Santa Catarina,2020-12-25 12:19:51.993515,475200,4939,
-BR-SP,Brazil,Sao Paulo,2020-12-25 12:19:51.993515,1418491,45758,
-BR-SE,Brazil,Sergipe,2020-12-25 12:19:51.993515,106896,2434,
-BR-TO,Brazil,Tocantins,2020-12-25 12:19:51.993515,88739,1221,
-CL-AN,Chile,Antofagasta,2020-12-24T16:50:52,23200,580,22218
-CL-AR,Chile,Araucania,2020-12-24T16:50:52,21688,284,20348
-CL-AP,Chile,Arica y Parinacota,2020-12-24T16:50:52,10650,221,10274
-CL-AT,Chile,Atacama,2020-12-24T16:50:52,8419,112,8209
-CL-AI,Chile,Aysen,2020-12-24T16:50:52,1432,15,1349
-CL-BI,Chile,Biobio,2020-12-24T16:50:52,44784,747,41535
-CL-CO,Chile,Coquimbo,2020-12-24T16:50:52,13974,291,13419
-CL-LL,Chile,Los Lagos,2020-12-24T16:50:52,24302,251,22889
-CL-LR,Chile,Los Rios,2020-12-24T16:50:52,8206,80,7533
-CL-MA,Chile,Magallanes,2020-12-24T16:50:52,16364,227,15684
-CL-ML,Chile,Maule,2020-12-24T16:50:52,23960,538,22214
-CL-NB,Chile,Nuble,2020-12-24T16:50:52,10960,205,10352
-CL-LI,Chile,O'Higgins,2020-12-24T16:50:52,21077,576,20092
-CL-RM,Chile,Santiago,2020-12-24T16:50:52,315148,10677,301348
-CL-TA,Chile,Tarapaca,2020-12-24T16:50:52,15097,274,14337
-CL-VS,Chile,Valparaiso,2020-12-24T16:50:52,34847,1224,32791
+BR-AC,Brazil,Acre,,,,
+BR-AL,Brazil,Alagoas,,,,
+BR-AP,Brazil,Amapa,,,,
+BR-AM,Brazil,Amazonas,,,,
+BR-BA,Brazil,Bahia,,,,
+BR-CE,Brazil,Ceara,,,,
+BR-DF,Brazil,Distrito Federal,,,,
+BR-ES,Brazil,Espiritu Santo,,,,
+BR-GO,Brazil,Goias,,,,
+BR-MA,Brazil,Maranhao,,,,
+BR-MT,Brazil,Mato Grosso,,,,
+BR-MS,Brazil,Mato Grosso do Sul,,,,
+BR-MG,Brazil,Minas Gerais,,,,
+BR-PA,Brazil,Para,,,,
+BR-PB,Brazil,Paraiba,,,,
+BR-PR,Brazil,Parana,,,,
+BR-PE,Brazil,Pernambuco,,,,
+BR-PI,Brazil,Piaui,,,,
+BR-RJ,Brazil,Rio de Janeiro,,,,
+BR-RN,Brazil,Rio Grande do Norte,,,,
+BR-RS,Brazil,Rio Grande do Sul,,,,
+BR-RO,Brazil,Rondonia,,,,
+BR-RR,Brazil,Roraima,,,,
+BR-SC,Brazil,Santa Catarina,,,,
+BR-SP,Brazil,Sao Paulo,,,,
+BR-SE,Brazil,Sergipe,,,,
+BR-TO,Brazil,Tocantins,,,,
+CL-AN,Chile,Antofagasta,2020-12-25T15:14:26,23306,582,22244
+CL-AR,Chile,Araucania,2020-12-25T15:14:26,21870,285,20504
+CL-AP,Chile,Arica y Parinacota,2020-12-25T15:14:26,10674,222,10284
+CL-AT,Chile,Atacama,2020-12-25T15:14:26,8442,112,8214
+CL-AI,Chile,Aysen,2020-12-25T15:14:26,1450,15,1352
+CL-BI,Chile,Biobio,2020-12-25T15:14:26,45209,756,41847
+CL-CO,Chile,Coquimbo,2020-12-25T15:14:26,14028,291,13457
+CL-LL,Chile,Los Lagos,2020-12-25T15:14:26,24579,252,23013
+CL-LR,Chile,Los Rios,2020-12-25T15:14:26,8294,81,7591
+CL-MA,Chile,Magallanes,2020-12-25T15:14:26,16472,229,15746
+CL-ML,Chile,Maule,2020-12-25T15:14:26,24193,542,22343
+CL-NB,Chile,Nuble,2020-12-25T15:14:26,10208,209,9552
+CL-LI,Chile,O'Higgins,2020-12-25T15:14:26,21136,577,20140
+CL-RM,Chile,Santiago,2020-12-25T15:14:26,315724,10700,301728
+CL-TA,Chile,Tarapaca,2020-12-25T15:14:26,15191,274,14385
+CL-VS,Chile,Valparaiso,2020-12-25T15:14:26,35011,1230,32897
 CO-AMA,Colombia,Amazonas,2020-12-25 12:19:51.993515,0,0,
 CO-ANT,Colombia,Antioquia,2020-12-25 12:19:51.993515,0,0,
 CO-ARA,Colombia,Arauca,2020-12-25 12:19:51.993515,0,0,
@@ -163,30 +163,30 @@ DO-26,Dominican Republic,Santiago,,,,
 DO-32,Dominican Republic,Santiago Rodriguez,,,,
 DO-01,Dominican Republic,Santo Domingo,,,,
 DO-27,Dominican Republic,Valverde,,,,
-EC-A,Ecuador,Azuay,2020-12-25 12:19:51.993515,75,1,
-EC-B,Ecuador,Bolivar,2020-12-25 12:19:51.993515,10,0,
-EC-F,Ecuador,Canar,2020-12-25 12:19:51.993515,28,1,
+EC-A,Ecuador,Azuay,2020-12-25 12:19:51.993515,0,0,
+EC-B,Ecuador,Bolivar,2020-12-25 12:19:51.993515,0,0,
+EC-F,Ecuador,Canar,2020-12-25 12:19:51.993515,0,0,
 EC-C,Ecuador,Carchi,2020-12-25 12:19:51.993515,0,0,
-EC-H,Ecuador,Chimborazo,2020-12-25 12:19:51.993515,5,2,
-EC-X,Ecuador,Cotopaxi,2020-12-25 12:19:51.993515,17,0,
-EC-O,Ecuador,El Oro,2020-12-25 12:19:51.993515,139,0,
-EC-E,Ecuador,Esmeraldas,2020-12-25 12:19:51.993515,42,0,
-EC-W,Ecuador,Galapagos,2020-12-25 12:19:51.993515,13,0,
-EC-G,Ecuador,Guayas,2020-12-25 12:19:51.993515,27,0,
-EC-I,Ecuador,Imbabura,2020-12-25 12:19:51.993515,126,4,
-EC-L,Ecuador,Loja,2020-12-25 12:19:51.993515,6,1,
-EC-R,Ecuador,Los Rios,2020-12-25 12:19:51.993515,44,3,
-EC-M,Ecuador,Manabi,2020-12-25 12:19:51.993515,191,1,
-EC-S,Ecuador,Morona Santiago,2020-12-25 12:19:51.993515,31,0,
-EC-N,Ecuador,Napo,2020-12-25 12:19:51.993515,28,1,
-EC-D,Ecuador,Orellana,2020-12-25 12:19:51.993515,14,0,
-EC-Y,Ecuador,Pastaza,2020-12-25 12:19:51.993515,26,0,
-EC-P,Ecuador,Pichincha,2020-12-25 12:19:51.993515,64,0,
-EC-SE,Ecuador,Santa Elena,2020-12-25 12:19:51.993515,2,0,
-EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-12-25 12:19:51.993515,1,0,
-EC-U,Ecuador,Sucumbios,2020-12-25 12:19:51.993515,19,0,
-EC-T,Ecuador,Tungurahua,2020-12-25 12:19:51.993515,9,0,
-EC-Z,Ecuador,Zamora-Chinchipe,2020-12-25 12:19:51.993515,9,0,
+EC-H,Ecuador,Chimborazo,2020-12-25 12:19:51.993515,0,0,
+EC-X,Ecuador,Cotopaxi,2020-12-25 12:19:51.993515,0,0,
+EC-O,Ecuador,El Oro,2020-12-25 12:19:51.993515,0,0,
+EC-E,Ecuador,Esmeraldas,2020-12-25 12:19:51.993515,0,0,
+EC-W,Ecuador,Galapagos,2020-12-25 12:19:51.993515,0,0,
+EC-G,Ecuador,Guayas,2020-12-25 12:19:51.993515,0,0,
+EC-I,Ecuador,Imbabura,2020-12-25 12:19:51.993515,0,0,
+EC-L,Ecuador,Loja,2020-12-25 12:19:51.993515,0,0,
+EC-R,Ecuador,Los Rios,2020-12-25 12:19:51.993515,0,0,
+EC-M,Ecuador,Manabi,2020-12-25 12:19:51.993515,0,0,
+EC-S,Ecuador,Morona Santiago,2020-12-25 12:19:51.993515,0,0,
+EC-N,Ecuador,Napo,2020-12-25 12:19:51.993515,0,0,
+EC-D,Ecuador,Orellana,2020-12-25 12:19:51.993515,0,0,
+EC-Y,Ecuador,Pastaza,2020-12-25 12:19:51.993515,0,0,
+EC-P,Ecuador,Pichincha,2020-12-25 12:19:51.993515,0,0,
+EC-SE,Ecuador,Santa Elena,2020-12-25 12:19:51.993515,0,0,
+EC-SD,Ecuador,Santo Domingo de los Tsachilas,2020-12-25 12:19:51.993515,0,0,
+EC-U,Ecuador,Sucumbios,2020-12-25 12:19:51.993515,0,0,
+EC-T,Ecuador,Tungurahua,2020-12-25 12:19:51.993515,0,0,
+EC-Z,Ecuador,Zamora-Chinchipe,2020-12-25 12:19:51.993515,0,0,
 SV-AH,El Salvador,Ahuachapan,,,,
 SV-CA,El Salvador,Cabanas,,,,
 SV-CH,El Salvador,Chalatenango,,,,
@@ -239,56 +239,56 @@ HT-NO,Haiti,Nord-Ouest,,,,
 HT-OU,Haiti,Ouest,,,,
 HT-SD,Haiti,Sud,,,,
 HT-SE,Haiti,Sud-Est,,,,
-HN-AT,Honduras,Atlantida,2020-12-25T14:14:29,7048,182,2800
-HN-CH,Honduras,Choluteca,2020-12-25T14:14:29,2863,67,1640
-HN-CL,Honduras,Colon,2020-12-25T14:14:29,4414,118,1127
-HN-CM,Honduras,Comayagua,2020-12-25T14:14:29,3440,160,1585
-HN-CP,Honduras,Copan,2020-12-25T14:14:29,3100,133,2167
-HN-CR,Honduras,Cortes,2020-12-25T14:14:29,31666,884,15969
-HN-EP,Honduras,El Paraiso,2020-12-25T14:14:29,4746,112,4048
-HN-FM,Honduras,Francisco Morazan,2020-12-25T14:14:29,32548,739,10306
-HN-GD,Honduras,Gracias a Dios,2020-12-25T14:14:29,861,21,484
-HN-IN,Honduras,Intibuca,2020-12-25T14:14:29,2364,39,1498
-HN-IB,Honduras,Islas de la Bahia,2020-12-25T14:14:29,2236,42,387
-HN-LP,Honduras,La Paz,2020-12-25T14:14:29,2848,60,2164
-HN-LE,Honduras,Lempira,2020-12-25T14:14:29,1270,50,948
-HN-OC,Honduras,Ocotepeque,2020-12-25T14:14:29,1325,27,1046
-HN-OL,Honduras,Olancho,2020-12-25T14:14:29,3852,134,1571
-HN-SB,Honduras,Santa Barbara,2020-12-25T14:14:29,3146,110,2060
-HN-VA,Honduras,Valle,2020-12-25T14:14:29,2572,50,715
-HN-YO,Honduras,Yoro,2020-12-25T14:14:29,6891,106,3052
-MX-AGU,Mexico,Aguascalientes,2020-12-25T05:35:48,16526,1362,
-MX-BCN,Mexico,Baja California,2020-12-25T05:35:48,32284,5134,
-MX-BCS,Mexico,Baja California Sur,2020-12-25T05:35:48,16758,744,
-MX-CAM,Mexico,Campeche,2020-12-25T05:35:48,7356,962,
-MX-CHP,Mexico,Chiapas,2020-12-25T05:35:48,7697,1107,
-MX-CHH,Mexico,Chihuahua,2020-12-25T05:35:48,35581,4318,
-MX-CMX,Mexico,Ciudad de Mexico,2020-12-25T05:35:48,362607,20684,
-MX-COA,Mexico,Coahuila,2020-12-25T05:35:48,47509,4036,
-MX-COL,Mexico,Colima,2020-12-25T05:35:48,7856,838,
-MX-DUR,Mexico,Durango,2020-12-25T05:35:48,24812,1460,
-MX-GUA,Mexico,Guanajuato,2020-12-25T05:35:48,78636,4973,
-MX-GRO,Mexico,Guerrero,2020-12-25T05:35:48,25006,2558,
-MX-HID,Mexico,Hidalgo,2020-12-25T05:35:48,22391,3186,
-MX-JAL,Mexico,Jalisco,2020-12-25T05:35:48,49536,5660,
-MX-MIC,Mexico,Michoacan,2020-12-25T05:35:48,32064,2610,
-MX-MOR,Mexico,Morelos,2020-12-25T05:35:48,8747,1371,
-MX-MEX,Mexico,Mexico,2020-12-25T05:35:48,86409,13699,
-MX-NAY,Mexico,Nayarit,2020-12-25T05:35:48,7647,1081,
-MX-NLE,Mexico,Nuevo Leon,2020-12-25T05:35:48,80084,5029,
-MX-OAX,Mexico,Oaxaca,2020-12-25T05:35:48,27140,1998,
-MX-PUE,Mexico,Puebla,2020-12-25T05:35:48,46486,5581,
-MX-QUE,Mexico,Queretaro,2020-12-25T05:35:48,30601,1881,
-MX-ROO,Mexico,Quintana Roo,2020-12-25T05:35:48,15408,1984,
-MX-SLP,Mexico,San Luis Potosi,2020-12-25T05:35:48,38880,2944,
-MX-SIN,Mexico,Sinaloa,2020-12-25T05:35:48,26246,4166,
-MX-SON,Mexico,Sonora,2020-12-25T05:35:48,49850,3977,
-MX-TAB,Mexico,Tabasco,2020-12-25T05:35:48,42895,3223,
-MX-TAM,Mexico,Tamaulipas,2020-12-25T05:35:48,38318,3271,
-MX-TLA,Mexico,Tlaxcala,2020-12-25T05:35:48,9249,1279,
-MX-VER,Mexico,Veracruz,2020-12-25T05:35:48,41293,6129,
-MX-YUC,Mexico,Yucatan,2020-12-25T05:35:48,26262,2249,
-MX-ZAC,Mexico,Zacatecas,2020-12-25T05:35:48,20430,1678,
+HN-AT,Honduras,Atlantida,,,,
+HN-CH,Honduras,Choluteca,,,,
+HN-CL,Honduras,Colon,,,,
+HN-CM,Honduras,Comayagua,,,,
+HN-CP,Honduras,Copan,,,,
+HN-CR,Honduras,Cortes,,,,
+HN-EP,Honduras,El Paraiso,,,,
+HN-FM,Honduras,Francisco Morazan,,,,
+HN-GD,Honduras,Gracias a Dios,,,,
+HN-IN,Honduras,Intibuca,,,,
+HN-IB,Honduras,Islas de la Bahia,,,,
+HN-LP,Honduras,La Paz,,,,
+HN-LE,Honduras,Lempira,,,,
+HN-OC,Honduras,Ocotepeque,,,,
+HN-OL,Honduras,Olancho,,,,
+HN-SB,Honduras,Santa Barbara,,,,
+HN-VA,Honduras,Valle,,,,
+HN-YO,Honduras,Yoro,,,,
+MX-AGU,Mexico,Aguascalientes,,,,
+MX-BCN,Mexico,Baja California,,,,
+MX-BCS,Mexico,Baja California Sur,,,,
+MX-CAM,Mexico,Campeche,,,,
+MX-CHP,Mexico,Chiapas,,,,
+MX-CHH,Mexico,Chihuahua,,,,
+MX-CMX,Mexico,Ciudad de Mexico,,,,
+MX-COA,Mexico,Coahuila,,,,
+MX-COL,Mexico,Colima,,,,
+MX-DUR,Mexico,Durango,,,,
+MX-GUA,Mexico,Guanajuato,,,,
+MX-GRO,Mexico,Guerrero,,,,
+MX-HID,Mexico,Hidalgo,,,,
+MX-JAL,Mexico,Jalisco,,,,
+MX-MIC,Mexico,Michoacan,,,,
+MX-MOR,Mexico,Morelos,,,,
+MX-MEX,Mexico,Mexico,,,,
+MX-NAY,Mexico,Nayarit,,,,
+MX-NLE,Mexico,Nuevo Leon,,,,
+MX-OAX,Mexico,Oaxaca,,,,
+MX-PUE,Mexico,Puebla,,,,
+MX-QUE,Mexico,Queretaro,,,,
+MX-ROO,Mexico,Quintana Roo,,,,
+MX-SLP,Mexico,San Luis Potosi,,,,
+MX-SIN,Mexico,Sinaloa,,,,
+MX-SON,Mexico,Sonora,,,,
+MX-TAB,Mexico,Tabasco,,,,
+MX-TAM,Mexico,Tamaulipas,,,,
+MX-TLA,Mexico,Tlaxcala,,,,
+MX-VER,Mexico,Veracruz,,,,
+MX-YUC,Mexico,Yucatan,,,,
+MX-ZAC,Mexico,Zacatecas,,,,
 NI-BO,Nicaragua,Boaco,,,,
 NI-CA,Nicaragua,Carazo,,,,
 NI-CI,Nicaragua,Chinandega,,,,
