@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,2020-12-17 16:36:38.537153,435547,4504,
 BR-SP,Brazil,Sao Paulo,2020-12-17 16:36:38.537153,1341428,44282,
 BR-SE,Brazil,Sergipe,2020-12-17 16:36:38.537153,100371,2374,
 BR-TO,Brazil,Tocantins,2020-12-17 16:36:38.537153,85731,1206,
-CL-AN,Chile,Antofagasta,,,,
-CL-AR,Chile,Araucania,,,,
-CL-AP,Chile,Arica y Parinacota,,,,
-CL-AT,Chile,Atacama,,,,
-CL-AI,Chile,Aysen,,,,
-CL-BI,Chile,Biobio,,,,
-CL-CO,Chile,Coquimbo,,,,
-CL-LL,Chile,Los Lagos,,,,
-CL-LR,Chile,Los Rios,,,,
-CL-MA,Chile,Magallanes,,,,
-CL-ML,Chile,Maule,,,,
-CL-NB,Chile,Nuble,,,,
-CL-LI,Chile,O'Higgins,,,,
-CL-RM,Chile,Santiago,,,,
-CL-TA,Chile,Tarapaca,,,,
-CL-VS,Chile,Valparaiso,,,,
+CL-AN,Chile,Antofagasta,2020-12-26T22:04:02,22690,575,21835
+CL-AR,Chile,Araucania,2020-12-26T22:04:02,20075,261,18880
+CL-AP,Chile,Arica y Parinacota,2020-12-26T22:04:02,10463,214,10105
+CL-AT,Chile,Atacama,2020-12-26T22:04:02,8285,109,8122
+CL-AI,Chile,Aysen,2020-12-26T22:04:02,1344,15,1287
+CL-BI,Chile,Biobio,2020-12-26T22:04:02,41411,690,38458
+CL-CO,Chile,Coquimbo,2020-12-26T22:04:02,13612,281,13109
+CL-LL,Chile,Los Lagos,2020-12-26T22:04:02,22747,230,21667
+CL-LR,Chile,Los Rios,2020-12-26T22:04:02,7380,70,6709
+CL-MA,Chile,Magallanes,2020-12-26T22:04:02,15691,219,14932
+CL-ML,Chile,Maule,2020-12-26T22:04:02,22452,516,21128
+CL-NB,Chile,Nuble,2020-12-26T22:04:02,9577,192,9031
+CL-LI,Chile,O'Higgins,2020-12-26T22:04:02,20561,565,19686
+CL-RM,Chile,Santiago,2020-12-26T22:04:02,310828,10556,297649
+CL-TA,Chile,Tarapaca,2020-12-26T22:04:02,14443,265,13894
+CL-VS,Chile,Valparaiso,2020-12-26T22:04:02,33725,1190,31980
 CO-AMA,Colombia,Amazonas,2020-12-17 16:36:38.537153,0,0,
 CO-ANT,Colombia,Antioquia,2020-12-17 16:36:38.537153,0,0,
 CO-ARA,Colombia,Arauca,2020-12-17 16:36:38.537153,0,0,

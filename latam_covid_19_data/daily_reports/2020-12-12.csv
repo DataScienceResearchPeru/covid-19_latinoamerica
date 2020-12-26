@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,2020-12-15 12:01:29.950446,426095,4334,
 BR-SP,Brazil,Sao Paulo,2020-12-15 12:01:29.950446,1333763,43971,
 BR-SE,Brazil,Sergipe,2020-12-15 12:01:29.950446,98472,2361,
 BR-TO,Brazil,Tocantins,2020-12-15 12:01:29.950446,85272,1198,
-CL-AN,Chile,Antofagasta,,,,
-CL-AR,Chile,Araucania,,,,
-CL-AP,Chile,Arica y Parinacota,,,,
-CL-AT,Chile,Atacama,,,,
-CL-AI,Chile,Aysen,,,,
-CL-BI,Chile,Biobio,,,,
-CL-CO,Chile,Coquimbo,,,,
-CL-LL,Chile,Los Lagos,,,,
-CL-LR,Chile,Los Rios,,,,
-CL-MA,Chile,Magallanes,,,,
-CL-ML,Chile,Maule,,,,
-CL-NB,Chile,Nuble,,,,
-CL-LI,Chile,O'Higgins,,,,
-CL-RM,Chile,Santiago,,,,
-CL-TA,Chile,Tarapaca,,,,
-CL-VS,Chile,Valparaiso,,,,
+CL-AN,Chile,Antofagasta,2020-12-26T22:02:41,22526,571,21751
+CL-AR,Chile,Araucania,2020-12-26T22:02:41,19518,260,18296
+CL-AP,Chile,Arica y Parinacota,2020-12-26T22:02:41,10404,214,10062
+CL-AT,Chile,Atacama,2020-12-26T22:02:41,8261,108,8093
+CL-AI,Chile,Aysen,2020-12-26T22:02:41,1327,15,1270
+CL-BI,Chile,Biobio,2020-12-26T22:02:41,40373,669,37467
+CL-CO,Chile,Coquimbo,2020-12-26T22:02:41,13464,277,13008
+CL-LL,Chile,Los Lagos,2020-12-26T22:02:41,22346,226,21186
+CL-LR,Chile,Los Rios,2020-12-26T22:02:41,7087,66,6472
+CL-MA,Chile,Magallanes,2020-12-26T22:02:41,15388,215,14655
+CL-ML,Chile,Maule,2020-12-26T22:02:41,22055,512,20888
+CL-NB,Chile,Nuble,2020-12-26T22:02:41,9422,189,8866
+CL-LI,Chile,O'Higgins,2020-12-26T22:02:41,20416,562,19522
+CL-RM,Chile,Santiago,2020-12-26T22:02:41,309491,10517,296409
+CL-TA,Chile,Tarapaca,2020-12-26T22:02:41,14238,263,13752
+CL-VS,Chile,Valparaiso,2020-12-26T22:02:41,33420,1181,31664
 CO-AMA,Colombia,Amazonas,2020-12-15 12:01:29.950446,0,0,
 CO-ANT,Colombia,Antioquia,2020-12-15 12:01:29.950446,0,0,
 CO-ARA,Colombia,Arauca,2020-12-15 12:01:29.950446,0,0,
@@ -239,24 +239,24 @@ HT-NO,Haiti,Nord-Ouest,,,,
 HT-OU,Haiti,Ouest,,,,
 HT-SD,Haiti,Sud,,,,
 HT-SE,Haiti,Sud-Est,,,,
-HN-AT,Honduras,Atlantida,,,,
-HN-CH,Honduras,Choluteca,,,,
-HN-CL,Honduras,Colon,,,,
-HN-CM,Honduras,Comayagua,,,,
-HN-CP,Honduras,Copan,,,,
-HN-CR,Honduras,Cortes,,,,
-HN-EP,Honduras,El Paraiso,,,,
-HN-FM,Honduras,Francisco Morazan,,,,
-HN-GD,Honduras,Gracias a Dios,,,,
-HN-IN,Honduras,Intibuca,,,,
-HN-IB,Honduras,Islas de la Bahia,,,,
-HN-LP,Honduras,La Paz,,,,
-HN-LE,Honduras,Lempira,,,,
-HN-OC,Honduras,Ocotepeque,,,,
-HN-OL,Honduras,Olancho,,,,
-HN-SB,Honduras,Santa Barbara,,,,
-HN-VA,Honduras,Valle,,,,
-HN-YO,Honduras,Yoro,,,,
+HN-AT,Honduras,Atlantida,2020-12-13T08:14:21,7000,182,2658
+HN-CH,Honduras,Choluteca,2020-12-13T08:14:21,2831,67,1540
+HN-CL,Honduras,Colon,2020-12-13T08:14:21,4288,106,1127
+HN-CM,Honduras,Comayagua,2020-12-13T08:14:21,3340,156,1585
+HN-CP,Honduras,Copan,2020-12-13T08:14:21,3054,131,2088
+HN-CR,Honduras,Cortes,2020-12-13T08:14:21,30483,865,15500
+HN-EP,Honduras,El Paraiso,2020-12-13T08:14:21,4563,112,3802
+HN-FM,Honduras,Francisco Morazan,2020-12-13T08:14:21,31694,725,9059
+HN-GD,Honduras,Gracias a Dios,2020-12-13T08:14:21,848,21,484
+HN-IN,Honduras,Intibuca,2020-12-13T08:14:21,2263,39,1372
+HN-IB,Honduras,Islas de la Bahia,2020-12-13T08:14:21,2234,42,387
+HN-LP,Honduras,La Paz,2020-12-13T08:14:21,2776,59,2164
+HN-LE,Honduras,Lempira,2020-12-13T08:14:21,1239,48,859
+HN-OC,Honduras,Ocotepeque,2020-12-13T08:14:21,1295,27,996
+HN-OL,Honduras,Olancho,2020-12-13T08:14:21,3777,134,1504
+HN-SB,Honduras,Santa Barbara,2020-12-13T08:14:21,3055,105,2034
+HN-VA,Honduras,Valle,2020-12-13T08:14:21,2515,50,692
+HN-YO,Honduras,Yoro,2020-12-13T08:14:21,6788,105,3002
 MX-AGU,Mexico,Aguascalientes,2020-12-16T05:18:17,15517,1251,
 MX-BCN,Mexico,Baja California,2020-12-16T05:18:17,29416,4703,
 MX-BCS,Mexico,Baja California Sur,2020-12-16T05:18:17,15602,705,
