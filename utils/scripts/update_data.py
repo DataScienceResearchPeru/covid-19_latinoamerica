@@ -155,7 +155,7 @@ if __name__ == "__main__":
 
     load_all_data_temporal(list_date_list)
 
-    print('List of dates to be modified:', end='')
+    print('List of dates to be modified:')
 
     for d in list_date_list:  # date_list
 
@@ -172,7 +172,7 @@ if __name__ == "__main__":
         execute_country(path_ecuador, path_dsrp, d, 'EC-', today)
         execute_country(path_peru, path_dsrp, d, 'PE-', today)
 
-        print(d, end=' & ')
+        print(d)
 
 
     time_series_generator.generate() #Generate time series
