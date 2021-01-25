@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,2021-01-24T15:00:59,29567,620,27009
-CL-AR,Chile,Araucania,2021-01-24T15:00:59,29732,379,27650
-CL-AP,Chile,Arica y Parinacota,2021-01-24T15:00:59,12339,250,11484
-CL-AT,Chile,Atacama,2021-01-24T15:00:59,9665,123,9193
-CL-AI,Chile,Aysen,2021-01-24T15:00:59,2316,18,2058
-CL-BI,Chile,Biobio,2021-01-24T15:00:59,58212,1002,54082
-CL-CO,Chile,Coquimbo,2021-01-24T15:00:59,16119,328,15149
-CL-LL,Chile,Los Lagos,2021-01-24T15:00:59,38197,359,33813
-CL-LR,Chile,Los Rios,2021-01-24T15:00:59,13316,137,11698
-CL-MA,Chile,Magallanes,2021-01-24T15:00:59,19324,264,18488
-CL-ML,Chile,Maule,2021-01-24T15:00:59,33024,660,30234
-CL-NB,Chile,Nuble,2021-01-24T15:00:59,13053,254,11960
-CL-LI,Chile,O'Higgins,2021-01-24T15:00:59,24870,643,23157
-CL-RM,Chile,Santiago,2021-01-24T15:00:59,337533,11205,321150
-CL-TA,Chile,Tarapaca,2021-01-24T15:00:59,20123,336,18612
-CL-VS,Chile,Valparaiso,2021-01-24T15:00:59,41669,1354,38708
+CL-AN,Chile,Antofagasta,2021-01-25T17:18:05,29859,624,27329
+CL-AR,Chile,Araucania,2021-01-25T17:18:05,30029,383,27963
+CL-AP,Chile,Arica y Parinacota,2021-01-25T17:18:05,12417,251,11562
+CL-AT,Chile,Atacama,2021-01-25T17:18:05,9737,123,9243
+CL-AI,Chile,Aysen,2021-01-25T17:18:05,2353,18,2096
+CL-BI,Chile,Biobio,2021-01-25T17:18:05,58668,1007,54550
+CL-CO,Chile,Coquimbo,2021-01-25T17:18:05,16224,329,15228
+CL-LL,Chile,Los Lagos,2021-01-25T17:18:05,38759,366,34452
+CL-LR,Chile,Los Rios,2021-01-25T17:18:05,13515,143,11918
+CL-MA,Chile,Magallanes,2021-01-25T17:18:05,19430,266,18582
+CL-ML,Chile,Maule,2021-01-25T17:18:05,33429,663,30632
+CL-NB,Chile,Nuble,2021-01-25T17:18:05,13137,255,12075
+CL-LI,Chile,O'Higgins,2021-01-25T17:18:05,25028,645,23319
+CL-RM,Chile,Santiago,2021-01-25T17:18:05,338398,11225,321942
+CL-TA,Chile,Tarapaca,2021-01-25T17:18:05,20276,338,18810
+CL-VS,Chile,Valparaiso,2021-01-25T17:18:05,41868,1362,38953
 CO-AMA,Colombia,Amazonas,,,,
 CO-ANT,Colombia,Antioquia,,,,
 CO-ARA,Colombia,Arauca,,,,
@@ -239,56 +239,56 @@ HT-NO,Haiti,Nord-Ouest,,,,
 HT-OU,Haiti,Ouest,,,,
 HT-SD,Haiti,Sud,,,,
 HT-SE,Haiti,Sud-Est,,,,
-HN-AT,Honduras,Atlantida,2021-01-25T16:18:08,7900,196,2811
-HN-CH,Honduras,Choluteca,2021-01-25T16:18:08,3096,70,1837
-HN-CL,Honduras,Colon,2021-01-25T16:18:08,4904,127,1127
-HN-CM,Honduras,Comayagua,2021-01-25T16:18:08,4317,190,1585
-HN-CP,Honduras,Copan,2021-01-25T16:18:08,3401,149,2234
-HN-CR,Honduras,Cortes,2021-01-25T16:18:08,41451,1038,17250
-HN-EP,Honduras,El Paraiso,2021-01-25T16:18:08,5950,123,4548
-HN-FM,Honduras,Francisco Morazan,2021-01-25T16:18:08,38723,836,12302
-HN-GD,Honduras,Gracias a Dios,2021-01-25T16:18:08,869,21,484
-HN-IN,Honduras,Intibuca,2021-01-25T16:18:08,2692,41,1642
-HN-IB,Honduras,Islas de la Bahia,2021-01-25T16:18:08,2348,42,387
-HN-LP,Honduras,La Paz,2021-01-25T16:18:08,3358,65,2412
-HN-LE,Honduras,Lempira,2021-01-25T16:18:08,1530,53,1060
-HN-OC,Honduras,Ocotepeque,2021-01-25T16:18:08,1541,36,1074
-HN-OL,Honduras,Olancho,2021-01-25T16:18:08,4385,159,1780
-HN-SB,Honduras,Santa Barbara,2021-01-25T16:18:08,3774,134,2124
-HN-VA,Honduras,Valle,2021-01-25T16:18:08,2872,59,715
-HN-YO,Honduras,Yoro,2021-01-25T16:18:08,7818,108,3159
-MX-AGU,Mexico,Aguascalientes,2021-01-25T05:47:33,19957,1630,
-MX-BCN,Mexico,Baja California,2021-01-25T05:47:33,40440,6488,
-MX-BCS,Mexico,Baja California Sur,2021-01-25T05:47:33,22174,904,
-MX-CAM,Mexico,Campeche,2021-01-25T05:47:33,7988,995,
-MX-CHP,Mexico,Chiapas,2021-01-25T05:47:33,8637,1202,
-MX-CHH,Mexico,Chihuahua,2021-01-25T05:47:33,39630,4805,
-MX-CMX,Mexico,Ciudad de Mexico,2021-01-25T05:47:33,524512,26920,
-MX-COA,Mexico,Coahuila,2021-01-25T05:47:33,57654,5034,
-MX-COL,Mexico,Colima,2021-01-25T05:47:33,9263,929,
-MX-DUR,Mexico,Durango,2021-01-25T05:47:33,27981,1741,
-MX-GUA,Mexico,Guanajuato,2021-01-25T05:47:33,101961,6649,
-MX-GRO,Mexico,Guerrero,2021-01-25T05:47:33,29214,2861,
-MX-HID,Mexico,Hidalgo,2021-01-25T05:47:33,29262,4288,
-MX-JAL,Mexico,Jalisco,2021-01-25T05:47:33,65400,7807,
-MX-MIC,Mexico,Michoacan,2021-01-25T05:47:33,38520,3282,
-MX-MOR,Mexico,Morelos,2021-01-25T05:47:33,16102,1713,
-MX-MEX,Mexico,Mexico,2021-01-25T05:47:33,109202,17226,
-MX-NAY,Mexico,Nayarit,2021-01-25T05:47:33,9345,1312,
-MX-NLE,Mexico,Nuevo Leon,2021-01-25T05:47:33,101568,6231,
-MX-OAX,Mexico,Oaxaca,2021-01-25T05:47:33,32950,2335,
-MX-PUE,Mexico,Puebla,2021-01-25T05:47:33,59741,6739,
-MX-QUE,Mexico,Queretaro,2021-01-25T05:47:33,43729,2691,
-MX-ROO,Mexico,Quintana Roo,2021-01-25T05:47:33,17938,2163,
-MX-SLP,Mexico,San Luis Potosi,2021-01-25T05:47:33,47859,3568,
-MX-SIN,Mexico,Sinaloa,2021-01-25T05:47:33,30155,4570,
-MX-SON,Mexico,Sonora,2021-01-25T05:47:33,60676,5153,
-MX-TAB,Mexico,Tabasco,2021-01-25T05:47:33,51304,3485,
-MX-TAM,Mexico,Tamaulipas,2021-01-25T05:47:33,45978,3791,
-MX-TLA,Mexico,Tlaxcala,2021-01-25T05:47:33,12554,1646,
-MX-VER,Mexico,Veracruz,2021-01-25T05:47:33,47937,6807,
-MX-YUC,Mexico,Yucatan,2021-01-25T05:47:33,29404,2644,
-MX-ZAC,Mexico,Zacatecas,2021-01-25T05:47:33,24184,2005,
+HN-AT,Honduras,Atlantida,,,,
+HN-CH,Honduras,Choluteca,,,,
+HN-CL,Honduras,Colon,,,,
+HN-CM,Honduras,Comayagua,,,,
+HN-CP,Honduras,Copan,,,,
+HN-CR,Honduras,Cortes,,,,
+HN-EP,Honduras,El Paraiso,,,,
+HN-FM,Honduras,Francisco Morazan,,,,
+HN-GD,Honduras,Gracias a Dios,,,,
+HN-IN,Honduras,Intibuca,,,,
+HN-IB,Honduras,Islas de la Bahia,,,,
+HN-LP,Honduras,La Paz,,,,
+HN-LE,Honduras,Lempira,,,,
+HN-OC,Honduras,Ocotepeque,,,,
+HN-OL,Honduras,Olancho,,,,
+HN-SB,Honduras,Santa Barbara,,,,
+HN-VA,Honduras,Valle,,,,
+HN-YO,Honduras,Yoro,,,,
+MX-AGU,Mexico,Aguascalientes,,,,
+MX-BCN,Mexico,Baja California,,,,
+MX-BCS,Mexico,Baja California Sur,,,,
+MX-CAM,Mexico,Campeche,,,,
+MX-CHP,Mexico,Chiapas,,,,
+MX-CHH,Mexico,Chihuahua,,,,
+MX-CMX,Mexico,Ciudad de Mexico,,,,
+MX-COA,Mexico,Coahuila,,,,
+MX-COL,Mexico,Colima,,,,
+MX-DUR,Mexico,Durango,,,,
+MX-GUA,Mexico,Guanajuato,,,,
+MX-GRO,Mexico,Guerrero,,,,
+MX-HID,Mexico,Hidalgo,,,,
+MX-JAL,Mexico,Jalisco,,,,
+MX-MIC,Mexico,Michoacan,,,,
+MX-MOR,Mexico,Morelos,,,,
+MX-MEX,Mexico,Mexico,,,,
+MX-NAY,Mexico,Nayarit,,,,
+MX-NLE,Mexico,Nuevo Leon,,,,
+MX-OAX,Mexico,Oaxaca,,,,
+MX-PUE,Mexico,Puebla,,,,
+MX-QUE,Mexico,Queretaro,,,,
+MX-ROO,Mexico,Quintana Roo,,,,
+MX-SLP,Mexico,San Luis Potosi,,,,
+MX-SIN,Mexico,Sinaloa,,,,
+MX-SON,Mexico,Sonora,,,,
+MX-TAB,Mexico,Tabasco,,,,
+MX-TAM,Mexico,Tamaulipas,,,,
+MX-TLA,Mexico,Tlaxcala,,,,
+MX-VER,Mexico,Veracruz,,,,
+MX-YUC,Mexico,Yucatan,,,,
+MX-ZAC,Mexico,Zacatecas,,,,
 NI-BO,Nicaragua,Boaco,,,,
 NI-CA,Nicaragua,Carazo,,,,
 NI-CI,Nicaragua,Chinandega,,,,
