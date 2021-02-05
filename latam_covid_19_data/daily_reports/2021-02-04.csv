@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,2021-02-03T15:48:21,32164,660,29856
-CL-AR,Chile,Araucania,2021-02-03T15:48:21,32616,412,30727
-CL-AP,Chile,Arica y Parinacota,2021-02-03T15:48:21,13195,256,12302
-CL-AT,Chile,Atacama,2021-02-03T15:48:21,10426,129,9844
-CL-AI,Chile,Aysen,2021-02-03T15:48:21,2571,20,2393
-CL-BI,Chile,Biobio,2021-02-03T15:48:21,61952,1077,58461
-CL-CO,Chile,Coquimbo,2021-02-03T15:48:21,17294,344,16233
-CL-LL,Chile,Los Lagos,2021-02-03T15:48:21,43332,422,39895
-CL-LR,Chile,Los Rios,2021-02-03T15:48:21,15214,162,13902
-CL-MA,Chile,Magallanes,2021-02-03T15:48:21,20185,276,19337
-CL-ML,Chile,Maule,2021-02-03T15:48:21,36451,709,33706
-CL-NB,Chile,Nuble,2021-02-03T15:48:21,14117,271,13113
-CL-LI,Chile,O'Higgins,2021-02-03T15:48:21,26611,668,24881
-CL-RM,Chile,Santiago,2021-02-03T15:48:21,344925,11407,329100
-CL-TA,Chile,Tarapaca,2021-02-03T15:48:21,21783,356,20463
-CL-VS,Chile,Valparaiso,2021-02-03T15:48:21,43758,1406,41067
+CL-AN,Chile,Antofagasta,2021-02-04T17:53:27,32471,668,30082
+CL-AR,Chile,Araucania,2021-02-04T17:53:27,32832,422,30954
+CL-AP,Chile,Arica y Parinacota,2021-02-04T17:53:27,13266,258,12372
+CL-AT,Chile,Atacama,2021-02-04T17:53:27,10476,130,9911
+CL-AI,Chile,Aysen,2021-02-04T17:53:27,2589,21,2424
+CL-BI,Chile,Biobio,2021-02-04T17:53:27,62382,1100,58814
+CL-CO,Chile,Coquimbo,2021-02-04T17:53:27,17435,349,16342
+CL-LL,Chile,Los Lagos,2021-02-04T17:53:27,43796,440,40308
+CL-LR,Chile,Los Rios,2021-02-04T17:53:27,15376,168,14065
+CL-MA,Chile,Magallanes,2021-02-04T17:53:27,20262,278,19435
+CL-ML,Chile,Maule,2021-02-04T17:53:27,36761,716,33979
+CL-NB,Chile,Nuble,2021-02-04T17:53:27,14252,280,13197
+CL-LI,Chile,O'Higgins,2021-02-04T17:53:27,26716,678,25042
+CL-RM,Chile,Santiago,2021-02-04T17:53:27,345608,11431,329791
+CL-TA,Chile,Tarapaca,2021-02-04T17:53:27,21943,367,20615
+CL-VS,Chile,Valparaiso,2021-02-04T17:53:27,44021,1424,41238
 CO-AMA,Colombia,Amazonas,2021-02-04 15:48:56.474253,0,0,
 CO-ANT,Colombia,Antioquia,2021-02-04 15:48:56.474253,0,0,
 CO-ARA,Colombia,Arauca,2021-02-04 15:48:56.474253,0,0,
@@ -163,30 +163,30 @@ DO-26,Dominican Republic,Santiago,,,,
 DO-32,Dominican Republic,Santiago Rodriguez,,,,
 DO-01,Dominican Republic,Santo Domingo,,,,
 DO-27,Dominican Republic,Valverde,,,,
-EC-A,Ecuador,Azuay,2021-02-04 15:48:56.474253,43,1,
-EC-B,Ecuador,Bolivar,2021-02-04 15:48:56.474253,30,0,
-EC-F,Ecuador,Canar,2021-02-04 15:48:56.474253,4,0,
-EC-C,Ecuador,Carchi,2021-02-04 15:48:56.474253,0,0,
-EC-H,Ecuador,Chimborazo,2021-02-04 15:48:56.474253,1,0,
-EC-X,Ecuador,Cotopaxi,2021-02-04 15:48:56.474253,51,0,
-EC-O,Ecuador,El Oro,2021-02-04 15:48:56.474253,203,1,
-EC-E,Ecuador,Esmeraldas,2021-02-04 15:48:56.474253,4,1,
-EC-W,Ecuador,Galapagos,2021-02-04 15:48:56.474253,58,0,
-EC-G,Ecuador,Guayas,2021-02-04 15:48:56.474253,38,3,
-EC-I,Ecuador,Imbabura,2021-02-04 15:48:56.474253,144,9,
-EC-L,Ecuador,Loja,2021-02-04 15:48:56.474253,1,0,
-EC-R,Ecuador,Los Rios,2021-02-04 15:48:56.474253,63,5,
-EC-M,Ecuador,Manabi,2021-02-04 15:48:56.474253,225,4,
-EC-S,Ecuador,Morona Santiago,2021-02-04 15:48:56.474253,74,3,
-EC-N,Ecuador,Napo,2021-02-04 15:48:56.474253,6,0,
-EC-D,Ecuador,Orellana,2021-02-04 15:48:56.474253,48,2,
-EC-Y,Ecuador,Pastaza,2021-02-04 15:48:56.474253,21,0,
-EC-P,Ecuador,Pichincha,2021-02-04 15:48:56.474253,30,1,
-EC-SE,Ecuador,Santa Elena,2021-02-04 15:48:56.474253,4,0,
-EC-SD,Ecuador,Santo Domingo de los Tsachilas,2021-02-04 15:48:56.474253,3,0,
-EC-U,Ecuador,Sucumbios,2021-02-04 15:48:56.474253,57,1,
-EC-T,Ecuador,Tungurahua,2021-02-04 15:48:56.474253,1,0,
-EC-Z,Ecuador,Zamora-Chinchipe,2021-02-04 15:48:56.474253,2,0,
+EC-A,Ecuador,Azuay,2021-02-04 15:48:56.474253,59,0,
+EC-B,Ecuador,Bolivar,2021-02-04 15:48:56.474253,58,0,
+EC-F,Ecuador,Canar,2021-02-04 15:48:56.474253,22,0,
+EC-C,Ecuador,Carchi,2021-02-04 15:48:56.474253,6,0,
+EC-H,Ecuador,Chimborazo,2021-02-04 15:48:56.474253,46,0,
+EC-X,Ecuador,Cotopaxi,2021-02-04 15:48:56.474253,45,0,
+EC-O,Ecuador,El Oro,2021-02-04 15:48:56.474253,117,5,
+EC-E,Ecuador,Esmeraldas,2021-02-04 15:48:56.474253,28,0,
+EC-W,Ecuador,Galapagos,2021-02-04 15:48:56.474253,54,0,
+EC-G,Ecuador,Guayas,2021-02-04 15:48:56.474253,40,1,
+EC-I,Ecuador,Imbabura,2021-02-04 15:48:56.474253,15,2,
+EC-L,Ecuador,Loja,2021-02-04 15:48:56.474253,3,0,
+EC-R,Ecuador,Los Rios,2021-02-04 15:48:56.474253,14,5,
+EC-M,Ecuador,Manabi,2021-02-04 15:48:56.474253,262,1,
+EC-S,Ecuador,Morona Santiago,2021-02-04 15:48:56.474253,58,0,
+EC-N,Ecuador,Napo,2021-02-04 15:48:56.474253,2,0,
+EC-D,Ecuador,Orellana,2021-02-04 15:48:56.474253,2,1,
+EC-Y,Ecuador,Pastaza,2021-02-04 15:48:56.474253,7,1,
+EC-P,Ecuador,Pichincha,2021-02-04 15:48:56.474253,45,1,
+EC-SE,Ecuador,Santa Elena,2021-02-04 15:48:56.474253,11,0,
+EC-SD,Ecuador,Santo Domingo de los Tsachilas,2021-02-04 15:48:56.474253,4,0,
+EC-U,Ecuador,Sucumbios,2021-02-04 15:48:56.474253,48,2,
+EC-T,Ecuador,Tungurahua,2021-02-04 15:48:56.474253,2,0,
+EC-Z,Ecuador,Zamora-Chinchipe,2021-02-04 15:48:56.474253,1,0,
 SV-AH,El Salvador,Ahuachapan,,,,
 SV-CA,El Salvador,Cabanas,,,,
 SV-CH,El Salvador,Chalatenango,,,,
@@ -239,56 +239,56 @@ HT-NO,Haiti,Nord-Ouest,,,,
 HT-OU,Haiti,Ouest,,,,
 HT-SD,Haiti,Sud,,,,
 HT-SE,Haiti,Sud-Est,,,,
-HN-AT,Honduras,Atlantida,2021-02-04T16:53:30,8336,208,2910
-HN-CH,Honduras,Choluteca,2021-02-04T16:53:30,3215,70,1884
-HN-CL,Honduras,Colon,2021-02-04T16:53:30,5137,127,1127
-HN-CM,Honduras,Comayagua,2021-02-04T16:53:30,4691,202,1585
-HN-CP,Honduras,Copan,2021-02-04T16:53:30,3627,161,2275
-HN-CR,Honduras,Cortes,2021-02-04T16:53:30,45222,1152,17630
-HN-EP,Honduras,El Paraiso,2021-02-04T16:53:30,6678,130,4548
-HN-FM,Honduras,Francisco Morazan,2021-02-04T16:53:30,40918,862,12388
-HN-GD,Honduras,Gracias a Dios,2021-02-04T16:53:30,876,21,484
-HN-IN,Honduras,Intibuca,2021-02-04T16:53:30,2911,42,1653
-HN-IB,Honduras,Islas de la Bahia,2021-02-04T16:53:30,2384,42,414
-HN-LP,Honduras,La Paz,2021-02-04T16:53:30,3642,69,2412
-HN-LE,Honduras,Lempira,2021-02-04T16:53:30,1607,60,1083
-HN-OC,Honduras,Ocotepeque,2021-02-04T16:53:30,1646,40,1115
-HN-OL,Honduras,Olancho,2021-02-04T16:53:30,4633,160,1815
-HN-SB,Honduras,Santa Barbara,2021-02-04T16:53:30,4188,144,2124
-HN-VA,Honduras,Valle,2021-02-04T16:53:30,3066,59,715
-HN-YO,Honduras,Yoro,2021-02-04T16:53:30,8326,113,3183
-MX-AGU,Mexico,Aguascalientes,2021-02-04T05:30:46,21337,1812,
-MX-BCN,Mexico,Baja California,2021-02-04T05:30:46,41988,6791,
-MX-BCS,Mexico,Baja California Sur,2021-02-04T05:30:46,23689,958,
-MX-CAM,Mexico,Campeche,2021-02-04T05:30:46,8237,1006,
-MX-CHP,Mexico,Chiapas,2021-02-04T05:30:46,8889,1275,
-MX-CHH,Mexico,Chihuahua,2021-02-04T05:30:46,40915,4941,
-MX-CMX,Mexico,Ciudad de Mexico,2021-02-04T05:30:46,569731,29518,
-MX-COA,Mexico,Coahuila,2021-02-04T05:30:46,60631,5332,
-MX-COL,Mexico,Colima,2021-02-04T05:30:46,9722,1004,
-MX-DUR,Mexico,Durango,2021-02-04T05:30:46,28898,1837,
-MX-GUA,Mexico,Guanajuato,2021-02-04T05:30:46,108296,7543,
-MX-GRO,Mexico,Guerrero,2021-02-04T05:30:46,31297,3063,
-MX-HID,Mexico,Hidalgo,2021-02-04T05:30:46,30983,4681,
-MX-JAL,Mexico,Jalisco,2021-02-04T05:30:46,70634,8639,
-MX-MIC,Mexico,Michoacan,2021-02-04T05:30:46,40479,3648,
-MX-MOR,Mexico,Morelos,2021-02-04T05:30:46,19182,1870,
-MX-MEX,Mexico,Mexico,2021-02-04T05:30:46,116830,18618,
-MX-NAY,Mexico,Nayarit,2021-02-04T05:30:46,10026,1438,
-MX-NLE,Mexico,Nuevo Leon,2021-02-04T05:30:46,108377,6916,
-MX-OAX,Mexico,Oaxaca,2021-02-04T05:30:46,35308,2493,
-MX-PUE,Mexico,Puebla,2021-02-04T05:30:46,64352,7220,
-MX-QUE,Mexico,Queretaro,2021-02-04T05:30:46,49057,2999,
-MX-ROO,Mexico,Quintana Roo,2021-02-04T05:30:46,18780,2221,
-MX-SLP,Mexico,San Luis Potosi,2021-02-04T05:30:46,51596,3825,
-MX-SIN,Mexico,Sinaloa,2021-02-04T05:30:46,31514,4810,
-MX-SON,Mexico,Sonora,2021-02-04T05:30:46,63740,5390,
-MX-TAB,Mexico,Tabasco,2021-02-04T05:30:46,53716,3604,
-MX-TAM,Mexico,Tamaulipas,2021-02-04T05:30:46,48454,4036,
-MX-TLA,Mexico,Tlaxcala,2021-02-04T05:30:46,13439,1778,
-MX-VER,Mexico,Veracruz,2021-02-04T05:30:46,50311,7091,
-MX-YUC,Mexico,Yucatan,2021-02-04T05:30:46,30527,2776,
-MX-ZAC,Mexico,Zacatecas,2021-02-04T05:30:46,25310,2107,
+HN-AT,Honduras,Atlantida,,,,
+HN-CH,Honduras,Choluteca,,,,
+HN-CL,Honduras,Colon,,,,
+HN-CM,Honduras,Comayagua,,,,
+HN-CP,Honduras,Copan,,,,
+HN-CR,Honduras,Cortes,,,,
+HN-EP,Honduras,El Paraiso,,,,
+HN-FM,Honduras,Francisco Morazan,,,,
+HN-GD,Honduras,Gracias a Dios,,,,
+HN-IN,Honduras,Intibuca,,,,
+HN-IB,Honduras,Islas de la Bahia,,,,
+HN-LP,Honduras,La Paz,,,,
+HN-LE,Honduras,Lempira,,,,
+HN-OC,Honduras,Ocotepeque,,,,
+HN-OL,Honduras,Olancho,,,,
+HN-SB,Honduras,Santa Barbara,,,,
+HN-VA,Honduras,Valle,,,,
+HN-YO,Honduras,Yoro,,,,
+MX-AGU,Mexico,Aguascalientes,,,,
+MX-BCN,Mexico,Baja California,,,,
+MX-BCS,Mexico,Baja California Sur,,,,
+MX-CAM,Mexico,Campeche,,,,
+MX-CHP,Mexico,Chiapas,,,,
+MX-CHH,Mexico,Chihuahua,,,,
+MX-CMX,Mexico,Ciudad de Mexico,,,,
+MX-COA,Mexico,Coahuila,,,,
+MX-COL,Mexico,Colima,,,,
+MX-DUR,Mexico,Durango,,,,
+MX-GUA,Mexico,Guanajuato,,,,
+MX-GRO,Mexico,Guerrero,,,,
+MX-HID,Mexico,Hidalgo,,,,
+MX-JAL,Mexico,Jalisco,,,,
+MX-MIC,Mexico,Michoacan,,,,
+MX-MOR,Mexico,Morelos,,,,
+MX-MEX,Mexico,Mexico,,,,
+MX-NAY,Mexico,Nayarit,,,,
+MX-NLE,Mexico,Nuevo Leon,,,,
+MX-OAX,Mexico,Oaxaca,,,,
+MX-PUE,Mexico,Puebla,,,,
+MX-QUE,Mexico,Queretaro,,,,
+MX-ROO,Mexico,Quintana Roo,,,,
+MX-SLP,Mexico,San Luis Potosi,,,,
+MX-SIN,Mexico,Sinaloa,,,,
+MX-SON,Mexico,Sonora,,,,
+MX-TAB,Mexico,Tabasco,,,,
+MX-TAM,Mexico,Tamaulipas,,,,
+MX-TLA,Mexico,Tlaxcala,,,,
+MX-VER,Mexico,Veracruz,,,,
+MX-YUC,Mexico,Yucatan,,,,
+MX-ZAC,Mexico,Zacatecas,,,,
 NI-BO,Nicaragua,Boaco,,,,
 NI-CA,Nicaragua,Carazo,,,,
 NI-CI,Nicaragua,Chinandega,,,,
