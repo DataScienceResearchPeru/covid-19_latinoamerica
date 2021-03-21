@@ -180,4 +180,5 @@ def load_and_generatecsv(list_date_list):
 
 
 if __name__ == "__main__":
+    print("======================ECUADOR======================")
     load_and_generatecsv(['2020-05-22', '2020-02-25'])

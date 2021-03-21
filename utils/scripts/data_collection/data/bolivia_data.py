@@ -153,7 +153,7 @@ def load_and_generatecsv(list_date_list):
                 a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
                 temp_dsrp.loc[a.index.values[0], 'Confirmed'] = number_confirmed
             except Exception as e:
-                print (e)
+                print (e, end=' + ')
             try:
                 """
                 DEATHS
@@ -168,7 +168,7 @@ def load_and_generatecsv(list_date_list):
                 a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
                 temp_dsrp.loc[a.index.values[0], 'Deaths'] = number_deaths
             except Exception as e:
-                print (e)
+                print (e, end=' + ')
             try:
                 """
                 RECOVERED
@@ -183,13 +183,17 @@ def load_and_generatecsv(list_date_list):
                 a = temp_dsrp[temp_dsrp['ISO 3166-2 Code'] == iso]
                 temp_dsrp.loc[a.index.values[0], 'Recovered'] = number_recovered
             except Exception as e:
-                print (e)
-        print(d, end=' - ')
+                print (e, end=' + ')
         # print(temp_dsrp)
         temp_dsrp = temp_dsrp.fillna('')
 
         temp_dsrp.to_csv(path_csv+d+'.csv', index=False)
 
 
+    print(d, end=' - ')
+
+
 if __name__ == "__main__":
-    load_and_generatecsv(['2020-04-03'])
+    print("======================BOLIVIDA - DEPRECATED ======================")
+
+    # load_and_generatecsv(['2020-04-03'])

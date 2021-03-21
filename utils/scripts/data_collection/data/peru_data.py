@@ -124,7 +124,12 @@ def generate_list_dates(path):
 
 
 def get_data_per_patient_oficial():
-    urllib.request.urlretrieve("https://www.datosabiertos.gob.pe/sites/default/files/DATOSABIERTOS_SISCOVID.zip", "utils/scripts/data_collection/data/peru_temporal/PE.zip")
+    """
+    Function DEPRECATED
+    """
+
+    urllib.request.urlretrieve("https://www.datosabiertos.gob.pe/sites/default/files/DATOSABIERTOS_SISCOVID.zip", 
+    "utils/scripts/data_collection/data/peru_temporal/PE.zip")
     
     zip_ref = zipfile.ZipFile("utils/scripts/data_collection/data/peru_temporal/PE.zip", 'r')
     zip_ref.extractall("latam_covid_19_data/per_patient/")
@@ -141,6 +146,9 @@ def get_data_per_patient_oficial():
     #os.rename('latam_covid_19_data/per_patient/DATOSABIERTOS_SISCOVID.csv', 'latam_covid_19_data/per_patient/PE.csv')
 
 def get_data_per_patient_oficial_v2():
+    """
+    Function DEPRECATED
+    """
 
     url='https://cloud.minsa.gob.pe/s/Y8w3wHsEdYQSZRp/download'
 
@@ -165,7 +173,7 @@ def load_and_generatecsv(list_date_list):
 
     # DEPRECATED BUT STILL WORKING get_data_per_patient_oficial()
 
-    get_data_per_patient_oficial_v2()
+    # get_data_per_patient_oficial_v2()
 
     for d in array_dates:  # array_dates
 
@@ -242,4 +250,5 @@ def load_and_generatecsv(list_date_list):
 
 
 if __name__ == "__main__":
-    load_and_generatecsv(['2020-05-15']) 
+    print("======================PERU======================")
+    load_and_generatecsv(['2020-05-22', '2020-02-25']) 

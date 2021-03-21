@@ -58,5 +58,6 @@ def load_and_generatecsv(list_date_list):
 
         
 if __name__ == "__main__":
-    load_and_generatecsv(['2020-05-17'])
+    print("======================COSTA RICA - DEPRECATED======================")
+    # load_and_generatecsv(['2020-05-17'])
     
