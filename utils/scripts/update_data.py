@@ -116,7 +116,7 @@ def execute_country(path_country, path_dsrp, d, isocode, today):
 
 def load_all_data_temporal(list_date_list):
     
-    argentina_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
+    #argentina_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     brazil_data.load_and_generatecsv(list_date_list)
     colombia_data.load_and_generatecsv(list_date_list) # NEEDS ALL DAYS ARRAY, NOT TAKING list_date_list AS A PARAMETER
     #costarica_data.load_and_generatecsv(list_date_list) BROKEN
@@ -124,7 +124,7 @@ def load_all_data_temporal(list_date_list):
     peru_data.load_and_generatecsv(list_date_list)
     ecuador_data.load_and_generatecsv(list_date_list)
     bolivia_data.load_and_generatecsv(list_date_list)
-    
+	
     print("------------------------ALL TEMPORALS CREATED----------------------------")
 
 
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
     list_date_list = date_list[0:2]
 
-    #load_all_data_temporal(list_date_list)
+    load_all_data_temporal(list_date_list)
 
     print('List of dates to be modified:')
 
