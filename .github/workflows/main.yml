@@ -3,7 +3,7 @@ name: daily_update
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: [ master ]
   schedule:
     - cron: '0 15 * * *' # runs at 15:00 UTC everyday
 
@@ -35,4 +35,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main  
+          branch: master  
