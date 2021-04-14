@@ -14,6 +14,8 @@
 [a4]: https://img.shields.io/badge/License-CC%20BY--NC--SA-green?style=for-the-badge&logo=appveyor
 [a5]: https://img.shields.io/badge/all_contributors-17-orange.svg?style=for-the-badge
 
+[![daily_update](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/actions/workflows/main.yml/badge.svg)](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/actions/workflows/main.yml)
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
