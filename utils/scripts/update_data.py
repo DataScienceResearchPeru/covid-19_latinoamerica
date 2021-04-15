@@ -159,6 +159,10 @@ if __name__ == "__main__":
 
     for d in list_date_list:  # date_list
 
+        if not os.path.isfile('latam_covid_19_data/daily_reports/'+d):
+            # Create day if not exists
+            df_base=pd.read_csv('latam_covid_19_data/templates/daily_report.csv') # Template
+            df_base.to_csv('latam_covid_19_data/daily_reports/'+d,index=False)
         #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-') DEPRECATED
         #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-') DEPRECATED
         #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-') DEPRECATED
