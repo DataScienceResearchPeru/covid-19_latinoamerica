@@ -151,6 +151,15 @@ if __name__ == "__main__":
     today = datetime.datetime.today()
     date_list_csv, date_list = generate_list_dates(path_dsrp)
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
+
+    for d in date_list:  # date_list
+
+        if not os.path.isfile('latam_covid_19_data/daily_reports/'+d):
+            # Create day if not exists
+            df_base=pd.read_csv('latam_covid_19_data/templates/daily_report.csv') # Template
+            df_base.to_csv('latam_covid_19_data/daily_reports/'+d,index=False)
+
+
     list_date_list = date_list[0:2]
 
     load_all_data_temporal(list_date_list)
@@ -159,10 +168,6 @@ if __name__ == "__main__":
 
     for d in list_date_list:  # date_list
 
-        if not os.path.isfile('latam_covid_19_data/daily_reports/'+d):
-            # Create day if not exists
-            df_base=pd.read_csv('latam_covid_19_data/templates/daily_report.csv') # Template
-            df_base.to_csv('latam_covid_19_data/daily_reports/'+d,index=False)
         #data_brazil = load_filter_dataframe(path_brazil+d, 'BR-') DEPRECATED
         #data_costarica = load_filter_dataframe(path_costarica+d, 'CR-') DEPRECATED
         #data_el_salvador = load_filter_dataframe(path_el_salvador+d, 'SV-') DEPRECATED
