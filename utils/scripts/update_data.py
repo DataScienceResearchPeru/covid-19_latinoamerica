@@ -157,8 +157,8 @@ if __name__ == "__main__":
         if not os.path.isfile('latam_covid_19_data/daily_reports/'+d):
             # Create day if not exists
             df_base=pd.read_csv('latam_covid_19_data/templates/daily_report.csv') # Template
-            df_base.to_csv('latam_covid_19_data/daily_reports/'+d,index=False)
-
+            df_base.to_csv('latam_covid_19_data/daily_reports/'+d+'.csv',index=False)
+            print('Creating not found latam_covid_19_data/daily_reports/'+d+'.csv')
 
     list_date_list = date_list[0:2]
 
