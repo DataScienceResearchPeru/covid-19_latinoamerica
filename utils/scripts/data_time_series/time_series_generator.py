@@ -38,10 +38,14 @@ def generate():
     indice = 0
     print('En total hay {} archivos'.format(numdays))
     for date in date_list:
-        array_dataframes.append(pd.read_csv(path+date, sep=','))
-        array_dataframes[indice]['Date'] = date[:-4]
-        # Crear dataframe total
-        indice += 1
+        try:
+            array_dataframes.append(pd.read_csv(path+date, sep=','))
+            array_dataframes[indice]['Date'] = date[:-4]
+            # Crear dataframe total
+            indice += 1
+        except Exception as e:
+            print("Error found, but passed",e)
+    
 
     """# Confirmed"""
 
