@@ -152,7 +152,7 @@ if __name__ == "__main__":
     date_list_csv, date_list = generate_list_dates(path_dsrp)
     # HERE YOU DEFINE THE RANGE OF DATES TO UPDATE
 
-    for d in date_list:  # date_list
+    for d in date_list[0:20]:  # date_list
 
         if not os.path.isfile('latam_covid_19_data/daily_reports/'+d):
             # Create day if not exists
