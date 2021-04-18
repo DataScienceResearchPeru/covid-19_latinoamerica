@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,2021-04-15T17:18:07,46144,916,43878
-CL-AR,Chile,Araucania,2021-04-15T17:18:07,62646,773,58981
-CL-AP,Chile,Arica y Parinacota,2021-04-15T17:18:07,18693,367,17630
-CL-AT,Chile,Atacama,2021-04-15T17:18:07,16051,189,14879
-CL-AI,Chile,Aysen,2021-04-15T17:18:07,3871,30,3680
-CL-BI,Chile,Biobio,2021-04-15T17:18:07,106538,1747,100283
-CL-CO,Chile,Coquimbo,2021-04-15T17:18:07,29528,569,27958
-CL-LL,Chile,Los Lagos,2021-04-15T17:18:07,65150,860,62619
-CL-LR,Chile,Los Rios,2021-04-15T17:18:07,30938,343,29208
-CL-MA,Chile,Magallanes,2021-04-15T17:18:07,23874,363,23063
-CL-ML,Chile,Maule,2021-04-15T17:18:07,62416,1087,57415
-CL-NB,Chile,Nuble,2021-04-15T17:18:07,23826,431,22334
-CL-LI,Chile,O'Higgins,2021-04-15T17:18:07,43458,972,40314
-CL-RM,Chile,Santiago,2021-04-15T17:18:07,460647,13455,431508
-CL-TA,Chile,Tarapaca,2021-04-15T17:18:07,31445,575,29716
-CL-VS,Chile,Valparaiso,2021-04-15T17:18:07,76425,2088,70192
+CL-AN,Chile,Antofagasta,,,,
+CL-AR,Chile,Araucania,,,,
+CL-AP,Chile,Arica y Parinacota,,,,
+CL-AT,Chile,Atacama,,,,
+CL-AI,Chile,Aysen,,,,
+CL-BI,Chile,Biobio,,,,
+CL-CO,Chile,Coquimbo,,,,
+CL-LL,Chile,Los Lagos,,,,
+CL-LR,Chile,Los Rios,,,,
+CL-MA,Chile,Magallanes,,,,
+CL-ML,Chile,Maule,,,,
+CL-NB,Chile,Nuble,,,,
+CL-LI,Chile,O'Higgins,,,,
+CL-RM,Chile,Santiago,,,,
+CL-TA,Chile,Tarapaca,,,,
+CL-VS,Chile,Valparaiso,,,,
 CO-AMA,Colombia,Amazonas,,,,
 CO-ANT,Colombia,Antioquia,,,,
 CO-ARA,Colombia,Arauca,,,,
@@ -239,56 +239,56 @@ HT-NO,Haiti,Nord-Ouest,,,,
 HT-OU,Haiti,Ouest,,,,
 HT-SD,Haiti,Sud,,,,
 HT-SE,Haiti,Sud-Est,,,,
-HN-AT,Honduras,Atlantida,2021-04-16T15:22:34,11339,286,3742
-HN-CH,Honduras,Choluteca,2021-04-16T15:22:34,4372,76,2060
-HN-CL,Honduras,Colon,2021-04-16T15:22:34,6385,154,1424
-HN-CM,Honduras,Comayagua,2021-04-16T15:22:34,6885,288,1957
-HN-CP,Honduras,Copan,2021-04-16T15:22:34,4290,212,2987
-HN-CR,Honduras,Cortes,2021-04-16T15:22:34,56758,1465,20163
-HN-EP,Honduras,El Paraiso,2021-04-16T15:22:34,9351,167,7165
-HN-FM,Honduras,Francisco Morazan,2021-04-16T15:22:34,55210,1253,15372
-HN-GD,Honduras,Gracias a Dios,2021-04-16T15:22:34,985,21,484
-HN-IN,Honduras,Intibuca,2021-04-16T15:22:34,3901,50,2178
-HN-IB,Honduras,Islas de la Bahia,2021-04-16T15:22:34,2537,45,448
-HN-LP,Honduras,La Paz,2021-04-16T15:22:34,5500,117,3397
-HN-LE,Honduras,Lempira,2021-04-16T15:22:34,2102,75,1240
-HN-OC,Honduras,Ocotepeque,2021-04-16T15:22:34,1971,48,1318
-HN-OL,Honduras,Olancho,2021-04-16T15:22:34,5763,205,2319
-HN-SB,Honduras,Santa Barbara,2021-04-16T15:22:34,5780,193,3363
-HN-VA,Honduras,Valle,2021-04-16T15:22:34,3940,97,995
-HN-YO,Honduras,Yoro,2021-04-16T15:22:34,11145,153,3585
-MX-AGU,Mexico,Aguascalientes,2021-04-16T03:44:38,25623,2351,
-MX-BCN,Mexico,Baja California,2021-04-16T03:44:38,46531,7901,
-MX-BCS,Mexico,Baja California Sur,2021-04-16T03:44:38,29373,1291,
-MX-CAM,Mexico,Campeche,2021-04-16T03:44:38,9371,1138,
-MX-CHP,Mexico,Chiapas,2021-04-16T03:44:38,10085,1422,
-MX-CHH,Mexico,Chihuahua,2021-04-16T03:44:38,49236,6403,
-MX-CMX,Mexico,Ciudad de Mexico,2021-04-16T03:44:38,726734,40890,
-MX-COA,Mexico,Coahuila,2021-04-16T03:44:38,67455,6161,
-MX-COL,Mexico,Colima,2021-04-16T03:44:38,11216,1251,
-MX-DUR,Mexico,Durango,2021-04-16T03:44:38,32673,2270,
-MX-GUA,Mexico,Guanajuato,2021-04-16T03:44:38,129132,10240,
-MX-GRO,Mexico,Guerrero,2021-04-16T03:44:38,38027,4089,
-MX-HID,Mexico,Hidalgo,2021-04-16T03:44:38,36003,5901,
-MX-JAL,Mexico,Jalisco,2021-04-16T03:44:38,83726,11548,
-MX-MIC,Mexico,Michoacan,2021-04-16T03:44:38,45863,5162,
-MX-MOR,Mexico,Morelos,2021-04-16T03:44:38,30427,2946,
-MX-MEX,Mexico,Mexico,2021-04-16T03:44:38,144001,24436,
-MX-NAY,Mexico,Nayarit,2021-04-16T03:44:38,11493,1831,
-MX-NLE,Mexico,Nuevo Leon,2021-04-16T03:44:38,121745,9223,
-MX-OAX,Mexico,Oaxaca,2021-04-16T03:44:38,44608,3234,
-MX-PUE,Mexico,Puebla,2021-04-16T03:44:38,83715,11033,
-MX-QUE,Mexico,Queretaro,2021-04-16T03:44:38,67543,4185,
-MX-ROO,Mexico,Quintana Roo,2021-04-16T03:44:38,21851,2507,
-MX-SLP,Mexico,San Luis Potosi,2021-04-16T03:44:38,61648,5056,
-MX-SIN,Mexico,Sinaloa,2021-04-16T03:44:38,37097,5933,
-MX-SON,Mexico,Sonora,2021-04-16T03:44:38,72055,6483,
-MX-TAB,Mexico,Tabasco,2021-04-16T03:44:38,63103,4064,
-MX-TAM,Mexico,Tamaulipas,2021-04-16T03:44:38,55404,4842,
-MX-TLA,Mexico,Tlaxcala,2021-04-16T03:44:38,16776,2211,
-MX-VER,Mexico,Veracruz,2021-04-16T03:44:38,57341,8941,
-MX-YUC,Mexico,Yucatan,2021-04-16T03:44:38,36225,3590,
-MX-ZAC,Mexico,Zacatecas,2021-04-16T03:44:38,29355,2680,
+HN-AT,Honduras,Atlantida,,,,
+HN-CH,Honduras,Choluteca,,,,
+HN-CL,Honduras,Colon,,,,
+HN-CM,Honduras,Comayagua,,,,
+HN-CP,Honduras,Copan,,,,
+HN-CR,Honduras,Cortes,,,,
+HN-EP,Honduras,El Paraiso,,,,
+HN-FM,Honduras,Francisco Morazan,,,,
+HN-GD,Honduras,Gracias a Dios,,,,
+HN-IN,Honduras,Intibuca,,,,
+HN-IB,Honduras,Islas de la Bahia,,,,
+HN-LP,Honduras,La Paz,,,,
+HN-LE,Honduras,Lempira,,,,
+HN-OC,Honduras,Ocotepeque,,,,
+HN-OL,Honduras,Olancho,,,,
+HN-SB,Honduras,Santa Barbara,,,,
+HN-VA,Honduras,Valle,,,,
+HN-YO,Honduras,Yoro,,,,
+MX-AGU,Mexico,Aguascalientes,,,,
+MX-BCN,Mexico,Baja California,,,,
+MX-BCS,Mexico,Baja California Sur,,,,
+MX-CAM,Mexico,Campeche,,,,
+MX-CHP,Mexico,Chiapas,,,,
+MX-CHH,Mexico,Chihuahua,,,,
+MX-CMX,Mexico,Ciudad de Mexico,,,,
+MX-COA,Mexico,Coahuila,,,,
+MX-COL,Mexico,Colima,,,,
+MX-DUR,Mexico,Durango,,,,
+MX-GUA,Mexico,Guanajuato,,,,
+MX-GRO,Mexico,Guerrero,,,,
+MX-HID,Mexico,Hidalgo,,,,
+MX-JAL,Mexico,Jalisco,,,,
+MX-MIC,Mexico,Michoacan,,,,
+MX-MOR,Mexico,Morelos,,,,
+MX-MEX,Mexico,Mexico,,,,
+MX-NAY,Mexico,Nayarit,,,,
+MX-NLE,Mexico,Nuevo Leon,,,,
+MX-OAX,Mexico,Oaxaca,,,,
+MX-PUE,Mexico,Puebla,,,,
+MX-QUE,Mexico,Queretaro,,,,
+MX-ROO,Mexico,Quintana Roo,,,,
+MX-SLP,Mexico,San Luis Potosi,,,,
+MX-SIN,Mexico,Sinaloa,,,,
+MX-SON,Mexico,Sonora,,,,
+MX-TAB,Mexico,Tabasco,,,,
+MX-TAM,Mexico,Tamaulipas,,,,
+MX-TLA,Mexico,Tlaxcala,,,,
+MX-VER,Mexico,Veracruz,,,,
+MX-YUC,Mexico,Yucatan,,,,
+MX-ZAC,Mexico,Zacatecas,,,,
 NI-BO,Nicaragua,Boaco,,,,
 NI-CA,Nicaragua,Carazo,,,,
 NI-CI,Nicaragua,Chinandega,,,,
