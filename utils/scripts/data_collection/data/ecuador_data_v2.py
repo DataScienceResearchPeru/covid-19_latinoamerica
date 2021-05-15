@@ -65,11 +65,11 @@ def load_and_generatecsv(list_date_list):
     df_deaths['ISO 3166-2 Code']=df_deaths['provincia'].map(DICT_PLACES)
     
     df_template=pd.read_csv(DATA_TEMPLATE_URL)
-    df_template=df_template.fillna(0)
-    df_template['Confirmed']=df_template['Confirmed'].astype(int)
-    df_template['Deaths']=df_template['Deaths'].astype(int)
-    df_template['Recovered']=df_template['Recovered'].astype(int)
-    df_template['Last Update']=''
+    df_template=df_template.fillna('')
+    # df_template['Confirmed']=df_template['Confirmed'].astype(int)
+    # df_template['Deaths']=df_template['Deaths'].astype(int)
+    # df_template['Recovered']=df_template['Recovered'].astype(int)
+    # df_template['Last Update']=''
     df_template.loc[df_template['ISO 3166-2 Code'].str.contains('EC-'),'Last Update']=LAST_UPDATE
 
     for d in list_date_list:  # array_dates

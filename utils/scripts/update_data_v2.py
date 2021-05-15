@@ -78,9 +78,10 @@ def execute_country(df,PATH_COUNTRY, d, isocode):
 
         df=df.combine_first(data_country)
 
-        return df
     except Exception as e:
         print('Exception fixed: ',e)
+        
+    return df
 
 
 def load_all_data_temporal(list_date_list):
@@ -121,8 +122,8 @@ if __name__ == "__main__":
         except Exception as e:
             print(e)
 
-    list_date_list = date_list[0:2]
-    load_all_data_temporal(list_date_list)
+    list_date_list = date_list[1:2]
+    load_all_data_temporal(date_list)
     print('List of dates to be modified:')
 
     for d in list_date_list:  # date_list

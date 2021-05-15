@@ -60,11 +60,11 @@ def load_and_generatecsv(list_date_list):
     df['ISO 3166-2 Code']=df['provincia'].map(DICT_PLACES)
 
     df_template = pd.read_csv(DATA_TEMPLATE_URL)
-    df_template = df_template.fillna(0)
-    df_template['Confirmed'] = df_template['Confirmed'].astype(int)
-    df_template['Deaths'] = df_template['Deaths'].astype(int)
-    df_template['Recovered'] = df_template['Recovered'].astype(int)
-    df_template['Last Update']=''
+    df_template=df_template.fillna('')
+    # df_template['Confirmed']=df_template['Confirmed'].astype(int)
+    # df_template['Deaths']=df_template['Deaths'].astype(int)
+    # df_template['Recovered']=df_template['Recovered'].astype(int)
+    # df_template['Last Update']=''
     df_template.loc[df_template['ISO 3166-2 Code'].str.contains('CU-'),'Last Update']=LAST_UPDATE
 
     #array_dates_csv, array_dates = generate_list_dates(PATH_DSRP_DAILY_REPORTS)
