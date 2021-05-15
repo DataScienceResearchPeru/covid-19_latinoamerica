@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 
 import numpy as np
 import pandas as pd
+import requests
 
 try:    
     import utils.scripts.data_collection.data.peru_data_v2 as peru_data
@@ -99,40 +100,36 @@ if __name__ == "__main__":
 
 
     df_template=pd.read_csv(DATA_TEMPLATE_URL)
-    df_template=df_template.fillna(0)
-    df_template['Confirmed']=df_template['Confirmed'].astype(int)
-    df_template['Deaths']=df_template['Deaths'].astype(int)
-    df_template['Recovered']=df_template['Recovered'].astype(int)
-    df_template['Last Update']=''
-
+    df_template=df_template.fillna('')
+    
+    
     date_list_csv, date_list = generate_list_dates(PATH_DSRP_DAILY_REPORTS)
 
+
+    # Days to check if file exists
     for d in date_list[0:10]:  # date_list
+        URL = f"https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/{d}.csv"
+
         try:
-            daily_path='latam_covid_19_data/daily_reports/'+d+'.csv'
-            if not os.path.isfile(daily_path):
-                # Create day if not exists
-                df_base = pd.read_csv(DATA_TEMPLATE_URL)  # Template
-                df_base['Confirmed'] =''
-                df_base['Deaths'] =''
-                df_base['Recovered'] = ''
-                df_base['Last Update']=''
-                df_base.to_csv(daily_path, index=False)
-                print(f'Creating not found {daily_path}')
+            response = requests.head(URL)
         except Exception as e:
-            print(e)
+            print(f"NOT OK: {str(e)}")
+        else:
+            if response.status_code == 200:
+                print("OK")
+            else:
+                print(f"NOT OK: HTTP response code {response.status_code}")
+                print(f'Creating file {d}.csv')
+                df_template.to_csv(PATH_DSRP_DAILY_REPORTS,index=False)
 
-    list_date_list = date_list[1:2]
-    load_all_data_temporal(date_list)
-    print('List of dates to be modified:')
-
-    for d in list_date_list:  # date_list
-        # df_template=execute_country(df_template,PATH_CUBA, d, 'CU-')
+        # Update data
+        
         df_template=execute_country(df_template,PATH_ECUADOR, d, 'EC-')
         df_template=execute_country(df_template,PATH_PERU, d, 'PE-')
 
         df_template.to_csv(PATH_DSRP_DAILY_REPORTS+d+'.csv', index=False)
 
-    time_series_generator.generate()  # Generate time series
+    
+    #time_series_generator.generate()  # Generate time series
 
     print("----------------------------------FIN--------------------------")
