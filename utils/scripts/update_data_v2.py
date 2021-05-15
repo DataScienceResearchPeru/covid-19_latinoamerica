@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import numpy as np
 import pandas as pd
 
-try:
+try:    
     import utils.scripts.data_collection.data.peru_data_v2 as peru_data
     import utils.scripts.data_collection.data.ecuador_data_v2 as ecuador_data
     import utils.scripts.data_collection.data.cuba_data_v2 as cuba_data
@@ -126,7 +126,7 @@ if __name__ == "__main__":
     print('List of dates to be modified:')
 
     for d in list_date_list:  # date_list
-        df_template=execute_country(df_template,PATH_CUBA, d, 'CU-')
+        # df_template=execute_country(df_template,PATH_CUBA, d, 'CU-')
         df_template=execute_country(df_template,PATH_ECUADOR, d, 'EC-')
         df_template=execute_country(df_template,PATH_PERU, d, 'PE-')
 
