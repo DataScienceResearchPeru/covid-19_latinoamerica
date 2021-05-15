@@ -5,17 +5,11 @@ import numpy as np
 import pandas as pd
 import requests
 
-try:    
-    import utils.scripts.data_collection.data.peru_data_v2 as peru_data
-    import utils.scripts.data_collection.data.ecuador_data_v2 as ecuador_data
-    import utils.scripts.data_collection.data.cuba_data_v2 as cuba_data
-    import utils.scripts.data_time_series.time_series_generator as time_series_generator
-except Exception as e:
-    print('Exception fixed: ',e)
-    import data_collection.data.peru_data_v2 as peru_data
-    import data_collection.data.ecuador_data_v2 as ecuador_data
-    import data_collection.data.cuba_data_v2 as cuba_data
-    import data_time_series.time_series_generator as time_series_generator
+
+import utils.scripts.data_collection.data.peru_data_v2 as peru_data
+import utils.scripts.data_collection.data.ecuador_data_v2 as ecuador_data
+import utils.scripts.data_collection.data.cuba_data_v2 as cuba_data
+import utils.scripts.data_time_series.time_series_generator as time_series_generator
 
 
 PATH_DSRP_DAILY_REPORTS = 'latam_covid_19_data/daily_reports/'
