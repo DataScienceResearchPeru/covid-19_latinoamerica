@@ -131,7 +131,7 @@ if __name__ == "__main__":
     load_all_data_temporal(date_list[0:10])
 
     # Days to check if file exists
-    for d in date_list:  # date_list
+    for d in date_list[0:3]:  # date_list
         URL = f"https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/{d}.csv"
 
         # Check if file exists, if not -> create based on template
