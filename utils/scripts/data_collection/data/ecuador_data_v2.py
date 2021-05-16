@@ -58,11 +58,11 @@ def generate_list_dates(path):
 
 def load_and_generatecsv(list_date_list):
 
-    df_confirmed=pd.read_csv(DATA_URL_CONFIRMED)
-    df_confirmed['ISO 3166-2 Code']=df_confirmed['provincia'].map(DICT_PLACES)
+    df_confirmed_original=pd.read_csv(DATA_URL_CONFIRMED)
+    df_confirmed_original['ISO 3166-2 Code']=df_confirmed_original['provincia'].map(DICT_PLACES)
     
-    df_deaths=pd.read_csv(DATA_URL_DEATHS)
-    df_deaths['ISO 3166-2 Code']=df_deaths['provincia'].map(DICT_PLACES)
+    df_deaths_original=pd.read_csv(DATA_URL_DEATHS)
+    df_deaths_original['ISO 3166-2 Code']=df_deaths_original['provincia'].map(DICT_PLACES)
     
     df_template=pd.read_csv(DATA_TEMPLATE_URL)
     df_template=df_template.fillna('')
@@ -73,15 +73,13 @@ def load_and_generatecsv(list_date_list):
     df_template.loc[df_template['ISO 3166-2 Code'].str.contains('EC-'),'Last Update']=LAST_UPDATE
 
     for d in list_date_list:  # array_dates
-
+        df_confirmed=df_confirmed_original
+        df_deaths=df_deaths_original
         try:
             d_fix = datetime.strptime(d, '%Y-%m-%d')
             d_fix = d_fix.strftime('%d/%m/%Y')
             df_confirmed=df_confirmed[['ISO 3166-2 Code',d_fix]]
-
-            d_fix = datetime.strptime(d, '%Y-%m-%d')
-            d_fix = d_fix.strftime('%d/%m/%Y')
-            df_deaths=df_deaths[['ISO 3166-2 Code',d_fix]]            
+            df_deaths=df_deaths[['ISO 3166-2 Code',d_fix]]
 
             for country_region in df_confirmed['ISO 3166-2 Code']:
                 value_confirmed=df_confirmed.loc[df_confirmed['ISO 3166-2 Code']==country_region,d_fix]
@@ -97,8 +95,6 @@ def load_and_generatecsv(list_date_list):
         except Exception as e:
             print(d,e)
 
-
-
 if __name__ == "__main__":
     print("======================ECUADOR======================")
-    load_and_generatecsv(['2021-05-13'])
+    load_and_generatecsv(['2021-05-13','2021-05-10'])
