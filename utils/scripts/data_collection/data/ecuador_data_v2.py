@@ -91,7 +91,8 @@ def load_and_generatecsv(list_date_list):
                 df_template.loc[df_template['ISO 3166-2 Code']==country_region,'Deaths']=int(value_deaths)
 
             
-            df_template.to_csv(PATH_CSV+d+'.csv', index=False)
+            df_filtered=df_template.loc[df_template['ISO 3166-2 Code'].str.contains('EC-')]
+            df_filtered.to_csv(PATH_CSV+d+'.csv', index=False)
 
         except Exception as e:
             print(d,e)

@@ -81,7 +81,10 @@ def load_and_generatecsv(list_date_list):
                 df_template.loc[df_template['ISO 3166-2 Code']==country_region,'Confirmed']=int(value_confirmed)
                 
                 df_template['Confirmed']=df_template['Confirmed'].astype(int)
-                df_template.to_csv(PATH_CSV+d+'.csv', index=False)
+
+                
+                df_filtered=df_template.loc[df_template['ISO 3166-2 Code'].str.contains('CU-')]
+                df_filtered.to_csv(PATH_CSV+d+'.csv', index=False)
 
         except Exception as e:
             print(d,e)

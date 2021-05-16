@@ -65,18 +65,50 @@ def generate_list_dates(path):
     return date_list_csv, date_list
 
 
-def execute_country(df,PATH_COUNTRY, d, isocode):
-    try:
-        path_day_per_country=PATH_COUNTRY+d+'.csv'
-        data_country=pd.read_csv(path_day_per_country)
-        data_country=data_country[data_country['ISO 3166-2 Code'].str.contains(isocode)]
 
-        df=df.combine_first(data_country)
+def fix_format(df):
+    df = df.fillna('')
 
-    except Exception as e:
-        print('Exception fixed: ',e)
-        
+    for m in range(len(df)):
+
+        if df.loc[m]['Confirmed'] != '':
+            a = int(float(df.loc[m]['Confirmed']))
+        else:
+            a = ''
+
+        if df.loc[m]['Deaths'] != '':
+            b = int(float(df.loc[m]['Deaths']))
+        else:
+            b = ''
+
+        if df.loc[m]['Recovered'] != '':
+            c = int(float(df.loc[m]['Recovered']))
+        else:
+            c = ''
+
+        df.loc[m, ['Confirmed']] = str(a)
+        df.loc[m, ['Deaths']] = str(b)
+        df.loc[m, ['Recovered']] = str(c)
+
     return df
+
+def execute_country(df,path, d, isocode):
+
+    try:
+        df_template=pd.read_csv(DATA_TEMPLATE_URL)
+        df_template=df_template.set_index('ISO 3166-2 Code')
+
+        DATA_TEMPORAL_PERU='data_collection/data/peru_temporal/2021-05-13.csv'
+        df=pd.read_csv(DATA_TEMPORAL_PERU)
+        df=df.set_index('ISO 3166-2 Code')
+
+        df_template.update(df)
+        df_template=df_template.reset_index(drop=False)
+        
+    except Exception as e:
+        print(f'Exception caughted in {isocode},{d},{path}')
+
+    return df_template
 
 
 def load_all_data_temporal(list_date_list):
@@ -94,12 +126,11 @@ if __name__ == "__main__":
 
 
     df_template=pd.read_csv(DATA_TEMPLATE_URL)
-    df_template=df_template.fillna('')
-    
+    df_template=df_template.fillna('')    
     
     date_list_csv, date_list = generate_list_dates(PATH_DSRP_DAILY_REPORTS)
 
-
+    load_all_data_temporal(date_list[0:10])
     # Days to check if file exists
     for d in date_list[0:10]:  # date_list
         URL = f"https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/{d}.csv"
@@ -110,18 +141,19 @@ if __name__ == "__main__":
             print(f"NOT OK: {str(e)}")
         else:
             if response.status_code == 200:
-                print("OK")
+                print(f"OK daily/{d}.csv exists, using that file as DataFrame.")
             else:
                 print(f"NOT OK: HTTP response code {response.status_code}")
                 print(f'Creating file {d}.csv')
                 df_template.to_csv(PATH_DSRP_DAILY_REPORTS,index=False)
 
         # Update data
-        
-        df_template=execute_country(df_template,PATH_ECUADOR, d, 'EC-')
-        df_template=execute_country(df_template,PATH_PERU, d, 'PE-')
+        df_data_per_day=pd.read_csv(URL)
+        df_data_per_day=execute_country(df_data_per_day,PATH_ECUADOR, d, 'EC-')
+        df_data_per_day=execute_country(df_data_per_day,PATH_PERU, d, 'PE-')
 
-        df_template.to_csv(PATH_DSRP_DAILY_REPORTS+d+'.csv', index=False)
+        df_data_per_day=fix_format(df_data_per_day)
+        df_data_per_day.to_csv(PATH_DSRP_DAILY_REPORTS+d+'.csv', index=False)
 
     
     #time_series_generator.generate()  # Generate time series

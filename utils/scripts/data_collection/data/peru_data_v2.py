@@ -6,7 +6,7 @@ import pandas as pd
 
 DATA_URL = 'https://raw.githubusercontent.com/jmcastagnetto/covid-19-peru-data/main/datos/covid-19-peru-data.csv'
 DATA_TEMPLATE_URL = 'https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/templates/daily_report.csv'
-PATH_CSV = 'utils/scripts/data_collection/data/ecuador_temporal/'
+PATH_CSV = 'utils/scripts/data_collection/data/peru_temporal/'
 PATH_DSRP_DAILY_REPORTS = 'latam_covid_19_data/daily_reports/'
 LAST_UPDATE = datetime.today().isoformat()
 DICT_PLACES = {'Amazonas': 'PE-AMA',
@@ -69,15 +69,14 @@ def load_and_generatecsv(list_date_list):
     # df_template['Deaths']=df_template['Deaths'].astype(int)
     # df_template['Recovered']=df_template['Recovered'].astype(int)
     # df_template['Last Update']=''
-    df_template.loc[df_template['ISO 3166-2 Code'].str.contains('CU-'),'Last Update']=LAST_UPDATE
+    df_template.loc[df_template['ISO 3166-2 Code'].str.contains('PE-'),'Last Update']=LAST_UPDATE
 
     #array_dates_csv, array_dates = generate_list_dates(PATH_DSRP_DAILY_REPORTS)
 
-    
 
     print('Starting iteration')
     for d in list_date_list:  # array_dates
-        # print(d, end=' - ')
+        print(d, end=' - ')
         try:
             df_filtered_by_day = df[df['date'].str.contains(d)]
             df_filtered_by_day = df_filtered_by_day.fillna(0)
@@ -114,13 +113,15 @@ def load_and_generatecsv(list_date_list):
                 # Recovered
                 value_recovered = df_filtered_by_day.loc[df_filtered_by_day.index == country_region, 'recovered'].astype(
                     int)
-
+            
+            df_filtered=df_template.loc[df_template['ISO 3166-2 Code'].str.contains('PE-')]
+            df_filtered.to_csv(PATH_CSV+d+'.csv', index=False)
         except Exception as e:
             print(d,e)
 
-        df_template.to_csv(PATH_CSV+d+'.csv', index=False)
+        
 
 
 if __name__ == "__main__":
     print("======================PERU======================")
-    load_and_generatecsv(['2021-05-13'])
+    load_and_generatecsv(['2021-05-13','2021-05-12'])
