@@ -4,8 +4,8 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   #push:
   #  branches: [ master ]
-  #schedule:
-  #  - cron: '0 20 * * *' # runs at 15:00 UTC everyday
+  schedule:
+   - cron: '0 20 * * *' # runs at 15:00 UTC everyday
   release:
     types: [created]
 
@@ -26,13 +26,13 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          python utils/scripts/update_data.py
-      - name: commit my files
+          python update_data_v2.py
+      - name: commit my files #AR,BO,BR,CO,CR,
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "Daily AR,BO,BR,CO,CR,CU,EC,PE" -a
+          git commit -m "Daily CU,EC,PE" -a 
       - name: push my changes
         uses: ad-m/github-push-action@v0.6.0
         with:
