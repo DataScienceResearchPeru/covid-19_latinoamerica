@@ -4,8 +4,8 @@ from datetime import datetime, timedelta
 import numpy as np
 import pandas as pd
 
-DATA_URL_CONFIRMED = 'https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/por_fecha/provincias_por_dia.csv'
-DATA_URL_DEATHS = 'https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/por_fecha/provincias_por_dia.csv'
+DATA_URL_CONFIRMED = 'https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/por_fecha/provincias_por_dia_acumuladas.csv'
+DATA_URL_DEATHS = 'https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/por_fecha/provincias_por_dia_acumuladas.csv'
 DATA_TEMPLATE_URL = 'https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/templates/daily_report.csv'
 PATH_CSV = 'utils/scripts/data_collection/data/ecuador_temporal/'
 PATH_DSRP_DAILY_REPORTS = 'latam_covid_19_data/daily_reports/'
@@ -59,9 +59,21 @@ def generate_list_dates(path):
 def load_and_generatecsv(list_date_list):
 
     df_confirmed_original=pd.read_csv(DATA_URL_CONFIRMED)
+    # df_confirmed_original=df_confirmed_original.drop(['poblacion','lat','lng'], axis = 1)
+    # # df_confirmed_original=df_confirmed_original.set_index('provincia')
+    # # df_confirmed_original=df_confirmed_original.transpose()
+    # # df_confirmed_original=df_confirmed_original.cumsum()
+    # # df_confirmed_original=df_confirmed_original.transpose()
+    # # df_confirmed_original.reset_index(inplace=True)
     df_confirmed_original['ISO 3166-2 Code']=df_confirmed_original['provincia'].map(DICT_PLACES)
     
     df_deaths_original=pd.read_csv(DATA_URL_DEATHS)
+    # df_deaths_original=df_deaths_original.drop(['poblacion','lat','lng'], axis = 1)
+    # df_deaths_original=df_deaths_original.set_index('provincia')
+    # df_deaths_original=df_deaths_original.transpose()
+    # df_deaths_original=df_deaths_original.cumsum()
+    # df_deaths_original=df_deaths_original.transpose()
+    # df_deaths_original.reset_index(inplace=True)
     df_deaths_original['ISO 3166-2 Code']=df_deaths_original['provincia'].map(DICT_PLACES)
     
     df_template=pd.read_csv(DATA_TEMPLATE_URL)
@@ -97,4 +109,4 @@ def load_and_generatecsv(list_date_list):
 
 if __name__ == "__main__":
     print("======================ECUADOR======================")
-    load_and_generatecsv(['2021-05-13','2021-05-10'])
+    load_and_generatecsv(['2021-05-13','2021-05-12'])

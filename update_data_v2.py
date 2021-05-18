@@ -128,10 +128,12 @@ if __name__ == "__main__":
     
     date_list_csv, date_list = generate_list_dates(PATH_DSRP_DAILY_REPORTS)
 
-    load_all_data_temporal(date_list[0:10])
+    data_loader_per_days=date_list[0:2]
+
+    load_all_data_temporal(data_loader_per_days)
 
     # Days to check if file exists
-    for d in date_list[0:3]:  # date_list
+    for d in data_loader_per_days:  # date_list
         URL = f"https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/{d}.csv"
 
         # Check if file exists, if not -> create based on template

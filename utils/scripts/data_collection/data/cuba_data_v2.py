@@ -54,6 +54,9 @@ def load_and_generatecsv(list_date_list):
     df=df.fillna(0)
     df=df.groupby(['provincia','fecha_confirmacion'],as_index=True).count()
     df.reset_index(inplace=True)
+    # cumulative sum
+    df=df.groupby(['provincia', 'fecha_confirmacion']).sum() \
+                    .groupby(level=0).cumsum().reset_index()
     df['provincia']=df['provincia'].astype('str')
     df['sexo']=df['sexo'].astype('str')
     df['ISO 3166-2 Code']=df['provincia'].map(DICT_PLACES)
