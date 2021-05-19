@@ -165,6 +165,6 @@ if __name__ == "__main__":
         except Exception as e:
             print(f'Error in {d} caughted, probably a new day without info.')
     
-    #time_series_generator.generate()  # Generate time series
+    time_series_generator.generate()  # Generate time series
 
     print("----------------------------------FIN--------------------------")
