@@ -32,33 +32,33 @@ BO-N,Bolivia,Pando,2021-05-19T03:08:27.216196,5594,286,
 BO-P,Bolivia,Potosi,2021-05-19T03:08:27.216196,15165,458,
 BO-S,Bolivia,Santa Cruz,2021-05-19T03:08:27.216196,112565,5673,
 BO-T,Bolivia,Tarija,2021-05-19T03:08:27.216196,25686,657,
-BR-AC,Brazil,Acre,,,,
-BR-AL,Brazil,Alagoas,,,,
-BR-AP,Brazil,Amapa,,,,
-BR-AM,Brazil,Amazonas,,,,
-BR-BA,Brazil,Bahia,,,,
-BR-CE,Brazil,Ceara,,,,
-BR-DF,Brazil,Distrito Federal,,,,
-BR-ES,Brazil,Espiritu Santo,,,,
-BR-GO,Brazil,Goias,,,,
-BR-MA,Brazil,Maranhao,,,,
-BR-MT,Brazil,Mato Grosso,,,,
-BR-MS,Brazil,Mato Grosso do Sul,,,,
-BR-MG,Brazil,Minas Gerais,,,,
-BR-PA,Brazil,Para,,,,
-BR-PB,Brazil,Paraiba,,,,
-BR-PR,Brazil,Parana,,,,
-BR-PE,Brazil,Pernambuco,,,,
-BR-PI,Brazil,Piaui,,,,
-BR-RJ,Brazil,Rio de Janeiro,,,,
-BR-RN,Brazil,Rio Grande do Norte,,,,
-BR-RS,Brazil,Rio Grande do Sul,,,,
-BR-RO,Brazil,Rondonia,,,,
-BR-RR,Brazil,Roraima,,,,
-BR-SC,Brazil,Santa Catarina,,,,
-BR-SP,Brazil,Sao Paulo,,,,
-BR-SE,Brazil,Sergipe,,,,
-BR-TO,Brazil,Tocantins,,,,
+BR-AC,Brazil,Acre,2021-05-19T19:04:12.406632,78440,1555,0
+BR-AL,Brazil,Alagoas,2021-05-19T19:04:12.406632,175946,4293,0
+BR-AP,Brazil,Amapa,2021-05-19T19:04:12.406632,106693,1566,0
+BR-AM,Brazil,Amazonas,2021-05-19T19:04:12.406632,372803,12678,0
+BR-BA,Brazil,Bahia,2021-05-19T19:04:12.406632,913020,18812,0
+BR-CE,Brazil,Ceara,2021-05-19T19:04:12.406632,690578,18024,0
+BR-DF,Brazil,Distrito Federal,2021-05-19T19:04:12.406632,382231,7926,0
+BR-ES,Brazil,Espiritu Santo,2021-05-19T19:04:12.406632,441464,9678,0
+BR-GO,Brazil,Goias,2021-05-19T19:04:12.406632,558102,15275,0
+BR-MA,Brazil,Maranhao,2021-05-19T19:04:12.406632,268997,7403,0
+BR-MT,Brazil,Mato Grosso,2021-05-19T19:04:12.406632,364742,9783,0
+BR-MS,Brazil,Mato Grosso do Sul,2021-05-19T19:04:12.406632,251369,5852,0
+BR-MG,Brazil,Minas Gerais,2021-05-19T19:04:12.406632,1378545,34396,0
+BR-PA,Brazil,Para,2021-05-19T19:04:12.406632,475744,13204,0
+BR-PB,Brazil,Paraiba,2021-05-19T19:04:12.406632,296587,6912,0
+BR-PR,Brazil,Parana,2021-05-19T19:04:12.406632,960761,22991,0
+BR-PE,Brazil,Pernambuco,2021-05-19T19:04:12.406632,412786,14279,0
+BR-PI,Brazil,Piaui,2021-05-19T19:04:12.406632,243972,5203,0
+BR-RJ,Brazil,Rio de Janeiro,2021-05-19T19:04:12.406632,753732,45232,0
+BR-RN,Brazil,Rio Grande do Norte,2021-05-19T19:04:12.406632,226160,5547,0
+BR-RS,Brazil,Rio Grande do Sul,2021-05-19T19:04:12.406632,986491,25417,0
+BR-RO,Brazil,Rondonia,2021-05-19T19:04:12.406632,214514,5251,0
+BR-RR,Brazil,Roraima,2021-05-19T19:04:12.406632,96966,1514,0
+BR-SC,Brazil,Santa Catarina,2021-05-19T19:04:12.406632,896446,13791,0
+BR-SP,Brazil,Sao Paulo,2021-05-19T19:04:12.406632,2941980,98021,0
+BR-SE,Brazil,Sergipe,2021-05-19T19:04:12.406632,206081,4384,0
+BR-TO,Brazil,Tocantins,2021-05-19T19:04:12.406632,161738,2601,0
 CL-AN,Chile,Antofagasta,2021-05-04T15:05:20,49298,972,47302
 CL-AR,Chile,Araucania,2021-05-04T15:05:20,72684,897,68882
 CL-AP,Chile,Arica y Parinacota,2021-05-04T15:05:20,20461,401,19384
