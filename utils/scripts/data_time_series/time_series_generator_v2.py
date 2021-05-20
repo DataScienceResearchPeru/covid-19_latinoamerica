@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 
 
-PATH_DSRP_DAILY_REPORTS = '../../../latam_covid_19_data/daily_reports/'
+PATH_DSRP_DAILY_REPORTS = 'latam_covid_19_data/daily_reports/'
 DATA_TEMPLATE_URL = 'https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/templates/daily_report.csv'
 PATH__TIME_SERIES='latam_covid_19_data/time_series/'
 LAST_UPDATE = datetime.today().isoformat()
@@ -17,11 +17,13 @@ def generate():
     df_full['Day']=''
     
     list_report_days=os.listdir(PATH_DSRP_DAILY_REPORTS)
+    list_report_days.remove('README.md')
 
     # ARRAY OF DATAFRAMES TO CONCAT
     array_of_dataframes=[]
 
     for d in list_report_days:
+        print(d,end='->')
         columns_to_read=['ISO 3166-2 Code','Confirmed','Deaths','Recovered']
         df_temp=pd.read_csv(PATH_DSRP_DAILY_REPORTS+d,usecols = columns_to_read)
         df_temp['Day']=pd.to_datetime(d[:-4])
@@ -86,4 +88,5 @@ def generate():
     return True
 
 if __name__ == "__main__":
+    print("======================TIME SERIES======================")
     generate()
