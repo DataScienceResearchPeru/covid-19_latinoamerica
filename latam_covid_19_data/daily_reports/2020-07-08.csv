@@ -131,38 +131,38 @@ CU-01,Cuba,Pinar del Río,2021-05-18T11:48:32.191290,53,0,
 CU-07,Cuba,Sancti Spíritus,2021-05-18T11:48:32.191290,69,0,
 CU-13,Cuba,Santiago de Cuba,2021-05-18T11:48:32.191290,51,0,
 CU-05,Cuba,Villa Clara,2021-05-18T11:48:32.191290,220,0,
-DO-02,Dominican Republic,Azua,,,,
-DO-03,Dominican Republic,Baoruco,,,,
-DO-04,Dominican Republic,Barahona,,,,
-DO-05,Dominican Republic,Dajabon,,,,
-DO-06,Dominican Republic,Distrito Nacional,,,,
-DO-08,Dominican Republic,Duarte,,,,
-DO-09,Dominican Republic,El Seibo,,,,
-DO-30,Dominican Republic,Elias Pina,,,,
-DO-10,Dominican Republic,Espaillat,,,,
-DO-11,Dominican Republic,Hato Mayor,,,,
-DO-07,Dominican Republic,Hermanas Mirabal,,,,
-DO-12,Dominican Republic,Independencia,,,,
-DO-13,Dominican Republic,La Altagracia,,,,
-DO-14,Dominican Republic,La Romana,,,,
-DO-28,Dominican Republic,La Vega,,,,
-DO-15,Dominican Republic,Maria Trinidad Sanchez,,,,
-DO-29,Dominican Republic,Monsenor Nouel,,,,
-DO-16,Dominican Republic,Monte Cristi,,,,
-DO-17,Dominican Republic,Monte Plata,,,,
-DO-18,Dominican Republic,Pedernales,,,,
-DO-19,Dominican Republic,Peravia,,,,
-DO-20,Dominican Republic,Puerto Plata,,,,
-DO-21,Dominican Republic,Samana,,,,
-DO-31,Dominican Republic,San Cristobal,,,,
-DO-22,Dominican Republic,San Jose de Ocoa,,,,
-DO-23,Dominican Republic,San Juan,,,,
-DO-24,Dominican Republic,San Pedro de Macoris,,,,
-DO-25,Dominican Republic,Sanchez Ramirez,,,,
-DO-26,Dominican Republic,Santiago,,,,
-DO-32,Dominican Republic,Santiago Rodriguez,,,,
-DO-01,Dominican Republic,Santo Domingo,,,,
-DO-27,Dominican Republic,Valverde,,,,
+DO-02,Dominican Republic,Azua,2021-05-21T01:02:06.982810,11233,156,5542
+DO-03,Dominican Republic,Baoruco,2021-05-21T01:02:06.982810,974,88,730
+DO-04,Dominican Republic,Barahona,2021-05-21T01:02:06.982810,62,0,27
+DO-05,Dominican Republic,Dajabon,2021-05-21T01:02:06.982810,110,1,10
+DO-06,Dominican Republic,Distrito Nacional,2021-05-21T01:02:06.982810,920,15,561
+DO-08,Dominican Republic,Duarte,2021-05-21T01:02:06.982810,45,2,16
+DO-09,Dominican Republic,El Seibo,2021-05-21T01:02:06.982810,289,18,229
+DO-30,Dominican Republic,Elias Pina,2021-05-21T01:02:06.982810,129,1,16
+DO-10,Dominican Republic,Espaillat,2021-05-21T01:02:06.982810,1056,2,517
+DO-11,Dominican Republic,Hato Mayor,2021-05-21T01:02:06.982810,1004,10,564
+DO-07,Dominican Republic,Hermanas Mirabal,2021-05-21T01:02:06.982810,1527,40,961
+DO-12,Dominican Republic,Independencia,2021-05-21T01:02:06.982810,272,5,161
+DO-13,Dominican Republic,La Altagracia,2021-05-21T01:02:06.982810,472,12,350
+DO-14,Dominican Republic,La Romana,2021-05-21T01:02:06.982810,70,3,31
+DO-28,Dominican Republic,La Vega,2021-05-21T01:02:06.982810,76,7,38
+DO-15,Dominican Republic,Maria Trinidad Sanchez,2021-05-21T01:02:06.982810,96,0,17
+DO-29,Dominican Republic,Monsenor Nouel,2021-05-21T01:02:06.982810,259,9,119
+DO-16,Dominican Republic,Monte Cristi,2021-05-21T01:02:06.982810,628,41,365
+DO-17,Dominican Republic,Monte Plata,2021-05-21T01:02:06.982810,90,1,39
+DO-18,Dominican Republic,Pedernales,2021-05-21T01:02:06.982810,2197,40,1200
+DO-19,Dominican Republic,Peravia,2021-05-21T01:02:06.982810,101,5,31
+DO-20,Dominican Republic,Puerto Plata,2021-05-21T01:02:06.982810,478,9,156
+DO-21,Dominican Republic,Samana,2021-05-21T01:02:06.982810,406,14,166
+DO-31,Dominican Republic,San Cristobal,2021-05-21T01:02:06.982810,432,10,262
+DO-22,Dominican Republic,San Jose de Ocoa,2021-05-21T01:02:06.982810,3104,111,1518
+DO-23,Dominican Republic,San Juan,2021-05-21T01:02:06.982810,87,4,49
+DO-24,Dominican Republic,San Pedro de Macoris,2021-05-21T01:02:06.982810,11648,202,5964
+DO-25,Dominican Republic,Sanchez Ramirez,2021-05-21T01:02:06.982810,247,13,122
+DO-26,Dominican Republic,Santiago,2021-05-21T01:02:06.982810,783,11,391
+DO-32,Dominican Republic,Santiago Rodriguez,2021-05-21T01:02:06.982810,44,2,11
+DO-01,Dominican Republic,Santo Domingo,2021-05-21T01:02:06.982810,652,8,182
+DO-27,Dominican Republic,Valverde,2021-05-21T01:02:06.982810,50,2,8
 EC-A,Ecuador,Azuay,2020-07-20 17:11:54.771032,2063,69,
 EC-B,Ecuador,Bolivar,2020-07-20 17:11:54.771032,788,41,
 EC-F,Ecuador,Canar,2020-07-20 17:11:54.771032,578,45,
