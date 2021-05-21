@@ -10,6 +10,7 @@ import utils.scripts.data_collection.data.ecuador_data_v2 as ecuador_data
 import utils.scripts.data_collection.data.cuba_data_v2 as cuba_data
 import utils.scripts.data_collection.data.bolivia_data_v2 as bolivia_data
 import utils.scripts.data_collection.data.brazil_data_v2 as brazil_data
+import utils.scripts.data_collection.data.republica_dominicana_data_v2 as republica_domicana
 
 import utils.scripts.data_time_series.time_series_generator as time_series_generator
 
@@ -21,6 +22,7 @@ PATH_ECUADOR = 'utils/scripts/data_collection/data/ecuador_temporal/'
 PATH_PERU = 'utils/scripts/data_collection/data/peru_temporal/'
 PATH_BOLIVIA = 'utils/scripts/data_collection/data/bolivia_temporal/'
 PATH_BRAZIL= 'utils/scripts/data_collection/data/brazil_temporal/'
+PATH_REPUBLICA_DOMINICANA= 'utils/scripts/data_collection/data/republica_dominicana_temporal/'
 
 def logo():
     print("""                                                                                       
@@ -162,6 +164,7 @@ if __name__ == "__main__":
             data_updated=update_data_per_country(data_updated,PATH_CUBA,d,'CU-')
             data_updated=update_data_per_country(data_updated,PATH_BOLIVIA,d,'BO-')
             data_updated=update_data_per_country(data_updated,PATH_BRAZIL,d,'BR-')
+            data_updated=update_data_per_country(data_updated,PATH_REPUBLICA_DOMINICANA,d,'DO-')
 
             data_updated=fix_format(data_updated)
             data_updated.to_csv(PATH_DSRP_DAILY_REPORTS+d+'.csv', index=False)
