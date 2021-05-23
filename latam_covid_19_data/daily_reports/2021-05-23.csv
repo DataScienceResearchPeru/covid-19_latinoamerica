@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,2021-05-22T15:52:26,51950,1018,49845
-CL-AR,Chile,Araucania,2021-05-22T15:52:26,79646,1008,76235
-CL-AP,Chile,Arica y Parinacota,2021-05-22T15:52:26,22047,424,20897
-CL-AT,Chile,Atacama,2021-05-22T15:52:26,20375,225,19334
-CL-AI,Chile,Aysen,2021-05-22T15:52:26,5314,33,4847
-CL-BI,Chile,Biobio,2021-05-22T15:52:26,125716,2033,120104
-CL-CO,Chile,Coquimbo,2021-05-22T15:52:26,35836,670,33930
-CL-LL,Chile,Los Lagos,2021-05-22T15:52:26,74409,1007,71393
-CL-LR,Chile,Los Rios,2021-05-22T15:52:26,37251,420,35576
-CL-MA,Chile,Magallanes,2021-05-22T15:52:26,27295,395,26371
-CL-ML,Chile,Maule,2021-05-22T15:52:26,80618,1330,76154
-CL-NB,Chile,Nuble,2021-05-22T15:52:26,28855,481,27411
-CL-LI,Chile,O'Higgins,2021-05-22T15:52:26,54285,1129,50896
-CL-RM,Chile,Santiago,2021-05-22T15:52:26,549229,15046,516898
-CL-TA,Chile,Tarapaca,2021-05-22T15:52:26,36072,660,34775
-CL-VS,Chile,Valparaiso,2021-05-22T15:52:26,94461,2507,89046
+CL-AN,Chile,Antofagasta,2021-05-23T15:03:02,52109,1023,49990
+CL-AR,Chile,Araucania,2021-05-23T15:03:02,80020,1015,76639
+CL-AP,Chile,Arica y Parinacota,2021-05-23T15:03:02,22144,429,21052
+CL-AT,Chile,Atacama,2021-05-23T15:03:02,20437,226,19423
+CL-AI,Chile,Aysen,2021-05-23T15:03:02,5346,33,4892
+CL-BI,Chile,Biobio,2021-05-23T15:03:02,126229,2040,120613
+CL-CO,Chile,Coquimbo,2021-05-23T15:03:02,36074,674,34089
+CL-LL,Chile,Los Lagos,2021-05-23T15:03:02,74766,1015,71711
+CL-LR,Chile,Los Rios,2021-05-23T15:03:02,37405,427,35734
+CL-MA,Chile,Magallanes,2021-05-23T15:03:02,27382,395,26467
+CL-ML,Chile,Maule,2021-05-23T15:03:02,81106,1338,76622
+CL-NB,Chile,Nuble,2021-05-23T15:03:02,29044,485,27565
+CL-LI,Chile,O'Higgins,2021-05-23T15:03:02,54599,1131,51218
+CL-RM,Chile,Santiago,2021-05-23T15:03:02,552133,15111,519466
+CL-TA,Chile,Tarapaca,2021-05-23T15:03:02,36161,660,34877
+CL-VS,Chile,Valparaiso,2021-05-23T15:03:02,94909,2516,89478
 CO-AMA,Colombia,Amazonas,,,,
 CO-ANT,Colombia,Antioquia,,,,
 CO-ARA,Colombia,Arauca,,,,
@@ -239,56 +239,56 @@ HT-NO,Haiti,Nord-Ouest,,,,
 HT-OU,Haiti,Ouest,,,,
 HT-SD,Haiti,Sud,,,,
 HT-SE,Haiti,Sud-Est,,,,
-HN-AT,Honduras,Atlantida,2021-05-23T15:03:05,12536,346,4223
-HN-CH,Honduras,Choluteca,2021-05-23T15:03:05,5124,150,2389
-HN-CL,Honduras,Colon,2021-05-23T15:03:05,7077,165,1619
-HN-CM,Honduras,Comayagua,2021-05-23T15:03:05,8514,320,2946
-HN-CP,Honduras,Copan,2021-05-23T15:03:05,5255,256,2897
-HN-CR,Honduras,Cortes,2021-05-23T15:03:05,60371,1707,22065
-HN-EP,Honduras,El Paraiso,2021-05-23T15:03:05,12265,234,7165
-HN-FM,Honduras,Francisco Morazan,2021-05-23T15:03:05,68477,1603,16946
-HN-GD,Honduras,Gracias a Dios,2021-05-23T15:03:05,1149,23,484
-HN-IN,Honduras,Intibuca,2021-05-23T15:03:05,4772,88,2315
-HN-IB,Honduras,Islas de la Bahia,2021-05-23T15:03:05,2686,49,448
-HN-LP,Honduras,La Paz,2021-05-23T15:03:05,7542,162,4242
-HN-LE,Honduras,Lempira,2021-05-23T15:03:05,2457,117,1445
-HN-OC,Honduras,Ocotepeque,2021-05-23T15:03:05,2527,63,1532
-HN-OL,Honduras,Olancho,2021-05-23T15:03:05,7192,244,2676
-HN-SB,Honduras,Santa Barbara,2021-05-23T15:03:05,6585,226,3549
-HN-VA,Honduras,Valle,2021-05-23T15:03:05,5221,127,1016
-HN-YO,Honduras,Yoro,2021-05-23T15:03:05,12391,263,3640
-MX-AGU,Mexico,Aguascalientes,2021-05-23T03:41:31,26510,2461,
-MX-BCN,Mexico,Baja California,2021-05-23T03:41:31,48213,8117,
-MX-BCS,Mexico,Baja California Sur,2021-05-23T03:41:31,31391,1396,
-MX-CAM,Mexico,Campeche,2021-05-23T03:41:31,10385,1208,
-MX-CHP,Mexico,Chiapas,2021-05-23T03:41:31,10647,1457,
-MX-CHH,Mexico,Chihuahua,2021-05-23T03:41:31,54917,6918,
-MX-CMX,Mexico,Ciudad de Mexico,2021-05-23T03:41:31,758372,42697,
-MX-COA,Mexico,Coahuila,2021-05-23T03:41:31,68623,6276,
-MX-COL,Mexico,Colima,2021-05-23T03:41:31,11971,1289,
-MX-DUR,Mexico,Durango,2021-05-23T03:41:31,33733,2383,
-MX-GUA,Mexico,Guanajuato,2021-05-23T03:41:31,131314,10688,
-MX-GRO,Mexico,Guerrero,2021-05-23T03:41:31,40139,4301,
-MX-HID,Mexico,Hidalgo,2021-05-23T03:41:31,37218,6093,
-MX-JAL,Mexico,Jalisco,2021-05-23T03:41:31,86261,12044,
-MX-MIC,Mexico,Michoacan,2021-05-23T03:41:31,47693,5648,
-MX-MOR,Mexico,Morelos,2021-05-23T03:41:31,32704,3252,
-MX-MEX,Mexico,Mexico,2021-05-23T03:41:31,149298,25504,
-MX-NAY,Mexico,Nayarit,2021-05-23T03:41:31,12033,1885,
-MX-NLE,Mexico,Nuevo Leon,2021-05-23T03:41:31,124406,9560,
-MX-OAX,Mexico,Oaxaca,2021-05-23T03:41:31,46411,3559,
-MX-PUE,Mexico,Puebla,2021-05-23T03:41:31,87357,11786,
-MX-QUE,Mexico,Queretaro,2021-05-23T03:41:31,69510,4467,
-MX-ROO,Mexico,Quintana Roo,2021-05-23T03:41:31,25694,2683,
-MX-SLP,Mexico,San Luis Potosi,2021-05-23T03:41:31,64193,5258,
-MX-SIN,Mexico,Sinaloa,2021-05-23T03:41:31,38750,6132,
-MX-SON,Mexico,Sonora,2021-05-23T03:41:31,74811,6654,
-MX-TAB,Mexico,Tabasco,2021-05-23T03:41:31,67708,4208,
-MX-TAM,Mexico,Tamaulipas,2021-05-23T03:41:31,58609,5047,
-MX-TLA,Mexico,Tlaxcala,2021-05-23T03:41:31,17517,2287,
-MX-VER,Mexico,Veracruz,2021-05-23T03:41:31,59392,9619,
-MX-YUC,Mexico,Yucatan,2021-05-23T03:41:31,38995,3971,
-MX-ZAC,Mexico,Zacatecas,2021-05-23T03:41:31,30555,2749,
+HN-AT,Honduras,Atlantida,,,,
+HN-CH,Honduras,Choluteca,,,,
+HN-CL,Honduras,Colon,,,,
+HN-CM,Honduras,Comayagua,,,,
+HN-CP,Honduras,Copan,,,,
+HN-CR,Honduras,Cortes,,,,
+HN-EP,Honduras,El Paraiso,,,,
+HN-FM,Honduras,Francisco Morazan,,,,
+HN-GD,Honduras,Gracias a Dios,,,,
+HN-IN,Honduras,Intibuca,,,,
+HN-IB,Honduras,Islas de la Bahia,,,,
+HN-LP,Honduras,La Paz,,,,
+HN-LE,Honduras,Lempira,,,,
+HN-OC,Honduras,Ocotepeque,,,,
+HN-OL,Honduras,Olancho,,,,
+HN-SB,Honduras,Santa Barbara,,,,
+HN-VA,Honduras,Valle,,,,
+HN-YO,Honduras,Yoro,,,,
+MX-AGU,Mexico,Aguascalientes,,,,
+MX-BCN,Mexico,Baja California,,,,
+MX-BCS,Mexico,Baja California Sur,,,,
+MX-CAM,Mexico,Campeche,,,,
+MX-CHP,Mexico,Chiapas,,,,
+MX-CHH,Mexico,Chihuahua,,,,
+MX-CMX,Mexico,Ciudad de Mexico,,,,
+MX-COA,Mexico,Coahuila,,,,
+MX-COL,Mexico,Colima,,,,
+MX-DUR,Mexico,Durango,,,,
+MX-GUA,Mexico,Guanajuato,,,,
+MX-GRO,Mexico,Guerrero,,,,
+MX-HID,Mexico,Hidalgo,,,,
+MX-JAL,Mexico,Jalisco,,,,
+MX-MIC,Mexico,Michoacan,,,,
+MX-MOR,Mexico,Morelos,,,,
+MX-MEX,Mexico,Mexico,,,,
+MX-NAY,Mexico,Nayarit,,,,
+MX-NLE,Mexico,Nuevo Leon,,,,
+MX-OAX,Mexico,Oaxaca,,,,
+MX-PUE,Mexico,Puebla,,,,
+MX-QUE,Mexico,Queretaro,,,,
+MX-ROO,Mexico,Quintana Roo,,,,
+MX-SLP,Mexico,San Luis Potosi,,,,
+MX-SIN,Mexico,Sinaloa,,,,
+MX-SON,Mexico,Sonora,,,,
+MX-TAB,Mexico,Tabasco,,,,
+MX-TAM,Mexico,Tamaulipas,,,,
+MX-TLA,Mexico,Tlaxcala,,,,
+MX-VER,Mexico,Veracruz,,,,
+MX-YUC,Mexico,Yucatan,,,,
+MX-ZAC,Mexico,Zacatecas,,,,
 NI-BO,Nicaragua,Boaco,,,,
 NI-CA,Nicaragua,Carazo,,,,
 NI-CI,Nicaragua,Chinandega,,,,
@@ -337,31 +337,31 @@ PY-12,Paraguay,Neembucu,,,,
 PY-9,Paraguay,Paraguari,,,,
 PY-15,Paraguay,Presidente Hayes,,,,
 PY-2,Paraguay,San Pedro,,,,
-PE-AMA,Peru,Amazonas,2021-05-22T20:06:11.775954,,,
-PE-ANC,Peru,Ancash,2021-05-22T20:06:11.775954,,,
-PE-APU,Peru,Apurimac,2021-05-22T20:06:11.775954,,,
-PE-ARE,Peru,Arequipa,2021-05-22T20:06:11.775954,,,
-PE-AYA,Peru,Ayacucho,2021-05-22T20:06:11.775954,,,
-PE-CAJ,Peru,Cajamarca,2021-05-22T20:06:11.775954,,,
-PE-CAL,Peru,Callao,2021-05-22T20:06:11.775954,,,
-PE-CUS,Peru,Cusco,2021-05-22T20:06:11.775954,,,
-PE-HUV,Peru,Huancavelica,2021-05-22T20:06:11.775954,,,
-PE-HUC,Peru,Huanuco,2021-05-22T20:06:11.775954,,,
-PE-ICA,Peru,Ica,2021-05-22T20:06:11.775954,,,
-PE-JUN,Peru,Junin,2021-05-22T20:06:11.775954,,,
-PE-LAL,Peru,La Libertad,2021-05-22T20:06:11.775954,,,
-PE-LAM,Peru,Lambayeque,2021-05-22T20:06:11.775954,,,
-PE-LIM,Peru,Lima,2021-05-22T20:06:11.775954,,,
-PE-LOR,Peru,Loreto,2021-05-22T20:06:11.775954,,,
-PE-MDD,Peru,Madre de dios,2021-05-22T20:06:11.775954,,,
-PE-MOQ,Peru,Moquegua,2021-05-22T20:06:11.775954,,,
-PE-PAS,Peru,Pasco,2021-05-22T20:06:11.775954,,,
-PE-PIU,Peru,Piura,2021-05-22T20:06:11.775954,,,
-PE-PUN,Peru,Puno,2021-05-22T20:06:11.775954,,,
-PE-SAM,Peru,San Martin,2021-05-22T20:06:11.775954,,,
-PE-TAC,Peru,Tacna,2021-05-22T20:06:11.775954,,,
-PE-TUM,Peru,Tumbes,2021-05-22T20:06:11.775954,,,
-PE-UCA,Peru,Ucayali,2021-05-22T20:06:11.775954,,,
+PE-AMA,Peru,Amazonas,,,,
+PE-ANC,Peru,Ancash,,,,
+PE-APU,Peru,Apurimac,,,,
+PE-ARE,Peru,Arequipa,,,,
+PE-AYA,Peru,Ayacucho,,,,
+PE-CAJ,Peru,Cajamarca,,,,
+PE-CAL,Peru,Callao,,,,
+PE-CUS,Peru,Cusco,,,,
+PE-HUV,Peru,Huancavelica,,,,
+PE-HUC,Peru,Huanuco,,,,
+PE-ICA,Peru,Ica,,,,
+PE-JUN,Peru,Junin,,,,
+PE-LAL,Peru,La Libertad,,,,
+PE-LAM,Peru,Lambayeque,,,,
+PE-LIM,Peru,Lima,,,,
+PE-LOR,Peru,Loreto,,,,
+PE-MDD,Peru,Madre de dios,,,,
+PE-MOQ,Peru,Moquegua,,,,
+PE-PAS,Peru,Pasco,,,,
+PE-PIU,Peru,Piura,,,,
+PE-PUN,Peru,Puno,,,,
+PE-SAM,Peru,San Martin,,,,
+PE-TAC,Peru,Tacna,,,,
+PE-TUM,Peru,Tumbes,,,,
+PE-UCA,Peru,Ucayali,,,,
 US-PR,United States,Puerto Rico,,,,
 UY-AR,Uruguay,Artigas,,,,
 UY-CA,Uruguay,Canelones,,,,
