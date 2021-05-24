@@ -10,7 +10,8 @@ import utils.scripts.data_collection.data.ecuador_data_v2 as ecuador_data
 import utils.scripts.data_collection.data.cuba_data_v2 as cuba_data
 import utils.scripts.data_collection.data.bolivia_data_v2 as bolivia_data
 import utils.scripts.data_collection.data.brazil_data_v2 as brazil_data
-import utils.scripts.data_collection.data.republica_dominicana_data_v2 as republica_domicana
+import utils.scripts.data_collection.data.republica_dominicana_data_v2 as republica_domicana_data
+import utils.scripts.data_collection.data.argentina_data_v2 as argentina_data
 
 import utils.scripts.data_time_series.time_series_generator as time_series_generator
 
@@ -23,6 +24,7 @@ PATH_PERU = 'utils/scripts/data_collection/data/peru_temporal/'
 PATH_BOLIVIA = 'utils/scripts/data_collection/data/bolivia_temporal/'
 PATH_BRAZIL= 'utils/scripts/data_collection/data/brazil_temporal/'
 PATH_REPUBLICA_DOMINICANA= 'utils/scripts/data_collection/data/republica_dominicana_temporal/'
+PATH_ARGENTINA='utils/scripts/data_collection/data/argentina_temporal/'
 
 def logo():
     print("""                                                                                       
@@ -99,9 +101,14 @@ def fix_format(df):
 
 def load_all_data_temporal(list_date_list):
 
-    cuba_data.load_and_generatecsv(list_date_list)
     peru_data.load_and_generatecsv(list_date_list)
     ecuador_data.load_and_generatecsv(list_date_list)
+    cuba_data.load_and_generatecsv(list_date_list)
+    bolivia_data.load_and_generatecsv(list_date_list)
+    brazil_data.load_and_generatecsv(list_date_list)
+    republica_domicana_data.load_and_generatecsv(list_date_list)
+    ecuador_data.load_and_generatecsv(list_date_list)
+    argentina_data.load_and_generatecsv(list_date_list)
 
     print("------------------------ALL TEMPORALS CREATED----------------------------")
 
@@ -139,8 +146,8 @@ if __name__ == "__main__":
     load_all_data_temporal(data_loader_per_days)
 
     # Days to check if file exists
-    for d in data_loader_per_days:  # date_list
-        URL = f"https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/{d}.csv"
+    for day in data_loader_per_days:  # date_list
+        URL = f"https://raw.githubusercontent.com/DataScienceResearchPeru/covid-19_latinoamerica/master/latam_covid_19_data/daily_reports/{day}.csv"
 
         # Check if file exists, if not -> create based on template
         try:
@@ -149,27 +156,28 @@ if __name__ == "__main__":
             print(f"NOT OK: {str(e)}")
         else:
             if response.status_code == 200:
-                print(f"OK daily/{d}.csv exists, using that file as DataFrame.")
+                print(f"OK daily/{day}.csv exists, using that file as DataFrame.")
             else:
                 print(f"NOT OK: HTTP response code {response.status_code}")
-                print(f'Creating file {d}.csv')
-                df_template.to_csv(PATH_DSRP_DAILY_REPORTS+d+'.csv',index=False)
+                print(f'Creating file {day}.csv')
+                df_template.to_csv(PATH_DSRP_DAILY_REPORTS+day+'.csv',index=False)
 
         try:
             # Use template
             df_template=pd.read_csv(URL)
             # Update data
-            data_updated=update_data_per_country(df_template,PATH_ECUADOR, d, 'EC-')
-            data_updated=update_data_per_country(data_updated,PATH_PERU, d, 'PE-')
-            data_updated=update_data_per_country(data_updated,PATH_CUBA,d,'CU-')
-            data_updated=update_data_per_country(data_updated,PATH_BOLIVIA,d,'BO-')
-            data_updated=update_data_per_country(data_updated,PATH_BRAZIL,d,'BR-')
-            data_updated=update_data_per_country(data_updated,PATH_REPUBLICA_DOMINICANA,d,'DO-')
+            data_updated=update_data_per_country(df_template,PATH_ECUADOR, day, 'EC-')
+            data_updated=update_data_per_country(data_updated,PATH_PERU, day, 'PE-')
+            data_updated=update_data_per_country(data_updated,PATH_CUBA,day,'CU-')
+            data_updated=update_data_per_country(data_updated,PATH_BOLIVIA,day,'BO-')
+            data_updated=update_data_per_country(data_updated,PATH_BRAZIL,day,'BR-')
+            data_updated=update_data_per_country(data_updated,PATH_REPUBLICA_DOMINICANA,day,'DO-')
+            data_updated=update_data_per_country(data_updated,PATH_ARGENTINA,day,'AR-')
 
             data_updated=fix_format(data_updated)
-            data_updated.to_csv(PATH_DSRP_DAILY_REPORTS+d+'.csv', index=False)
+            data_updated.to_csv(PATH_DSRP_DAILY_REPORTS+day+'.csv', index=False)
         except Exception as e:
-            print(f'Error in {d} caughted, probably a new day without info.')
+            print(f'Error in {day} caughted, probably a new day without info.')
     
     time_series_generator.generate()  # Generate time series
 
