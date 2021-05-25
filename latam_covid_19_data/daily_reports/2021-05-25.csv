@@ -32,49 +32,49 @@ BO-N,Bolivia,Pando,,,,
 BO-P,Bolivia,Potosi,,,,
 BO-S,Bolivia,Santa Cruz,,,,
 BO-T,Bolivia,Tarija,,,,
-BR-AC,Brazil,Acre,2021-05-25T04:22:49.880936,81505,1642,0
-BR-AL,Brazil,Alagoas,2021-05-25T04:22:49.880936,189098,4625,0
-BR-AP,Brazil,Amapa,2021-05-25T04:22:49.880936,110654,1663,0
-BR-AM,Brazil,Amazonas,2021-05-25T04:22:49.880936,382845,12925,0
-BR-BA,Brazil,Bahia,2021-05-25T04:22:49.880936,984967,20499,0
-BR-CE,Brazil,Ceara,2021-05-25T04:22:49.880936,775767,19848,0
-BR-DF,Brazil,Distrito Federal,2021-05-25T04:22:49.880936,399349,8483,0
-BR-ES,Brazil,Espiritu Santo,2021-05-25T04:22:49.880936,471360,10587,0
-BR-GO,Brazil,Goias,2021-05-25T04:22:49.880936,596088,16570,0
-BR-MA,Brazil,Maranhao,2021-05-25T04:22:49.880936,284675,7919,0
-BR-MT,Brazil,Mato Grosso,2021-05-25T04:22:49.880936,392865,10530,0
-BR-MS,Brazil,Mato Grosso do Sul,2021-05-25T04:22:49.880936,278052,6492,0
-BR-MG,Brazil,Minas Gerais,2021-05-25T04:22:49.880936,1518725,39128,0
-BR-PA,Brazil,Para,2021-05-25T04:22:49.880936,508726,14264,0
-BR-PB,Brazil,Paraiba,2021-05-25T04:22:49.880936,318261,7448,0
-BR-PR,Brazil,Parana,2021-05-25T04:22:49.880936,1062401,25563,0
-BR-PE,Brazil,Pernambuco,2021-05-25T04:22:49.880936,463736,15393,0
-BR-PI,Brazil,Piaui,2021-05-25T04:22:49.880936,265916,5787,0
-BR-RJ,Brazil,Rio de Janeiro,2021-05-25T04:22:49.880936,844442,49539,0
-BR-RN,Brazil,Rio Grande do Norte,2021-05-25T04:22:49.880936,260269,5989,0
-BR-RS,Brazil,Rio Grande do Sul,2021-05-25T04:22:49.880936,1060777,27468,0
-BR-RO,Brazil,Rondonia,2021-05-25T04:22:49.880936,226107,5636,0
-BR-RR,Brazil,Roraima,2021-05-25T04:22:49.880936,102102,1602,0
-BR-SC,Brazil,Santa Catarina,2021-05-25T04:22:49.880936,949365,14873,0
-BR-SP,Brazil,Sao Paulo,2021-05-25T04:22:49.880936,3192727,107677,0
-BR-SE,Brazil,Sergipe,2021-05-25T04:22:49.880936,226550,4927,0
-BR-TO,Brazil,Tocantins,2021-05-25T04:22:49.880936,173427,2781,0
-CL-AN,Chile,Antofagasta,2021-05-24T18:00:50,52258,1023,50137
-CL-AR,Chile,Araucania,2021-05-24T18:00:50,80373,1015,77046
-CL-AP,Chile,Arica y Parinacota,2021-05-24T18:00:50,22212,429,21131
-CL-AT,Chile,Atacama,2021-05-24T18:00:50,20545,226,19514
-CL-AI,Chile,Aysen,2021-05-24T18:00:50,5454,33,4938
-CL-BI,Chile,Biobio,2021-05-24T18:00:50,126662,2040,121222
-CL-CO,Chile,Coquimbo,2021-05-24T18:00:50,36271,674,34281
-CL-LL,Chile,Los Lagos,2021-05-24T18:00:50,75005,1015,72014
-CL-LR,Chile,Los Rios,2021-05-24T18:00:50,37530,427,35884
-CL-MA,Chile,Magallanes,2021-05-24T18:00:50,27427,395,26525
-CL-ML,Chile,Maule,2021-05-24T18:00:50,81541,1338,77072
-CL-NB,Chile,Nuble,2021-05-24T18:00:50,29126,485,27724
-CL-LI,Chile,O'Higgins,2021-05-24T18:00:50,54842,1131,51502
-CL-RM,Chile,Santiago,2021-05-24T18:00:50,554477,15141,521967
-CL-TA,Chile,Tarapaca,2021-05-24T18:00:50,36233,660,34992
-CL-VS,Chile,Valparaiso,2021-05-24T18:00:50,95251,2516,89930
+BR-AC,Brazil,Acre,,,,
+BR-AL,Brazil,Alagoas,,,,
+BR-AP,Brazil,Amapa,,,,
+BR-AM,Brazil,Amazonas,,,,
+BR-BA,Brazil,Bahia,,,,
+BR-CE,Brazil,Ceara,,,,
+BR-DF,Brazil,Distrito Federal,,,,
+BR-ES,Brazil,Espiritu Santo,,,,
+BR-GO,Brazil,Goias,,,,
+BR-MA,Brazil,Maranhao,,,,
+BR-MT,Brazil,Mato Grosso,,,,
+BR-MS,Brazil,Mato Grosso do Sul,,,,
+BR-MG,Brazil,Minas Gerais,,,,
+BR-PA,Brazil,Para,,,,
+BR-PB,Brazil,Paraiba,,,,
+BR-PR,Brazil,Parana,,,,
+BR-PE,Brazil,Pernambuco,,,,
+BR-PI,Brazil,Piaui,,,,
+BR-RJ,Brazil,Rio de Janeiro,,,,
+BR-RN,Brazil,Rio Grande do Norte,,,,
+BR-RS,Brazil,Rio Grande do Sul,,,,
+BR-RO,Brazil,Rondonia,,,,
+BR-RR,Brazil,Roraima,,,,
+BR-SC,Brazil,Santa Catarina,,,,
+BR-SP,Brazil,Sao Paulo,,,,
+BR-SE,Brazil,Sergipe,,,,
+BR-TO,Brazil,Tocantins,,,,
+CL-AN,Chile,Antofagasta,,,,
+CL-AR,Chile,Araucania,,,,
+CL-AP,Chile,Arica y Parinacota,,,,
+CL-AT,Chile,Atacama,,,,
+CL-AI,Chile,Aysen,,,,
+CL-BI,Chile,Biobio,,,,
+CL-CO,Chile,Coquimbo,,,,
+CL-LL,Chile,Los Lagos,,,,
+CL-LR,Chile,Los Rios,,,,
+CL-MA,Chile,Magallanes,,,,
+CL-ML,Chile,Maule,,,,
+CL-NB,Chile,Nuble,,,,
+CL-LI,Chile,O'Higgins,,,,
+CL-RM,Chile,Santiago,,,,
+CL-TA,Chile,Tarapaca,,,,
+CL-VS,Chile,Valparaiso,,,,
 CO-AMA,Colombia,Amazonas,,,,
 CO-ANT,Colombia,Antioquia,,,,
 CO-ARA,Colombia,Arauca,,,,
@@ -163,30 +163,30 @@ DO-26,Dominican Republic,Santiago,,,,
 DO-32,Dominican Republic,Santiago Rodriguez,,,,
 DO-01,Dominican Republic,Santo Domingo,,,,
 DO-27,Dominican Republic,Valverde,,,,
-EC-A,Ecuador,Azuay,2021-05-25T04:22:49.877985,22720,517,
-EC-B,Ecuador,Bolivar,2021-05-25T04:22:49.877985,6370,128,
-EC-F,Ecuador,Canar,2021-05-25T04:22:49.877985,7734,266,
-EC-C,Ecuador,Carchi,2021-05-25T04:22:49.877985,5523,147,
-EC-H,Ecuador,Chimborazo,2021-05-25T04:22:49.877985,7701,652,
-EC-X,Ecuador,Cotopaxi,2021-05-25T04:22:49.877985,10977,603,
-EC-O,Ecuador,El Oro,2021-05-25T04:22:49.877985,20246,1271,
-EC-E,Ecuador,Esmeraldas,2021-05-25T04:22:49.877985,8199,458,
-EC-W,Ecuador,Galapagos,2021-05-25T04:22:49.877985,1437,20,
-EC-G,Ecuador,Guayas,2021-05-25T04:22:49.877985,56309,4423,
-EC-I,Ecuador,Imbabura,2021-05-25T04:22:49.877985,13459,416,
-EC-L,Ecuador,Loja,2021-05-25T04:22:49.877985,15829,679,
-EC-R,Ecuador,Los Rios,2021-05-25T04:22:49.877985,12056,845,
-EC-M,Ecuador,Manabi,2021-05-25T04:22:49.877985,30493,3568,
-EC-S,Ecuador,Morona Santiago,2021-05-25T04:22:49.877985,5602,64,
-EC-N,Ecuador,Napo,2021-05-25T04:22:49.877985,3142,107,
-EC-D,Ecuador,Orellana,2021-05-25T04:22:49.877985,3152,101,
-EC-Y,Ecuador,Pastaza,2021-05-25T04:22:49.877985,3110,102,
-EC-P,Ecuador,Pichincha,2021-05-25T04:22:49.877985,148804,3294,
-EC-SE,Ecuador,Santa Elena,2021-05-25T04:22:49.877985,4286,694,
-EC-SD,Ecuador,Santo Domingo de los Tsachilas,2021-05-25T04:22:49.877985,11044,779,
-EC-U,Ecuador,Sucumbios,2021-05-25T04:22:49.877985,5092,174,
-EC-T,Ecuador,Tungurahua,2021-05-25T04:22:49.877985,13152,802,
-EC-Z,Ecuador,Zamora-Chinchipe,2021-05-25T04:22:49.877985,2761,100,
+EC-A,Ecuador,Azuay,,,,
+EC-B,Ecuador,Bolivar,,,,
+EC-F,Ecuador,Canar,,,,
+EC-C,Ecuador,Carchi,,,,
+EC-H,Ecuador,Chimborazo,,,,
+EC-X,Ecuador,Cotopaxi,,,,
+EC-O,Ecuador,El Oro,,,,
+EC-E,Ecuador,Esmeraldas,,,,
+EC-W,Ecuador,Galapagos,,,,
+EC-G,Ecuador,Guayas,,,,
+EC-I,Ecuador,Imbabura,,,,
+EC-L,Ecuador,Loja,,,,
+EC-R,Ecuador,Los Rios,,,,
+EC-M,Ecuador,Manabi,,,,
+EC-S,Ecuador,Morona Santiago,,,,
+EC-N,Ecuador,Napo,,,,
+EC-D,Ecuador,Orellana,,,,
+EC-Y,Ecuador,Pastaza,,,,
+EC-P,Ecuador,Pichincha,,,,
+EC-SE,Ecuador,Santa Elena,,,,
+EC-SD,Ecuador,Santo Domingo de los Tsachilas,,,,
+EC-U,Ecuador,Sucumbios,,,,
+EC-T,Ecuador,Tungurahua,,,,
+EC-Z,Ecuador,Zamora-Chinchipe,,,,
 SV-AH,El Salvador,Ahuachapan,,,,
 SV-CA,El Salvador,Cabanas,,,,
 SV-CH,El Salvador,Chalatenango,,,,
@@ -337,31 +337,31 @@ PY-12,Paraguay,Neembucu,,,,
 PY-9,Paraguay,Paraguari,,,,
 PY-15,Paraguay,Presidente Hayes,,,,
 PY-2,Paraguay,San Pedro,,,,
-PE-AMA,Peru,Amazonas,2021-05-25T04:22:49.876873,,,
-PE-ANC,Peru,Ancash,2021-05-25T04:22:49.876873,,,
-PE-APU,Peru,Apurimac,2021-05-25T04:22:49.876873,,,
-PE-ARE,Peru,Arequipa,2021-05-25T04:22:49.876873,,,
-PE-AYA,Peru,Ayacucho,2021-05-25T04:22:49.876873,,,
-PE-CAJ,Peru,Cajamarca,2021-05-25T04:22:49.876873,,,
-PE-CAL,Peru,Callao,2021-05-25T04:22:49.876873,,,
-PE-CUS,Peru,Cusco,2021-05-25T04:22:49.876873,,,
-PE-HUV,Peru,Huancavelica,2021-05-25T04:22:49.876873,,,
-PE-HUC,Peru,Huanuco,2021-05-25T04:22:49.876873,,,
-PE-ICA,Peru,Ica,2021-05-25T04:22:49.876873,,,
-PE-JUN,Peru,Junin,2021-05-25T04:22:49.876873,,,
-PE-LAL,Peru,La Libertad,2021-05-25T04:22:49.876873,,,
-PE-LAM,Peru,Lambayeque,2021-05-25T04:22:49.876873,,,
-PE-LIM,Peru,Lima,2021-05-25T04:22:49.876873,,,
-PE-LOR,Peru,Loreto,2021-05-25T04:22:49.876873,,,
-PE-MDD,Peru,Madre de dios,2021-05-25T04:22:49.876873,,,
-PE-MOQ,Peru,Moquegua,2021-05-25T04:22:49.876873,,,
-PE-PAS,Peru,Pasco,2021-05-25T04:22:49.876873,,,
-PE-PIU,Peru,Piura,2021-05-25T04:22:49.876873,,,
-PE-PUN,Peru,Puno,2021-05-25T04:22:49.876873,,,
-PE-SAM,Peru,San Martin,2021-05-25T04:22:49.876873,,,
-PE-TAC,Peru,Tacna,2021-05-25T04:22:49.876873,,,
-PE-TUM,Peru,Tumbes,2021-05-25T04:22:49.876873,,,
-PE-UCA,Peru,Ucayali,2021-05-25T04:22:49.876873,,,
+PE-AMA,Peru,Amazonas,,,,
+PE-ANC,Peru,Ancash,,,,
+PE-APU,Peru,Apurimac,,,,
+PE-ARE,Peru,Arequipa,,,,
+PE-AYA,Peru,Ayacucho,,,,
+PE-CAJ,Peru,Cajamarca,,,,
+PE-CAL,Peru,Callao,,,,
+PE-CUS,Peru,Cusco,,,,
+PE-HUV,Peru,Huancavelica,,,,
+PE-HUC,Peru,Huanuco,,,,
+PE-ICA,Peru,Ica,,,,
+PE-JUN,Peru,Junin,,,,
+PE-LAL,Peru,La Libertad,,,,
+PE-LAM,Peru,Lambayeque,,,,
+PE-LIM,Peru,Lima,,,,
+PE-LOR,Peru,Loreto,,,,
+PE-MDD,Peru,Madre de dios,,,,
+PE-MOQ,Peru,Moquegua,,,,
+PE-PAS,Peru,Pasco,,,,
+PE-PIU,Peru,Piura,,,,
+PE-PUN,Peru,Puno,,,,
+PE-SAM,Peru,San Martin,,,,
+PE-TAC,Peru,Tacna,,,,
+PE-TUM,Peru,Tumbes,,,,
+PE-UCA,Peru,Ucayali,,,,
 US-PR,United States,Puerto Rico,,,,
 UY-AR,Uruguay,Artigas,,,,
 UY-CA,Uruguay,Canelones,,,,
