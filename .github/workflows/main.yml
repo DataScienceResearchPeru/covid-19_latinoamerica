@@ -15,26 +15,27 @@ jobs:
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v2
 
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.8.5' # install the python version needed
+          python-version: '3.8.5'
 
-      - name: execute my python script # run sj-gobierno.py to get the latest data
+      - name: execute my python script 
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python update_data_v2.py
-      - name: commit my files #AR,BO,BR,CO,CR,
+      - name: commit the daily updates
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "CU,EC,PE,BO,BR,DO - Daily Update" -a 
+          git commit -m "AR,BO,BR,CU,EC,PE,DO - Daily Update" -a
+          
       - name: push my changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master  
+          branch: master

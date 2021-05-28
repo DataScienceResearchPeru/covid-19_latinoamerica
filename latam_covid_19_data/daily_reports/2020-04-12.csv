@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2020-06-11 19:30:34.375700,5835,196,70
-AR-K,Argentina,Catamarca,2020-06-11 19:30:34.375700,0,0,0
-AR-H,Argentina,Chaco,2020-06-11 19:30:34.375700,1085,0,9
-AR-U,Argentina,Chubut,2020-06-11 19:30:34.375700,0,0,0
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2020-06-11 19:30:34.375700,4202,112,117
-AR-X,Argentina,Cordoba,2020-06-11 19:30:34.375700,2805,0,1
-AR-W,Argentina,Corrientes,2020-06-11 19:30:34.375700,679,0,2
-AR-E,Argentina,Entre Rios,2020-06-11 19:30:34.375700,297,0,4
-AR-P,Argentina,Formosa,2020-06-11 19:30:34.375700,39,0,0
-AR-Y,Argentina,Jujuy,2020-06-11 19:30:34.375700,412,0,3
-AR-L,Argentina,La Pampa,2020-06-11 19:30:34.375700,0,0,0
-AR-F,Argentina,La Rioja,2020-06-11 19:30:34.375700,146,0,0
-AR-M,Argentina,Mendoza,2020-06-11 19:30:34.375700,469,12,2
-AR-N,Argentina,Misiones,2020-06-11 19:30:34.375700,33,5,0
-AR-Q,Argentina,Neuquen,2020-06-11 19:30:34.375700,378,0,1
-AR-R,Argentina,Rio Negro,2020-06-11 19:30:34.375700,288,0,2
-AR-A,Argentina,Salta,2020-06-11 19:30:34.375700,85,0,0
-AR-J,Argentina,San Juan,2020-06-11 19:30:34.375700,120,0,0
-AR-D,Argentina,San Luis,2020-06-11 19:30:34.375700,82,0,0
-AR-Z,Argentina,Santa Cruz,2020-06-11 19:30:34.375700,159,0,0
-AR-S,Argentina,Santa Fe,2020-06-11 19:30:34.375700,2082,0,9
-AR-G,Argentina,Santiago del Estero,2020-06-11 19:30:34.375700,78,0,0
-AR-V,Argentina,Tierra del Fuego,2020-06-11 19:30:34.375700,470,0,0
-AR-T,Argentina,Tucuman,2020-06-11 19:30:34.375700,436,0,0
+AR-B,Argentina,Buenos Aires,2021-05-27T23:34:33.426158,634,221,70
+AR-K,Argentina,Catamarca,2021-05-27T23:34:33.426158,0,0,0
+AR-H,Argentina,Chaco,2021-05-27T23:34:33.426158,142,18,9
+AR-U,Argentina,Chubut,2021-05-27T23:34:33.426158,0,0,0
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2021-05-27T23:34:33.426158,619,154,117
+AR-X,Argentina,Cordoba,2021-05-27T23:34:33.426158,222,22,1
+AR-W,Argentina,Corrientes,2021-05-27T23:34:33.426158,0,0,2
+AR-E,Argentina,Entre Rios,2021-05-27T23:34:33.426158,0,0,4
+AR-P,Argentina,Formosa,2021-05-27T23:34:33.426158,0,0,0
+AR-Y,Argentina,Jujuy,2021-05-27T23:34:33.426158,0,0,3
+AR-L,Argentina,La Pampa,2021-05-27T23:34:33.426158,0,0,0
+AR-F,Argentina,La Rioja,2021-05-27T23:34:33.426158,26,9,0
+AR-M,Argentina,Mendoza,2021-05-27T23:34:33.426158,61,16,2
+AR-N,Argentina,Misiones,2021-05-27T23:34:33.426158,0,0,0
+AR-Q,Argentina,Neuquen,2021-05-27T23:34:33.426158,92,0,1
+AR-R,Argentina,Rio Negro,2021-05-27T23:34:33.426158,0,0,2
+AR-A,Argentina,Salta,2021-05-27T23:34:33.426158,0,0,0
+AR-J,Argentina,San Juan,2021-05-27T23:34:33.426158,0,0,0
+AR-D,Argentina,San Luis,2021-05-27T23:34:33.426158,0,0,0
+AR-Z,Argentina,Santa Cruz,2021-05-27T23:34:33.426158,0,0,0
+AR-S,Argentina,Santa Fe,2021-05-27T23:34:33.426158,211,0,9
+AR-G,Argentina,Santiago del Estero,2021-05-27T23:34:33.426158,0,0,0
+AR-V,Argentina,Tierra del Fuego,2021-05-27T23:34:33.426158,94,0,0
+AR-T,Argentina,Tucuman,2021-05-27T23:34:33.426158,0,6,0
 BO-B,Bolivia,Beni,2021-05-19T03:08:27.216196,0,0,0
 BO-H,Bolivia,Chuquisaca,2021-05-19T03:08:27.216196,1,0,0
 BO-C,Bolivia,Cochabamba,2021-05-19T03:08:27.216196,52,4,0

@@ -11,7 +11,7 @@ import utils.scripts.data_collection.data.cuba_data_v2 as cuba_data
 import utils.scripts.data_collection.data.bolivia_data_v2 as bolivia_data
 import utils.scripts.data_collection.data.brazil_data_v2 as brazil_data
 import utils.scripts.data_collection.data.republica_dominicana_data_v2 as republica_domicana_data
-#import utils.scripts.data_collection.data.argentina_data_v2 as argentina_data
+import utils.scripts.data_collection.data.argentina_data_v2 as argentina_data
 
 import utils.scripts.data_time_series.time_series_generator as time_series_generator
 
@@ -108,7 +108,7 @@ def load_all_data_temporal(list_date_list):
     brazil_data.load_and_generatecsv(list_date_list)
     republica_domicana_data.load_and_generatecsv(list_date_list)
     ecuador_data.load_and_generatecsv(list_date_list)
-    #argentina_data.load_and_generatecsv(list_date_list)
+    argentina_data.load_and_generatecsv(list_date_list)
 
     print("------------------------ALL TEMPORALS CREATED----------------------------")
 
@@ -172,7 +172,7 @@ if __name__ == "__main__":
             data_updated=update_data_per_country(data_updated,PATH_BOLIVIA,day,'BO-')
             data_updated=update_data_per_country(data_updated,PATH_BRAZIL,day,'BR-')
             data_updated=update_data_per_country(data_updated,PATH_REPUBLICA_DOMINICANA,day,'DO-')
-            #data_updated=update_data_per_country(data_updated,PATH_ARGENTINA,day,'AR-')
+            data_updated=update_data_per_country(data_updated,PATH_ARGENTINA,day,'AR-')
 
             data_updated=fix_format(data_updated)
             data_updated.to_csv(PATH_DSRP_DAILY_REPORTS+day+'.csv', index=False)
