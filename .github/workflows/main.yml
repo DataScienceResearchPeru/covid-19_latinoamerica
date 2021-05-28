@@ -2,8 +2,8 @@ name: daily_update
 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-   branches: [ master ]
+  #push:
+  # branches: [ master ]
   schedule:
    - cron: '0 4,18,23 * * *' # runs at 15:00 UTC everyday
   release:
