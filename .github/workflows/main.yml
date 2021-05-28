@@ -10,7 +10,7 @@ on:
     types: [created]
 
 jobs:
-  build:
+  data-updater-daily:
     runs-on: ubuntu-latest
     steps:
 
