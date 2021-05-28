@@ -68,6 +68,7 @@ def load_and_generatecsv(list_date_list):
         
         with open(PATH_FILE,'wb') as f:
             f.write(r.content)
+        print(f'[ARGENTINA] FILE SAVE TO {PATH_FILE}')
     else:
         print('[ARGENTINA] FILE ZIP ALREADY EXISTS, USING THAT FILE')
 
@@ -137,4 +138,4 @@ def load_and_generatecsv(list_date_list):
 
 if __name__ == "__main__":
     print("======================ARGENTINA======================")
-    load_and_generatecsv(['2021-05-04', '2021-05-03'])
+    load_and_generatecsv(['2021-05-28', '2021-05-27'])
