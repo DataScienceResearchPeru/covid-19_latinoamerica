@@ -32,49 +32,49 @@ BO-N,Bolivia,Pando,,,,
 BO-P,Bolivia,Potosi,,,,
 BO-S,Bolivia,Santa Cruz,,,,
 BO-T,Bolivia,Tarija,,,,
-BR-AC,Brazil,Acre,,,,
-BR-AL,Brazil,Alagoas,,,,
-BR-AP,Brazil,Amapa,,,,
-BR-AM,Brazil,Amazonas,,,,
-BR-BA,Brazil,Bahia,,,,
-BR-CE,Brazil,Ceara,,,,
-BR-DF,Brazil,Distrito Federal,,,,
-BR-ES,Brazil,Espiritu Santo,,,,
-BR-GO,Brazil,Goias,,,,
-BR-MA,Brazil,Maranhao,,,,
-BR-MT,Brazil,Mato Grosso,,,,
-BR-MS,Brazil,Mato Grosso do Sul,,,,
-BR-MG,Brazil,Minas Gerais,,,,
-BR-PA,Brazil,Para,,,,
-BR-PB,Brazil,Paraiba,,,,
-BR-PR,Brazil,Parana,,,,
-BR-PE,Brazil,Pernambuco,,,,
-BR-PI,Brazil,Piaui,,,,
-BR-RJ,Brazil,Rio de Janeiro,,,,
-BR-RN,Brazil,Rio Grande do Norte,,,,
-BR-RS,Brazil,Rio Grande do Sul,,,,
-BR-RO,Brazil,Rondonia,,,,
-BR-RR,Brazil,Roraima,,,,
-BR-SC,Brazil,Santa Catarina,,,,
-BR-SP,Brazil,Sao Paulo,,,,
-BR-SE,Brazil,Sergipe,,,,
-BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,,,,
-CL-AR,Chile,Araucania,,,,
-CL-AP,Chile,Arica y Parinacota,,,,
-CL-AT,Chile,Atacama,,,,
-CL-AI,Chile,Aysen,,,,
-CL-BI,Chile,Biobio,,,,
-CL-CO,Chile,Coquimbo,,,,
-CL-LL,Chile,Los Lagos,,,,
-CL-LR,Chile,Los Rios,,,,
-CL-MA,Chile,Magallanes,,,,
-CL-ML,Chile,Maule,,,,
-CL-NB,Chile,Nuble,,,,
-CL-LI,Chile,O'Higgins,,,,
-CL-RM,Chile,Santiago,,,,
-CL-TA,Chile,Tarapaca,,,,
-CL-VS,Chile,Valparaiso,,,,
+BR-AC,Brazil,Acre,2021-05-27T23:13:25.615436,81980,1652,0
+BR-AL,Brazil,Alagoas,2021-05-27T23:13:25.615436,190985,4679,0
+BR-AP,Brazil,Amapa,2021-05-27T23:13:25.615436,111280,1683,0
+BR-AM,Brazil,Amazonas,2021-05-27T23:13:25.615436,384634,12951,0
+BR-BA,Brazil,Bahia,2021-05-27T23:13:25.615436,999463,20856,0
+BR-CE,Brazil,Ceara,2021-05-27T23:13:25.615436,787273,20204,0
+BR-DF,Brazil,Distrito Federal,2021-05-27T23:13:25.615436,402182,8569,0
+BR-ES,Brazil,Espiritu Santo,2021-05-27T23:13:25.615436,477047,10683,0
+BR-GO,Brazil,Goias,2021-05-27T23:13:25.615436,602460,16864,0
+BR-MA,Brazil,Maranhao,2021-05-27T23:13:25.615436,287974,8025,0
+BR-MT,Brazil,Mato Grosso,2021-05-27T23:13:25.615436,399313,10631,0
+BR-MS,Brazil,Mato Grosso do Sul,2021-05-27T23:13:25.615436,283302,6627,0
+BR-MG,Brazil,Minas Gerais,2021-05-27T23:13:25.615436,1545702,39784,0
+BR-PA,Brazil,Para,2021-05-27T23:13:25.615436,513477,14419,0
+BR-PB,Brazil,Paraiba,2021-05-27T23:13:25.615436,324425,7556,0
+BR-PR,Brazil,Parana,2021-05-27T23:13:25.615436,1079255,25966,0
+BR-PE,Brazil,Pernambuco,2021-05-27T23:13:25.615436,472590,15595,0
+BR-PI,Brazil,Piaui,2021-05-27T23:13:25.615436,269088,5844,0
+BR-RJ,Brazil,Rio de Janeiro,2021-05-27T23:13:25.615436,855244,50125,0
+BR-RN,Brazil,Rio Grande do Norte,2021-05-27T23:13:25.615436,264415,6049,0
+BR-RS,Brazil,Rio Grande do Sul,2021-05-27T23:13:25.615436,1074634,27868,0
+BR-RO,Brazil,Rondonia,2021-05-27T23:13:25.615436,227663,5680,0
+BR-RR,Brazil,Roraima,2021-05-27T23:13:25.615436,102812,1612,0
+BR-SC,Brazil,Santa Catarina,2021-05-27T23:13:25.615436,958906,15073,0
+BR-SP,Brazil,Sao Paulo,2021-05-27T23:13:25.615436,3239657,109850,0
+BR-SE,Brazil,Sergipe,2021-05-27T23:13:25.615436,230636,5004,0
+BR-TO,Brazil,Tocantins,2021-05-27T23:13:25.615436,175765,2825,0
+CL-AN,Chile,Antofagasta,2021-05-27T17:44:00,52638,1028,50586
+CL-AR,Chile,Araucania,2021-05-27T17:44:00,81226,1032,78104
+CL-AP,Chile,Arica y Parinacota,2021-05-27T17:44:00,22452,435,21352
+CL-AT,Chile,Atacama,2021-05-27T17:44:00,20879,228,19845
+CL-AI,Chile,Aysen,2021-05-27T17:44:00,5647,33,5132
+CL-BI,Chile,Biobio,2021-05-27T17:44:00,128044,2053,122656
+CL-CO,Chile,Coquimbo,2021-05-27T17:44:00,36763,684,34819
+CL-LL,Chile,Los Lagos,2021-05-27T17:44:00,75932,1025,72930
+CL-LR,Chile,Los Rios,2021-05-27T17:44:00,38157,434,36397
+CL-MA,Chile,Magallanes,2021-05-27T17:44:00,27581,399,26773
+CL-ML,Chile,Maule,2021-05-27T17:44:00,82761,1350,78250
+CL-NB,Chile,Nuble,2021-05-27T17:44:00,29530,497,28081
+CL-LI,Chile,O'Higgins,2021-05-27T17:44:00,55657,1140,52390
+CL-RM,Chile,Santiago,2021-05-27T17:44:00,562403,15262,529611
+CL-TA,Chile,Tarapaca,2021-05-27T17:44:00,36453,667,35246
+CL-VS,Chile,Valparaiso,2021-05-27T17:44:00,96546,2542,91178
 CO-AMA,Colombia,Amazonas,,,,
 CO-ANT,Colombia,Antioquia,,,,
 CO-ARA,Colombia,Arauca,,,,
@@ -337,31 +337,31 @@ PY-12,Paraguay,Neembucu,,,,
 PY-9,Paraguay,Paraguari,,,,
 PY-15,Paraguay,Presidente Hayes,,,,
 PY-2,Paraguay,San Pedro,,,,
-PE-AMA,Peru,Amazonas,,,,
-PE-ANC,Peru,Ancash,,,,
-PE-APU,Peru,Apurimac,,,,
-PE-ARE,Peru,Arequipa,,,,
-PE-AYA,Peru,Ayacucho,,,,
-PE-CAJ,Peru,Cajamarca,,,,
-PE-CAL,Peru,Callao,,,,
-PE-CUS,Peru,Cusco,,,,
-PE-HUV,Peru,Huancavelica,,,,
-PE-HUC,Peru,Huanuco,,,,
-PE-ICA,Peru,Ica,,,,
-PE-JUN,Peru,Junin,,,,
-PE-LAL,Peru,La Libertad,,,,
-PE-LAM,Peru,Lambayeque,,,,
-PE-LIM,Peru,Lima,,,,
-PE-LOR,Peru,Loreto,,,,
-PE-MDD,Peru,Madre de dios,,,,
-PE-MOQ,Peru,Moquegua,,,,
-PE-PAS,Peru,Pasco,,,,
-PE-PIU,Peru,Piura,,,,
-PE-PUN,Peru,Puno,,,,
-PE-SAM,Peru,San Martin,,,,
-PE-TAC,Peru,Tacna,,,,
-PE-TUM,Peru,Tumbes,,,,
-PE-UCA,Peru,Ucayali,,,,
+PE-AMA,Peru,Amazonas,2021-05-27T23:13:25.611633,,,
+PE-ANC,Peru,Ancash,2021-05-27T23:13:25.611633,,,
+PE-APU,Peru,Apurimac,2021-05-27T23:13:25.611633,,,
+PE-ARE,Peru,Arequipa,2021-05-27T23:13:25.611633,,,
+PE-AYA,Peru,Ayacucho,2021-05-27T23:13:25.611633,,,
+PE-CAJ,Peru,Cajamarca,2021-05-27T23:13:25.611633,,,
+PE-CAL,Peru,Callao,2021-05-27T23:13:25.611633,,,
+PE-CUS,Peru,Cusco,2021-05-27T23:13:25.611633,,,
+PE-HUV,Peru,Huancavelica,2021-05-27T23:13:25.611633,,,
+PE-HUC,Peru,Huanuco,2021-05-27T23:13:25.611633,,,
+PE-ICA,Peru,Ica,2021-05-27T23:13:25.611633,,,
+PE-JUN,Peru,Junin,2021-05-27T23:13:25.611633,,,
+PE-LAL,Peru,La Libertad,2021-05-27T23:13:25.611633,,,
+PE-LAM,Peru,Lambayeque,2021-05-27T23:13:25.611633,,,
+PE-LIM,Peru,Lima,2021-05-27T23:13:25.611633,,,
+PE-LOR,Peru,Loreto,2021-05-27T23:13:25.611633,,,
+PE-MDD,Peru,Madre de dios,2021-05-27T23:13:25.611633,,,
+PE-MOQ,Peru,Moquegua,2021-05-27T23:13:25.611633,,,
+PE-PAS,Peru,Pasco,2021-05-27T23:13:25.611633,,,
+PE-PIU,Peru,Piura,2021-05-27T23:13:25.611633,,,
+PE-PUN,Peru,Puno,2021-05-27T23:13:25.611633,,,
+PE-SAM,Peru,San Martin,2021-05-27T23:13:25.611633,,,
+PE-TAC,Peru,Tacna,2021-05-27T23:13:25.611633,,,
+PE-TUM,Peru,Tumbes,2021-05-27T23:13:25.611633,,,
+PE-UCA,Peru,Ucayali,2021-05-27T23:13:25.611633,,,
 US-PR,United States,Puerto Rico,,,,
 UY-AR,Uruguay,Artigas,,,,
 UY-CA,Uruguay,Canelones,,,,
