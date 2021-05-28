@@ -12,6 +12,7 @@ import utils.scripts.data_collection.data.bolivia_data_v2 as bolivia_data
 import utils.scripts.data_collection.data.brazil_data_v2 as brazil_data
 import utils.scripts.data_collection.data.republica_dominicana_data_v2 as republica_domicana_data
 import utils.scripts.data_collection.data.argentina_data_v2 as argentina_data
+import utils.scripts.data_collection.data.colombia_data_v2 as colombia_data
 
 import utils.scripts.data_time_series.time_series_generator as time_series_generator
 
@@ -25,6 +26,7 @@ PATH_BOLIVIA = 'utils/scripts/data_collection/data/bolivia_temporal/'
 PATH_BRAZIL= 'utils/scripts/data_collection/data/brazil_temporal/'
 PATH_REPUBLICA_DOMINICANA= 'utils/scripts/data_collection/data/republica_dominicana_temporal/'
 PATH_ARGENTINA='utils/scripts/data_collection/data/argentina_temporal/'
+PATH_COLOMBIA='utils/scripts/data_collection/data/colombia_temporal/'
 
 def logo():
     print("""                                                                                       
@@ -101,6 +103,9 @@ def fix_format(df):
 
 def load_all_data_temporal(list_date_list):
 
+
+    print("[load_all_data_temporal] STARTING...")
+
     peru_data.load_and_generatecsv(list_date_list)
     ecuador_data.load_and_generatecsv(list_date_list)
     cuba_data.load_and_generatecsv(list_date_list)
@@ -109,8 +114,9 @@ def load_all_data_temporal(list_date_list):
     republica_domicana_data.load_and_generatecsv(list_date_list)
     ecuador_data.load_and_generatecsv(list_date_list)
     argentina_data.load_and_generatecsv(list_date_list)
+    colombia_data.load_and_generatecsv(list_date_list)
 
-    print("------------------------ALL TEMPORALS CREATED----------------------------")
+    print("[load_all_data_temporal] END...")
 
 
 def update_data_per_country(df_template,path, d, isocode):
@@ -173,6 +179,7 @@ if __name__ == "__main__":
             data_updated=update_data_per_country(data_updated,PATH_BRAZIL,day,'BR-')
             data_updated=update_data_per_country(data_updated,PATH_REPUBLICA_DOMINICANA,day,'DO-')
             data_updated=update_data_per_country(data_updated,PATH_ARGENTINA,day,'AR-')
+            data_updated=update_data_per_country(data_updated,PATH_COLOMBIA,day,'CO-')
 
             data_updated=fix_format(data_updated)
             data_updated.to_csv(PATH_DSRP_DAILY_REPORTS+day+'.csv', index=False)
