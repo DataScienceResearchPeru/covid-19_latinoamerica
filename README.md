@@ -63,14 +63,15 @@
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-  - [Tabla 1. Data resources for each country](#table1)
-  - [Table 2. First date confirmed cases per country](#table2)
-- [Projects](#projects)
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+    - [Tabla 1. Data resources for each country](#tabla-1-data-resources-for-each-country)
 - [Contributing](#contributing)
 - [Usage](#usage)
+- [Extra](#extra)
+- [Q&A](#qa)
+- [Contributors ✨](#contributors-)
 - [License](#license)
-- [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -102,9 +103,9 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 | 1   | ARGENTINA                | [martingra](https://bit.ly/2UA5JjF) [pablorea](https://bit.ly/3dHNlwG) [Automated - ZurMaD](https://bit.ly/2wZwntr) | [D1](https://bit.ly/3aabv0y) [D2](https://bit.ly/394NsPy) [S1](https://bit.ly/2AHBPlX)                              |
 | 2   | BOLIVIA                  | [mamanipatricia](https://bit.ly/2UzdbLU) [Automated - ZurMaD](https://bit.ly/2wZwntr)                               | [D1](https://bit.ly/3bh1qz6) [S1](https://bit.ly/2xPmjTx)                                                           |
 | 3   | BRAZIL                   | [Automated - dfuribez](https://bit.ly/3aN3xLc) [Automated - ZurMaD](https://bit.ly/2wZwntr)                         | [S1](https://bit.ly/2xMr5kR) [D1](https://bit.ly/2WuChNd)                                                           |
-| 4   | CHILE                    | [Automated - ivanMSC](https://bit.ly/2UZBUb6)                                                                       | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) [D3](https://bit.ly/30AOaTE)                                                         |
-| 5   | COLOMBIA                 |  [Automated - AnnaAbsi](https://bit.ly/34mCDIJ) [Automated - ZurMaD](https://bit.ly/2wZwntr)                         | [S1](https://bit.ly/39LPi8n) [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)                              |
-| 6   | COSTA RICA               | Automated - ZurMaD BROKEN                       | Automated - ZurMaD BROKEN                                                                                |
+| 4   | CHILE                    | [Automated - ivanMSC](https://bit.ly/2UZBUb6)                                                                       | [D1](https://bit.ly/2xWXhlH) [D2](https://bit.ly/02Jg6JDf) [D3](https://bit.ly/30AOaTE)                             |
+| 5   | COLOMBIA                 | [Automated - AnnaAbsi](https://bit.ly/34mCDIJ) [Automated - ZurMaD](https://bit.ly/2wZwntr)                         | [S1](https://bit.ly/39LPi8n) [D1](https://bit.ly/2xkYD9k) [D2](https://bit.ly/2UsSu2U)                              |
+| 6   | COSTA RICA               | [Automated - AnnaAbsi](https://bit.ly/34mCDIJ)[Automated - ZurMaD](https://bit.ly/2wZwntr)                          | [D1](https://bit.ly/3fxzwnD) [S1](https://bit.ly/34IfZL7)                                                           |
 | 7   | CUBA                     | [yudivian](https://bit.ly/2wVSYqL) [Automated - ZurMaD](https://bit.ly/2wZwntr)                                     | [API](https://bit.ly/2JGSA1Z) [S1](https://bit.ly/2AFqeDU)                                                          |
 | 8   | DOMINICAN REPUBLIC       | [ZurMaD](https://bit.ly/2wZwntr)                                                                                    | [D1](https://bit.ly/2UKoUY9) [D2](https://bit.ly/2J2aBHM)                                                           |
 | 9   | ECUADOR                  | [pablora19](https://bit.ly/2UB6rgl) [Automated - ZurMaD](https://bit.ly/2wZwntr)                                    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7) [S1](https://bit.ly/2ADB39y)                              |
@@ -115,7 +116,7 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 | 14  | HAITI                    | WITHOUT MAINTENANCE                                                                                                 |                                                                                                                     |
 | 15  | HONDURAS                 | [Automated - ivanMSC](https://bit.ly/2UZBUb6)                                                                       | [D1](https://bit.ly/2UQBDs5)                                                                                        |
 | 16  | MARTINIQUE               | WITHOUT MAINTENANCE                                                                                                 | [D1](https://bit.ly/34fbNRW)                                                                                        |
-| 17  | MEXICO                   | [Automated - carranco-sga](https://bit.ly/2UAAdSw)                                                                              | [D1](https://bit.ly/3brQ7nY)                                                                                        |
+| 17  | MEXICO                   | [Automated - carranco-sga](https://bit.ly/2UAAdSw)                                                                  | [D1](https://bit.ly/3brQ7nY)                                                                                        |
 | 18  | NICARAGUA                | WITHOUT MAINTENANCE                                                                                                 | [D1](https://bit.ly/2QQNfJB)                                                                                        |
 | 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                                                                         | [D1](https://bit.ly/2UpH8he)                                                                                        |
 | 20  | PARAGUAY                 | WITHOUT MAINTENANCE                                                                                                 |                                                                                                                     |

@@ -13,6 +13,8 @@ import utils.scripts.data_collection.data.brazil_data_v2 as brazil_data
 import utils.scripts.data_collection.data.republica_dominicana_data_v2 as republica_domicana_data
 import utils.scripts.data_collection.data.argentina_data_v2 as argentina_data
 import utils.scripts.data_collection.data.colombia_data_v2 as colombia_data
+import utils.scripts.data_collection.data.costa_rica_data_v2 as costa_rica_data
+
 
 import utils.scripts.data_time_series.time_series_generator as time_series_generator
 
@@ -27,6 +29,7 @@ PATH_BRAZIL= 'utils/scripts/data_collection/data/brazil_temporal/'
 PATH_REPUBLICA_DOMINICANA= 'utils/scripts/data_collection/data/republica_dominicana_temporal/'
 PATH_ARGENTINA='utils/scripts/data_collection/data/argentina_temporal/'
 PATH_COLOMBIA='utils/scripts/data_collection/data/colombia_temporal/'
+PATH_COSTA_RICA='utils/scripts/data_collection/data/costa_rica_temporal/'
 
 def logo():
     print("""                                                                                       
@@ -49,7 +52,7 @@ def logo():
     88      `8b   `8b   d8'           88         8P          `8b  88    `8b    88               
     88      a8P    `8b,d8'    888     88      .a8P   Y8a     a8P  88     `8b   88               
     88888888P"       Y88'     888     88888888Y"'     "Y88888P"   88      `8b  88               
-                    d8'                                                                        
+                     d8'                                                                        
                     d8'                                                                         
     """)
 
@@ -105,16 +108,19 @@ def load_all_data_temporal(list_date_list):
 
 
     print("[load_all_data_temporal] STARTING...")
-
-    peru_data.load_and_generatecsv(list_date_list)
-    ecuador_data.load_and_generatecsv(list_date_list)
-    cuba_data.load_and_generatecsv(list_date_list)
-    bolivia_data.load_and_generatecsv(list_date_list)
-    brazil_data.load_and_generatecsv(list_date_list)
-    republica_domicana_data.load_and_generatecsv(list_date_list)
-    ecuador_data.load_and_generatecsv(list_date_list)
-    argentina_data.load_and_generatecsv(list_date_list)
-    colombia_data.load_and_generatecsv(list_date_list)
+    try:
+        peru_data.load_and_generatecsv(list_date_list)
+        ecuador_data.load_and_generatecsv(list_date_list)
+        cuba_data.load_and_generatecsv(list_date_list)
+        bolivia_data.load_and_generatecsv(list_date_list)
+        brazil_data.load_and_generatecsv(list_date_list)
+        republica_domicana_data.load_and_generatecsv(list_date_list)
+        ecuador_data.load_and_generatecsv(list_date_list)
+        argentina_data.load_and_generatecsv(list_date_list)
+        colombia_data.load_and_generatecsv(list_date_list)
+        costa_rica_data.load_and_generatecsv(list_date_list)
+    except Exception as e:
+        print(f'[ERROR][load_all_data_temporal] {e}')
 
     print("[load_all_data_temporal] END...")
 
@@ -180,6 +186,7 @@ if __name__ == "__main__":
             data_updated=update_data_per_country(data_updated,PATH_REPUBLICA_DOMINICANA,day,'DO-')
             data_updated=update_data_per_country(data_updated,PATH_ARGENTINA,day,'AR-')
             data_updated=update_data_per_country(data_updated,PATH_COLOMBIA,day,'CO-')
+            data_updated=update_data_per_country(data_updated,PATH_COSTA_RICA,day,'CR-')
 
             data_updated=fix_format(data_updated)
             data_updated.to_csv(PATH_DSRP_DAILY_REPORTS+day+'.csv', index=False)
