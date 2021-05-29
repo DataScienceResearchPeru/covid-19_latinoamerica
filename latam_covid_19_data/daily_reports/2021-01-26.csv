@@ -108,13 +108,13 @@ CO-TOL,Colombia,Tolima,2021-05-28T12:57:19.696495,60411,0,
 CO-VAC,Colombia,Valle del Cauca,2021-05-28T12:57:19.696495,167162,0,
 CO-VAU,Colombia,Vaupes,2021-05-28T12:57:19.696495,1143,0,
 CO-VID,Colombia,Vichada,2021-05-28T12:57:19.696495,1215,0,
-CR-A,Costa Rica,Alajuela,,,,
-CR-C,Costa Rica,Cartago,,,,
-CR-G,Costa Rica,Guanacaste,,,,
-CR-H,Costa Rica,Heredia,,,,
-CR-L,Costa Rica,Limon,,,,
-CR-P,Costa Rica,Puntarenas,,,,
-CR-SJ,Costa Rica,San Jose,,,,
+CR-A,Costa Rica,Alajuela,2021-05-29T15:47:26.724788,37121,448,27348
+CR-C,Costa Rica,Cartago,2021-05-29T15:47:26.724788,15178,161,11934
+CR-G,Costa Rica,Guanacaste,2021-05-29T15:47:26.724788,10100,134,7509
+CR-H,Costa Rica,Heredia,2021-05-29T15:47:26.724788,20465,263,16245
+CR-L,Costa Rica,Limon,2021-05-29T15:47:26.724788,17197,185,14607
+CR-P,Costa Rica,Puntarenas,2021-05-29T15:47:26.724788,17952,274,11708
+CR-SJ,Costa Rica,San Jose,2021-05-29T15:47:26.724788,72769,1102,59979
 CU-15,Cuba,Artemisa,2021-05-18T11:48:32.191290,1100,0,
 CU-09,Cuba,Camagüey,2021-05-18T11:48:32.191290,653,0,
 CU-08,Cuba,Ciego de Ávila,2021-05-18T11:48:32.191290,1507,0,
