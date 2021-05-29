@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import numpy as np
 import pandas as pd
 import requests
+import fuckit
 
 import utils.scripts.data_collection.data.peru_data_v2 as peru_data
 import utils.scripts.data_collection.data.ecuador_data_v2 as ecuador_data
@@ -103,27 +104,23 @@ def fix_format(df):
 
     return df
 
-
+@fuckit #https://stackoverflow.com/a/50051815/10491422
 def load_all_data_temporal(list_date_list):
 
-
     print("[load_all_data_temporal] STARTING...")
-    try:
-        peru_data.load_and_generatecsv(list_date_list)
-        ecuador_data.load_and_generatecsv(list_date_list)
-        cuba_data.load_and_generatecsv(list_date_list)
-        bolivia_data.load_and_generatecsv(list_date_list)
-        brazil_data.load_and_generatecsv(list_date_list)
-        republica_domicana_data.load_and_generatecsv(list_date_list)
-        ecuador_data.load_and_generatecsv(list_date_list)
-        argentina_data.load_and_generatecsv(list_date_list)
-        colombia_data.load_and_generatecsv(list_date_list)
-        costa_rica_data.load_and_generatecsv(list_date_list)
-    except Exception as e:
-        print(f'[ERROR][load_all_data_temporal] {e}')
+
+    peru_data.load_and_generatecsv(list_date_list)
+    ecuador_data.load_and_generatecsv(list_date_list)
+    cuba_data.load_and_generatecsv(list_date_list)
+    bolivia_data.load_and_generatecsv(list_date_list)
+    brazil_data.load_and_generatecsv(list_date_list)
+    republica_domicana_data.load_and_generatecsv(list_date_list)
+    ecuador_data.load_and_generatecsv(list_date_list)
+    argentina_data.load_and_generatecsv(list_date_list)
+    colombia_data.load_and_generatecsv(list_date_list)
+    costa_rica_data.load_and_generatecsv(list_date_list)
 
     print("[load_all_data_temporal] END...")
-
 
 def update_data_per_country(df_template,path, d, isocode):
 
