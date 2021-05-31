@@ -37,4 +37,6 @@ venv
 ### Temporal files
 utils/scripts/data_collection/data/*temporal/*
 latam_covid_19_data/per_patient/*
+
+!utils/scripts/data_collection/data/nicaragua_temporal/2020-02-25.csv
 #./update_data.cpython-37m-x86_64-linux-gnu.so

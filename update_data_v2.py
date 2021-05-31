@@ -15,6 +15,7 @@ import utils.scripts.data_collection.data.republica_dominicana_data_v2 as republ
 import utils.scripts.data_collection.data.argentina_data_v2 as argentina_data
 import utils.scripts.data_collection.data.colombia_data_v2 as colombia_data
 import utils.scripts.data_collection.data.costa_rica_data_v2 as costa_rica_data
+import utils.scripts.data_collection.data.nicaragua_data_v2 as nicaragua_data
 
 
 import utils.scripts.data_time_series.time_series_generator as time_series_generator
@@ -31,6 +32,7 @@ PATH_REPUBLICA_DOMINICANA= 'utils/scripts/data_collection/data/republica_dominic
 PATH_ARGENTINA='utils/scripts/data_collection/data/argentina_temporal/'
 PATH_COLOMBIA='utils/scripts/data_collection/data/colombia_temporal/'
 PATH_COSTA_RICA='utils/scripts/data_collection/data/costa_rica_temporal/'
+PATH_NICARAGUA='utils/scripts/data_collection/data/nicaragua_temporal/'
 
 def logo():
     print("""                                                                                       
@@ -119,6 +121,7 @@ def load_all_data_temporal(list_date_list):
     argentina_data.load_and_generatecsv(list_date_list)
     colombia_data.load_and_generatecsv(list_date_list)
     costa_rica_data.load_and_generatecsv(list_date_list)
+    nicaragua_data.load_and_generatecsv(list_date_list)
 
     print("[load_all_data_temporal] END...")
 
@@ -184,6 +187,7 @@ if __name__ == "__main__":
             data_updated=update_data_per_country(data_updated,PATH_ARGENTINA,day,'AR-')
             data_updated=update_data_per_country(data_updated,PATH_COLOMBIA,day,'CO-')
             data_updated=update_data_per_country(data_updated,PATH_COSTA_RICA,day,'CR-')
+            data_updated=update_data_per_country(data_updated,PATH_NICARAGUA,day,'NI-')            
 
             data_updated=fix_format(data_updated)
             data_updated.to_csv(PATH_DSRP_DAILY_REPORTS+day+'.csv', index=False)

@@ -49,8 +49,15 @@ def generate_list_dates(path):
 
 def load_and_generatecsv(list_date_list):
 
-    df_original = pd.read_csv(DATA_URL)
+    df_original=pd.read_csv(DATA_URL)
     df_original['ISO 3166-2 Code']=df_original['departamento'].map(DICT_PLACES)
+    ###############
+    iso_code_unique=df_original['ISO 3166-2 Code'].unique()
+    date_list=sorted(df_original['date'].unique())
+    ###############
+    df_original=df_original.sort_values(['ISO 3166-2 Code','date'])
+    df_original=df_original.set_index(['ISO 3166-2 Code','date'])
+    df_original=df_original[['cases','deaths']]
 
     df_template = pd.read_csv(DATA_TEMPLATE_URL)
     df_template=df_template.fillna('')
@@ -61,52 +68,44 @@ def load_and_generatecsv(list_date_list):
     df_template.loc[df_template['ISO 3166-2 Code'].str.contains('NI-'),'Last Update']=LAST_UPDATE
 
 
-    # CREATE ROWS AUSENCES
-    isos_code_unique=df_original['ISO 3166-2 Code'].unique()
-    my_date_list=df_original['date'].unique()
-    df_complete=pd.DataFrame({'date':day,
-                            'ISO 3166-2 Code':country,
-                            'cases':np.nan,
-                            'deaths':np.nan} for country in isos_code_unique for day in my_date_list   )
-
-
-    df_complete.set_index(['ISO 3166-2 Code','date'])
-    df_original.set_index(['ISO 3166-2 Code','date'])
+    # CREATE ROWS AUSENCE
+    df_complete=pd.DataFrame({'date':day,'ISO 3166-2 Code':country,'cases':np.nan,'deaths':np.nan} for day in date_list for country in iso_code_unique)
+    df_complete=df_complete.sort_values(['ISO 3166-2 Code','date'])
+    df_complete=df_complete.set_index(['ISO 3166-2 Code','date'])
+    # df_complete
     df_complete.update(df_original)
+    # df_complete
+    df_complete=df_complete.ffill()
     df_complete=df_complete.reset_index()
-    df_complete['cases_fixed'] = df_complete.groupby(['ISO 3166-2 Code','date'])['cases'].ffill()
-    df_complete['deaths_fixed'] = df_complete.groupby(['ISO 3166-2 Code','date'])['deaths'].ffill()
-    df_complete=df_complete.fillna(0)
 
 
     print('Starting iteration')
     for day in list_date_list:  # array_dates
-        
         df=df_complete
         # Replace values
-        for country_region in isos_code_unique:
+        for country_region in iso_code_unique:
 
             try:
                 # Confirmed
                 value_confirmed = df.loc[(df['ISO 3166-2 Code']==country_region)&
-                                        (df['date']==day)]['cases_fixed'].values[0]
+                                        (df['date']==day)]['cases'].values[0]
                 df_template.loc[df_template['ISO 3166-2 Code'] == country_region, 
                                                     'Confirmed'] = int(value_confirmed)
+                # Deaths
+                value_deaths =df.loc[(df['ISO 3166-2 Code']==country_region)&
+                                        (df['date']==day)]['deaths'].values[0]
+                df_template.loc[df_template['ISO 3166-2 Code'] ==country_region,
+                                                                 'Deaths'] = int(value_deaths)
+
             except Exception as e:
                 print(day,e)
 
-            try:
-                # Deaths
-                value_deaths =df.loc[(df['ISO 3166-2 Code']==country_region)&
-                                        (df['date']==day)]['deaths_fixed'].values[0]
-                df_template.loc[df_template['ISO 3166-2 Code'] ==country_region,
-                                                                 'Deaths'] = int(value_deaths)
-            except Exception as e:
-                print(day,e)
             finally:        
                 df_filtered=df_template.loc[df_template['ISO 3166-2 Code'].str.contains('NI-')]
                 df_filtered.to_csv(PATH_CSV+day+'.csv', index=False)
 
+    print('End iteration')
+    
 if __name__ == "__main__":
     print("======================NICARAGUA======================")
-    load_and_generatecsv(['2021-04-13','2021-04-12'])
+    load_and_generatecsv(['2021-05-31', '2021-05-30'])
