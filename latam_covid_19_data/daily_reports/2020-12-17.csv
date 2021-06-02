@@ -363,25 +363,25 @@ PE-TAC,Peru,Tacna,2021-05-18T11:48:32.190255,14443,258,
 PE-TUM,Peru,Tumbes,2021-05-18T11:48:32.190255,9349,338,
 PE-UCA,Peru,Ucayali,2021-05-18T11:48:32.190255,19978,383,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,,,,
-UY-CA,Uruguay,Canelones,,,,
-UY-CL,Uruguay,Cerro Largo,,,,
-UY-CO,Uruguay,Colonia,,,,
-UY-DU,Uruguay,Durazno,,,,
-UY-FS,Uruguay,Flores,,,,
-UY-FD,Uruguay,Florida,,,,
-UY-LA,Uruguay,Lavalleja,,,,
-UY-MA,Uruguay,Maldonado,,,,
-UY-MO,Uruguay,Montevideo,,,,
-UY-PA,Uruguay,Paysandu,,,,
-UY-RN,Uruguay,Rio Negro,,,,
-UY-RV,Uruguay,Rivera,,,,
-UY-RO,Uruguay,Rocha,,,,
-UY-SA,Uruguay,Salto,,,,
-UY-SJ,Uruguay,San Jose,,,,
-UY-SO,Uruguay,Soriano,,,,
-UY-TA,Uruguay,Tacuarembo,,,,
-UY-TT,Uruguay,Treinta y Tres,,,,
+UY-AR,Uruguay,Artigas,2021-06-01T18:43:57.397668,17,1,112
+UY-CA,Uruguay,Canelones,2021-06-01T18:43:57.397668,672,10,1106
+UY-CL,Uruguay,Cerro Largo,2021-06-01T18:43:57.397668,705,12,1277
+UY-CO,Uruguay,Colonia,2021-06-01T18:43:57.397668,731,12,1458
+UY-DU,Uruguay,Durazno,2021-06-01T18:43:57.397668,748,12,1468
+UY-FS,Uruguay,Flores,2021-06-01T18:43:57.397668,807,12,1488
+UY-FD,Uruguay,Florida,2021-06-01T18:43:57.397668,805,12,1478
+UY-LA,Uruguay,Lavalleja,2021-06-01T18:43:57.397668,835,12,1501
+UY-MA,Uruguay,Maldonado,2021-06-01T18:43:57.397668,921,17,1658
+UY-MO,Uruguay,Montevideo,2021-06-01T18:43:57.397668,3479,88,6162
+UY-PA,Uruguay,Paysandu,2021-06-01T18:43:57.397668,3514,88,6192
+UY-RN,Uruguay,Rio Negro,2021-06-01T18:43:57.397668,3516,88,6209
+UY-RV,Uruguay,Rivera,2021-06-01T18:43:57.397668,3777,98,6980
+UY-RO,Uruguay,Rocha,2021-06-01T18:43:57.397668,3579,88,6316
+UY-SA,Uruguay,Salto,2021-06-01T18:43:57.397668,3780,100,7008
+UY-SJ,Uruguay,San Jose,2021-06-01T18:43:57.397668,3888,100,7112
+UY-SO,Uruguay,Soriano,2021-06-01T18:43:57.397668,3904,103,7225
+UY-TA,Uruguay,Tacuarembo,2021-06-01T18:43:57.397668,3921,103,7292
+UY-TT,Uruguay,Treinta y Tres,2021-06-01T18:43:57.397668,3925,105,7406
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,

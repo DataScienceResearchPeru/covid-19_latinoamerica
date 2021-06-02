@@ -363,25 +363,25 @@ PE-TAC,Peru,Tacna,2021-05-18T11:48:32.190255,14277,255,
 PE-TUM,Peru,Tumbes,2021-05-18T11:48:32.190255,9248,333,
 PE-UCA,Peru,Ucayali,2021-05-18T11:48:32.190255,19661,378,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,,,,
-UY-CA,Uruguay,Canelones,,,,
-UY-CL,Uruguay,Cerro Largo,,,,
-UY-CO,Uruguay,Colonia,,,,
-UY-DU,Uruguay,Durazno,,,,
-UY-FS,Uruguay,Flores,,,,
-UY-FD,Uruguay,Florida,,,,
-UY-LA,Uruguay,Lavalleja,,,,
-UY-MA,Uruguay,Maldonado,,,,
-UY-MO,Uruguay,Montevideo,,,,
-UY-PA,Uruguay,Paysandu,,,,
-UY-RN,Uruguay,Rio Negro,,,,
-UY-RV,Uruguay,Rivera,,,,
-UY-RO,Uruguay,Rocha,,,,
-UY-SA,Uruguay,Salto,,,,
-UY-SJ,Uruguay,San Jose,,,,
-UY-SO,Uruguay,Soriano,,,,
-UY-TA,Uruguay,Tacuarembo,,,,
-UY-TT,Uruguay,Treinta y Tres,,,,
+UY-AR,Uruguay,Artigas,2021-06-01T18:43:57.397668,10,0,105
+UY-CA,Uruguay,Canelones,2021-06-01T18:43:57.397668,415,8,842
+UY-CL,Uruguay,Cerro Largo,2021-06-01T18:43:57.397668,435,10,997
+UY-CO,Uruguay,Colonia,2021-06-01T18:43:57.397668,454,10,1166
+UY-DU,Uruguay,Durazno,2021-06-01T18:43:57.397668,459,10,1173
+UY-FS,Uruguay,Flores,2021-06-01T18:43:57.397668,473,10,1186
+UY-FD,Uruguay,Florida,2021-06-01T18:43:57.397668,470,10,1178
+UY-LA,Uruguay,Lavalleja,2021-06-01T18:43:57.397668,476,10,1199
+UY-MA,Uruguay,Maldonado,2021-06-01T18:43:57.397668,509,15,1327
+UY-MO,Uruguay,Montevideo,2021-06-01T18:43:57.397668,2336,74,4680
+UY-PA,Uruguay,Paysandu,2021-06-01T18:43:57.397668,2340,74,4705
+UY-RN,Uruguay,Rio Negro,2021-06-01T18:43:57.397668,2341,74,4722
+UY-RV,Uruguay,Rivera,2021-06-01T18:43:57.397668,2529,84,5385
+UY-RO,Uruguay,Rocha,2021-06-01T18:43:57.397668,2418,74,4777
+UY-SA,Uruguay,Salto,2021-06-01T18:43:57.397668,2531,86,5411
+UY-SJ,Uruguay,San Jose,2021-06-01T18:43:57.397668,2603,86,5485
+UY-SO,Uruguay,Soriano,2021-06-01T18:43:57.397668,2634,88,5576
+UY-TA,Uruguay,Tacuarembo,2021-06-01T18:43:57.397668,2650,88,5633
+UY-TT,Uruguay,Treinta y Tres,2021-06-01T18:43:57.397668,2650,90,5747
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,

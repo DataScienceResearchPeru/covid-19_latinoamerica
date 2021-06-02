@@ -363,25 +363,25 @@ PE-TAC,Peru,Tacna,2021-05-18T11:48:32.190255,14357,258,
 PE-TUM,Peru,Tumbes,2021-05-18T11:48:32.190255,9302,337,
 PE-UCA,Peru,Ucayali,2021-05-18T11:48:32.190255,19789,381,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,,,,
-UY-CA,Uruguay,Canelones,,,,
-UY-CL,Uruguay,Cerro Largo,,,,
-UY-CO,Uruguay,Colonia,,,,
-UY-DU,Uruguay,Durazno,,,,
-UY-FS,Uruguay,Flores,,,,
-UY-FD,Uruguay,Florida,,,,
-UY-LA,Uruguay,Lavalleja,,,,
-UY-MA,Uruguay,Maldonado,,,,
-UY-MO,Uruguay,Montevideo,,,,
-UY-PA,Uruguay,Paysandu,,,,
-UY-RN,Uruguay,Rio Negro,,,,
-UY-RV,Uruguay,Rivera,,,,
-UY-RO,Uruguay,Rocha,,,,
-UY-SA,Uruguay,Salto,,,,
-UY-SJ,Uruguay,San Jose,,,,
-UY-SO,Uruguay,Soriano,,,,
-UY-TA,Uruguay,Tacuarembo,,,,
-UY-TT,Uruguay,Treinta y Tres,,,,
+UY-AR,Uruguay,Artigas,2021-06-01T18:43:57.397668,14,0,109
+UY-CA,Uruguay,Canelones,2021-06-01T18:43:57.397668,554,8,969
+UY-CL,Uruguay,Cerro Largo,2021-06-01T18:43:57.397668,581,10,1133
+UY-CO,Uruguay,Colonia,2021-06-01T18:43:57.397668,605,10,1307
+UY-DU,Uruguay,Durazno,2021-06-01T18:43:57.397668,610,10,1317
+UY-FS,Uruguay,Flores,2021-06-01T18:43:57.397668,647,10,1332
+UY-FD,Uruguay,Florida,2021-06-01T18:43:57.397668,645,10,1323
+UY-LA,Uruguay,Lavalleja,2021-06-01T18:43:57.397668,664,10,1345
+UY-MA,Uruguay,Maldonado,2021-06-01T18:43:57.397668,738,15,1481
+UY-MO,Uruguay,Montevideo,2021-06-01T18:43:57.397668,2938,79,5442
+UY-PA,Uruguay,Paysandu,2021-06-01T18:43:57.397668,2951,79,5469
+UY-RN,Uruguay,Rio Negro,2021-06-01T18:43:57.397668,2952,79,5486
+UY-RV,Uruguay,Rivera,2021-06-01T18:43:57.397668,3192,89,6202
+UY-RO,Uruguay,Rocha,2021-06-01T18:43:57.397668,3035,79,5561
+UY-SA,Uruguay,Salto,2021-06-01T18:43:57.397668,3195,91,6228
+UY-SJ,Uruguay,San Jose,2021-06-01T18:43:57.397668,3303,91,6311
+UY-SO,Uruguay,Soriano,2021-06-01T18:43:57.397668,3327,93,6416
+UY-TA,Uruguay,Tacuarembo,2021-06-01T18:43:57.397668,3341,93,6479
+UY-TT,Uruguay,Treinta y Tres,2021-06-01T18:43:57.397668,3341,95,6593
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,

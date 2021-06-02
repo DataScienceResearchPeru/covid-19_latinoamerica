@@ -363,25 +363,25 @@ PE-TAC,Peru,Tacna,2021-05-18T11:48:32.190255,18124,471,
 PE-TUM,Peru,Tumbes,2021-05-18T11:48:32.190255,10710,410,
 PE-UCA,Peru,Ucayali,2021-05-18T11:48:32.190255,21917,458,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,,,,
-UY-CA,Uruguay,Canelones,,,,
-UY-CL,Uruguay,Cerro Largo,,,,
-UY-CO,Uruguay,Colonia,,,,
-UY-DU,Uruguay,Durazno,,,,
-UY-FS,Uruguay,Flores,,,,
-UY-FD,Uruguay,Florida,,,,
-UY-LA,Uruguay,Lavalleja,,,,
-UY-MA,Uruguay,Maldonado,,,,
-UY-MO,Uruguay,Montevideo,,,,
-UY-PA,Uruguay,Paysandu,,,,
-UY-RN,Uruguay,Rio Negro,,,,
-UY-RV,Uruguay,Rivera,,,,
-UY-RO,Uruguay,Rocha,,,,
-UY-SA,Uruguay,Salto,,,,
-UY-SJ,Uruguay,San Jose,,,,
-UY-SO,Uruguay,Soriano,,,,
-UY-TA,Uruguay,Tacuarembo,,,,
-UY-TT,Uruguay,Treinta y Tres,,,,
+UY-AR,Uruguay,Artigas,2021-06-01T18:43:57.397668,96,16,930
+UY-CA,Uruguay,Canelones,2021-06-01T18:43:57.397668,1916,128,12962
+UY-CL,Uruguay,Cerro Largo,2021-06-01T18:43:57.397668,2114,148,14048
+UY-CO,Uruguay,Colonia,2021-06-01T18:43:57.397668,2404,150,14956
+UY-DU,Uruguay,Durazno,2021-06-01T18:43:57.397668,2652,170,15846
+UY-FS,Uruguay,Flores,2021-06-01T18:43:57.397668,2732,172,16394
+UY-FD,Uruguay,Florida,2021-06-01T18:43:57.397668,2728,172,16336
+UY-LA,Uruguay,Lavalleja,2021-06-01T18:43:57.397668,2888,174,16852
+UY-MA,Uruguay,Maldonado,2021-06-01T18:43:57.397668,3328,202,19410
+UY-MO,Uruguay,Montevideo,2021-06-01T18:43:57.397668,9174,892,68298
+UY-PA,Uruguay,Paysandu,2021-06-01T18:43:57.397668,9390,900,68948
+UY-RN,Uruguay,Rio Negro,2021-06-01T18:43:57.397668,9400,902,69170
+UY-RV,Uruguay,Rivera,2021-06-01T18:43:57.397668,9926,964,75728
+UY-RO,Uruguay,Rocha,2021-06-01T18:43:57.397668,9492,906,70496
+UY-SA,Uruguay,Salto,2021-06-01T18:43:57.397668,10076,974,76682
+UY-SJ,Uruguay,San Jose,2021-06-01T18:43:57.397668,10470,990,78702
+UY-SO,Uruguay,Soriano,2021-06-01T18:43:57.397668,10616,1012,79260
+UY-TA,Uruguay,Tacuarembo,2021-06-01T18:43:57.397668,10962,1024,80996
+UY-TT,Uruguay,Treinta y Tres,2021-06-01T18:43:57.397668,10986,1032,81538
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,

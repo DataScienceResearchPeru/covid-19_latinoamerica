@@ -363,25 +363,25 @@ PE-TAC,Peru,Tacna,2021-05-18T11:48:32.190255,14242,255,
 PE-TUM,Peru,Tumbes,2021-05-18T11:48:32.190255,9235,333,
 PE-UCA,Peru,Ucayali,2021-05-18T11:48:32.190255,19626,376,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,,,,
-UY-CA,Uruguay,Canelones,,,,
-UY-CL,Uruguay,Cerro Largo,,,,
-UY-CO,Uruguay,Colonia,,,,
-UY-DU,Uruguay,Durazno,,,,
-UY-FS,Uruguay,Flores,,,,
-UY-FD,Uruguay,Florida,,,,
-UY-LA,Uruguay,Lavalleja,,,,
-UY-MA,Uruguay,Maldonado,,,,
-UY-MO,Uruguay,Montevideo,,,,
-UY-PA,Uruguay,Paysandu,,,,
-UY-RN,Uruguay,Rio Negro,,,,
-UY-RV,Uruguay,Rivera,,,,
-UY-RO,Uruguay,Rocha,,,,
-UY-SA,Uruguay,Salto,,,,
-UY-SJ,Uruguay,San Jose,,,,
-UY-SO,Uruguay,Soriano,,,,
-UY-TA,Uruguay,Tacuarembo,,,,
-UY-TT,Uruguay,Treinta y Tres,,,,
+UY-AR,Uruguay,Artigas,2021-06-01T18:43:57.397668,15,0,97
+UY-CA,Uruguay,Canelones,2021-06-01T18:43:57.397668,379,8,799
+UY-CL,Uruguay,Cerro Largo,2021-06-01T18:43:57.397668,406,10,946
+UY-CO,Uruguay,Colonia,2021-06-01T18:43:57.397668,421,10,1113
+UY-DU,Uruguay,Durazno,2021-06-01T18:43:57.397668,426,10,1118
+UY-FS,Uruguay,Flores,2021-06-01T18:43:57.397668,436,10,1131
+UY-FD,Uruguay,Florida,2021-06-01T18:43:57.397668,433,10,1123
+UY-LA,Uruguay,Lavalleja,2021-06-01T18:43:57.397668,438,10,1145
+UY-MA,Uruguay,Maldonado,2021-06-01T18:43:57.397668,461,15,1271
+UY-MO,Uruguay,Montevideo,2021-06-01T18:43:57.397668,1993,70,4421
+UY-PA,Uruguay,Paysandu,2021-06-01T18:43:57.397668,1997,70,4446
+UY-RN,Uruguay,Rio Negro,2021-06-01T18:43:57.397668,1999,70,4462
+UY-RV,Uruguay,Rivera,2021-06-01T18:43:57.397668,2185,80,5079
+UY-RO,Uruguay,Rocha,2021-06-01T18:43:57.397668,2074,70,4507
+UY-SA,Uruguay,Salto,2021-06-01T18:43:57.397668,2188,82,5104
+UY-SJ,Uruguay,San Jose,2021-06-01T18:43:57.397668,2245,82,5175
+UY-SO,Uruguay,Soriano,2021-06-01T18:43:57.397668,2285,84,5249
+UY-TA,Uruguay,Tacuarembo,2021-06-01T18:43:57.397668,2305,84,5301
+UY-TT,Uruguay,Treinta y Tres,2021-06-01T18:43:57.397668,2305,86,5415
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,

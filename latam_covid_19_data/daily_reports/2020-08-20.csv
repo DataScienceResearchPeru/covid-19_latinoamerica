@@ -363,25 +363,25 @@ PE-TAC,Peru,Tacna,2021-05-18T11:48:32.190255,6238,112,
 PE-TUM,Peru,Tumbes,2021-05-18T11:48:32.190255,5289,268,
 PE-UCA,Peru,Ucayali,2021-05-18T11:48:32.190255,12391,286,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,,,,
-UY-CA,Uruguay,Canelones,,,,
-UY-CL,Uruguay,Cerro Largo,,,,
-UY-CO,Uruguay,Colonia,,,,
-UY-DU,Uruguay,Durazno,,,,
-UY-FS,Uruguay,Flores,,,,
-UY-FD,Uruguay,Florida,,,,
-UY-LA,Uruguay,Lavalleja,,,,
-UY-MA,Uruguay,Maldonado,,,,
-UY-MO,Uruguay,Montevideo,,,,
-UY-PA,Uruguay,Paysandu,,,,
-UY-RN,Uruguay,Rio Negro,,,,
-UY-RV,Uruguay,Rivera,,,,
-UY-RO,Uruguay,Rocha,,,,
-UY-SA,Uruguay,Salto,,,,
-UY-SJ,Uruguay,San Jose,,,,
-UY-SO,Uruguay,Soriano,,,,
-UY-TA,Uruguay,Tacuarembo,,,,
-UY-TT,Uruguay,Treinta y Tres,,,,
+UY-AR,Uruguay,Artigas,2021-06-01T18:43:57.397668,15,0,18
+UY-CA,Uruguay,Canelones,2021-06-01T18:43:57.397668,33,4,180
+UY-CL,Uruguay,Cerro Largo,2021-06-01T18:43:57.397668,34,5,191
+UY-CO,Uruguay,Colonia,2021-06-01T18:43:57.397668,37,5,205
+UY-DU,Uruguay,Durazno,2021-06-01T18:43:57.397668,37,5,206
+UY-FS,Uruguay,Flores,2021-06-01T18:43:57.397668,37,5,209
+UY-FD,Uruguay,Florida,2021-06-01T18:43:57.397668,37,5,206
+UY-LA,Uruguay,Lavalleja,2021-06-01T18:43:57.397668,38,5,213
+UY-MA,Uruguay,Maldonado,2021-06-01T18:43:57.397668,39,9,263
+UY-MO,Uruguay,Montevideo,2021-06-01T18:43:57.397668,150,33,1024
+UY-PA,Uruguay,Paysandu,2021-06-01T18:43:57.397668,151,33,1028
+UY-RN,Uruguay,Rio Negro,2021-06-01T18:43:57.397668,151,33,1040
+UY-RV,Uruguay,Rivera,2021-06-01T18:43:57.397668,188,37,1110
+UY-RO,Uruguay,Rocha,2021-06-01T18:43:57.397668,152,33,1047
+UY-SA,Uruguay,Salto,2021-06-01T18:43:57.397668,190,38,1127
+UY-SJ,Uruguay,San Jose,2021-06-01T18:43:57.397668,216,38,1136
+UY-SO,Uruguay,Soriano,2021-06-01T18:43:57.397668,218,39,1137
+UY-TA,Uruguay,Tacuarembo,2021-06-01T18:43:57.397668,222,39,1142
+UY-TT,Uruguay,Treinta y Tres,2021-06-01T18:43:57.397668,223,41,1242
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,

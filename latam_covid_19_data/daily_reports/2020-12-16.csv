@@ -363,25 +363,25 @@ PE-TAC,Peru,Tacna,2021-05-18T11:48:32.190255,14422,258,
 PE-TUM,Peru,Tumbes,2021-05-18T11:48:32.190255,9332,338,
 PE-UCA,Peru,Ucayali,2021-05-18T11:48:32.190255,19920,383,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,,,,
-UY-CA,Uruguay,Canelones,,,,
-UY-CL,Uruguay,Cerro Largo,,,,
-UY-CO,Uruguay,Colonia,,,,
-UY-DU,Uruguay,Durazno,,,,
-UY-FS,Uruguay,Flores,,,,
-UY-FD,Uruguay,Florida,,,,
-UY-LA,Uruguay,Lavalleja,,,,
-UY-MA,Uruguay,Maldonado,,,,
-UY-MO,Uruguay,Montevideo,,,,
-UY-PA,Uruguay,Paysandu,,,,
-UY-RN,Uruguay,Rio Negro,,,,
-UY-RV,Uruguay,Rivera,,,,
-UY-RO,Uruguay,Rocha,,,,
-UY-SA,Uruguay,Salto,,,,
-UY-SJ,Uruguay,San Jose,,,,
-UY-SO,Uruguay,Soriano,,,,
-UY-TA,Uruguay,Tacuarembo,,,,
-UY-TT,Uruguay,Treinta y Tres,,,,
+UY-AR,Uruguay,Artigas,2021-06-01T18:43:57.397668,17,0,109
+UY-CA,Uruguay,Canelones,2021-06-01T18:43:57.397668,616,9,1063
+UY-CL,Uruguay,Cerro Largo,2021-06-01T18:43:57.397668,642,11,1234
+UY-CO,Uruguay,Colonia,2021-06-01T18:43:57.397668,668,11,1414
+UY-DU,Uruguay,Durazno,2021-06-01T18:43:57.397668,680,11,1424
+UY-FS,Uruguay,Flores,2021-06-01T18:43:57.397668,729,11,1442
+UY-FD,Uruguay,Florida,2021-06-01T18:43:57.397668,727,11,1432
+UY-LA,Uruguay,Lavalleja,2021-06-01T18:43:57.397668,748,11,1455
+UY-MA,Uruguay,Maldonado,2021-06-01T18:43:57.397668,828,16,1606
+UY-MO,Uruguay,Montevideo,2021-06-01T18:43:57.397668,3204,85,5940
+UY-PA,Uruguay,Paysandu,2021-06-01T18:43:57.397668,3227,85,5970
+UY-RN,Uruguay,Rio Negro,2021-06-01T18:43:57.397668,3228,85,5987
+UY-RV,Uruguay,Rivera,2021-06-01T18:43:57.397668,3498,95,6728
+UY-RO,Uruguay,Rocha,2021-06-01T18:43:57.397668,3310,85,6074
+UY-SA,Uruguay,Salto,2021-06-01T18:43:57.397668,3501,97,6756
+UY-SJ,Uruguay,San Jose,2021-06-01T18:43:57.397668,3610,97,6853
+UY-SO,Uruguay,Soriano,2021-06-01T18:43:57.397668,3630,100,6962
+UY-TA,Uruguay,Tacuarembo,2021-06-01T18:43:57.397668,3646,100,7028
+UY-TT,Uruguay,Treinta y Tres,2021-06-01T18:43:57.397668,3649,102,7142
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,

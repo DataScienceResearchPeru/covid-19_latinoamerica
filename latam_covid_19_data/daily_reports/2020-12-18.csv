@@ -363,25 +363,25 @@ PE-TAC,Peru,Tacna,2021-05-18T11:48:32.190255,14461,259,
 PE-TUM,Peru,Tumbes,2021-05-18T11:48:32.190255,9357,338,
 PE-UCA,Peru,Ucayali,2021-05-18T11:48:32.190255,20026,384,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,,,,
-UY-CA,Uruguay,Canelones,,,,
-UY-CL,Uruguay,Cerro Largo,,,,
-UY-CO,Uruguay,Colonia,,,,
-UY-DU,Uruguay,Durazno,,,,
-UY-FS,Uruguay,Flores,,,,
-UY-FD,Uruguay,Florida,,,,
-UY-LA,Uruguay,Lavalleja,,,,
-UY-MA,Uruguay,Maldonado,,,,
-UY-MO,Uruguay,Montevideo,,,,
-UY-PA,Uruguay,Paysandu,,,,
-UY-RN,Uruguay,Rio Negro,,,,
-UY-RV,Uruguay,Rivera,,,,
-UY-RO,Uruguay,Rocha,,,,
-UY-SA,Uruguay,Salto,,,,
-UY-SJ,Uruguay,San Jose,,,,
-UY-SO,Uruguay,Soriano,,,,
-UY-TA,Uruguay,Tacuarembo,,,,
-UY-TT,Uruguay,Treinta y Tres,,,,
+UY-AR,Uruguay,Artigas,2021-06-01T18:43:57.397668,25,1,113
+UY-CA,Uruguay,Canelones,2021-06-01T18:43:57.397668,713,11,1166
+UY-CL,Uruguay,Cerro Largo,2021-06-01T18:43:57.397668,752,13,1338
+UY-CO,Uruguay,Colonia,2021-06-01T18:43:57.397668,774,13,1522
+UY-DU,Uruguay,Durazno,2021-06-01T18:43:57.397668,795,13,1532
+UY-FS,Uruguay,Flores,2021-06-01T18:43:57.397668,859,13,1553
+UY-FD,Uruguay,Florida,2021-06-01T18:43:57.397668,856,13,1543
+UY-LA,Uruguay,Lavalleja,2021-06-01T18:43:57.397668,887,13,1566
+UY-MA,Uruguay,Maldonado,2021-06-01T18:43:57.397668,984,18,1729
+UY-MO,Uruguay,Montevideo,2021-06-01T18:43:57.397668,3692,91,6433
+UY-PA,Uruguay,Paysandu,2021-06-01T18:43:57.397668,3733,91,6463
+UY-RN,Uruguay,Rio Negro,2021-06-01T18:43:57.397668,3735,91,6480
+UY-RV,Uruguay,Rivera,2021-06-01T18:43:57.397668,3989,102,7263
+UY-RO,Uruguay,Rocha,2021-06-01T18:43:57.397668,3799,91,6588
+UY-SA,Uruguay,Salto,2021-06-01T18:43:57.397668,3992,104,7291
+UY-SJ,Uruguay,San Jose,2021-06-01T18:43:57.397668,4099,104,7403
+UY-SO,Uruguay,Soriano,2021-06-01T18:43:57.397668,4113,107,7518
+UY-TA,Uruguay,Tacuarembo,2021-06-01T18:43:57.397668,4138,107,7585
+UY-TT,Uruguay,Treinta y Tres,2021-06-01T18:43:57.397668,4142,109,7699
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,
