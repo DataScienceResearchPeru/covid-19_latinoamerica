@@ -155,8 +155,16 @@ if __name__ == "__main__":
     df_template=df_template.fillna('')
     
     date_list_csv, date_list = generate_list_dates(PATH_DSRP_DAILY_REPORTS)
-
-    data_loader_per_days=date_list[0:2]
+    
+    if datetime.now().day%7==0:
+        # End of weekend
+        data_loader_per_days=date_list[0:7]
+    elif datetime.now().day%29==0:
+        # End of month
+        data_loader_per_days=date_list[0:29]
+    else:
+        # any other day
+        data_loader_per_days=date_list[0:1]
 
     load_all_data_temporal(data_loader_per_days)
 
