@@ -110,21 +110,21 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 | 8   | DOMINICAN REPUBLIC       | [ZurMaD](https://bit.ly/2wZwntr)                                                                                    | [D1](https://bit.ly/2UKoUY9) [D2](https://bit.ly/2J2aBHM)                                                           |
 | 9   | ECUADOR                  | [pablora19](https://bit.ly/2UB6rgl) [Automated - ZurMaD](https://bit.ly/2wZwntr)                                    | [D1](https://bit.ly/2J3ompB) [D2](https://bit.ly/2UsK2R7) [S1](https://bit.ly/2ADB39y)                              |
 | 10  | EL SALVADOR              | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                        | [D1](https://bit.ly/2U7N7Hm) [D2](https://bit.ly/39JhgBn)                                                           |
-| 11  | FRENCH GUIANA            | WITHOUT MAINTENANCE                                                                                                 | [D1](https://bit.ly/2UUZsxU)                                                                                        |
-| 12  | GUADELOUPE               | WITHOUT MAINTENANCE                                                                                                 | [D1](https://bit.ly/2V0aQsj)                                                                                        |
+| 11  | FRENCH GUIANA            | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                        | [D1](https://bit.ly/2UUZsxU)                                                                                        |
+| 12  | GUADELOUPE               | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                        | [D1](https://bit.ly/2V0aQsj)                                                                                        |
 | 13  | GUATEMALA                | [ncovgt2020](https://bit.ly/3aHpECQ)                                                                                |                                                                                                                     |
 | 14  | HAITI                    | WITHOUT MAINTENANCE                                                                                                 |                                                                                                                     |
 | 15  | HONDURAS                 | [Automated - ivanMSC](https://bit.ly/2UZBUb6)                                                                       | [D1](https://bit.ly/2UQBDs5)                                                                                        |
-| 16  | MARTINIQUE               | WITHOUT MAINTENANCE                                                                                                 | [D1](https://bit.ly/34fbNRW)                                                                                        |
+| 16  | MARTINIQUE               | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                        | [D1](https://bit.ly/34fbNRW)                                                                                        |
 | 17  | MEXICO                   | [Automated - carranco-sga](https://bit.ly/2UAAdSw)                                                                  | [D1](https://bit.ly/3brQ7nY)                                                                                        |
 | 18  | NICARAGUA                | [Automated - AnnaAbsi](https://bit.ly/34mCDIJ) [Automated - ZurMaD](https://bit.ly/2wZwntr)                         | [D1](https://bit.ly/2QQNfJB)                                                                                        |
 | 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                                                                         | [D1](https://bit.ly/2UpH8he)                                                                                        |
 | 20  | PARAGUAY                 | WITHOUT MAINTENANCE                                                                                                 |                                                                                                                     |
 | 21  | PERU                     | [Automated - ZurMaD](https://bit.ly/2wZwntr) [diegocl02](https://bit.ly/2wNIlGt)                                    | [D1](https://bit.ly/2J5Wnpj) [D2](https://bit.ly/3dSKwZO) [D3](https://bit.ly/2StGIoL) [D4](https://bit.ly/3cCg5Gc) |
 | 22  | PUERTO RICO              | WITHOUT MAINTENANCE                                                                                                 |                                                                                                                     |
-| 23  | SAIN PIERRE AND MIQUELON | WITHOUT MAINTENANCE                                                                                                 |                                                                                                                     |
-| 24  | SAINT BARTHELEMY         | WITHOUT MAINTENANCE                                                                                                 |                                                                                                                     |
-| 25  | SAINT MARTIN             | WITHOUT MAINTENANCE                                                                                                 |                                                                                                                     |
+| 23  | SAIN PIERRE AND MIQUELON | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                        |                                                                                                                     |
+| 24  | SAINT BARTHELEMY         | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                        |                                                                                                                     |
+| 25  | SAINT MARTIN             | [Automated - ZurMaD](https://bit.ly/2wZwntr)                                                                        |                                                                                                                     |
 | 26  | URUGUAY                  | [Automated - AnnaAbsi](https://bit.ly/34mCDIJ) [Automated - ZurMaD](https://bit.ly/2wZwntr)                         |                                                                                                                     |
 | 27  | VENEZUELA                | [rendergraf](https://bit.ly/345Z2Jg)                                                                                | [D1](https://bit.ly/2J3E0Br) [D2](https://bit.ly/3acdykY)                                                           |
 
@@ -202,7 +202,6 @@ Contributions are what make the open source community such an amazing place to b
 
 This project exists thanks to all the people who contribute. [[Contribute](.github/CONTRIBUTING.md)]
 
-
 <!-- USAGE -->
 
 ## Usage
@@ -214,7 +213,6 @@ Other [scripts here](utils\scripts)
 <!-- CONTACT -->
 
 ## Extra
-
 
 [Extra data with orther important variables](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica_extra)
 

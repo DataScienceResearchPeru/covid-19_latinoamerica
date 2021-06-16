@@ -40,4 +40,5 @@ latam_covid_19_data/per_patient/*
 
 !utils/scripts/data_collection/data/nicaragua_temporal/2020-02-25.csv
 !utils/scripts/data_collection/data/uruguay_temporal/README.md
+!utils/scripts/data_collection/data/francia_temporal/2021-05-18.csv
 #./update_data.cpython-37m-x86_64-linux-gnu.so
