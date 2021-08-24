@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,,,,
-CL-AR,Chile,Araucania,,,,
-CL-AP,Chile,Arica y Parinacota,,,,
-CL-AT,Chile,Atacama,,,,
-CL-AI,Chile,Aysen,,,,
-CL-BI,Chile,Biobio,,,,
-CL-CO,Chile,Coquimbo,,,,
-CL-LL,Chile,Los Lagos,,,,
-CL-LR,Chile,Los Rios,,,,
-CL-MA,Chile,Magallanes,,,,
-CL-ML,Chile,Maule,,,,
-CL-NB,Chile,Nuble,,,,
-CL-LI,Chile,O'Higgins,,,,
-CL-RM,Chile,Santiago,,,,
-CL-TA,Chile,Tarapaca,,,,
-CL-VS,Chile,Valparaiso,,,,
+CL-AN,Chile,Antofagasta,2021-08-24T20:32:10,60440,1224,59128
+CL-AR,Chile,Araucania,2021-08-24T20:32:10,97653,1468,96000
+CL-AP,Chile,Arica y Parinacota,2021-08-24T20:32:10,26588,521,26016
+CL-AT,Chile,Atacama,2021-08-24T20:32:10,27007,345,26597
+CL-AI,Chile,Aysen,2021-08-24T20:32:10,8149,75,8032
+CL-BI,Chile,Biobio,2021-08-24T20:32:10,149995,2612,146977
+CL-CO,Chile,Coquimbo,2021-08-24T20:32:10,48222,986,47132
+CL-LL,Chile,Los Lagos,2021-08-24T20:32:10,88243,1383,86707
+CL-LR,Chile,Los Rios,2021-08-24T20:32:10,49064,663,48325
+CL-MA,Chile,Magallanes,2021-08-24T20:32:10,29234,497,28700
+CL-ML,Chile,Maule,2021-08-24T20:32:10,100853,1747,98812
+CL-NB,Chile,Nuble,2021-08-24T20:32:10,35699,632,34992
+CL-LI,Chile,O'Higgins,2021-08-24T20:32:10,68055,1519,66333
+CL-RM,Chile,Santiago,2021-08-24T20:32:10,682466,18842,661510
+CL-TA,Chile,Tarapaca,2021-08-24T20:32:10,40915,801,39992
+CL-VS,Chile,Valparaiso,2021-08-24T20:32:10,122141,3386,118347
 CO-AMA,Colombia,Amazonas,2021-08-24T18:00:56.374583,,,
 CO-ANT,Colombia,Antioquia,2021-08-24T18:00:56.374583,,,
 CO-ARA,Colombia,Arauca,2021-08-24T18:00:56.374583,,,
