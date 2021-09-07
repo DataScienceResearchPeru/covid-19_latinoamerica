@@ -23,42 +23,42 @@ AR-S,Argentina,Santa Fe,2021-09-04T23:00:43.092517,0,0,
 AR-G,Argentina,Santiago del Estero,2021-09-04T23:00:43.092517,0,0,
 AR-V,Argentina,Tierra del Fuego,2021-09-04T23:00:43.092517,0,0,
 AR-T,Argentina,Tucuman,2021-09-04T23:00:43.092517,0,0,
-BO-B,Bolivia,Beni,,,,
-BO-H,Bolivia,Chuquisaca,,,,
-BO-C,Bolivia,Cochabamba,,,,
-BO-L,Bolivia,La Paz,,,,
-BO-O,Bolivia,Oruro,,,,
-BO-N,Bolivia,Pando,,,,
-BO-P,Bolivia,Potosi,,,,
-BO-S,Bolivia,Santa Cruz,,,,
-BO-T,Bolivia,Tarija,,,,
-BR-AC,Brazil,Acre,2021-09-04T23:00:43.090369,87875,1814,0
-BR-AL,Brazil,Alagoas,2021-09-04T23:00:43.090369,236423,6096,0
-BR-AP,Brazil,Amapa,2021-09-04T23:00:43.090369,122493,1959,0
-BR-AM,Brazil,Amazonas,2021-09-04T23:00:43.090369,424833,13693,0
-BR-BA,Brazil,Bahia,2021-09-04T23:00:43.090369,1223769,26565,0
-BR-CE,Brazil,Ceara,2021-09-04T23:00:43.090369,932934,24065,0
-BR-DF,Brazil,Distrito Federal,2021-09-04T23:00:43.090369,474420,10116,0
-BR-ES,Brazil,Espiritu Santo,2021-09-04T23:00:43.090369,565947,12294,0
-BR-GO,Brazil,Goias,2021-09-04T23:00:43.090369,827104,22645,0
-BR-MA,Brazil,Maranhao,2021-09-04T23:00:43.090369,350611,10066,0
-BR-MT,Brazil,Mato Grosso,2021-09-04T23:00:43.090369,520516,13292,0
-BR-MS,Brazil,Mato Grosso do Sul,2021-09-04T23:00:43.090369,369733,9411,0
-BR-MG,Brazil,Minas Gerais,2021-09-04T23:00:43.090369,2077270,53323,0
-BR-PA,Brazil,Para,2021-09-04T23:00:43.090369,585306,16503,0
-BR-PB,Brazil,Paraiba,2021-09-04T23:00:43.090369,435373,9208,0
-BR-PR,Brazil,Parana,2021-09-04T23:00:43.090369,1466759,37721,0
-BR-PE,Brazil,Pernambuco,2021-09-04T23:00:43.090369,610059,19451,0
-BR-PI,Brazil,Piaui,2021-09-04T23:00:43.090369,317261,6953,0
-BR-RJ,Brazil,Rio de Janeiro,2021-09-04T23:00:43.090369,1136652,63142,0
-BR-RN,Brazil,Rio Grande do Norte,2021-09-04T23:00:43.090369,365447,7280,0
-BR-RS,Brazil,Rio Grande do Sul,2021-09-04T23:00:43.090369,1411872,34313,0
-BR-RO,Brazil,Rondonia,2021-09-04T23:00:43.090369,263772,6483,0
-BR-RR,Brazil,Roraima,2021-09-04T23:00:43.090369,124293,1956,0
-BR-SC,Brazil,Santa Catarina,2021-09-04T23:00:43.090369,1161207,18788,0
-BR-SP,Brazil,Sao Paulo,2021-09-04T23:00:43.090369,4288443,146526,0
-BR-SE,Brazil,Sergipe,2021-09-04T23:00:43.090369,277544,6001,0
-BR-TO,Brazil,Tocantins,2021-09-04T23:00:43.090369,219948,3698,0
+BO-B,Bolivia,Beni,2021-09-07T23:00:54.771504,20443,892,
+BO-H,Bolivia,Chuquisaca,2021-09-07T23:00:54.771504,32485,1359,
+BO-C,Bolivia,Cochabamba,2021-09-07T23:00:54.771504,74205,2751,
+BO-L,Bolivia,La Paz,2021-09-07T23:00:54.771504,100920,2618,
+BO-O,Bolivia,Oruro,2021-09-07T23:00:54.771504,24100,1304,
+BO-N,Bolivia,Pando,2021-09-07T23:00:54.771504,6824,324,
+BO-P,Bolivia,Potosi,2021-09-07T23:00:54.771504,23512,817,
+BO-S,Bolivia,Santa Cruz,2021-09-07T23:00:54.771504,171271,7346,
+BO-T,Bolivia,Tarija,2021-09-07T23:00:54.771504,38460,991,
+BR-AC,Brazil,Acre,2021-09-07T23:00:54.772330,87875,1814,0
+BR-AL,Brazil,Alagoas,2021-09-07T23:00:54.772330,236423,6096,0
+BR-AP,Brazil,Amapa,2021-09-07T23:00:54.772330,122493,1959,0
+BR-AM,Brazil,Amazonas,2021-09-07T23:00:54.772330,424833,13693,0
+BR-BA,Brazil,Bahia,2021-09-07T23:00:54.772330,1223769,26565,0
+BR-CE,Brazil,Ceara,2021-09-07T23:00:54.772330,932934,24065,0
+BR-DF,Brazil,Distrito Federal,2021-09-07T23:00:54.772330,474420,10116,0
+BR-ES,Brazil,Espiritu Santo,2021-09-07T23:00:54.772330,565947,12294,0
+BR-GO,Brazil,Goias,2021-09-07T23:00:54.772330,827104,22645,0
+BR-MA,Brazil,Maranhao,2021-09-07T23:00:54.772330,350611,10066,0
+BR-MT,Brazil,Mato Grosso,2021-09-07T23:00:54.772330,520516,13292,0
+BR-MS,Brazil,Mato Grosso do Sul,2021-09-07T23:00:54.772330,369733,9411,0
+BR-MG,Brazil,Minas Gerais,2021-09-07T23:00:54.772330,2077270,53323,0
+BR-PA,Brazil,Para,2021-09-07T23:00:54.772330,585306,16503,0
+BR-PB,Brazil,Paraiba,2021-09-07T23:00:54.772330,435373,9208,0
+BR-PR,Brazil,Parana,2021-09-07T23:00:54.772330,1466759,37721,0
+BR-PE,Brazil,Pernambuco,2021-09-07T23:00:54.772330,610059,19451,0
+BR-PI,Brazil,Piaui,2021-09-07T23:00:54.772330,317261,6953,0
+BR-RJ,Brazil,Rio de Janeiro,2021-09-07T23:00:54.772330,1136652,63142,0
+BR-RN,Brazil,Rio Grande do Norte,2021-09-07T23:00:54.772330,365447,7280,0
+BR-RS,Brazil,Rio Grande do Sul,2021-09-07T23:00:54.772330,1411872,34313,0
+BR-RO,Brazil,Rondonia,2021-09-07T23:00:54.772330,263772,6483,0
+BR-RR,Brazil,Roraima,2021-09-07T23:00:54.772330,124293,1956,0
+BR-SC,Brazil,Santa Catarina,2021-09-07T23:00:54.772330,1161207,18788,0
+BR-SP,Brazil,Sao Paulo,2021-09-07T23:00:54.772330,4288443,146526,0
+BR-SE,Brazil,Sergipe,2021-09-07T23:00:54.772330,277544,6001,0
+BR-TO,Brazil,Tocantins,2021-09-07T23:00:54.772330,219948,3698,0
 CL-AN,Chile,Antofagasta,2021-09-04T15:05:29,60604,1236,
 CL-AR,Chile,Araucania,2021-09-04T15:05:29,97941,1483,
 CL-AP,Chile,Arica y Parinacota,2021-09-04T15:05:29,26657,524,
@@ -75,39 +75,39 @@ CL-LI,Chile,O'Higgins,2021-09-04T15:05:29,68313,1532,
 CL-RM,Chile,Santiago,2021-09-04T15:05:29,685352,18998,
 CL-TA,Chile,Tarapaca,2021-09-04T15:05:29,41076,805,
 CL-VS,Chile,Valparaiso,2021-09-04T15:05:29,122610,3432,
-CO-AMA,Colombia,Amazonas,2021-09-04T23:00:43.093329,,,
-CO-ANT,Colombia,Antioquia,2021-09-04T23:00:43.093329,,,
-CO-ARA,Colombia,Arauca,2021-09-04T23:00:43.093329,,,
-CO-ATL,Colombia,Atlantico,2021-09-04T23:00:43.093329,,,
-CO-DC,Colombia,Bogota,2021-09-04T23:00:43.093329,,,
-CO-BOL,Colombia,Bolivar,2021-09-04T23:00:43.093329,,,
-CO-BOY,Colombia,Boyaca,2021-09-04T23:00:43.093329,,,
-CO-CAL,Colombia,Caldas,2021-09-04T23:00:43.093329,,,
-CO-CAQ,Colombia,Caqueta,2021-09-04T23:00:43.093329,,,
-CO-CAS,Colombia,Casanare,2021-09-04T23:00:43.093329,,,
-CO-CAU,Colombia,Cauca,2021-09-04T23:00:43.093329,,,
-CO-CES,Colombia,Cesar,2021-09-04T23:00:43.093329,,,
-CO-COR,Colombia,Choco,2021-09-04T23:00:43.093329,,,
-CO-CUN,Colombia,Cordoba,2021-09-04T23:00:43.093329,,,
-CO-CHO,Colombia,Cundinamarca,2021-09-04T23:00:43.093329,,,
-CO-GUA,Colombia,Guainia,2021-09-04T23:00:43.093329,,,
-CO-GUV,Colombia,Guaviare,2021-09-04T23:00:43.093329,,,
-CO-HUI,Colombia,Huila,2021-09-04T23:00:43.093329,,,
-CO-LAG,Colombia,La Guajira,2021-09-04T23:00:43.093329,,,
-CO-MAG,Colombia,Magdalena,2021-09-04T23:00:43.093329,,,
-CO-MET,Colombia,Meta,2021-09-04T23:00:43.093329,,,
-CO-NAR,Colombia,Narino,2021-09-04T23:00:43.093329,,,
-CO-NSA,Colombia,Norte de Santander,2021-09-04T23:00:43.093329,,,
-CO-PUT,Colombia,Putumayo,2021-09-04T23:00:43.093329,,,
-CO-QUI,Colombia,Quindio,2021-09-04T23:00:43.093329,,,
-CO-RIS,Colombia,Risaralda,2021-09-04T23:00:43.093329,,,
-CO-SAP,Colombia,San Andres y Providencia,2021-09-04T23:00:43.093329,,,
-CO-SAN,Colombia,Santander,2021-09-04T23:00:43.093329,,,
-CO-SUC,Colombia,Sucre,2021-09-04T23:00:43.093329,,,
-CO-TOL,Colombia,Tolima,2021-09-04T23:00:43.093329,,,
-CO-VAC,Colombia,Valle del Cauca,2021-09-04T23:00:43.093329,,,
-CO-VAU,Colombia,Vaupes,2021-09-04T23:00:43.093329,,,
-CO-VID,Colombia,Vichada,2021-09-04T23:00:43.093329,,,
+CO-AMA,Colombia,Amazonas,2021-09-07T23:00:54.775766,,,
+CO-ANT,Colombia,Antioquia,2021-09-07T23:00:54.775766,,,
+CO-ARA,Colombia,Arauca,2021-09-07T23:00:54.775766,,,
+CO-ATL,Colombia,Atlantico,2021-09-07T23:00:54.775766,,,
+CO-DC,Colombia,Bogota,2021-09-07T23:00:54.775766,,,
+CO-BOL,Colombia,Bolivar,2021-09-07T23:00:54.775766,,,
+CO-BOY,Colombia,Boyaca,2021-09-07T23:00:54.775766,,,
+CO-CAL,Colombia,Caldas,2021-09-07T23:00:54.775766,,,
+CO-CAQ,Colombia,Caqueta,2021-09-07T23:00:54.775766,,,
+CO-CAS,Colombia,Casanare,2021-09-07T23:00:54.775766,,,
+CO-CAU,Colombia,Cauca,2021-09-07T23:00:54.775766,,,
+CO-CES,Colombia,Cesar,2021-09-07T23:00:54.775766,,,
+CO-COR,Colombia,Choco,2021-09-07T23:00:54.775766,,,
+CO-CUN,Colombia,Cordoba,2021-09-07T23:00:54.775766,,,
+CO-CHO,Colombia,Cundinamarca,2021-09-07T23:00:54.775766,,,
+CO-GUA,Colombia,Guainia,2021-09-07T23:00:54.775766,,,
+CO-GUV,Colombia,Guaviare,2021-09-07T23:00:54.775766,,,
+CO-HUI,Colombia,Huila,2021-09-07T23:00:54.775766,,,
+CO-LAG,Colombia,La Guajira,2021-09-07T23:00:54.775766,,,
+CO-MAG,Colombia,Magdalena,2021-09-07T23:00:54.775766,,,
+CO-MET,Colombia,Meta,2021-09-07T23:00:54.775766,,,
+CO-NAR,Colombia,Narino,2021-09-07T23:00:54.775766,,,
+CO-NSA,Colombia,Norte de Santander,2021-09-07T23:00:54.775766,,,
+CO-PUT,Colombia,Putumayo,2021-09-07T23:00:54.775766,,,
+CO-QUI,Colombia,Quindio,2021-09-07T23:00:54.775766,,,
+CO-RIS,Colombia,Risaralda,2021-09-07T23:00:54.775766,,,
+CO-SAP,Colombia,San Andres y Providencia,2021-09-07T23:00:54.775766,,,
+CO-SAN,Colombia,Santander,2021-09-07T23:00:54.775766,,,
+CO-SUC,Colombia,Sucre,2021-09-07T23:00:54.775766,,,
+CO-TOL,Colombia,Tolima,2021-09-07T23:00:54.775766,,,
+CO-VAC,Colombia,Valle del Cauca,2021-09-07T23:00:54.775766,,,
+CO-VAU,Colombia,Vaupes,2021-09-07T23:00:54.775766,,,
+CO-VID,Colombia,Vichada,2021-09-07T23:00:54.775766,,,
 CR-A,Costa Rica,Alajuela,,,,
 CR-C,Costa Rica,Cartago,,,,
 CR-G,Costa Rica,Guanacaste,,,,
@@ -131,38 +131,38 @@ CU-01,Cuba,Pinar del Río,,,,
 CU-07,Cuba,Sancti Spíritus,,,,
 CU-13,Cuba,Santiago de Cuba,,,,
 CU-05,Cuba,Villa Clara,,,,
-DO-02,Dominican Republic,Azua,,,,
-DO-03,Dominican Republic,Baoruco,,,,
-DO-04,Dominican Republic,Barahona,,,,
-DO-05,Dominican Republic,Dajabon,,,,
-DO-06,Dominican Republic,Distrito Nacional,,,,
-DO-08,Dominican Republic,Duarte,,,,
-DO-09,Dominican Republic,El Seibo,,,,
-DO-30,Dominican Republic,Elias Pina,,,,
-DO-10,Dominican Republic,Espaillat,,,,
-DO-11,Dominican Republic,Hato Mayor,,,,
-DO-07,Dominican Republic,Hermanas Mirabal,,,,
-DO-12,Dominican Republic,Independencia,,,,
-DO-13,Dominican Republic,La Altagracia,,,,
-DO-14,Dominican Republic,La Romana,,,,
-DO-28,Dominican Republic,La Vega,,,,
-DO-15,Dominican Republic,Maria Trinidad Sanchez,,,,
-DO-29,Dominican Republic,Monsenor Nouel,,,,
-DO-16,Dominican Republic,Monte Cristi,,,,
-DO-17,Dominican Republic,Monte Plata,,,,
-DO-18,Dominican Republic,Pedernales,,,,
-DO-19,Dominican Republic,Peravia,,,,
-DO-20,Dominican Republic,Puerto Plata,,,,
-DO-21,Dominican Republic,Samana,,,,
-DO-31,Dominican Republic,San Cristobal,,,,
-DO-22,Dominican Republic,San Jose de Ocoa,,,,
-DO-23,Dominican Republic,San Juan,,,,
-DO-24,Dominican Republic,San Pedro de Macoris,,,,
-DO-25,Dominican Republic,Sanchez Ramirez,,,,
-DO-26,Dominican Republic,Santiago,,,,
-DO-32,Dominican Republic,Santiago Rodriguez,,,,
-DO-01,Dominican Republic,Santo Domingo,,,,
-DO-27,Dominican Republic,Valverde,,,,
+DO-02,Dominican Republic,Azua,2021-09-07T23:00:54.773499,95050,641,93675
+DO-03,Dominican Republic,Baoruco,2021-09-07T23:00:54.773499,8360,236,7994
+DO-04,Dominican Republic,Barahona,2021-09-07T23:00:54.773499,1227,16,1179
+DO-05,Dominican Republic,Dajabon,2021-09-07T23:00:54.773499,523,6,503
+DO-06,Dominican Republic,Distrito Nacional,2021-09-07T23:00:54.773499,7323,133,6981
+DO-08,Dominican Republic,Duarte,2021-09-07T23:00:54.773499,1720,20,1641
+DO-09,Dominican Republic,El Seibo,2021-09-07T23:00:54.773499,3372,50,3263
+DO-30,Dominican Republic,Elias Pina,2021-09-07T23:00:54.773499,1359,13,1336
+DO-10,Dominican Republic,Espaillat,2021-09-07T23:00:54.773499,12199,90,11941
+DO-11,Dominican Republic,Hato Mayor,2021-09-07T23:00:54.773499,12784,204,12445
+DO-07,Dominican Republic,Hermanas Mirabal,2021-09-07T23:00:54.773499,12090,215,11557
+DO-12,Dominican Republic,Independencia,2021-09-07T23:00:54.773499,4408,32,4270
+DO-13,Dominican Republic,La Altagracia,2021-09-07T23:00:54.773499,3972,51,3876
+DO-14,Dominican Republic,La Romana,2021-09-07T23:00:54.773499,1744,31,1635
+DO-28,Dominican Republic,La Vega,2021-09-07T23:00:54.773499,2255,36,2145
+DO-15,Dominican Republic,Maria Trinidad Sanchez,2021-09-07T23:00:54.773499,923,4,911
+DO-29,Dominican Republic,Monsenor Nouel,2021-09-07T23:00:54.773499,3151,66,3043
+DO-16,Dominican Republic,Monte Cristi,2021-09-07T23:00:54.773499,8914,158,8482
+DO-17,Dominican Republic,Monte Plata,2021-09-07T23:00:54.773499,1152,10,1121
+DO-18,Dominican Republic,Pedernales,2021-09-07T23:00:54.773499,12007,213,11581
+DO-19,Dominican Republic,Peravia,2021-09-07T23:00:54.773499,1415,28,1350
+DO-20,Dominican Republic,Puerto Plata,2021-09-07T23:00:54.773499,5660,73,5514
+DO-21,Dominican Republic,Samana,2021-09-07T23:00:54.773499,5850,63,5705
+DO-31,Dominican Republic,San Cristobal,2021-09-07T23:00:54.773499,3729,38,3583
+DO-22,Dominican Republic,San Jose de Ocoa,2021-09-07T23:00:54.773499,35652,608,34199
+DO-23,Dominican Republic,San Juan,2021-09-07T23:00:54.773499,1698,11,1658
+DO-24,Dominican Republic,San Pedro de Macoris,2021-09-07T23:00:54.773499,76642,810,74928
+DO-25,Dominican Republic,Sanchez Ramirez,2021-09-07T23:00:54.773499,3534,53,3374
+DO-26,Dominican Republic,Santiago,2021-09-07T23:00:54.773499,4520,40,4413
+DO-32,Dominican Republic,Santiago Rodriguez,2021-09-07T23:00:54.773499,1990,14,1948
+DO-01,Dominican Republic,Santo Domingo,2021-09-07T23:00:54.773499,4795,32,4688
+DO-27,Dominican Republic,Valverde,2021-09-07T23:00:54.773499,1598,15,1525
 EC-A,Ecuador,Azuay,,,,
 EC-B,Ecuador,Bolivar,,,,
 EC-F,Ecuador,Canar,,,,
@@ -201,12 +201,12 @@ SV-SV,El Salvador,San Vicente,,,,
 SV-SA,El Salvador,Santa Ana,,,,
 SV-SO,El Salvador,Sonsonate,,,,
 SV-US,El Salvador,Usulutan,,,,
-FR-GP,France,Guadeloupe,2021-09-04T23:00:43.097268,45393,508,0
-FR-GF,France,Guyane,2021-09-04T23:00:43.097268,26112,636,0
-FR-MQ,France,Martinique,2021-09-04T23:00:43.097268,37985,477,0
-FR-BL,France,Saint-Barthélemy,2021-09-04T23:00:43.097268,1592,1,0
-FR-MF,France,Saint-Martin,2021-09-04T23:00:43.097268,5345,90,0
-FR-PM,France,Saint-Pierre-et-Miquelon,2021-09-04T23:00:43.097268,,,
+FR-GP,France,Guadeloupe,2021-09-07T23:00:54.781597,45393,508,0
+FR-GF,France,Guyane,2021-09-07T23:00:54.781597,35309,220,0
+FR-MQ,France,Martinique,2021-09-07T23:00:54.781597,37985,477,0
+FR-BL,France,Saint-Barthélemy,2021-09-07T23:00:54.781597,1592,1,0
+FR-MF,France,Saint-Martin,2021-09-07T23:00:54.781597,3356,17,0
+FR-PM,France,Saint-Pierre-et-Miquelon,2021-09-07T23:00:54.781597,,,
 GT-AV,Guatemala,Alta Verapaz,,,,
 GT-BV,Guatemala,Baja Verapaz,,,,
 GT-CM,Guatemala,Chimaltenango,,,,
@@ -337,51 +337,51 @@ PY-12,Paraguay,Neembucu,,,,
 PY-9,Paraguay,Paraguari,,,,
 PY-15,Paraguay,Presidente Hayes,,,,
 PY-2,Paraguay,San Pedro,,,,
-PE-AMA,Peru,Amazonas,2021-09-04T23:00:43.087066,,,
-PE-ANC,Peru,Ancash,2021-09-04T23:00:43.087066,,,
-PE-APU,Peru,Apurimac,2021-09-04T23:00:43.087066,,,
-PE-ARE,Peru,Arequipa,2021-09-04T23:00:43.087066,,,
-PE-AYA,Peru,Ayacucho,2021-09-04T23:00:43.087066,,,
-PE-CAJ,Peru,Cajamarca,2021-09-04T23:00:43.087066,,,
-PE-CAL,Peru,Callao,2021-09-04T23:00:43.087066,,,
-PE-CUS,Peru,Cusco,2021-09-04T23:00:43.087066,,,
-PE-HUV,Peru,Huancavelica,2021-09-04T23:00:43.087066,,,
-PE-HUC,Peru,Huanuco,2021-09-04T23:00:43.087066,,,
-PE-ICA,Peru,Ica,2021-09-04T23:00:43.087066,,,
-PE-JUN,Peru,Junin,2021-09-04T23:00:43.087066,,,
-PE-LAL,Peru,La Libertad,2021-09-04T23:00:43.087066,,,
-PE-LAM,Peru,Lambayeque,2021-09-04T23:00:43.087066,,,
-PE-LIM,Peru,Lima,2021-09-04T23:00:43.087066,,,
-PE-LOR,Peru,Loreto,2021-09-04T23:00:43.087066,,,
-PE-MDD,Peru,Madre de dios,2021-09-04T23:00:43.087066,,,
-PE-MOQ,Peru,Moquegua,2021-09-04T23:00:43.087066,,,
-PE-PAS,Peru,Pasco,2021-09-04T23:00:43.087066,,,
-PE-PIU,Peru,Piura,2021-09-04T23:00:43.087066,,,
-PE-PUN,Peru,Puno,2021-09-04T23:00:43.087066,,,
-PE-SAM,Peru,San Martin,2021-09-04T23:00:43.087066,,,
-PE-TAC,Peru,Tacna,2021-09-04T23:00:43.087066,,,
-PE-TUM,Peru,Tumbes,2021-09-04T23:00:43.087066,,,
-PE-UCA,Peru,Ucayali,2021-09-04T23:00:43.087066,,,
+PE-AMA,Peru,Amazonas,2021-09-07T23:00:54.768497,31257,1239,
+PE-ANC,Peru,Ancash,2021-09-07T23:00:54.768497,76044,6606,
+PE-APU,Peru,Apurimac,2021-09-07T23:00:54.768497,25861,1484,
+PE-ARE,Peru,Arequipa,2021-09-07T23:00:54.768497,113656,9600,
+PE-AYA,Peru,Ayacucho,2021-09-07T23:00:54.768497,33140,2085,
+PE-CAJ,Peru,Cajamarca,2021-09-07T23:00:54.768497,65068,4083,
+PE-CAL,Peru,Callao,2021-09-07T23:00:54.768497,99655,9908,
+PE-CUS,Peru,Cusco,2021-09-07T23:00:54.768497,72310,4705,
+PE-HUV,Peru,Huancavelica,2021-09-07T23:00:54.768497,15988,1142,
+PE-HUC,Peru,Huanuco,2021-09-07T23:00:54.768497,35280,2676,
+PE-ICA,Peru,Ica,2021-09-07T23:00:54.768497,57909,8289,
+PE-JUN,Peru,Junin,2021-09-07T23:00:54.768497,84267,6948,
+PE-LAL,Peru,La Libertad,2021-09-07T23:00:54.768497,86978,10107,
+PE-LAM,Peru,Lambayeque,2021-09-07T23:00:54.768497,60742,8560,
+PE-LIM,Peru,Lima,2021-09-07T23:00:54.768497,939145,88084,
+PE-LOR,Peru,Loreto,2021-09-07T23:00:54.768497,44833,4165,
+PE-MDD,Peru,Madre de dios,2021-09-07T23:00:54.768497,13800,761,
+PE-MOQ,Peru,Moquegua,2021-09-07T23:00:54.768497,29367,1498,
+PE-PAS,Peru,Pasco,2021-09-07T23:00:54.768497,15618,1037,
+PE-PIU,Peru,Piura,2021-09-07T23:00:54.768497,86136,11867,
+PE-PUN,Peru,Puno,2021-09-07T23:00:54.768497,38879,4056,
+PE-SAM,Peru,San Martin,2021-09-07T23:00:54.768497,48217,2972,
+PE-TAC,Peru,Tacna,2021-09-07T23:00:54.768497,29572,1941,
+PE-TUM,Peru,Tumbes,2021-09-07T23:00:54.768497,18404,1551,
+PE-UCA,Peru,Ucayali,2021-09-07T23:00:54.768497,32006,3083,
 US-PR,United States,Puerto Rico,,,,
-UY-AR,Uruguay,Artigas,2021-09-04T23:00:43.096402,,,
-UY-CA,Uruguay,Canelones,2021-09-04T23:00:43.096402,,,
-UY-CL,Uruguay,Cerro Largo,2021-09-04T23:00:43.096402,,,
-UY-CO,Uruguay,Colonia,2021-09-04T23:00:43.096402,,,
-UY-DU,Uruguay,Durazno,2021-09-04T23:00:43.096402,,,
-UY-FS,Uruguay,Flores,2021-09-04T23:00:43.096402,,,
-UY-FD,Uruguay,Florida,2021-09-04T23:00:43.096402,,,
-UY-LA,Uruguay,Lavalleja,2021-09-04T23:00:43.096402,,,
-UY-MA,Uruguay,Maldonado,2021-09-04T23:00:43.096402,,,
-UY-MO,Uruguay,Montevideo,2021-09-04T23:00:43.096402,,,
-UY-PA,Uruguay,Paysandu,2021-09-04T23:00:43.096402,,,
-UY-RN,Uruguay,Rio Negro,2021-09-04T23:00:43.096402,,,
-UY-RV,Uruguay,Rivera,2021-09-04T23:00:43.096402,,,
-UY-RO,Uruguay,Rocha,2021-09-04T23:00:43.096402,,,
-UY-SA,Uruguay,Salto,2021-09-04T23:00:43.096402,,,
-UY-SJ,Uruguay,San Jose,2021-09-04T23:00:43.096402,,,
-UY-SO,Uruguay,Soriano,2021-09-04T23:00:43.096402,,,
-UY-TA,Uruguay,Tacuarembo,2021-09-04T23:00:43.096402,,,
-UY-TT,Uruguay,Treinta y Tres,2021-09-04T23:00:43.096402,,,
+UY-AR,Uruguay,Artigas,2021-09-07T23:00:54.780567,,,
+UY-CA,Uruguay,Canelones,2021-09-07T23:00:54.780567,,,
+UY-CL,Uruguay,Cerro Largo,2021-09-07T23:00:54.780567,,,
+UY-CO,Uruguay,Colonia,2021-09-07T23:00:54.780567,,,
+UY-DU,Uruguay,Durazno,2021-09-07T23:00:54.780567,,,
+UY-FS,Uruguay,Flores,2021-09-07T23:00:54.780567,,,
+UY-FD,Uruguay,Florida,2021-09-07T23:00:54.780567,,,
+UY-LA,Uruguay,Lavalleja,2021-09-07T23:00:54.780567,,,
+UY-MA,Uruguay,Maldonado,2021-09-07T23:00:54.780567,,,
+UY-MO,Uruguay,Montevideo,2021-09-07T23:00:54.780567,,,
+UY-PA,Uruguay,Paysandu,2021-09-07T23:00:54.780567,,,
+UY-RN,Uruguay,Rio Negro,2021-09-07T23:00:54.780567,,,
+UY-RV,Uruguay,Rivera,2021-09-07T23:00:54.780567,,,
+UY-RO,Uruguay,Rocha,2021-09-07T23:00:54.780567,,,
+UY-SA,Uruguay,Salto,2021-09-07T23:00:54.780567,,,
+UY-SJ,Uruguay,San Jose,2021-09-07T23:00:54.780567,,,
+UY-SO,Uruguay,Soriano,2021-09-07T23:00:54.780567,,,
+UY-TA,Uruguay,Tacuarembo,2021-09-07T23:00:54.780567,,,
+UY-TT,Uruguay,Treinta y Tres,2021-09-07T23:00:54.780567,,,
 VE-Z,Venezuela,Amazonas,,,,
 VE-B,Venezuela,Anzoategui,,,,
 VE-C,Venezuela,Apure,,,,
