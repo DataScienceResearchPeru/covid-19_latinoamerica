@@ -226,12 +226,13 @@ Due to the amount of missing data, we recommend that only the `Confirmed` and `D
 
 Yes, we actually recommend this [notebook](https://bit.ly/3bJPuGM)
 
+
+<!-- ACKNOWLEDGEMENTS -->
+
 - **How can I know which countries are updated each day?**
 
 By now, Perú, Chile, Honduras and Brazil are automated.
 Others, not yet.
-
-<!-- ACKNOWLEDGEMENTS -->
 
 <!--
 ## Acknowledgements
