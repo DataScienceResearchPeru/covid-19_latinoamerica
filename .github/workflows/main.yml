@@ -12,7 +12,7 @@ on:
 jobs:
   data-updater-daily:
     runs-on: ubuntu-latest
-    timeout-minutes: 10 # max time of running script
+    timeout-minutes: 5 # max time of running script
     steps:
 
       - name: checkout repo content
