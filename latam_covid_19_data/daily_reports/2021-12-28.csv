@@ -1,37 +1,37 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2021-12-25T23:01:02.745334,0,0,
-AR-K,Argentina,Catamarca,2021-12-25T23:01:02.745334,0,0,
-AR-H,Argentina,Chaco,2021-12-25T23:01:02.745334,0,0,
-AR-U,Argentina,Chubut,2021-12-25T23:01:02.745334,0,0,
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2021-12-25T23:01:02.745334,0,0,
-AR-X,Argentina,Cordoba,2021-12-25T23:01:02.745334,0,0,
-AR-W,Argentina,Corrientes,2021-12-25T23:01:02.745334,0,0,
-AR-E,Argentina,Entre Rios,2021-12-25T23:01:02.745334,0,0,
-AR-P,Argentina,Formosa,2021-12-25T23:01:02.745334,0,0,
-AR-Y,Argentina,Jujuy,2021-12-25T23:01:02.745334,0,0,
-AR-L,Argentina,La Pampa,2021-12-25T23:01:02.745334,0,0,
-AR-F,Argentina,La Rioja,2021-12-25T23:01:02.745334,0,0,
-AR-M,Argentina,Mendoza,2021-12-25T23:01:02.745334,0,0,
-AR-N,Argentina,Misiones,2021-12-25T23:01:02.745334,0,0,
-AR-Q,Argentina,Neuquen,2021-12-25T23:01:02.745334,0,0,
-AR-R,Argentina,Rio Negro,2021-12-25T23:01:02.745334,0,0,
-AR-A,Argentina,Salta,2021-12-25T23:01:02.745334,0,0,
-AR-J,Argentina,San Juan,2021-12-25T23:01:02.745334,0,0,
-AR-D,Argentina,San Luis,2021-12-25T23:01:02.745334,0,0,
-AR-Z,Argentina,Santa Cruz,2021-12-25T23:01:02.745334,0,0,
-AR-S,Argentina,Santa Fe,2021-12-25T23:01:02.745334,0,0,
-AR-G,Argentina,Santiago del Estero,2021-12-25T23:01:02.745334,0,0,
-AR-V,Argentina,Tierra del Fuego,2021-12-25T23:01:02.745334,0,0,
-AR-T,Argentina,Tucuman,2021-12-25T23:01:02.745334,0,0,
-BO-B,Bolivia,Beni,2021-12-28T23:00:47.475618,21324,896,
-BO-H,Bolivia,Chuquisaca,2021-12-28T23:00:47.475618,37248,1387,
-BO-C,Bolivia,Cochabamba,2021-12-28T23:00:47.475618,83627,2769,
-BO-L,Bolivia,La Paz,2021-12-28T23:00:47.475618,111038,2708,
-BO-O,Bolivia,Oruro,2021-12-28T23:00:47.475618,26140,1368,
-BO-N,Bolivia,Pando,2021-12-28T23:00:47.475618,8031,324,
-BO-P,Bolivia,Potosi,2021-12-28T23:00:47.475618,24975,852,
-BO-S,Bolivia,Santa Cruz,2021-12-28T23:00:47.475618,212153,7489,
-BO-T,Bolivia,Tarija,2021-12-28T23:00:47.475618,45758,1039,
+AR-B,Argentina,Buenos Aires,,,,
+AR-K,Argentina,Catamarca,,,,
+AR-H,Argentina,Chaco,,,,
+AR-U,Argentina,Chubut,,,,
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,,,,
+AR-X,Argentina,Cordoba,,,,
+AR-W,Argentina,Corrientes,,,,
+AR-E,Argentina,Entre Rios,,,,
+AR-P,Argentina,Formosa,,,,
+AR-Y,Argentina,Jujuy,,,,
+AR-L,Argentina,La Pampa,,,,
+AR-F,Argentina,La Rioja,,,,
+AR-M,Argentina,Mendoza,,,,
+AR-N,Argentina,Misiones,,,,
+AR-Q,Argentina,Neuquen,,,,
+AR-R,Argentina,Rio Negro,,,,
+AR-A,Argentina,Salta,,,,
+AR-J,Argentina,San Juan,,,,
+AR-D,Argentina,San Luis,,,,
+AR-Z,Argentina,Santa Cruz,,,,
+AR-S,Argentina,Santa Fe,,,,
+AR-G,Argentina,Santiago del Estero,,,,
+AR-V,Argentina,Tierra del Fuego,,,,
+AR-T,Argentina,Tucuman,,,,
+BO-B,Bolivia,Beni,,,,
+BO-H,Bolivia,Chuquisaca,,,,
+BO-C,Bolivia,Cochabamba,,,,
+BO-L,Bolivia,La Paz,,,,
+BO-O,Bolivia,Oruro,,,,
+BO-N,Bolivia,Pando,,,,
+BO-P,Bolivia,Potosi,,,,
+BO-S,Bolivia,Santa Cruz,,,,
+BO-T,Bolivia,Tarija,,,,
 BR-AC,Brazil,Acre,,,,
 BR-AL,Brazil,Alagoas,,,,
 BR-AP,Brazil,Amapa,,,,
@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,2021-12-25T15:35:35,66670,1284,65031
-CL-AR,Chile,Araucania,2021-12-25T15:35:35,103636,1552,101599
-CL-AP,Chile,Arica y Parinacota,2021-12-25T15:35:35,29120,546,28215
-CL-AT,Chile,Atacama,2021-12-25T15:35:35,30679,378,30025
-CL-AI,Chile,Aysen,2021-12-25T15:35:35,10255,96,10081
-CL-BI,Chile,Biobio,2021-12-25T15:35:35,166732,2824,162677
-CL-CO,Chile,Coquimbo,2021-12-25T15:35:35,54583,1092,53258
-CL-LL,Chile,Los Lagos,2021-12-25T15:35:35,98871,1496,96604
-CL-LR,Chile,Los Rios,2021-12-25T15:35:35,53470,717,52287
-CL-MA,Chile,Magallanes,2021-12-25T15:35:35,30069,506,29431
-CL-ML,Chile,Maule,2021-12-25T15:35:35,109476,1858,107260
-CL-NB,Chile,Nuble,2021-12-25T15:35:35,39340,675,38453
-CL-LI,Chile,O'Higgins,2021-12-25T15:35:35,73076,1627,71263
-CL-RM,Chile,Santiago,2021-12-25T15:35:35,750878,19912,728873
-CL-TA,Chile,Tarapaca,2021-12-25T15:35:35,44742,828,43730
-CL-VS,Chile,Valparaiso,2021-12-25T15:35:35,137482,3622,133116
+CL-AN,Chile,Antofagasta,2021-12-28T17:06:12,66771,1285,65182
+CL-AR,Chile,Araucania,2021-12-28T17:06:12,103836,1554,101827
+CL-AP,Chile,Arica y Parinacota,2021-12-28T17:06:12,29081,546,28273
+CL-AT,Chile,Atacama,2021-12-28T17:06:12,30727,378,30123
+CL-AI,Chile,Aysen,2021-12-28T17:06:12,10282,97,10116
+CL-BI,Chile,Biobio,2021-12-28T17:06:12,167111,2828,163235
+CL-CO,Chile,Coquimbo,2021-12-28T17:06:12,54694,1093,53365
+CL-LL,Chile,Los Lagos,2021-12-28T17:06:12,99058,1502,96982
+CL-LR,Chile,Los Rios,2021-12-28T17:06:12,53625,719,52487
+CL-MA,Chile,Magallanes,2021-12-28T17:06:12,30105,507,29488
+CL-ML,Chile,Maule,2021-12-28T17:06:12,109594,1858,107422
+CL-NB,Chile,Nuble,2021-12-28T17:06:12,39399,676,38553
+CL-LI,Chile,O'Higgins,2021-12-28T17:06:12,73131,1628,71339
+CL-RM,Chile,Santiago,2021-12-28T17:06:12,751763,19930,729646
+CL-TA,Chile,Tarapaca,2021-12-28T17:06:12,44825,828,43816
+CL-VS,Chile,Valparaiso,2021-12-28T17:06:12,137747,3630,133473
 CO-AMA,Colombia,Amazonas,2021-12-28T23:00:47.479381,,,
 CO-ANT,Colombia,Antioquia,2021-12-28T23:00:47.479381,,,
 CO-ARA,Colombia,Arauca,2021-12-28T23:00:47.479381,,,
@@ -131,38 +131,38 @@ CU-01,Cuba,Pinar del Río,,,,
 CU-07,Cuba,Sancti Spíritus,,,,
 CU-13,Cuba,Santiago de Cuba,,,,
 CU-05,Cuba,Villa Clara,,,,
-DO-02,Dominican Republic,Azua,2021-12-28T23:00:47.477354,106555,665,104758
-DO-03,Dominican Republic,Baoruco,2021-12-28T23:00:47.477354,9412,237,9129
-DO-04,Dominican Republic,Barahona,2021-12-28T23:00:47.477354,1535,16,1519
-DO-05,Dominican Republic,Dajabon,2021-12-28T23:00:47.477354,720,6,712
-DO-06,Dominican Republic,Distrito Nacional,2021-12-28T23:00:47.477354,9142,135,8959
-DO-08,Dominican Republic,Duarte,2021-12-28T23:00:47.477354,2260,21,2218
-DO-09,Dominican Republic,El Seibo,2021-12-28T23:00:47.477354,3892,53,3820
-DO-30,Dominican Republic,Elias Pina,2021-12-28T23:00:47.477354,1608,13,1594
-DO-10,Dominican Republic,Espaillat,2021-12-28T23:00:47.477354,14527,94,14352
-DO-11,Dominican Republic,Hato Mayor,2021-12-28T23:00:47.477354,14564,211,14308
-DO-07,Dominican Republic,Hermanas Mirabal,2021-12-28T23:00:47.477354,14248,227,13972
-DO-12,Dominican Republic,Independencia,2021-12-28T23:00:47.477354,5348,33,5294
-DO-13,Dominican Republic,La Altagracia,2021-12-28T23:00:47.477354,4624,57,4551
-DO-14,Dominican Republic,La Romana,2021-12-28T23:00:47.477354,2932,35,2889
-DO-28,Dominican Republic,La Vega,2021-12-28T23:00:47.477354,2733,36,2693
-DO-15,Dominican Republic,Maria Trinidad Sanchez,2021-12-28T23:00:47.477354,1434,4,1430
-DO-29,Dominican Republic,Monsenor Nouel,2021-12-28T23:00:47.477354,4152,77,4064
-DO-16,Dominican Republic,Monte Cristi,2021-12-28T23:00:47.477354,12129,166,11899
-DO-17,Dominican Republic,Monte Plata,2021-12-28T23:00:47.477354,1452,11,1439
-DO-18,Dominican Republic,Pedernales,2021-12-28T23:00:47.477354,13977,237,13627
-DO-19,Dominican Republic,Peravia,2021-12-28T23:00:47.477354,1688,30,1654
-DO-20,Dominican Republic,Puerto Plata,2021-12-28T23:00:47.477354,6550,79,6457
-DO-21,Dominican Republic,Samana,2021-12-28T23:00:47.477354,7020,65,6927
-DO-31,Dominican Republic,San Cristobal,2021-12-28T23:00:47.477354,4547,41,4487
-DO-22,Dominican Republic,San Jose de Ocoa,2021-12-28T23:00:47.477354,44050,657,43089
-DO-23,Dominican Republic,San Juan,2021-12-28T23:00:47.477354,2831,12,2813
-DO-24,Dominican Republic,San Pedro de Macoris,2021-12-28T23:00:47.477354,87786,857,86413
-DO-25,Dominican Republic,Sanchez Ramirez,2021-12-28T23:00:47.477354,6309,53,6226
-DO-26,Dominican Republic,Santiago,2021-12-28T23:00:47.477354,5073,42,5017
-DO-32,Dominican Republic,Santiago Rodriguez,2021-12-28T23:00:47.477354,2126,16,2096
-DO-01,Dominican Republic,Santo Domingo,2021-12-28T23:00:47.477354,5258,34,5216
-DO-27,Dominican Republic,Valverde,2021-12-28T23:00:47.477354,2966,16,2934
+DO-02,Dominican Republic,Azua,,,,
+DO-03,Dominican Republic,Baoruco,,,,
+DO-04,Dominican Republic,Barahona,,,,
+DO-05,Dominican Republic,Dajabon,,,,
+DO-06,Dominican Republic,Distrito Nacional,,,,
+DO-08,Dominican Republic,Duarte,,,,
+DO-09,Dominican Republic,El Seibo,,,,
+DO-30,Dominican Republic,Elias Pina,,,,
+DO-10,Dominican Republic,Espaillat,,,,
+DO-11,Dominican Republic,Hato Mayor,,,,
+DO-07,Dominican Republic,Hermanas Mirabal,,,,
+DO-12,Dominican Republic,Independencia,,,,
+DO-13,Dominican Republic,La Altagracia,,,,
+DO-14,Dominican Republic,La Romana,,,,
+DO-28,Dominican Republic,La Vega,,,,
+DO-15,Dominican Republic,Maria Trinidad Sanchez,,,,
+DO-29,Dominican Republic,Monsenor Nouel,,,,
+DO-16,Dominican Republic,Monte Cristi,,,,
+DO-17,Dominican Republic,Monte Plata,,,,
+DO-18,Dominican Republic,Pedernales,,,,
+DO-19,Dominican Republic,Peravia,,,,
+DO-20,Dominican Republic,Puerto Plata,,,,
+DO-21,Dominican Republic,Samana,,,,
+DO-31,Dominican Republic,San Cristobal,,,,
+DO-22,Dominican Republic,San Jose de Ocoa,,,,
+DO-23,Dominican Republic,San Juan,,,,
+DO-24,Dominican Republic,San Pedro de Macoris,,,,
+DO-25,Dominican Republic,Sanchez Ramirez,,,,
+DO-26,Dominican Republic,Santiago,,,,
+DO-32,Dominican Republic,Santiago Rodriguez,,,,
+DO-01,Dominican Republic,Santo Domingo,,,,
+DO-27,Dominican Republic,Valverde,,,,
 EC-A,Ecuador,Azuay,,,,
 EC-B,Ecuador,Bolivar,,,,
 EC-F,Ecuador,Canar,,,,
@@ -201,11 +201,11 @@ SV-SV,El Salvador,San Vicente,,,,
 SV-SA,El Salvador,Santa Ana,,,,
 SV-SO,El Salvador,Sonsonate,,,,
 SV-US,El Salvador,Usulutan,,,,
-FR-GP,France,Guadeloupe,2021-12-28T23:00:47.483420,55564,830,0
-FR-GF,France,Guyane,2021-12-28T23:00:47.483420,39086,1045,0
-FR-MQ,France,Martinique,2021-12-28T23:00:47.483420,47337,769,0
-FR-BL,France,Saint-Barthélemy,2021-12-28T23:00:47.483420,1692,6,0
-FR-MF,France,Saint-Martin,2021-12-28T23:00:47.483420,7526,98,0
+FR-GP,France,Guadeloupe,2021-12-28T23:00:47.483420,55795,831,0
+FR-GF,France,Guyane,2021-12-28T23:00:47.483420,39119,1050,0
+FR-MQ,France,Martinique,2021-12-28T23:00:47.483420,47828,775,0
+FR-BL,France,Saint-Barthélemy,2021-12-28T23:00:47.483420,1726,6,0
+FR-MF,France,Saint-Martin,2021-12-28T23:00:47.483420,7657,98,0
 FR-PM,France,Saint-Pierre-et-Miquelon,2021-12-28T23:00:47.483420,,,
 GT-AV,Guatemala,Alta Verapaz,,,,
 GT-BV,Guatemala,Baja Verapaz,,,,
@@ -257,38 +257,38 @@ HN-OL,Honduras,Olancho,,,,
 HN-SB,Honduras,Santa Barbara,,,,
 HN-VA,Honduras,Valle,,,,
 HN-YO,Honduras,Yoro,,,,
-MX-AGU,Mexico,Aguascalientes,2021-12-26T09:50:13,38775,3105,
-MX-BCN,Mexico,Baja California,2021-12-26T09:50:13,88943,10788,
-MX-BCS,Mexico,Baja California Sur,2021-12-26T09:50:13,59115,2399,
-MX-CAM,Mexico,Campeche,2021-12-26T09:50:13,24844,2068,
-MX-CHP,Mexico,Chiapas,2021-12-26T09:50:13,22251,2134,
-MX-CHH,Mexico,Chihuahua,2021-12-26T09:50:13,78978,8662,
-MX-CMX,Mexico,Ciudad de Mexico,2021-12-26T09:50:13,1141783,52791,
-MX-COA,Mexico,Coahuila,2021-12-26T09:50:13,101193,7787,
-MX-COL,Mexico,Colima,2021-12-26T09:50:13,34002,2228,
-MX-DUR,Mexico,Durango,2021-12-26T09:50:13,50199,3066,
-MX-GUA,Mexico,Guanajuato,2021-12-26T09:50:13,201789,13303,
-MX-GRO,Mexico,Guerrero,2021-12-26T09:50:13,76270,6118,
-MX-HID,Mexico,Hidalgo,2021-12-26T09:50:13,61132,7774,
-MX-JAL,Mexico,Jalisco,2021-12-26T09:50:13,164773,17604,
-MX-MIC,Mexico,Michoacan,2021-12-26T09:50:13,72991,8049,
-MX-MOR,Mexico,Morelos,2021-12-26T09:50:13,50137,4918,
-MX-MEX,Mexico,Mexico,2021-12-26T09:50:13,243391,33076,
-MX-NAY,Mexico,Nayarit,2021-12-26T09:50:13,34452,3015,
-MX-NLE,Mexico,Nuevo Leon,2021-12-26T09:50:13,209151,13810,
-MX-OAX,Mexico,Oaxaca,2021-12-26T09:50:13,82912,5416,
-MX-PUE,Mexico,Puebla,2021-12-26T09:50:13,128702,15732,
-MX-QUE,Mexico,Queretaro,2021-12-26T09:50:13,100810,5877,
-MX-ROO,Mexico,Quintana Roo,2021-12-26T09:50:13,60044,4024,
-MX-SLP,Mexico,San Luis Potosi,2021-12-26T09:50:13,108321,6783,
-MX-SIN,Mexico,Sinaloa,2021-12-26T09:50:13,75215,8987,
-MX-SON,Mexico,Sonora,2021-12-26T09:50:13,122662,9146,
-MX-TAB,Mexico,Tabasco,2021-12-26T09:50:13,145315,5915,
-MX-TAM,Mexico,Tamaulipas,2021-12-26T09:50:13,105028,7343,
-MX-TLA,Mexico,Tlaxcala,2021-12-26T09:50:13,27072,2813,
-MX-VER,Mexico,Veracruz,2021-12-26T09:50:13,121462,14789,
-MX-YUC,Mexico,Yucatan,2021-12-26T09:50:13,75933,5861,
-MX-ZAC,Mexico,Zacatecas,2021-12-26T09:50:13,42555,3378,
+MX-AGU,Mexico,Aguascalientes,,,,
+MX-BCN,Mexico,Baja California,,,,
+MX-BCS,Mexico,Baja California Sur,,,,
+MX-CAM,Mexico,Campeche,,,,
+MX-CHP,Mexico,Chiapas,,,,
+MX-CHH,Mexico,Chihuahua,,,,
+MX-CMX,Mexico,Ciudad de Mexico,,,,
+MX-COA,Mexico,Coahuila,,,,
+MX-COL,Mexico,Colima,,,,
+MX-DUR,Mexico,Durango,,,,
+MX-GUA,Mexico,Guanajuato,,,,
+MX-GRO,Mexico,Guerrero,,,,
+MX-HID,Mexico,Hidalgo,,,,
+MX-JAL,Mexico,Jalisco,,,,
+MX-MIC,Mexico,Michoacan,,,,
+MX-MOR,Mexico,Morelos,,,,
+MX-MEX,Mexico,Mexico,,,,
+MX-NAY,Mexico,Nayarit,,,,
+MX-NLE,Mexico,Nuevo Leon,,,,
+MX-OAX,Mexico,Oaxaca,,,,
+MX-PUE,Mexico,Puebla,,,,
+MX-QUE,Mexico,Queretaro,,,,
+MX-ROO,Mexico,Quintana Roo,,,,
+MX-SLP,Mexico,San Luis Potosi,,,,
+MX-SIN,Mexico,Sinaloa,,,,
+MX-SON,Mexico,Sonora,,,,
+MX-TAB,Mexico,Tabasco,,,,
+MX-TAM,Mexico,Tamaulipas,,,,
+MX-TLA,Mexico,Tlaxcala,,,,
+MX-VER,Mexico,Veracruz,,,,
+MX-YUC,Mexico,Yucatan,,,,
+MX-ZAC,Mexico,Zacatecas,,,,
 NI-BO,Nicaragua,Boaco,,,,
 NI-CA,Nicaragua,Carazo,,,,
 NI-CI,Nicaragua,Chinandega,,,,
@@ -337,31 +337,31 @@ PY-12,Paraguay,Neembucu,,,,
 PY-9,Paraguay,Paraguari,,,,
 PY-15,Paraguay,Presidente Hayes,,,,
 PY-2,Paraguay,San Pedro,,,,
-PE-AMA,Peru,Amazonas,2021-12-28T23:00:47.472948,32779,1283,
-PE-ANC,Peru,Ancash,2021-12-28T23:00:47.472948,81057,6757,
-PE-APU,Peru,Apurimac,2021-12-28T23:00:47.472948,26792,1524,
-PE-ARE,Peru,Arequipa,2021-12-28T23:00:47.472948,117652,9760,
-PE-AYA,Peru,Ayacucho,2021-12-28T23:00:47.472948,35082,2157,
-PE-CAJ,Peru,Cajamarca,2021-12-28T23:00:47.472948,67339,4187,
-PE-CAL,Peru,Callao,2021-12-28T23:00:47.472948,103786,10106,
-PE-CUS,Peru,Cusco,2021-12-28T23:00:47.472948,75842,4831,
-PE-HUV,Peru,Huancavelica,2021-12-28T23:00:47.472948,16598,1183,
-PE-HUC,Peru,Huanuco,2021-12-28T23:00:47.472948,36828,2717,
-PE-ICA,Peru,Ica,2021-12-28T23:00:47.472948,61239,8603,
-PE-JUN,Peru,Junin,2021-12-28T23:00:47.472948,89434,7098,
-PE-LAL,Peru,La Libertad,2021-12-28T23:00:47.472948,93308,10382,
-PE-LAM,Peru,Lambayeque,2021-12-28T23:00:47.472948,64497,8675,
-PE-LIM,Peru,Lima,2021-12-28T23:00:47.472948,1001111,89401,
-PE-LOR,Peru,Loreto,2021-12-28T23:00:47.472948,45402,4278,
-PE-MDD,Peru,Madre de dios,2021-12-28T23:00:47.472948,14091,775,
-PE-MOQ,Peru,Moquegua,2021-12-28T23:00:47.472948,30258,1536,
-PE-PAS,Peru,Pasco,2021-12-28T23:00:47.472948,16366,1052,
-PE-PIU,Peru,Piura,2021-12-28T23:00:47.472948,94466,12258,
-PE-PUN,Peru,Puno,2021-12-28T23:00:47.472948,42149,4254,
-PE-SAM,Peru,San Martin,2021-12-28T23:00:47.472948,49364,3042,
-PE-TAC,Peru,Tacna,2021-12-28T23:00:47.472948,31480,1972,
-PE-TUM,Peru,Tumbes,2021-12-28T23:00:47.472948,19555,1593,
-PE-UCA,Peru,Ucayali,2021-12-28T23:00:47.472948,32332,3064,
+PE-AMA,Peru,Amazonas,2021-12-28T23:00:47.472948,,,
+PE-ANC,Peru,Ancash,2021-12-28T23:00:47.472948,,,
+PE-APU,Peru,Apurimac,2021-12-28T23:00:47.472948,,,
+PE-ARE,Peru,Arequipa,2021-12-28T23:00:47.472948,,,
+PE-AYA,Peru,Ayacucho,2021-12-28T23:00:47.472948,,,
+PE-CAJ,Peru,Cajamarca,2021-12-28T23:00:47.472948,,,
+PE-CAL,Peru,Callao,2021-12-28T23:00:47.472948,,,
+PE-CUS,Peru,Cusco,2021-12-28T23:00:47.472948,,,
+PE-HUV,Peru,Huancavelica,2021-12-28T23:00:47.472948,,,
+PE-HUC,Peru,Huanuco,2021-12-28T23:00:47.472948,,,
+PE-ICA,Peru,Ica,2021-12-28T23:00:47.472948,,,
+PE-JUN,Peru,Junin,2021-12-28T23:00:47.472948,,,
+PE-LAL,Peru,La Libertad,2021-12-28T23:00:47.472948,,,
+PE-LAM,Peru,Lambayeque,2021-12-28T23:00:47.472948,,,
+PE-LIM,Peru,Lima,2021-12-28T23:00:47.472948,,,
+PE-LOR,Peru,Loreto,2021-12-28T23:00:47.472948,,,
+PE-MDD,Peru,Madre de dios,2021-12-28T23:00:47.472948,,,
+PE-MOQ,Peru,Moquegua,2021-12-28T23:00:47.472948,,,
+PE-PAS,Peru,Pasco,2021-12-28T23:00:47.472948,,,
+PE-PIU,Peru,Piura,2021-12-28T23:00:47.472948,,,
+PE-PUN,Peru,Puno,2021-12-28T23:00:47.472948,,,
+PE-SAM,Peru,San Martin,2021-12-28T23:00:47.472948,,,
+PE-TAC,Peru,Tacna,2021-12-28T23:00:47.472948,,,
+PE-TUM,Peru,Tumbes,2021-12-28T23:00:47.472948,,,
+PE-UCA,Peru,Ucayali,2021-12-28T23:00:47.472948,,,
 US-PR,United States,Puerto Rico,,,,
 UY-AR,Uruguay,Artigas,2021-12-28T23:00:47.482539,,,
 UY-CA,Uruguay,Canelones,2021-12-28T23:00:47.482539,,,
