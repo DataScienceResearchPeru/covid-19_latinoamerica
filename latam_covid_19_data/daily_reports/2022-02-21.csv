@@ -1,28 +1,28 @@
 ISO 3166-2 Code,Country,Subdivision,Last Update,Confirmed,Deaths,Recovered
-AR-B,Argentina,Buenos Aires,2022-02-21T18:01:03.875723,3101452,0,
-AR-K,Argentina,Catamarca,2022-02-21T18:01:03.875723,84724,0,
-AR-H,Argentina,Chaco,2022-02-21T18:01:03.875723,161491,0,
-AR-U,Argentina,Chubut,2022-02-21T18:01:03.875723,86600,0,
-AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2022-02-21T18:01:03.875723,974048,0,
-AR-X,Argentina,Cordoba,2022-02-21T18:01:03.875723,935760,0,
+AR-B,Argentina,Buenos Aires,2022-02-21T18:01:03.875723,0,0,
+AR-K,Argentina,Catamarca,2022-02-21T18:01:03.875723,0,0,
+AR-H,Argentina,Chaco,2022-02-21T18:01:03.875723,0,0,
+AR-U,Argentina,Chubut,2022-02-21T18:01:03.875723,0,0,
+AR-C,Argentina,Ciudad Autonoma de Buenos Aires,2022-02-21T18:01:03.875723,0,0,
+AR-X,Argentina,Cordoba,2022-02-21T18:01:03.875723,0,0,
 AR-W,Argentina,Corrientes,2022-02-21T18:01:03.875723,0,0,
 AR-E,Argentina,Entre Rios,2022-02-21T18:01:03.875723,0,0,
-AR-P,Argentina,Formosa,2022-02-21T18:01:03.875723,110724,0,
-AR-Y,Argentina,Jujuy,2022-02-21T18:01:03.875723,104243,0,
-AR-L,Argentina,La Pampa,2022-02-21T18:01:03.875723,102271,0,
-AR-F,Argentina,La Rioja,2022-02-21T18:01:03.875723,50429,0,
-AR-M,Argentina,Mendoza,2022-02-21T18:01:03.875723,247561,0,
-AR-N,Argentina,Misiones,2022-02-21T18:01:03.875723,54045,1043,
-AR-Q,Argentina,Neuquen,2022-02-21T18:01:03.875723,129656,0,
-AR-R,Argentina,Rio Negro,2022-02-21T18:01:03.875723,116729,0,
-AR-A,Argentina,Salta,2022-02-21T18:01:03.875723,150783,0,
+AR-P,Argentina,Formosa,2022-02-21T18:01:03.875723,0,0,
+AR-Y,Argentina,Jujuy,2022-02-21T18:01:03.875723,0,0,
+AR-L,Argentina,La Pampa,2022-02-21T18:01:03.875723,0,0,
+AR-F,Argentina,La Rioja,2022-02-21T18:01:03.875723,0,0,
+AR-M,Argentina,Mendoza,2022-02-21T18:01:03.875723,0,0,
+AR-N,Argentina,Misiones,2022-02-21T18:01:03.875723,0,0,
+AR-Q,Argentina,Neuquen,2022-02-21T18:01:03.875723,0,0,
+AR-R,Argentina,Rio Negro,2022-02-21T18:01:03.875723,0,0,
+AR-A,Argentina,Salta,2022-02-21T18:01:03.875723,0,0,
 AR-J,Argentina,San Juan,2022-02-21T18:01:03.875723,0,0,
-AR-D,Argentina,San Luis,2022-02-21T18:01:03.875723,132403,0,
-AR-Z,Argentina,Santa Cruz,2022-02-21T18:01:03.875723,81055,0,
-AR-S,Argentina,Santa Fe,2022-02-21T18:01:03.875723,666238,0,
+AR-D,Argentina,San Luis,2022-02-21T18:01:03.875723,0,0,
+AR-Z,Argentina,Santa Cruz,2022-02-21T18:01:03.875723,0,0,
+AR-S,Argentina,Santa Fe,2022-02-21T18:01:03.875723,0,0,
 AR-G,Argentina,Santiago del Estero,2022-02-21T18:01:03.875723,0,0,
 AR-V,Argentina,Tierra del Fuego,2022-02-21T18:01:03.875723,0,0,
-AR-T,Argentina,Tucuman,2022-02-21T18:01:03.875723,328358,0,
+AR-T,Argentina,Tucuman,2022-02-21T18:01:03.875723,0,0,
 BO-B,Bolivia,Beni,,,,
 BO-H,Bolivia,Chuquisaca,,,,
 BO-C,Bolivia,Cochabamba,,,,
@@ -59,22 +59,22 @@ BR-SC,Brazil,Santa Catarina,,,,
 BR-SP,Brazil,Sao Paulo,,,,
 BR-SE,Brazil,Sergipe,,,,
 BR-TO,Brazil,Tocantins,,,,
-CL-AN,Chile,Antofagasta,2022-02-20T15:05:01,110660,1384,106284
-CL-AR,Chile,Araucania,2022-02-20T15:05:01,167854,1656,156742
-CL-AP,Chile,Arica y Parinacota,2022-02-20T15:05:01,51237,619,49475
-CL-AT,Chile,Atacama,2022-02-20T15:05:01,52596,407,48971
-CL-AI,Chile,Aysen,2022-02-20T15:05:01,19462,119,17920
-CL-BI,Chile,Biobio,2022-02-20T15:05:01,257309,3055,237956
-CL-CO,Chile,Coquimbo,2022-02-20T15:05:01,98589,1192,92682
-CL-LL,Chile,Los Lagos,2022-02-20T15:05:01,150403,1636,141545
-CL-LR,Chile,Los Rios,2022-02-20T15:05:01,82792,790,76545
-CL-MA,Chile,Magallanes,2022-02-20T15:05:01,45123,560,43413
-CL-ML,Chile,Maule,2022-02-20T15:05:01,169826,1970,157486
-CL-NB,Chile,Nuble,2022-02-20T15:05:01,70547,738,65055
-CL-LI,Chile,O'Higgins,2022-02-20T15:05:01,114982,1708,106406
-CL-RM,Chile,Santiago,2022-02-20T15:05:01,1143245,20712,1082118
-CL-TA,Chile,Tarapaca,2022-02-20T15:05:01,75648,929,73885
-CL-VS,Chile,Valparaiso,2022-02-20T15:05:01,241065,3872,223927
+CL-AN,Chile,Antofagasta,2022-02-21T15:06:30,111062,1388,106714
+CL-AR,Chile,Araucania,2022-02-21T15:06:30,169860,1665,158275
+CL-AP,Chile,Arica y Parinacota,2022-02-21T15:06:30,51368,623,49677
+CL-AT,Chile,Atacama,2022-02-21T15:06:30,53164,410,49434
+CL-AI,Chile,Aysen,2022-02-21T15:06:30,19617,119,18133
+CL-BI,Chile,Biobio,2022-02-21T15:06:30,260884,3069,240976
+CL-CO,Chile,Coquimbo,2022-02-21T15:06:30,99554,1206,93636
+CL-LL,Chile,Los Lagos,2022-02-21T15:06:30,151866,1643,142477
+CL-LR,Chile,Los Rios,2022-02-21T15:06:30,83597,794,77392
+CL-MA,Chile,Magallanes,2022-02-21T15:06:30,45259,562,43563
+CL-ML,Chile,Maule,2022-02-21T15:06:30,172840,1980,159410
+CL-NB,Chile,Nuble,2022-02-21T15:06:30,71474,741,66178
+CL-LI,Chile,O'Higgins,2022-02-21T15:06:30,115964,1715,107590
+CL-RM,Chile,Santiago,2022-02-21T15:06:30,1150668,20759,1089595
+CL-TA,Chile,Tarapaca,2022-02-21T15:06:30,75761,932,73995
+CL-VS,Chile,Valparaiso,2022-02-21T15:06:30,243473,3885,226467
 CO-AMA,Colombia,Amazonas,2022-02-21T18:01:03.876582,,,
 CO-ANT,Colombia,Antioquia,2022-02-21T18:01:03.876582,,,
 CO-ARA,Colombia,Arauca,2022-02-21T18:01:03.876582,,,
@@ -202,10 +202,10 @@ SV-SA,El Salvador,Santa Ana,,,,
 SV-SO,El Salvador,Sonsonate,,,,
 SV-US,El Salvador,Usulutan,,,,
 FR-GP,France,Guadeloupe,2022-02-21T18:01:03.880751,118177,889,0
-FR-GF,France,Guyane,2022-02-21T18:01:03.880751,62656,1211,0
+FR-GF,France,Guyane,2022-02-21T18:01:03.880751,77414,386,0
 FR-MQ,France,Martinique,2022-02-21T18:01:03.880751,107144,859,0
 FR-BL,France,Saint-Barthélemy,2022-02-21T18:01:03.880751,3735,6,0
-FR-MF,France,Saint-Martin,2022-02-21T18:01:03.880751,14147,112,0
+FR-MF,France,Saint-Martin,2022-02-21T18:01:03.880751,9827,63,0
 FR-PM,France,Saint-Pierre-et-Miquelon,2022-02-21T18:01:03.880751,,,
 GT-AV,Guatemala,Alta Verapaz,,,,
 GT-BV,Guatemala,Baja Verapaz,,,,
@@ -257,38 +257,38 @@ HN-OL,Honduras,Olancho,,,,
 HN-SB,Honduras,Santa Barbara,,,,
 HN-VA,Honduras,Valle,,,,
 HN-YO,Honduras,Yoro,,,,
-MX-AGU,Mexico,Aguascalientes,2022-02-21T08:08:38,57869,3516,
-MX-BCN,Mexico,Baja California,2022-02-21T08:08:38,126724,11852,
-MX-BCS,Mexico,Baja California Sur,2022-02-21T08:08:38,99286,2575,
-MX-CAM,Mexico,Campeche,2022-02-21T08:08:38,33856,2148,
-MX-CHP,Mexico,Chiapas,2022-02-21T08:08:38,29816,2193,
-MX-CHH,Mexico,Chihuahua,2022-02-21T08:08:38,118357,9740,
-MX-CMX,Mexico,Ciudad de Mexico,2022-02-21T08:08:38,1513717,54770,
-MX-COA,Mexico,Coahuila,2022-02-21T08:08:38,142495,8669,
-MX-COL,Mexico,Colima,2022-02-21T08:08:38,54074,2349,
-MX-DUR,Mexico,Durango,2022-02-21T08:08:38,66021,3334,
-MX-GUA,Mexico,Guanajuato,2022-02-21T08:08:38,268367,14466,
-MX-GRO,Mexico,Guerrero,2022-02-21T08:08:38,94278,6379,
-MX-HID,Mexico,Hidalgo,2022-02-21T08:08:38,83616,8073,
-MX-JAL,Mexico,Jalisco,2022-02-21T08:08:38,223532,18679,
-MX-MIC,Mexico,Michoacan,2022-02-21T08:08:38,90548,8347,
-MX-MOR,Mexico,Morelos,2022-02-21T08:08:38,62922,5083,
-MX-MEX,Mexico,Mexico,2022-02-21T08:08:38,335107,34140,
-MX-NAY,Mexico,Nayarit,2022-02-21T08:08:38,56786,3190,
-MX-NLE,Mexico,Nuevo Leon,2022-02-21T08:08:38,300177,14838,
-MX-OAX,Mexico,Oaxaca,2022-02-21T08:08:38,112432,5695,
-MX-PUE,Mexico,Puebla,2022-02-21T08:08:38,164454,16108,
-MX-QUE,Mexico,Queretaro,2022-02-21T08:08:38,137913,6242,
-MX-ROO,Mexico,Quintana Roo,2022-02-21T08:08:38,90201,4214,
-MX-SLP,Mexico,San Luis Potosi,2022-02-21T08:08:38,175898,7314,
-MX-SIN,Mexico,Sinaloa,2022-02-21T08:08:38,115287,9507,
-MX-SON,Mexico,Sonora,2022-02-21T08:08:38,159140,9961,
-MX-TAB,Mexico,Tabasco,2022-02-21T08:08:38,189055,6133,
-MX-TAM,Mexico,Tamaulipas,2022-02-21T08:08:38,140201,8033,
-MX-TLA,Mexico,Tlaxcala,2022-02-21T08:08:38,39152,2840,
-MX-VER,Mexico,Veracruz,2022-02-21T08:08:38,159223,15364,
-MX-YUC,Mexico,Yucatan,2022-02-21T08:08:38,107198,6214,
-MX-ZAC,Mexico,Zacatecas,2022-02-21T08:08:38,65723,3722,
+MX-AGU,Mexico,Aguascalientes,,,,
+MX-BCN,Mexico,Baja California,,,,
+MX-BCS,Mexico,Baja California Sur,,,,
+MX-CAM,Mexico,Campeche,,,,
+MX-CHP,Mexico,Chiapas,,,,
+MX-CHH,Mexico,Chihuahua,,,,
+MX-CMX,Mexico,Ciudad de Mexico,,,,
+MX-COA,Mexico,Coahuila,,,,
+MX-COL,Mexico,Colima,,,,
+MX-DUR,Mexico,Durango,,,,
+MX-GUA,Mexico,Guanajuato,,,,
+MX-GRO,Mexico,Guerrero,,,,
+MX-HID,Mexico,Hidalgo,,,,
+MX-JAL,Mexico,Jalisco,,,,
+MX-MIC,Mexico,Michoacan,,,,
+MX-MOR,Mexico,Morelos,,,,
+MX-MEX,Mexico,Mexico,,,,
+MX-NAY,Mexico,Nayarit,,,,
+MX-NLE,Mexico,Nuevo Leon,,,,
+MX-OAX,Mexico,Oaxaca,,,,
+MX-PUE,Mexico,Puebla,,,,
+MX-QUE,Mexico,Queretaro,,,,
+MX-ROO,Mexico,Quintana Roo,,,,
+MX-SLP,Mexico,San Luis Potosi,,,,
+MX-SIN,Mexico,Sinaloa,,,,
+MX-SON,Mexico,Sonora,,,,
+MX-TAB,Mexico,Tabasco,,,,
+MX-TAM,Mexico,Tamaulipas,,,,
+MX-TLA,Mexico,Tlaxcala,,,,
+MX-VER,Mexico,Veracruz,,,,
+MX-YUC,Mexico,Yucatan,,,,
+MX-ZAC,Mexico,Zacatecas,,,,
 NI-BO,Nicaragua,Boaco,,,,
 NI-CA,Nicaragua,Carazo,,,,
 NI-CI,Nicaragua,Chinandega,,,,
