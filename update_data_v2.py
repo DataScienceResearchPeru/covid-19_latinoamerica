@@ -78,7 +78,7 @@ def generate_list_dates(path):
     print("There is {} files on the path and one is README. We iterate {} times...".format(numero_archivos, numero_archivos - 1))
     # dates
     base = (datetime.today()).date()
-    numdays = numero_archivos - 1
+    numdays = 5#numero_archivos - 1
     date_list_csv = [str(base - timedelta(days=x)) + str(".csv") for x in range(numdays)]
     print("Adding {} dates in a list...".format(len(date_list_csv)))
     date_list = []
